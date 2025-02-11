@@ -23,7 +23,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "1",
         "rarity": "◊",
-        "description": "Though it may look like it’s just a bunch of eggs,\nit’s a proper Pokémon. Exeggcute communicates\nwith others of its kind via telepathy, apparently."
+        "description": "Though it may look like it’s just a bunch of eggs,\nit’s a proper Pokémon. Exeggcute communicates\nwith others of its kind via telepathy, apparently.",
+        "info": {
+            "national_pokedex": "0102",
+            "species": "Egg Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "2.5 kg / 5.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_002_EN.webp",
@@ -52,7 +58,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "2",
         "rarity": "◊◊",
-        "description": "Each of Exeggutor’s three heads is thinking\ndifferent thoughts. The three don’t seem to be\nvery interested in one another."
+        "description": "Each of Exeggutor’s three heads is thinking\ndifferent thoughts. The three don’t seem to be\nvery interested in one another.",
+        "info": {
+            "national_pokedex": "0103",
+            "species": "Coconut Pokémon",
+            "height": "2.0 m / 6'07\"",
+            "weight": "120.0 kg / 264.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_003_EN.webp",
@@ -105,7 +117,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "4",
         "rarity": "◊",
-        "description": "Being exposed to sunlight makes its movements\nswifter. It uses vines more adeptly than its hands."
+        "description": "Being exposed to sunlight makes its movements\nswifter. It uses vines more adeptly than its hands.",
+        "info": {
+            "national_pokedex": "0495",
+            "species": "Grass Snake Pokémon",
+            "height": "0.6 m / 2'00\"",
+            "weight": "8.1 kg / 17.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_005_EN.webp",
@@ -132,7 +150,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "5",
         "rarity": "◊◊",
-        "description": "It moves along the ground as if sliding. Its swift\nmovements befuddle its foes, and it then attacks\nwith a vine whip."
+        "description": "It moves along the ground as if sliding. Its swift\nmovements befuddle its foes, and it then attacks\nwith a vine whip.",
+        "info": {
+            "national_pokedex": "0496",
+            "species": "Grass Snake Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "16.0 kg / 35.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_006_EN.webp",
@@ -161,7 +185,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "6",
         "rarity": "◊◊◊",
-        "description": "It only gives its all against strong opponents who\nare not fazed by the glare from Serperior’s\nnoble eyes."
+        "description": "It only gives its all against strong opponents who\nare not fazed by the glare from Serperior’s\nnoble eyes.",
+        "info": {
+            "national_pokedex": "0497",
+            "species": "Regal Pokémon",
+            "height": "3.3 m / 10'10\"",
+            "weight": "63.0 kg / 138.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_007_EN.webp",
@@ -187,7 +217,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "7",
         "rarity": "◊",
-        "description": "Pokémon living in the forest eat the\ndelicious caps on Morelull’s head.\nThe caps regrow overnight."
+        "description": "Pokémon living in the forest eat the\ndelicious caps on Morelull’s head.\nThe caps regrow overnight.",
+        "info": {
+            "national_pokedex": "0755",
+            "species": "Illuminating Pokémon",
+            "height": ".01 m / 0'08\"",
+            "weight": "1.04 kg / 3.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_008_EN.webp",
@@ -214,7 +250,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "8",
         "rarity": "◊◊",
-        "description": "Its flickering spores lure in prey and put them to\nsleep. Once this Pokémon has its prey snoozing,\nit drains their vitality with its fingertips."
+        "description": "Its flickering spores lure in prey and put them to\nsleep. Once this Pokémon has its prey snoozing,\nit drains their vitality with its fingertips.",
+        "info": {
+            "national_pokedex": "0756",
+            "species": "Illuminating Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "11.5 kg / 25.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_009_EN.webp",
@@ -240,7 +282,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "9",
         "rarity": "◊◊",
-        "description": "After a piece of seaweed merged with debris\nfrom a sunken ship, it was reborn as this\nghost Pokémon."
+        "description": "After a piece of seaweed merged with debris\nfrom a sunken ship, it was reborn as this\nghost Pokémon.",
+        "info": {
+            "national_pokedex": "0781",
+            "species": "Sea Creeper Pokémon",
+            "height": "3.9 m / 12'10\"",
+            "weight": "210.0 kg / 463.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_010_EN.webp",
@@ -266,7 +314,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "10",
         "rarity": "◊",
-        "description": "It can’t run properly when it’s newly born.\nAs it races around with others of its kind,\nits legs grow stronger."
+        "description": "It can’t run properly when it’s newly born.\nAs it races around with others of its kind,\nits legs grow stronger.",
+        "info": {
+            "national_pokedex": "0077",
+            "species": "Fire Horse Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "30.0 kg / 66.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_011_EN.webp",
@@ -293,7 +347,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "11",
         "rarity": "◊◊",
-        "description": "This Pokémon can be seen galloping through\nfields at speeds of up to 150 mph, its fiery mane\nfluttering in the wind."
+        "description": "This Pokémon can be seen galloping through\nfields at speeds of up to 150 mph, its fiery mane\nfluttering in the wind.",
+        "info": {
+            "national_pokedex": "0078",
+            "species": "Fire Horse Pokémon",
+            "height": "1.7 m / 5'07\"",
+            "weight": "95.0 kg / 209.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_012_EN.webp",
@@ -320,7 +380,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "12",
         "rarity": "◊◊",
-        "description": "Magmar dispatches its prey with fire. But it\nregrets this habit once it realizes that it has\nburned its intended prey to a charred crisp."
+        "description": "Magmar dispatches its prey with fire. But it\nregrets this habit once it realizes that it has\nburned its intended prey to a charred crisp.",
+        "info": {
+            "national_pokedex": "0126",
+            "species": "Spitfire Pokémon",
+            "height": "1.3 m / 4'03\"",
+            "weight": "44.5 kg / 98.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_013_EN.webp",
@@ -347,7 +413,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "13",
         "rarity": "◊",
-        "description": "This Pokémon was called the Larva That Stole\nthe Sun. The fire Larvesta spouts from its horns\ncan cut right through a sheet of iron."
+        "description": "This Pokémon was called the Larva That Stole\nthe Sun. The fire Larvesta spouts from its horns\ncan cut right through a sheet of iron.",
+        "info": {
+            "national_pokedex": "0636",
+            "species": "Torch Pokémon",
+            "height": "1.1 m / 3'07\"",
+            "weight": "28.8 kg / 63.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_014_EN.webp",
@@ -375,7 +447,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "14",
         "rarity": "◊◊◊",
-        "description": "Its burning body causes it to be unpopular in hot\nparts of the world, but in cold ones, Volcarona is\nrevered as an embodiment of the sun."
+        "description": "Its burning body causes it to be unpopular in hot\nparts of the world, but in cold ones, Volcarona is\nrevered as an embodiment of the sun.",
+        "info": {
+            "national_pokedex": "0637",
+            "species": "Sun Pokémon",
+            "height": "1.6 m / 5'03\"",
+            "weight": "46.0 kg / 101.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_015_EN.webp",
@@ -401,7 +479,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "15",
         "rarity": "◊",
-        "description": "It taunts its prey and lures them into narrow,\nrocky areas where it then sprays them with toxic\ngas to make them dizzy and take them down."
+        "description": "It taunts its prey and lures them into narrow,\nrocky areas where it then sprays them with toxic\ngas to make them dizzy and take them down.",
+        "info": {
+            "national_pokedex": "0757",
+            "species": "Toxic Lizard Pokémon",
+            "height": "0.6 m / 2'00\"",
+            "weight": "4.8 kg / 10.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_016_EN.webp",
@@ -427,7 +511,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "16",
         "rarity": "◊",
-        "description": "Salazzle makes its opponents light-headed with\npoisonous gas, then captivates them with alluring\nmovements to turn them into loyal servants."
+        "description": "Salazzle makes its opponents light-headed with\npoisonous gas, then captivates them with alluring\nmovements to turn them into loyal servants.",
+        "info": {
+            "national_pokedex": "0758",
+            "species": "Toxic Lizard Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "22.2 kg / 48.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_017_EN.webp",
@@ -453,7 +543,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "17",
         "rarity": "◊",
-        "description": "An underpowered, pathetic Pokémon. It may\njump high on rare occasions but never more\nthan seven feet."
+        "description": "An underpowered, pathetic Pokémon. It may\njump high on rare occasions but never more\nthan seven feet.",
+        "info": {
+            "national_pokedex": "0129",
+            "species": "Fish Pokémon",
+            "height": "0.9 m / 2'11\"",
+            "weight": "10.0 kg / 22.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_018_EN.webp",
@@ -509,7 +605,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "19",
         "rarity": "◊◊◊",
-        "description": "It lives close to water. Its long tail is ridged with\na fin, which is often mistaken for a mermaid’s."
+        "description": "It lives close to water. Its long tail is ridged with\na fin, which is often mistaken for a mermaid’s.",
+        "info": {
+            "national_pokedex": "0134",
+            "species": "Bubble Jet Pokémon",
+            "height": "1 m / 3'03\"",
+            "weight": "29 kg / 63.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_020_EN.webp",
@@ -535,7 +637,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "20",
         "rarity": "◊",
-        "description": "The line running down its side can store sunlight.\nIt shines vividly at night."
+        "description": "The line running down its side can store sunlight.\nIt shines vividly at night.",
+        "info": {
+            "national_pokedex": "0456",
+            "species": "Wing Fish Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "7.0 kg / 15.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_021_EN.webp",
@@ -562,7 +670,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "21",
         "rarity": "◊◊",
-        "description": "With its shining light, it lures its prey close.\nHowever, the light also happens to attract\nferocious fish Pokémon—its natural predators."
+        "description": "With its shining light, it lures its prey close.\nHowever, the light also happens to attract\nferocious fish Pokémon—its natural predators.",
+        "info": {
+            "national_pokedex": "0457",
+            "species": "Neon Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "24.0 kg / 52.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_022_EN.webp",
@@ -589,7 +703,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "22",
         "rarity": "◊",
-        "description": "Its large front tooth is still growing in. When the\ntooth itches, this Pokémon will bite another\nChewtle’s horn, and the two Pokémon will tussle."
+        "description": "Its large front tooth is still growing in. When the\ntooth itches, this Pokémon will bite another\nChewtle’s horn, and the two Pokémon will tussle.",
+        "info": {
+            "national_pokedex": "0833",
+            "species": "Snapping Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "8.5 kg / 18.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_023_EN.webp",
@@ -617,7 +737,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "23",
         "rarity": "◊◊",
-        "description": "Its massive, jagged teeth can crush a\nboulder in a single bite. This Pokémon\nhas an extremely vicious disposition."
+        "description": "Its massive, jagged teeth can crush a\nboulder in a single bite. This Pokémon\nhas an extremely vicious disposition.",
+        "info": {
+            "national_pokedex": "0834",
+            "species": "Bite Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "115.5 kg / 254.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_024_EN.webp",
@@ -645,7 +771,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "24",
         "rarity": "◊",
-        "description": "It’s so strong that it can knock out some\nopponents in a single hit, but it also may\nforget what it’s battling midfight."
+        "description": "It’s so strong that it can knock out some\nopponents in a single hit, but it also may\nforget what it’s battling midfight.",
+        "info": {
+            "national_pokedex": "0845",
+            "species": "Gulp Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "18.0 kg / 39.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_025_EN.webp",
@@ -671,7 +803,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "25",
         "rarity": "◊",
-        "description": "When it is angered, it immediately discharges the\nenergy stored in the pouches in its cheeks."
+        "description": "When it is angered, it immediately discharges the\nenergy stored in the pouches in its cheeks.",
+        "info": {
+            "national_pokedex": "0025",
+            "species": "Mouse Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "6.0 kg / 13.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_026_EN.webp",
@@ -699,7 +837,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "26",
         "rarity": "◊◊◊",
-        "description": "Its tail discharges electricity into the ground,\nprotecting it from getting shocked."
+        "description": "Its tail discharges electricity into the ground,\nprotecting it from getting shocked.",
+        "info": {
+            "national_pokedex": "0026",
+            "species": "Mouse Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "30.0 kg / 66.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_027_EN.webp",
@@ -726,7 +870,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "27",
         "rarity": "◊◊",
-        "description": "Many power plants keep Ground-type Pokémon\naround as a defense against Electabuzz that\ncome seeking electricity."
+        "description": "Many power plants keep Ground-type Pokémon\naround as a defense against Electabuzz that\ncome seeking electricity.",
+        "info": {
+            "national_pokedex": "0125",
+            "species": "Electric Pokémon",
+            "height": "1.1 m / 3'07\"",
+            "weight": "30.0 kg / 66.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_028_EN.webp",
@@ -752,7 +902,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "28",
         "rarity": "◊",
-        "description": "Joltik can be found clinging to other Pokémon.\nIt’s soaking up static electricity because it can’t\nproduce a charge on its own."
+        "description": "Joltik can be found clinging to other Pokémon.\nIt’s soaking up static electricity because it can’t\nproduce a charge on its own.",
+        "info": {
+            "national_pokedex": "0595",
+            "species": "Attaching Pokémon",
+            "height": "0.1 m / 0'04\"",
+            "weight": "0.6 kg / 1.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_029_EN.webp",
@@ -779,7 +935,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "29",
         "rarity": "◊◊",
-        "description": "It launches electrified fur from its abdomen as its\nmeans of attack. Opponents hit by the fur could\nbe in for three full days and nights of paralysis."
+        "description": "It launches electrified fur from its abdomen as its\nmeans of attack. Opponents hit by the fur could\nbe in for three full days and nights of paralysis.",
+        "info": {
+            "national_pokedex": "0596",
+            "species": "EleSpider Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "14.3 kg / 31.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_030_EN.webp",
@@ -805,7 +967,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "30",
         "rarity": "◊",
-        "description": "It’s small and its electricity-generating organ is\nnot fully developed, so it uses its tail to absorb\nelectricity from people’s homes and charge itself."
+        "description": "It’s small and its electricity-generating organ is\nnot fully developed, so it uses its tail to absorb\nelectricity from people’s homes and charge itself.",
+        "info": {
+            "national_pokedex": "0702",
+            "species": "Antenna Pokémon",
+            "height": "0.2 m / 0'08\"",
+            "weight": "2.2 kg / 4.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_031_EN.webp",
@@ -831,7 +999,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "31",
         "rarity": "◊◊◊",
-        "description": "Because it can use all kinds of moves, many\nscientists believe Mew to be the ancestor\nof Pokémon."
+        "description": "Because it can use all kinds of moves, many\nscientists believe Mew to be the ancestor\nof Pokémon.",
+        "info": {
+            "national_pokedex": "0151",
+            "species": "New Species Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "4.0 kg / 8.82 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_032_EN.webp",
@@ -892,7 +1066,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "33",
         "rarity": "◊◊",
-        "description": "Psychic power allows these Pokémon to fly. Some\nsay they were the guardians of an ancient city.\nOthers say they were the guardians’ emissaries."
+        "description": "Psychic power allows these Pokémon to fly. Some\nsay they were the guardians of an ancient city.\nOthers say they were the guardians’ emissaries.",
+        "info": {
+            "national_pokedex": "0561",
+            "species": "Avianoid Pokémon",
+            "height": "1.4 m / 4'07\"",
+            "weight": "14.0 kg / 30.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_034_EN.webp",
@@ -918,7 +1098,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "34",
         "rarity": "◊",
-        "description": "If this Pokémon stands near a TV, strange scenery\nwill appear on the screen. That scenery is said\nto be from its home."
+        "description": "If this Pokémon stands near a TV, strange scenery\nwill appear on the screen. That scenery is said\nto be from its home.",
+        "info": {
+            "national_pokedex": "0605",
+            "species": "Cerebral Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "9.0 kg / 19.8 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_035_EN.webp",
@@ -944,7 +1130,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "35",
         "rarity": "◊◊",
-        "description": "Whenever a Beheeyem visits a farm,\na Dubwool mysteriously disappears."
+        "description": "Whenever a Beheeyem visits a farm,\na Dubwool mysteriously disappears.",
+        "info": {
+            "national_pokedex": "0606",
+            "species": "Cerebral Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "34.5 kg / 76.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_036_EN.webp",
@@ -970,7 +1162,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "36",
         "rarity": "◊",
-        "description": "This Pokémon can draw forth the power hidden\nwithin blooming wild flowers. It is particularly\nfond of red flowers."
+        "description": "This Pokémon can draw forth the power hidden\nwithin blooming wild flowers. It is particularly\nfond of red flowers.",
+        "info": {
+            "national_pokedex": "0669",
+            "species": "Single Bloom Pokémon",
+            "height": "0.1 m / 0'04\"",
+            "weight": "0.1 kg / 0.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_037_EN.webp",
@@ -996,7 +1194,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "37",
         "rarity": "◊",
-        "description": "This Pokémon draws forth what power is left in\nwithered flowers to make them healthy again.\nIt holds a red flower."
+        "description": "This Pokémon draws forth what power is left in\nwithered flowers to make them healthy again.\nIt holds a red flower.",
+        "info": {
+            "national_pokedex": "0670",
+            "species": "Single Bloom Pokémon",
+            "height": "0.2 m / 0'08\"",
+            "weight": "0.9 kg / 2.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_038_EN.webp",
@@ -1023,7 +1227,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "38",
         "rarity": "◊◊",
-        "description": "This Pokémon creates an impressive flower\ngarden in its territory. It draws forth the power\nof the red flowers around its neck."
+        "description": "This Pokémon creates an impressive flower\ngarden in its territory. It draws forth the power\nof the red flowers around its neck.",
+        "info": {
+            "national_pokedex": "0671",
+            "species": "Garden Pokémon",
+            "height": "1.1 m / 3'07\"",
+            "weight": "10.0 kg / 22.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_039_EN.webp",
@@ -1049,7 +1259,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "39",
         "rarity": "◊",
-        "description": "It eats its own weight in sugar every day.\nIf it doesn’t get enough sugar, it becomes\nincredibly grumpy."
+        "description": "It eats its own weight in sugar every day.\nIf it doesn’t get enough sugar, it becomes\nincredibly grumpy.",
+        "info": {
+            "national_pokedex": "0684",
+            "species": "Cotton Candy Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "3.5 kg / 7.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_040_EN.webp",
@@ -1076,7 +1292,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "40",
         "rarity": "◊",
-        "description": "By taking in a person’s scent, it can sniff out their\nmental and physical condition. It’s hoped that\nthis skill will have many medical applications."
+        "description": "By taking in a person’s scent, it can sniff out their\nmental and physical condition. It’s hoped that\nthis skill will have many medical applications.",
+        "info": {
+            "national_pokedex": "0685",
+            "species": "Meringue Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "5.0 kg / 11.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_041_EN.webp",
@@ -1102,7 +1324,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "41",
         "rarity": "◊",
-        "description": "It lives in groups in the treetops. If it loses sight of\nits group, it becomes infuriated by its loneliness."
+        "description": "It lives in groups in the treetops. If it loses sight of\nits group, it becomes infuriated by its loneliness.",
+        "info": {
+            "national_pokedex": "0056",
+            "species": "Pig Monkey Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "28.0 kg / 61.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_042_EN.webp",
@@ -1128,7 +1356,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "42",
         "rarity": "◊",
-        "description": "It becomes wildly furious if it even senses\nsomeone looking at it. It chases anyone\nthat meets its glare."
+        "description": "It becomes wildly furious if it even senses\nsomeone looking at it. It chases anyone\nthat meets its glare.",
+        "info": {
+            "national_pokedex": "0057",
+            "species": "Pig Monkey Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "32.0 kg / 70.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_043_EN.webp",
@@ -1155,7 +1389,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "43",
         "rarity": "◊",
-        "description": "Geodude that have lived a long life have had all\ntheir edges smoothed out until they’re totally\nround. They also have a calm, quiet disposition."
+        "description": "Geodude that have lived a long life have had all\ntheir edges smoothed out until they’re totally\nround. They also have a calm, quiet disposition.",
+        "info": {
+            "national_pokedex": "0074",
+            "species": "Rock Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "20.0 kg / 44.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_044_EN.webp",
@@ -1182,7 +1422,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "44",
         "rarity": "◊◊",
-        "description": "It climbs up cliffs as it heads toward the peak\nof a mountain. As soon as it reaches the summit,\nit rolls back down the way it came."
+        "description": "It climbs up cliffs as it heads toward the peak\nof a mountain. As soon as it reaches the summit,\nit rolls back down the way it came.",
+        "info": {
+            "national_pokedex": "0075",
+            "species": "Rock Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "105.0 kg / 231.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_045_EN.webp",
@@ -1211,7 +1457,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "45",
         "rarity": "◊◊◊",
-        "description": "When Golem grow old, they stop shedding their\nshells. Those that have lived a long, long time\nhave shells green with moss."
+        "description": "When Golem grow old, they stop shedding their\nshells. Those that have lived a long, long time\nhave shells green with moss.",
+        "info": {
+            "national_pokedex": "0076",
+            "species": "Megaton Pokémon",
+            "height": "1.4 m / 4'07\"",
+            "weight": "300.0 kg / 661.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_046_EN.webp",
@@ -1264,7 +1516,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "47",
         "rarity": "◊◊◊",
-        "description": "It slips into the shadows of others and mimics\ntheir powers and movements. As it improves, it\nbecomes stronger than those it’s imitating."
+        "description": "It slips into the shadows of others and mimics\ntheir powers and movements. As it improves, it\nbecomes stronger than those it’s imitating.",
+        "info": {
+            "national_pokedex": "0802",
+            "species": "Gloomdweller Pokémon",
+            "height": "0.7 m / 2'04\"",
+            "weight": "22.2 kg / 48.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_048_EN.webp",
@@ -1292,7 +1550,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "48",
         "rarity": "◊◊",
-        "description": "The elemental composition of the rocks that\nform its body were found to match the bedrock\nof a land far away from this Pokémon’s habitat."
+        "description": "The elemental composition of the rocks that\nform its body were found to match the bedrock\nof a land far away from this Pokémon’s habitat.",
+        "info": {
+            "national_pokedex": "0874",
+            "species": "Big Rock Pokémon",
+            "height": "2.5 m / 8'02\"",
+            "weight": "520.0 kg / 1146.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_049_EN.webp",
@@ -1318,7 +1582,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "49",
         "rarity": "◊",
-        "description": "Its body is full of poisonous gas. It floats into\ngarbage dumps, seeking out the fumes of raw,\nrotting trash."
+        "description": "Its body is full of poisonous gas. It floats into\ngarbage dumps, seeking out the fumes of raw,\nrotting trash.",
+        "info": {
+            "national_pokedex": "0109",
+            "species": "Poison Gas Pokémon",
+            "height": "0.6 m / 2'00\"",
+            "weight": "1.0 kg / 2.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_050_EN.webp",
@@ -1345,7 +1615,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "50",
         "rarity": "◊◊",
-        "description": "If one of the twin Koffing inflates, the other one\ndeflates. It constantly mixes its poisonous gases."
+        "description": "If one of the twin Koffing inflates, the other one\ndeflates. It constantly mixes its poisonous gases.",
+        "info": {
+            "national_pokedex": "0110",
+            "species": "Poison Gas Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "9.5 kg / 20.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_051_EN.webp",
@@ -1371,7 +1647,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "51",
         "rarity": "◊",
-        "description": "It steals things from people just to amuse itself\nwith their frustration. A rivalry exists between\nthis Pokémon and Nickit."
+        "description": "It steals things from people just to amuse itself\nwith their frustration. A rivalry exists between\nthis Pokémon and Nickit.",
+        "info": {
+            "national_pokedex": "0509",
+            "species": "Devious Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "10.1 kg / 22.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_052_EN.webp",
@@ -1397,7 +1679,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "52",
         "rarity": "◊",
-        "description": "Don’t be fooled by its gorgeous fur and elegant\nfigure. This is a moody and vicious Pokémon."
+        "description": "Don’t be fooled by its gorgeous fur and elegant\nfigure. This is a moody and vicious Pokémon.",
+        "info": {
+            "national_pokedex": "0510",
+            "species": "Cruel Pokémon",
+            "height": "1.1 m / 3'07\"",
+            "weight": "37.5 kg / 82.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_053_EN.webp",
@@ -1423,7 +1711,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "53",
         "rarity": "◊",
-        "description": "Venipede and Sizzlipede are similar species,\nbut when the two meet, a huge fight ensues."
+        "description": "Venipede and Sizzlipede are similar species,\nbut when the two meet, a huge fight ensues.",
+        "info": {
+            "national_pokedex": "0543",
+            "species": "Centipede Pokémon",
+            "height": "0.3 m / 1'04\"",
+            "weight": "5.3 kg / 11.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_054_EN.webp",
@@ -1449,7 +1743,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "54",
         "rarity": "◊",
-        "description": "This Pokémon spins itself rapidly and charges into\nits opponents. Its top speed is just over 60 mph."
+        "description": "This Pokémon spins itself rapidly and charges into\nits opponents. Its top speed is just over 60 mph.",
+        "info": {
+            "national_pokedex": "0544",
+            "species": "Curlipede Pokémon",
+            "height": "0.9 m / 3'11\"",
+            "weight": "58.6 kg / 129.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_055_EN.webp",
@@ -1476,7 +1776,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "55",
         "rarity": "◊◊",
-        "description": "Scolipede latches on to its prey with the claws on\nits neck before slamming them into the ground\nand jabbing them with its claws’ toxic spikes."
+        "description": "Scolipede latches on to its prey with the claws on\nits neck before slamming them into the ground\nand jabbing them with its claws’ toxic spikes.",
+        "info": {
+            "national_pokedex": "0545",
+            "species": "Megapede Pokémon",
+            "height": "2.5 m / 8'02\"",
+            "weight": "200.5 kg / 442.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_056_EN.webp",
@@ -1504,7 +1810,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "56",
         "rarity": "◊◊",
-        "description": "Druddigon lives in caves, but it never skips\nsunbathing—it won’t be able to move if its body\ngets too cold."
+        "description": "Druddigon lives in caves, but it never skips\nsunbathing—it won’t be able to move if its body\ngets too cold.",
+        "info": {
+            "national_pokedex": "0621",
+            "species": "Cave Pokémon",
+            "height": "1.6 m / 5'03\"",
+            "weight": "139.0 kg / 306.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_057_EN.webp",
@@ -1530,7 +1842,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "57",
         "rarity": "◊",
-        "description": "A common sight in forests and woods. It flaps\nits wings at ground level to kick up blinding sand."
+        "description": "A common sight in forests and woods. It flaps\nits wings at ground level to kick up blinding sand.",
+        "info": {
+            "national_pokedex": "0016",
+            "species": "Tiny Bird Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "1.8 kg / 4.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_058_EN.webp",
@@ -1558,7 +1876,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "58",
         "rarity": "◊",
-        "description": "The claws on its feet are well developed.\nIt can carry prey such as an Exeggcute\nto its nest over 60 miles away."
+        "description": "The claws on its feet are well developed.\nIt can carry prey such as an Exeggcute\nto its nest over 60 miles away.",
+        "info": {
+            "national_pokedex": "0017",
+            "species": "Bird Pokémon",
+            "height": "1.1 m / 3'07\"",
+            "weight": "30.0 kg / 66.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_059_EN.webp",
@@ -1613,7 +1937,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "60",
         "rarity": "◊◊◊",
-        "description": "When Tauros begins whipping itself with its tails,\nit’s a warning that the Pokémon is about to\ncharge with astounding speed."
+        "description": "When Tauros begins whipping itself with its tails,\nit’s a warning that the Pokémon is about to\ncharge with astounding speed.",
+        "info": {
+            "national_pokedex": "0128",
+            "species": "Wild Bull Pokémon",
+            "height": "1.4 m / 4'07\"",
+            "weight": "88.4 kg / 194.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_061_EN.webp",
@@ -1639,7 +1969,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "61",
         "rarity": "◊",
-        "description": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment."
+        "description": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment.",
+        "info": {
+            "national_pokedex": "0133",
+            "species": "Evolution Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "6.5 kg / 14.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_062_EN.webp",
@@ -1665,7 +2001,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "62",
         "rarity": "◊",
-        "description": "It mimics the cries of other Pokémon to trick them\ninto thinking it’s one of them. This way they won’t\nattack it."
+        "description": "It mimics the cries of other Pokémon to trick them\ninto thinking it’s one of them. This way they won’t\nattack it.",
+        "info": {
+            "national_pokedex": "0441",
+            "species": "Music Note Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "1.9 kg / 4.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_063_EN.webp",
@@ -1760,7 +2102,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "69",
         "rarity": "☆",
-        "description": "Each of Exeggutor’s three heads is thinking\ndifferent thoughts. The three don’t seem to be\nvery interested in one another."
+        "description": "Each of Exeggutor’s three heads is thinking\ndifferent thoughts. The three don’t seem to be\nvery interested in one another.",
+        "info": {
+            "national_pokedex": "0103",
+            "species": "Coconut Pokémon",
+            "height": "2.0 m / 6'07\"",
+            "weight": "120.0 kg / 264.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_070_EN.webp",
@@ -1789,7 +2137,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "70",
         "rarity": "☆",
-        "description": "It only gives its all against strong opponents who\nare not fazed by the glare from Serperior’s\nnoble eyes."
+        "description": "It only gives its all against strong opponents who\nare not fazed by the glare from Serperior’s\nnoble eyes.",
+        "info": {
+            "national_pokedex": "0497",
+            "species": "Regal Pokémon",
+            "height": "3.3 m / 10'10\"",
+            "weight": "63.0 kg / 138.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_071_EN.webp",
@@ -1815,7 +2169,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "71",
         "rarity": "☆",
-        "description": "It taunts its prey and lures them into narrow,\nrocky areas where it then sprays them with toxic\ngas to make them dizzy and take them down."
+        "description": "It taunts its prey and lures them into narrow,\nrocky areas where it then sprays them with toxic\ngas to make them dizzy and take them down.",
+        "info": {
+            "national_pokedex": "0757",
+            "species": "Toxic Lizard Pokémon",
+            "height": "0.6 m / 2'00\"",
+            "weight": "4.8 kg / 10.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_072_EN.webp",
@@ -1843,7 +2203,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "72",
         "rarity": "☆",
-        "description": "It lives close to water. Its long tail is ridged with\na fin, which is often mistaken for a mermaid’s."
+        "description": "It lives close to water. Its long tail is ridged with\na fin, which is often mistaken for a mermaid’s.",
+        "info": {
+            "national_pokedex": "0134",
+            "species": "Bubble Jet Pokémon",
+            "height": "1 m / 3'03\"",
+            "weight": "29 kg / 63.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_073_EN.webp",
@@ -1869,7 +2235,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "73",
         "rarity": "☆",
-        "description": "It’s small and its electricity-generating organ is\nnot fully developed, so it uses its tail to absorb\nelectricity from people’s homes and charge itself."
+        "description": "It’s small and its electricity-generating organ is\nnot fully developed, so it uses its tail to absorb\nelectricity from people’s homes and charge itself.",
+        "info": {
+            "national_pokedex": "0702",
+            "species": "Antenna Pokémon",
+            "height": "0.2 m / 0'08\"",
+            "weight": "2.2 kg / 4.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_074_EN.webp",
@@ -1896,7 +2268,13 @@
         "set": "Mythical Island  (A1a)",
         "id": "74",
         "rarity": "☆",
-        "description": "It slips into the shadows of others and mimics\ntheir powers and movements. As it improves, it\nbecomes stronger than those it’s imitating."
+        "description": "It slips into the shadows of others and mimics\ntheir powers and movements. As it improves, it\nbecomes stronger than those it’s imitating.",
+        "info": {
+            "national_pokedex": "0802",
+            "species": "Gloomdweller Pokémon",
+            "height": "0.7 m / 2'04\"",
+            "weight": "22.2 kg / 48.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_075_EN.webp",

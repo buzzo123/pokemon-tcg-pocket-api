@@ -1,6 +1,6 @@
 # Pokémon Pocket API
 
-This is an Express.js-based API that serves Pokémon Pocket card data from JSON files.
+This is an Express.js-based API that serves Pokémon Pocket card data from JSON files. The card data contains all information on the cards, including description, height, weight, and species.
 
 ## Features
 - Retrieve all Pokémon Pocket cards
@@ -68,8 +68,8 @@ The card data and images were scraped from:
 ```
 https://limitlesstcg.com/
 https://www.pokemon-zone.com/
+https://pokemon.fandom.com/
 ```
-
 
 ## Project Structure
 ```
@@ -89,4 +89,3 @@ https://www.pokemon-zone.com/
 
 ## TODOs
 - [ ] Implement other endpoints
-- [ ] Add pokémon card missing info: descriptions and infos

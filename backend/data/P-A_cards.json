@@ -111,7 +111,13 @@
         "set": "Promo-A",
         "id": "9",
         "rarity": "Premium Missions",
-        "description": "When it is angered, it immediately discharges the\nenergy stored in the pouches in its cheeks."
+        "description": "When it is angered, it immediately discharges the\nenergy stored in the pouches in its cheeks.",
+        "info": {
+            "national_pokedex": "0025",
+            "species": "Mouse Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "6.0 kg / 13.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_010_EN.webp",
@@ -140,7 +146,13 @@
         "set": "Promo-A",
         "id": "10",
         "rarity": "Premium Missions",
-        "description": "It was created by a scientist after years of horrific\ngene-splicing and DNA-engineering experiments."
+        "description": "It was created by a scientist after years of horrific\ngene-splicing and DNA-engineering experiments.",
+        "info": {
+            "national_pokedex": "0150",
+            "species": "Genetic Pokémon",
+            "height": "2.0 m / 6'07\"",
+            "weight": "122.0 kg / 269.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_011_EN.webp",
@@ -168,7 +180,13 @@
         "set": "Promo-A",
         "id": "11",
         "rarity": "Wonder Pick",
-        "description": "This kindly Pokémon lays highly nutritious eggs\nand shares them with injured Pokémon or people."
+        "description": "This kindly Pokémon lays highly nutritious eggs\nand shares them with injured Pokémon or people.",
+        "info": {
+            "national_pokedex": "0113",
+            "species": "Egg Pokémon",
+            "height": "1.1 m / 3'07\"",
+            "weight": "34.6 kg / 76.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_012_EN.webp",
@@ -194,7 +212,13 @@
         "set": "Promo-A",
         "id": "12",
         "rarity": "Wonder Pick",
-        "description": "All it does is sleep during the daytime. At night,\nit patrols its territory with its eyes aglow."
+        "description": "All it does is sleep during the daytime. At night,\nit patrols its territory with its eyes aglow.",
+        "info": {
+            "national_pokedex": "0052",
+            "species": "Scratch Cat Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "4.2 kg / 9.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_013_EN.webp",
@@ -222,7 +246,13 @@
         "set": "Promo-A",
         "id": "13",
         "rarity": "Promo pack",
-        "description": "In battle, it flaps its wings at great speed to\nrelease highly toxic dust into the air."
+        "description": "In battle, it flaps its wings at great speed to\nrelease highly toxic dust into the air.",
+        "info": {
+            "national_pokedex": "0012",
+            "species": "Butterfly Pokémon",
+            "height": "1.1 m / 3'07\"",
+            "weight": "32.0 kg / 70.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_014_EN.webp",
@@ -275,7 +305,13 @@
         "set": "Promo-A",
         "id": "15",
         "rarity": "Promo pack",
-        "description": "When it is angered, it immediately discharges the\nenergy stored in the pouches in its cheeks."
+        "description": "When it is angered, it immediately discharges the\nenergy stored in the pouches in its cheeks.",
+        "info": {
+            "national_pokedex": "0025",
+            "species": "Mouse Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "6.0 kg / 13.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_016_EN.webp",
@@ -301,7 +337,13 @@
         "set": "Promo-A",
         "id": "16",
         "rarity": "Promo pack",
-        "description": "It is said that happiness will come to those who\nsee a gathering of Clefairy dancing under a\nfull moon."
+        "description": "It is said that happiness will come to those who\nsee a gathering of Clefairy dancing under a\nfull moon.",
+        "info": {
+            "national_pokedex": "0035",
+            "species": "Fairy Pokémon",
+            "height": "0.6 m / 2'00\"",
+            "weight": "7.5 kg / 16.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_017_EN.webp",
@@ -327,7 +369,13 @@
         "set": "Promo-A",
         "id": "17",
         "rarity": "Promo pack",
-        "description": "It lives in groups in the treetops. If it loses sight of\nits group, it becomes infuriated by its loneliness."
+        "description": "It lives in groups in the treetops. If it loses sight of\nits group, it becomes infuriated by its loneliness.",
+        "info": {
+            "national_pokedex": "0056",
+            "species": "Pig Monkey Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "28.0 kg / 61.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_018_EN.webp",
@@ -356,7 +404,13 @@
         "set": "Promo-A",
         "id": "18",
         "rarity": "Promo pack",
-        "description": "Its plant blooms when it is absorbing solar\nenergy. It stays on the move to seek sunlight."
+        "description": "Its plant blooms when it is absorbing solar\nenergy. It stays on the move to seek sunlight.",
+        "info": {
+            "national_pokedex": "0003",
+            "species": "Seed Pokémon",
+            "height": "2.0 m / 6'07\"",
+            "weight": "100.0 kg / 220.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_019_EN.webp",
@@ -383,7 +437,13 @@
         "set": "Promo-A",
         "id": "19",
         "rarity": "Promo pack",
-        "description": "It creates throwing stars out of compressed water. \nWhen it spins them and throws them at high speed, \nthese stars can split metal in two."
+        "description": "It creates throwing stars out of compressed water. \nWhen it spins them and throws them at high speed, \nthese stars can split metal in two.",
+        "info": {
+            "national_pokedex": "0658",
+            "species": "Ninja Pokémon",
+            "height": "1.5 m / 4'11\"",
+            "weight": "40.0 kg / 88.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_020_EN.webp",
@@ -409,7 +469,13 @@
         "set": "Promo-A",
         "id": "20",
         "rarity": "Promo pack",
-        "description": "It likes to lurk in the dark and tap shoulders\nwith a gaseous hand. Its touch causes endless\nshuddering."
+        "description": "It likes to lurk in the dark and tap shoulders\nwith a gaseous hand. Its touch causes endless\nshuddering.",
+        "info": {
+            "national_pokedex": "0093",
+            "species": "Gas Pokémon",
+            "height": "1.6 m / 5'03\"",
+            "weight": "0.1 kg / 0.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_021_EN.webp",
@@ -437,7 +503,13 @@
         "set": "Promo-A",
         "id": "21",
         "rarity": "Promo pack",
-        "description": "As it digs through the ground, it absorbs many\nhard objects. This is what makes its body so solid."
+        "description": "As it digs through the ground, it absorbs many\nhard objects. This is what makes its body so solid.",
+        "info": {
+            "national_pokedex": "0095",
+            "species": "Rock Snake Pokémon",
+            "height": "8.8 m / 28'10\"",
+            "weight": "210.5 kg / 463.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_022_EN.webp",
@@ -463,7 +535,13 @@
         "set": "Promo-A",
         "id": "22",
         "rarity": "Promo pack",
-        "description": "When its huge eyes waver, it sings a mysteriously\nsoothing melody that lulls its enemies to sleep."
+        "description": "When its huge eyes waver, it sings a mysteriously\nsoothing melody that lulls its enemies to sleep.",
+        "info": {
+            "national_pokedex": "0039",
+            "species": "Balloon Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "5.5 kg / 12.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_023_EN.webp",
@@ -490,7 +568,13 @@
         "set": "Promo-A",
         "id": "23",
         "rarity": "Wonder Pick",
-        "description": "There is a plant seed on its back right from the\nday this Pokémon is born. The seed slowly\ngrows larger."
+        "description": "There is a plant seed on its back right from the\nday this Pokémon is born. The seed slowly\ngrows larger.",
+        "info": {
+            "national_pokedex": "0001",
+            "species": "Seed Pokémon",
+            "height": "0.7 m / 2'04\"",
+            "weight": "6.9 kg / 15.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_024_EN.webp",
@@ -516,7 +600,13 @@
         "set": "Promo-A",
         "id": "24",
         "rarity": "Wonder Pick",
-        "description": "The electromagnetic waves emitted by the units\nat the sides of its head expel antigravity, which\nallows it to float."
+        "description": "The electromagnetic waves emitted by the units\nat the sides of its head expel antigravity, which\nallows it to float.",
+        "info": {
+            "national_pokedex": "0081",
+            "species": "Magnet Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "6.0 kg / 13.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_025_EN.webp",
@@ -577,7 +667,13 @@
         "set": "Promo-A",
         "id": "26",
         "rarity": "Campaign",
-        "description": "When it is angered, it immediately discharges the\nenergy stored in the pouches in its cheeks."
+        "description": "When it is angered, it immediately discharges the\nenergy stored in the pouches in its cheeks.",
+        "info": {
+            "national_pokedex": "0025",
+            "species": "Mouse Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "6.0 kg / 13.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_027_EN.webp",
@@ -603,7 +699,13 @@
         "set": "Promo-A",
         "id": "27",
         "rarity": "Promo pack",
-        "description": "Being exposed to sunlight makes its movements\nswifter. It uses vines more adeptly than its hands."
+        "description": "Being exposed to sunlight makes its movements\nswifter. It uses vines more adeptly than its hands.",
+        "info": {
+            "national_pokedex": "0495",
+            "species": "Grass Snake Pokémon",
+            "height": "0.6 m / 2'00\"",
+            "weight": "8.1 kg / 17.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_028_EN.webp",
@@ -631,7 +733,13 @@
         "set": "Promo-A",
         "id": "28",
         "rarity": "Promo pack",
-        "description": "Its burning body causes it to be unpopular in hot\nparts of the world, but in cold ones, Volcarona is\nrevered as an embodiment of the sun."
+        "description": "Its burning body causes it to be unpopular in hot\nparts of the world, but in cold ones, Volcarona is\nrevered as an embodiment of the sun.",
+        "info": {
+            "national_pokedex": "0637",
+            "species": "Sun Pokémon",
+            "height": "1.6 m / 5'03\"",
+            "weight": "46.0 kg / 101.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_029_EN.webp",
@@ -659,7 +767,13 @@
         "set": "Promo-A",
         "id": "29",
         "rarity": "Promo pack",
-        "description": "It crushes its foe under its heavy body to cause\nfainting. In a pinch, it will withdraw inside its shell."
+        "description": "It crushes its foe under its heavy body to cause\nfainting. In a pinch, it will withdraw inside its shell.",
+        "info": {
+            "national_pokedex": "0009",
+            "species": "Shellfish Pokémon",
+            "height": "1.6 m / 5'03\"",
+            "weight": "85.5 kg / 188.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_030_EN.webp",
@@ -685,7 +799,13 @@
         "set": "Promo-A",
         "id": "30",
         "rarity": "Promo pack",
-        "description": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment."
+        "description": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment.",
+        "info": {
+            "national_pokedex": "0133",
+            "species": "Evolution Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "6.5 kg / 14.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_031_EN.webp",
@@ -713,7 +833,13 @@
         "set": "Promo-A",
         "id": "31",
         "rarity": "Promo pack",
-        "description": "Its body secretes oil that this Pokémon spreads\nover its nest as a coating to protect it from dust.\nCinccino won’t tolerate even a speck of the stuff."
+        "description": "Its body secretes oil that this Pokémon spreads\nover its nest as a coating to protect it from dust.\nCinccino won’t tolerate even a speck of the stuff.",
+        "info": {
+            "national_pokedex": "0573",
+            "species": "Scarf Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "7.5 kg / 16.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_032_EN.webp",
@@ -739,7 +865,13 @@
         "set": "Promo-A",
         "id": "32",
         "rarity": "Wonder Pick",
-        "description": "It has a preference for hot things. When it rains,\nsteam is said to spout from the tip of its tail."
+        "description": "It has a preference for hot things. When it rains,\nsteam is said to spout from the tip of its tail.",
+        "info": {
+            "national_pokedex": "0004",
+            "species": "Lizard Pokémon",
+            "height": "0.61 m / 2'00\"",
+            "weight": "8.5 kg / 18.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_033_EN.webp",
@@ -765,7 +897,13 @@
         "set": "Promo-A",
         "id": "33",
         "rarity": "Wonder Pick",
-        "description": "When it retracts its long neck into its shell, it\nsquirts out water with vigorous force."
+        "description": "When it retracts its long neck into its shell, it\nsquirts out water with vigorous force.",
+        "info": {
+            "national_pokedex": "0007",
+            "species": "Tiny Turtle Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "9.0 kg / 19.8 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_034_EN.webp",
@@ -791,7 +929,13 @@
         "set": "Promo-A",
         "id": "34",
         "rarity": "Premium Missions",
-        "description": "It doesn’t like to be taken care of. It’s difficult to\nbond with since it won’t listen to its Trainer."
+        "description": "It doesn’t like to be taken care of. It’s difficult to\nbond with since it won’t listen to its Trainer.",
+        "info": {
+            "national_pokedex": "0393",
+            "species": "Penguin Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "5.2 kg / 11.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_035_EN.webp",
@@ -818,7 +962,13 @@
         "set": "Promo-A",
         "id": "35",
         "rarity": "Promo pack",
-        "description": "It uses its whole body to photosynthesize when\nexposed to sunlight. Its shell is made from\nhardened soil."
+        "description": "It uses its whole body to photosynthesize when\nexposed to sunlight. Its shell is made from\nhardened soil.",
+        "info": {
+            "national_pokedex": "0387",
+            "species": "Tiny Leaf Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "10.2 kg / 22.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_036_EN.webp",
@@ -845,7 +995,13 @@
         "set": "Promo-A",
         "id": "36",
         "rarity": "Promo pack",
-        "description": "The amount of electrical energy this Pokémon\nproduces is proportional to the rate of its pulse.\nThe voltage jumps while Electivire is battling."
+        "description": "The amount of electrical energy this Pokémon\nproduces is proportional to the rate of its pulse.\nThe voltage jumps while Electivire is battling.",
+        "info": {
+            "national_pokedex": "0466",
+            "species": "Thunderbolt Pokémon",
+            "height": "1.8 m / 5'11\"",
+            "weight": "138.6 kg / 305.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_037_EN.webp",
@@ -898,7 +1054,13 @@
         "set": "Promo-A",
         "id": "38",
         "rarity": "Promo pack",
-        "description": "This Pokémon startles people in the middle of\nthe night. It gathers fear as its energy."
+        "description": "This Pokémon startles people in the middle of\nthe night. It gathers fear as its energy.",
+        "info": {
+            "national_pokedex": "0200",
+            "species": "Screech Pokémon",
+            "height": "0.7 m / 2'04\"",
+            "weight": "1 kg / 2.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_039_EN.webp",
@@ -924,7 +1086,13 @@
         "set": "Promo-A",
         "id": "39",
         "rarity": "Promo pack",
-        "description": "People fashion swords from Skarmory’s shed\nfeathers, so this Pokémon is a popular element\nin heraldic designs."
+        "description": "People fashion swords from Skarmory’s shed\nfeathers, so this Pokémon is a popular element\nin heraldic designs.",
+        "info": {
+            "national_pokedex": "0227",
+            "species": "Armor Bird Pokémon",
+            "height": "1.7 m / 5'07\"",
+            "weight": "50.5 kg / 111.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_040_EN.webp",
@@ -950,7 +1118,13 @@
         "set": "Promo-A",
         "id": "40",
         "rarity": "Wonder Pick",
-        "description": "Its fiery rear end is fueled by gas made in its belly.\nEven rain can’t extinguish the fire."
+        "description": "Its fiery rear end is fueled by gas made in its belly.\nEven rain can’t extinguish the fire.",
+        "info": {
+            "national_pokedex": "0390",
+            "species": "Chimp Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "6.2 kg / 13.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_041_EN.webp",
@@ -976,6 +1150,12 @@
         "set": "Promo-A",
         "id": "41",
         "rarity": "Wonder Pick",
-        "description": "The shell seems to be filled with joy. It is said\nthat it will share good luck when treated kindly."
+        "description": "The shell seems to be filled with joy. It is said\nthat it will share good luck when treated kindly.",
+        "info": {
+            "national_pokedex": "0175",
+            "species": "Spike Ball Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "1.5 kg / 3.3 lbs."
+        }
     }
 ]

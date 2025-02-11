@@ -23,7 +23,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "1",
         "rarity": "◊",
-        "description": "If exposed to moonlight, it starts to move.\nIt roams far and wide at night to scatter its seeds."
+        "description": "If exposed to moonlight, it starts to move.\nIt roams far and wide at night to scatter its seeds.",
+        "info": {
+            "national_pokedex": "0043",
+            "species": "Weed Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "5.4 kg / 11.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_002_EN.webp",
@@ -49,7 +55,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "2",
         "rarity": "◊",
-        "description": "Its pistils exude an incredibly foul odor.\nThe horrid stench can cause fainting at a distance\nof 1.25 miles."
+        "description": "Its pistils exude an incredibly foul odor.\nThe horrid stench can cause fainting at a distance\nof 1.25 miles.",
+        "info": {
+            "national_pokedex": "0044",
+            "species": "Weed Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "8.6 kg / 19.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_003_EN.webp",
@@ -76,7 +88,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "3",
         "rarity": "◊◊",
-        "description": "Plentiful in the tropics. When it dances, its petals\nrub together and make a pleasant ringing sound."
+        "description": "Plentiful in the tropics. When it dances, its petals\nrub together and make a pleasant ringing sound.",
+        "info": {
+            "national_pokedex": "0182",
+            "species": "Flower Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "5.8 kg / 12.8 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_004_EN.webp",
@@ -103,7 +121,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "4",
         "rarity": "◊",
-        "description": "Hidden beneath a tangle of vines that grows\nnonstop even if the vines are torn off, this\nPokémon’s true appearance remains a mystery."
+        "description": "Hidden beneath a tangle of vines that grows\nnonstop even if the vines are torn off, this\nPokémon’s true appearance remains a mystery.",
+        "info": {
+            "national_pokedex": "0114",
+            "species": "Vine Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "35.0 kg / 77.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_005_EN.webp",
@@ -132,7 +156,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "5",
         "rarity": "◊◊",
-        "description": "Tangrowth has two arms that it can extend as it\npleases. Recent research has shown that these\narms are, in fact, bundles of vines."
+        "description": "Tangrowth has two arms that it can extend as it\npleases. Recent research has shown that these\narms are, in fact, bundles of vines.",
+        "info": {
+            "national_pokedex": "0465",
+            "species": "Vine Pokémon",
+            "height": "2.0 m / 6'07\"",
+            "weight": "128.6 kg / 283.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_006_EN.webp",
@@ -158,7 +188,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "6",
         "rarity": "◊",
-        "description": "Its eyes can see 360 degrees without moving its\nhead. It won’t miss prey—even those behind it."
+        "description": "Its eyes can see 360 degrees without moving its\nhead. It won’t miss prey—even those behind it.",
+        "info": {
+            "national_pokedex": "0193",
+            "species": "Clear Wing Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "38.0 kg / 83.8 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_007_EN.webp",
@@ -211,7 +247,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "8",
         "rarity": "◊",
-        "description": "Its flowers give off a relaxing fragrance.\nThe stronger its aroma, the healthier\nthe Roselia is."
+        "description": "Its flowers give off a relaxing fragrance.\nThe stronger its aroma, the healthier\nthe Roselia is.",
+        "info": {
+            "national_pokedex": "0315",
+            "species": "Thorn Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "2.0 kg / 4.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_009_EN.webp",
@@ -238,7 +280,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "9",
         "rarity": "◊◊",
-        "description": "After captivating opponents with its sweet scent,\nit lashes them with its thorny whips."
+        "description": "After captivating opponents with its sweet scent,\nit lashes them with its thorny whips.",
+        "info": {
+            "national_pokedex": "0407",
+            "species": "Bouquet Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "14.5 kg / 32.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_010_EN.webp",
@@ -265,7 +313,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "10",
         "rarity": "◊",
-        "description": "It uses its whole body to photosynthesize when\nexposed to sunlight. Its shell is made from\nhardened soil."
+        "description": "It uses its whole body to photosynthesize when\nexposed to sunlight. Its shell is made from\nhardened soil.",
+        "info": {
+            "national_pokedex": "0387",
+            "species": "Tiny Leaf Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "10.2 kg / 22.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_011_EN.webp",
@@ -293,7 +347,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "11",
         "rarity": "◊◊",
-        "description": "It lives along water in forests. In the daytime,\nit leaves the forest to sunbathe its treed shell."
+        "description": "It lives along water in forests. In the daytime,\nit leaves the forest to sunbathe its treed shell.",
+        "info": {
+            "national_pokedex": "0388",
+            "species": "Grove Pokémon",
+            "height": "1.1 m / 3'07\"",
+            "weight": "97.0 kg / 213.8 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_012_EN.webp",
@@ -322,7 +382,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "12",
         "rarity": "◊◊◊",
-        "description": "Ancient people imagined that beneath the\nground dwelt a gigantic Torterra."
+        "description": "Ancient people imagined that beneath the\nground dwelt a gigantic Torterra.",
+        "info": {
+            "national_pokedex": "0389",
+            "species": "Continent Pokémon",
+            "height": "2.2 m / 7'03\"",
+            "weight": "310.0 kg / 683.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_013_EN.webp",
@@ -348,7 +414,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "13",
         "rarity": "◊",
-        "description": "Its legs are short. Whenever it stumbles, its stiff\nantennae clack with a xylophone-like sound."
+        "description": "Its legs are short. Whenever it stumbles, its stiff\nantennae clack with a xylophone-like sound.",
+        "info": {
+            "national_pokedex": "0401",
+            "species": "Cricket Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "2.2 kg / 4.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_014_EN.webp",
@@ -375,7 +447,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "14",
         "rarity": "◊",
-        "description": "By allowing its cry to resonate in the hollow of its\nbelly, it produces a captivating sound."
+        "description": "By allowing its cry to resonate in the hollow of its\nbelly, it produces a captivating sound.",
+        "info": {
+            "national_pokedex": "0402",
+            "species": "Cricket Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "25.5 kg / 56.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_015_EN.webp",
@@ -401,7 +479,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "15",
         "rarity": "◊",
-        "description": "To shelter itself from cold, wintry winds, it covers\nitself with a cloak made of twigs and leaves."
+        "description": "To shelter itself from cold, wintry winds, it covers\nitself with a cloak made of twigs and leaves.",
+        "info": {
+            "national_pokedex": "0412",
+            "species": "Bagworm Pokémon",
+            "height": "0.2 m / 0'08\"",
+            "weight": "3.4 kg / 7.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_016_EN.webp",
@@ -429,7 +513,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "16",
         "rarity": "◊",
-        "description": "Its appearance changes depending on where it\nevolved. The materials on hand become a part of\nits body."
+        "description": "Its appearance changes depending on where it\nevolved. The materials on hand become a part of\nits body.",
+        "info": {
+            "national_pokedex": "0413",
+            "species": "Bagworm Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "6.5 kg / 14.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_017_EN.webp",
@@ -455,7 +545,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "17",
         "rarity": "◊",
-        "description": "At night, Combee sleep in a group of about a\nhundred, packed closely together in a lump."
+        "description": "At night, Combee sleep in a group of about a\nhundred, packed closely together in a lump.",
+        "info": {
+            "national_pokedex": "0415",
+            "species": "Tiny Bee Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "5.5 kg / 12.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_018_EN.webp",
@@ -482,7 +578,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "18",
         "rarity": "◊◊",
-        "description": "It houses its colony in cells in its body and\nreleases various pheromones to make those\ngrubs do its bidding."
+        "description": "It houses its colony in cells in its body and\nreleases various pheromones to make those\ngrubs do its bidding.",
+        "info": {
+            "national_pokedex": "0416",
+            "species": "Beehive Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "38.5 kg / 84.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_019_EN.webp",
@@ -510,7 +612,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "19",
         "rarity": "◊◊",
-        "description": "It attracts prey with its sweet-smelling saliva, then\nchomps down. It takes a whole day to eat prey."
+        "description": "It attracts prey with its sweet-smelling saliva, then\nchomps down. It takes a whole day to eat prey.",
+        "info": {
+            "national_pokedex": "0455",
+            "species": "Bug Catcher Pokémon",
+            "height": "1.4 m / 4'07\"",
+            "weight": "27.0 kg / 59.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_020_EN.webp",
@@ -537,7 +645,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "20",
         "rarity": "◊◊◊",
-        "description": "When you see Leafeon asleep in a patch of\nsunshine, you’ll know it is using photosynthesis\nto produce clean air."
+        "description": "When you see Leafeon asleep in a patch of\nsunshine, you’ll know it is using photosynthesis\nto produce clean air.",
+        "info": {
+            "national_pokedex": "0470",
+            "species": "Verdant Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "25.5 kg / 56.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_021_EN.webp",
@@ -564,7 +678,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "21",
         "rarity": "◊",
-        "description": "The lawn mower is one of the household\nappliances that led to the development of\nthe Rotom Dex."
+        "description": "The lawn mower is one of the household\nappliances that led to the development of\nthe Rotom Dex.",
+        "info": {
+            "national_pokedex": "0479",
+            "species": "Plasma Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "0.3 kg / 0.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_022_EN.webp",
@@ -591,7 +711,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "22",
         "rarity": "◊◊◊",
-        "description": "It can dissolve toxins in the air to instantly\ntransform ruined land into a lush field of flowers."
+        "description": "It can dissolve toxins in the air to instantly\ntransform ruined land into a lush field of flowers.",
+        "info": {
+            "national_pokedex": "0492",
+            "species": "Gratitude Pokémon",
+            "height": "0.2 m / 0'08\"",
+            "weight": "2.1 kg / 4.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_023_EN.webp",
@@ -617,7 +743,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "23",
         "rarity": "◊",
-        "description": "Magmar dispatches its prey with fire. But it\nregrets this habit once it realizes that it has\nburned its intended prey to a charred crisp."
+        "description": "Magmar dispatches its prey with fire. But it\nregrets this habit once it realizes that it has\nburned its intended prey to a charred crisp.",
+        "info": {
+            "national_pokedex": "0126",
+            "species": "Spitfire Pokémon",
+            "height": "1.3 m / 4'03\"",
+            "weight": "44.5 kg / 98.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_024_EN.webp",
@@ -646,7 +778,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "24",
         "rarity": "◊◊◊",
-        "description": "When Magmortar inhales deeply, the fire burning\nin its belly intensifies, rising in temperature to\nover 3,600 degrees Fahrenheit."
+        "description": "When Magmortar inhales deeply, the fire burning\nin its belly intensifies, rising in temperature to\nover 3,600 degrees Fahrenheit.",
+        "info": {
+            "national_pokedex": "0467",
+            "species": "Blast Pokémon",
+            "height": "1.6 m / 5'03\"",
+            "weight": "68.0 kg / 149.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_025_EN.webp",
@@ -672,7 +810,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "25",
         "rarity": "◊",
-        "description": "A common sight in volcanic areas, it slowly slithers\naround in a constant search for warm places."
+        "description": "A common sight in volcanic areas, it slowly slithers\naround in a constant search for warm places.",
+        "info": {
+            "national_pokedex": "0218",
+            "species": "Lava Pokémon",
+            "height": "0.7 m / 2'04\"",
+            "weight": "35.0 kg / 77.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_026_EN.webp",
@@ -699,7 +843,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "26",
         "rarity": "◊◊",
-        "description": "Its brittle shell occasionally spouts intense flames\nthat circulate throughout its body."
+        "description": "Its brittle shell occasionally spouts intense flames\nthat circulate throughout its body.",
+        "info": {
+            "national_pokedex": "0219",
+            "species": "Lava Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "55.0 kg / 121.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_027_EN.webp",
@@ -725,7 +875,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "27",
         "rarity": "◊",
-        "description": "Its fiery rear end is fueled by gas made in its belly.\nEven rain can’t extinguish the fire."
+        "description": "Its fiery rear end is fueled by gas made in its belly.\nEven rain can’t extinguish the fire.",
+        "info": {
+            "national_pokedex": "0390",
+            "species": "Chimp Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "6.2 kg / 13.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_028_EN.webp",
@@ -751,7 +907,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "28",
         "rarity": "◊◊",
-        "description": "It skillfully controls the intensity of the fire on its\ntail to keep its foes at an ideal distance."
+        "description": "It skillfully controls the intensity of the fire on its\ntail to keep its foes at an ideal distance.",
+        "info": {
+            "national_pokedex": "0391",
+            "species": "Playful Pokémon",
+            "height": "0.9 m / 2'11\"",
+            "weight": "22.0 kg / 48.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_029_EN.webp",
@@ -804,7 +966,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "30",
         "rarity": "◊",
-        "description": "If the convection microwave oven is not working\nproperly, then the Rotom inhabiting it will\nbecome lethargic."
+        "description": "If the convection microwave oven is not working\nproperly, then the Rotom inhabiting it will\nbecome lethargic.",
+        "info": {
+            "national_pokedex": "0479",
+            "species": "Plasma Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "0.3 kg / 0.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_031_EN.webp",
@@ -831,7 +999,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "31",
         "rarity": "◊",
-        "description": "It rubs its snout on the ground to find and dig up\nfood. It sometimes discovers hot springs."
+        "description": "It rubs its snout on the ground to find and dig up\nfood. It sometimes discovers hot springs.",
+        "info": {
+            "national_pokedex": "0220",
+            "species": "Pig Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "6.5 kg / 14.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_032_EN.webp",
@@ -859,7 +1033,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "32",
         "rarity": "◊◊",
-        "description": "If it charges at an enemy, the hairs on its back\nstand up straight. It is very sensitive to sound."
+        "description": "If it charges at an enemy, the hairs on its back\nstand up straight. It is very sensitive to sound.",
+        "info": {
+            "national_pokedex": "0221",
+            "species": "Swine Pokémon",
+            "height": "1.1 m / 3'07\"",
+            "weight": "55.8 kg / 123.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_033_EN.webp",
@@ -888,7 +1068,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "33",
         "rarity": "◊◊◊",
-        "description": "This Pokémon can be spotted in wall paintings\nfrom as far back as 10,000 years ago. For a\nwhile, it was thought to have gone extinct."
+        "description": "This Pokémon can be spotted in wall paintings\nfrom as far back as 10,000 years ago. For a\nwhile, it was thought to have gone extinct.",
+        "info": {
+            "national_pokedex": "0473",
+            "species": "Twin Tusk Pokémon",
+            "height": "2.5 m / 8'02\"",
+            "weight": "291.0 kg / 641.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_034_EN.webp",
@@ -915,7 +1101,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "34",
         "rarity": "◊◊",
-        "description": "With cold air that can reach temperatures as low\nas −328 degrees Fahrenheit, Regice instantly\nfreezes any creature that approaches it."
+        "description": "With cold air that can reach temperatures as low\nas −328 degrees Fahrenheit, Regice instantly\nfreezes any creature that approaches it.",
+        "info": {
+            "national_pokedex": "0378",
+            "species": "Iceberg Pokémon",
+            "height": "1.8 m / 5'11\"",
+            "weight": "175.0 kg / 385.8 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_035_EN.webp",
@@ -941,7 +1133,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "35",
         "rarity": "◊",
-        "description": "It doesn’t like to be taken care of. It’s difficult to\nbond with since it won’t listen to its Trainer."
+        "description": "It doesn’t like to be taken care of. It’s difficult to\nbond with since it won’t listen to its Trainer.",
+        "info": {
+            "national_pokedex": "0393",
+            "species": "Penguin Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "5.2 kg / 11.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_036_EN.webp",
@@ -968,7 +1166,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "36",
         "rarity": "◊◊",
-        "description": "It lives alone, away from others. Apparently, every\none of them believes it is the most important."
+        "description": "It lives alone, away from others. Apparently, every\none of them believes it is the most important.",
+        "info": {
+            "national_pokedex": "0394",
+            "species": "Penguin Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "23.0 kg / 50.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_037_EN.webp",
@@ -996,7 +1200,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "37",
         "rarity": "◊◊◊",
-        "description": "It swims as fast as a jet boat. The edges of its\nwings are sharp and can slice apart drifting ice."
+        "description": "It swims as fast as a jet boat. The edges of its\nwings are sharp and can slice apart drifting ice.",
+        "info": {
+            "national_pokedex": "0395",
+            "species": "Emperor Pokémon",
+            "height": "1.7 m / 5'07\"",
+            "weight": "84.5 kg / 186.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_038_EN.webp",
@@ -1022,7 +1232,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "38",
         "rarity": "◊",
-        "description": "It spins its two tails like a screw to propel itself\nthrough water. The tails also slice clinging\nseaweed."
+        "description": "It spins its two tails like a screw to propel itself\nthrough water. The tails also slice clinging\nseaweed.",
+        "info": {
+            "national_pokedex": "0418",
+            "species": "Sea Weasel Pokémon",
+            "height": "0.7 m / 2'04\"",
+            "weight": "29.5 kg / 65.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_039_EN.webp",
@@ -1048,7 +1264,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "39",
         "rarity": "◊◊",
-        "description": "With its flotation sac inflated, it can carry people\non its back. It deflates the sac before it dives."
+        "description": "With its flotation sac inflated, it can carry people\non its back. It deflates the sac before it dives.",
+        "info": {
+            "national_pokedex": "0419",
+            "species": "Sea Weasel Pokémon",
+            "height": "1.1 m / 3'07\"",
+            "weight": "33.5 kg / 73.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_040_EN.webp",
@@ -1075,7 +1297,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "40",
         "rarity": "◊",
-        "description": "It used to have a shell on its back long ago.\nThis species is closely related to Pokémon\nlike Shellder."
+        "description": "It used to have a shell on its back long ago.\nThis species is closely related to Pokémon\nlike Shellder.",
+        "info": {
+            "national_pokedex": "0422",
+            "species": "Sea Slug Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "6.3 kg / 13.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_041_EN.webp",
@@ -1103,7 +1331,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "41",
         "rarity": "◊◊",
-        "description": "They normally inhabit rocky seashores, but in\ntimes of continuous rain, they can sometimes be\nfound in the mountains, far from the sea."
+        "description": "They normally inhabit rocky seashores, but in\ntimes of continuous rain, they can sometimes be\nfound in the mountains, far from the sea.",
+        "info": {
+            "national_pokedex": "0423",
+            "species": "Sea Slug Pokémon",
+            "height": "0.9 m / 2'11\"",
+            "weight": "29.9 kg / 65.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_042_EN.webp",
@@ -1129,7 +1363,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "42",
         "rarity": "◊",
-        "description": "The line running down its side can store sunlight.\nIt shines vividly at night."
+        "description": "The line running down its side can store sunlight.\nIt shines vividly at night.",
+        "info": {
+            "national_pokedex": "0456",
+            "species": "Wing Fish Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "7.0 kg / 15.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_043_EN.webp",
@@ -1155,7 +1395,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "43",
         "rarity": "◊◊",
-        "description": "With its shining light, it lures its prey close.\nHowever, the light also happens to attract\nferocious fish Pokémon—its natural predators."
+        "description": "With its shining light, it lures its prey close.\nHowever, the light also happens to attract\nferocious fish Pokémon—its natural predators.",
+        "info": {
+            "national_pokedex": "0457",
+            "species": "Neon Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "24.0 kg / 52.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_044_EN.webp",
@@ -1181,7 +1427,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "44",
         "rarity": "◊",
-        "description": "During cold seasons, it migrates to the\nmountain’s lower reaches. It returns to the\nsnow-covered summit in the spring."
+        "description": "During cold seasons, it migrates to the\nmountain’s lower reaches. It returns to the\nsnow-covered summit in the spring.",
+        "info": {
+            "national_pokedex": "0459",
+            "species": "Frost Tree Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "50.5 kg / 111.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_045_EN.webp",
@@ -1210,7 +1462,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "45",
         "rarity": "◊◊",
-        "description": "It lives a quiet life on mountains that are\nperpetually covered in snow. It hides itself\nby whipping up blizzards."
+        "description": "It lives a quiet life on mountains that are\nperpetually covered in snow. It hides itself\nby whipping up blizzards.",
+        "info": {
+            "national_pokedex": "0460",
+            "species": "Frost Tree Pokémon",
+            "height": "2.2 m / 7'03\"",
+            "weight": "135.5 kg / 298.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_046_EN.webp",
@@ -1237,7 +1495,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "46",
         "rarity": "◊◊◊",
-        "description": "It can control its body temperature at will.\nThis enables it to freeze the moisture in the\natmosphere, creating flurries of diamond dust."
+        "description": "It can control its body temperature at will.\nThis enables it to freeze the moisture in the\natmosphere, creating flurries of diamond dust.",
+        "info": {
+            "national_pokedex": "0471",
+            "species": "Fresh Snow Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "25.9 kg / 57.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_047_EN.webp",
@@ -1263,7 +1527,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "47",
         "rarity": "◊",
-        "description": "This Rotom has entered a washing machine.\nIt nods with satisfaction after it floods the\nsurrounding area."
+        "description": "This Rotom has entered a washing machine.\nIt nods with satisfaction after it floods the\nsurrounding area.",
+        "info": {
+            "national_pokedex": "0479",
+            "species": "Plasma Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "0.3 kg / 0.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_048_EN.webp",
@@ -1290,7 +1560,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "48",
         "rarity": "◊",
-        "description": "This Rotom has entered a refrigerator. It leaps\naround gleefully after it uses cold air to freeze\nthe area around it."
+        "description": "This Rotom has entered a refrigerator. It leaps\naround gleefully after it uses cold air to freeze\nthe area around it.",
+        "info": {
+            "national_pokedex": "0479",
+            "species": "Plasma Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "0.3 kg / 0.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_049_EN.webp",
@@ -1352,7 +1628,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "50",
         "rarity": "◊◊",
-        "description": "It is born with a wondrous power that lets it bond\nwith any kind of Pokémon."
+        "description": "It is born with a wondrous power that lets it bond\nwith any kind of Pokémon.",
+        "info": {
+            "national_pokedex": "0490",
+            "species": "Seafaring Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "1.4 kg / 3.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_051_EN.webp",
@@ -1378,7 +1660,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "51",
         "rarity": "◊",
-        "description": "The electromagnetic waves emitted by the units\nat the sides of its head expel antigravity, which\nallows it to float."
+        "description": "The electromagnetic waves emitted by the units\nat the sides of its head expel antigravity, which\nallows it to float.",
+        "info": {
+            "national_pokedex": "0081",
+            "species": "Magnet Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "6.0 kg / 13.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_052_EN.webp",
@@ -1405,7 +1693,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "52",
         "rarity": "◊◊",
-        "description": "Three Magnemite are linked by a strong magnetic\nforce. Earaches will occur if you get too close."
+        "description": "Three Magnemite are linked by a strong magnetic\nforce. Earaches will occur if you get too close.",
+        "info": {
+            "national_pokedex": "0082",
+            "species": "Magnet Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "60.0 kg / 132.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_053_EN.webp",
@@ -1433,7 +1727,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "53",
         "rarity": "◊◊◊",
-        "description": "As it zooms through the sky, this Pokémon seems\nto be receiving signals of unknown origin while\ntransmitting signals of unknown purpose."
+        "description": "As it zooms through the sky, this Pokémon seems\nto be receiving signals of unknown origin while\ntransmitting signals of unknown purpose.",
+        "info": {
+            "national_pokedex": "0462",
+            "species": "Magnet Area Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "180.0 kg / 396.8 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_054_EN.webp",
@@ -1459,7 +1759,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "54",
         "rarity": "◊",
-        "description": "It rolls to move. If the ground is uneven, a sudden\njolt from hitting a bump can cause it to explode."
+        "description": "It rolls to move. If the ground is uneven, a sudden\njolt from hitting a bump can cause it to explode.",
+        "info": {
+            "national_pokedex": "0100",
+            "species": "Ball Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "10.4 kg / 22.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_055_EN.webp",
@@ -1485,7 +1791,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "55",
         "rarity": "◊◊",
-        "description": "The more energy it charges up, the faster\nit gets. But this also makes it more likely\nto explode."
+        "description": "The more energy it charges up, the faster\nit gets. But this also makes it more likely\nto explode.",
+        "info": {
+            "national_pokedex": "0101",
+            "species": "Ball Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "66.6 kg / 146.8 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_056_EN.webp",
@@ -1511,7 +1823,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "56",
         "rarity": "◊",
-        "description": "Many power plants keep Ground-type Pokémon\naround as a defense against Electabuzz that\ncome seeking electricity."
+        "description": "Many power plants keep Ground-type Pokémon\naround as a defense against Electabuzz that\ncome seeking electricity.",
+        "info": {
+            "national_pokedex": "0125",
+            "species": "Electric Pokémon",
+            "height": "1.1 m / 3'07\"",
+            "weight": "30.0 kg / 66.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_057_EN.webp",
@@ -1538,7 +1856,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "57",
         "rarity": "◊◊◊",
-        "description": "The amount of electrical energy this Pokémon\nproduces is proportional to the rate of its pulse.\nThe voltage jumps while Electivire is battling."
+        "description": "The amount of electrical energy this Pokémon\nproduces is proportional to the rate of its pulse.\nThe voltage jumps while Electivire is battling.",
+        "info": {
+            "national_pokedex": "0466",
+            "species": "Thunderbolt Pokémon",
+            "height": "1.8 m / 5'11\"",
+            "weight": "138.6 kg / 305.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_058_EN.webp",
@@ -1564,7 +1888,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "58",
         "rarity": "◊",
-        "description": "The extension and contraction of its muscles\ngenerates electricity. It glows when in trouble."
+        "description": "The extension and contraction of its muscles\ngenerates electricity. It glows when in trouble.",
+        "info": {
+            "national_pokedex": "0403",
+            "species": "Flash Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "9.5 kg / 20.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_059_EN.webp",
@@ -1591,7 +1921,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "59",
         "rarity": "◊◊",
-        "description": "Strong electricity courses through the tips of\nits sharp claws. A light scratch causes fainting\nin foes."
+        "description": "Strong electricity courses through the tips of\nits sharp claws. A light scratch causes fainting\nin foes.",
+        "info": {
+            "national_pokedex": "0404",
+            "species": "Spark Pokémon",
+            "height": "0.9 m / 2'11\"",
+            "weight": "30.5 kg / 67.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_060_EN.webp",
@@ -1619,7 +1955,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "60",
         "rarity": "◊◊◊",
-        "description": "It can see clearly through walls to track down its\nprey and seek its lost young."
+        "description": "It can see clearly through walls to track down its\nprey and seek its lost young.",
+        "info": {
+            "national_pokedex": "0405",
+            "species": "Gleam Eyes Pokémon",
+            "height": "1.4 m / 4'07\"",
+            "weight": "42.0 kg / 92.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_061_EN.webp",
@@ -1671,7 +2013,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "62",
         "rarity": "◊",
-        "description": "Its electricity-like body can enter some kinds\nof machines and take control in order to make\nmischief."
+        "description": "Its electricity-like body can enter some kinds\nof machines and take control in order to make\nmischief.",
+        "info": {
+            "national_pokedex": "0479",
+            "species": "Plasma Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "0.3 kg / 0.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_063_EN.webp",
@@ -1697,7 +2045,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "63",
         "rarity": "◊",
-        "description": "The shell seems to be filled with joy. It is said\nthat it will share good luck when treated kindly."
+        "description": "The shell seems to be filled with joy. It is said\nthat it will share good luck when treated kindly.",
+        "info": {
+            "national_pokedex": "0175",
+            "species": "Spike Ball Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "1.5 kg / 3.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_064_EN.webp",
@@ -1723,7 +2077,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "64",
         "rarity": "◊◊",
-        "description": "They say that it will appear before kindhearted,\ncaring people and shower them with happiness."
+        "description": "They say that it will appear before kindhearted,\ncaring people and shower them with happiness.",
+        "info": {
+            "national_pokedex": "0176",
+            "species": "Happiness Pokémon",
+            "height": "0.6 m / 2'00\"",
+            "weight": "3.2 kg / 7.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_065_EN.webp",
@@ -1750,7 +2110,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "65",
         "rarity": "◊◊◊",
-        "description": "These Pokémon are never seen anywhere near\nconflict or turmoil. In recent times, they’ve hardly\nbeen seen at all."
+        "description": "These Pokémon are never seen anywhere near\nconflict or turmoil. In recent times, they’ve hardly\nbeen seen at all.",
+        "info": {
+            "national_pokedex": "0468",
+            "species": "Jubilee Pokémon",
+            "height": "1.5 m / 4'11\"",
+            "weight": "38.0 kg / 83.8 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_066_EN.webp",
@@ -1776,7 +2142,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "66",
         "rarity": "◊",
-        "description": "This Pokémon startles people in the middle of\nthe night. It gathers fear as its energy."
+        "description": "This Pokémon startles people in the middle of\nthe night. It gathers fear as its energy.",
+        "info": {
+            "national_pokedex": "0200",
+            "species": "Screech Pokémon",
+            "height": "0.7 m / 2'04\"",
+            "weight": "1 kg / 2.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_067_EN.webp",
@@ -1828,7 +2200,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "68",
         "rarity": "◊",
-        "description": "The horns on its head provide a strong power\nthat enables it to sense people’s emotions."
+        "description": "The horns on its head provide a strong power\nthat enables it to sense people’s emotions.",
+        "info": {
+            "national_pokedex": "0280",
+            "species": "Feeling Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "6.6 kg / 14.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_069_EN.webp",
@@ -1854,7 +2232,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "69",
         "rarity": "◊",
-        "description": "It has a psychic power that enables it to distort\nthe space around it and see into the future."
+        "description": "It has a psychic power that enables it to distort\nthe space around it and see into the future.",
+        "info": {
+            "national_pokedex": "0281",
+            "species": "Emotion Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "20.2 kg / 44.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_070_EN.webp",
@@ -1880,7 +2264,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "70",
         "rarity": "◊",
-        "description": "If it finds bad children who won’t listen to their\nparents, it will spirit them away—or so it’s said."
+        "description": "If it finds bad children who won’t listen to their\nparents, it will spirit them away—or so it’s said.",
+        "info": {
+            "national_pokedex": "0355",
+            "species": "Amorphous Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "15.0 kg / 33.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_071_EN.webp",
@@ -1908,7 +2298,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "71",
         "rarity": "◊◊",
-        "description": "It seeks drifting will-o’-the-wisps and sucks them\ninto its empty body. What happens inside is\na mystery."
+        "description": "It seeks drifting will-o’-the-wisps and sucks them\ninto its empty body. What happens inside is\na mystery.",
+        "info": {
+            "national_pokedex": "0356",
+            "species": "Beckon Pokémon",
+            "height": "1.6 m / 5'03\"",
+            "weight": "30.6 kg / 67.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_072_EN.webp",
@@ -1936,7 +2332,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "72",
         "rarity": "◊◊◊",
-        "description": "At the bidding of transmissions from the spirit\nworld, it steals people and Pokémon away.\nNo one knows whether it has a will of its own."
+        "description": "At the bidding of transmissions from the spirit\nworld, it steals people and Pokémon away.\nNo one knows whether it has a will of its own.",
+        "info": {
+            "national_pokedex": "0477",
+            "species": "Gripper Pokémon",
+            "height": "2.2 m / 7'03\"",
+            "weight": "106.6 kg / 235.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_073_EN.webp",
@@ -1962,7 +2364,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "73",
         "rarity": "◊",
-        "description": "It is whispered that any child who mistakes\nDrifloon for a balloon and holds on to it could\nwind up missing."
+        "description": "It is whispered that any child who mistakes\nDrifloon for a balloon and holds on to it could\nwind up missing.",
+        "info": {
+            "national_pokedex": "0425",
+            "species": "Balloon Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "1.2 kg / 2.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_074_EN.webp",
@@ -1989,7 +2397,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "74",
         "rarity": "◊◊",
-        "description": "Some say this Pokémon is a collection of souls\nburdened with regrets, silently drifting through\nthe dusk."
+        "description": "Some say this Pokémon is a collection of souls\nburdened with regrets, silently drifting through\nthe dusk.",
+        "info": {
+            "national_pokedex": "0426",
+            "species": "Blimp Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "15.0 kg / 33.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_075_EN.webp",
@@ -2015,7 +2429,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "75",
         "rarity": "◊◊",
-        "description": "Known as “The Being of Knowledge.” It is said\nthat it can wipe out the memory of those who see\nits eyes."
+        "description": "Known as “The Being of Knowledge.” It is said\nthat it can wipe out the memory of those who see\nits eyes.",
+        "info": {
+            "national_pokedex": "0480",
+            "species": "Knowledge Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "0.3 kg / 0.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_076_EN.webp",
@@ -2043,7 +2463,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "76",
         "rarity": "◊◊◊",
-        "description": "Known as “The Being of Emotion.” It taught\nhumans the nobility of sorrow, pain, and joy."
+        "description": "Known as “The Being of Emotion.” It taught\nhumans the nobility of sorrow, pain, and joy.",
+        "info": {
+            "national_pokedex": "0481",
+            "species": "Emotion Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "0.3 kg / 0.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_077_EN.webp",
@@ -2069,7 +2495,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "77",
         "rarity": "◊◊",
-        "description": "Known as “The Being of Willpower.” It sleeps at the\nbottom of a lake to keep the world in balance."
+        "description": "Known as “The Being of Willpower.” It sleeps at the\nbottom of a lake to keep the world in balance.",
+        "info": {
+            "national_pokedex": "0482",
+            "species": "Willpower Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "0.3 kg / 0.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_078_EN.webp",
@@ -2097,7 +2529,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "78",
         "rarity": "◊◊◊",
-        "description": "This Pokémon is said to live in a world on the\nreverse side of ours, where common knowledge is\ndistorted and strange."
+        "description": "This Pokémon is said to live in a world on the\nreverse side of ours, where common knowledge is\ndistorted and strange.",
+        "info": {
+            "national_pokedex": "0487",
+            "species": "Renegade Pokémon",
+            "height": "4.5 m / 14'09\"",
+            "weight": "750.0 kg / 1653.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_079_EN.webp",
@@ -2124,7 +2562,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "79",
         "rarity": "◊◊◊",
-        "description": "Shiny particles are released from its wings like a\nveil. It is said to represent the crescent moon."
+        "description": "Shiny particles are released from its wings like a\nveil. It is said to represent the crescent moon.",
+        "info": {
+            "national_pokedex": "0488",
+            "species": "Lunar Pokémon",
+            "height": "1.5 m / 4'11\"",
+            "weight": "85.6 kg / 188.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_080_EN.webp",
@@ -2151,7 +2595,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "80",
         "rarity": "◊",
-        "description": "Strong, but not too bright, this Pokémon can\nshatter even a skyscraper with its charging tackles."
+        "description": "Strong, but not too bright, this Pokémon can\nshatter even a skyscraper with its charging tackles.",
+        "info": {
+            "national_pokedex": "0111",
+            "species": "Spikes Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "115.0 kg / 253.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_081_EN.webp",
@@ -2179,7 +2629,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "81",
         "rarity": "◊◊",
-        "description": "It begins walking on its hind legs after evolution.\nIt can punch holes through boulders with its horn."
+        "description": "It begins walking on its hind legs after evolution.\nIt can punch holes through boulders with its horn.",
+        "info": {
+            "national_pokedex": "0112",
+            "species": "Drill Pokémon",
+            "height": "1.9 m / 6'03\"",
+            "weight": "120.0 kg / 264.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_082_EN.webp",
@@ -2208,7 +2664,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "82",
         "rarity": "◊◊◊",
-        "description": "It can load up to three projectiles per arm into\nthe holes in its hands. What launches out of those\nholes could be either rocks or Roggenrola."
+        "description": "It can load up to three projectiles per arm into\nthe holes in its hands. What launches out of those\nholes could be either rocks or Roggenrola.",
+        "info": {
+            "national_pokedex": "0464",
+            "species": "Drill Pokémon",
+            "height": "2.4 m / 7'10\"",
+            "weight": "282.8 kg / 623.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_083_EN.webp",
@@ -2234,7 +2696,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "83",
         "rarity": "◊",
-        "description": "It usually clings to cliffs. When it spots its prey,\nit spreads its wings and glides down to attack."
+        "description": "It usually clings to cliffs. When it spots its prey,\nit spreads its wings and glides down to attack.",
+        "info": {
+            "national_pokedex": "0207",
+            "species": "Flyscorpion Pokémon",
+            "height": "1.1 m / 3'07\"",
+            "weight": "64.8 kg / 142.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_084_EN.webp",
@@ -2260,7 +2728,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "84",
         "rarity": "◊◊",
-        "description": "It observes prey while hanging inverted from\nbranches. When the chance presents itself,\nit swoops!"
+        "description": "It observes prey while hanging inverted from\nbranches. When the chance presents itself,\nit swoops!",
+        "info": {
+            "national_pokedex": "0472",
+            "species": "Fang Scorp Pokémon",
+            "height": "2.0 m / 6'07\"",
+            "weight": "42.5 kg / 93.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_085_EN.webp",
@@ -2287,7 +2761,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "85",
         "rarity": "◊",
-        "description": "It launches kicks while spinning. If it spins at high\nspeed, it may bore its way into the ground."
+        "description": "It launches kicks while spinning. If it spins at high\nspeed, it may bore its way into the ground.",
+        "info": {
+            "national_pokedex": "0237",
+            "species": "Handstand Pokémon",
+            "height": "1.4 m / 4'07\"",
+            "weight": "48.0 kg / 105.8 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_086_EN.webp",
@@ -2314,7 +2794,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "86",
         "rarity": "◊",
-        "description": "It moves less than an inch a year, but when\nit’s in a jam, it will spin and drill down into the\nground in a split second."
+        "description": "It moves less than an inch a year, but when\nit’s in a jam, it will spin and drill down into the\nground in a split second.",
+        "info": {
+            "national_pokedex": "0299",
+            "species": "Compass Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "97.0 kg / 213.8 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_087_EN.webp",
@@ -2343,7 +2829,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "87",
         "rarity": "◊◊",
-        "description": "Every bit of Regirock’s body is made of stone.\nAs parts of its body erode, this Pokémon sticks\nrocks to itself to repair what’s been lost."
+        "description": "Every bit of Regirock’s body is made of stone.\nAs parts of its body erode, this Pokémon sticks\nrocks to itself to repair what’s been lost.",
+        "info": {
+            "national_pokedex": "0377",
+            "species": "Rock Peak Pokémon",
+            "height": "1.7 m / 5'07\"",
+            "weight": "230.0 kg / 507.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_088_EN.webp",
@@ -2369,7 +2861,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "88",
         "rarity": "◊◊",
-        "description": "A primeval Pokémon, it possesses a hard and\nsturdy skull, lacking any intelligence within."
+        "description": "A primeval Pokémon, it possesses a hard and\nsturdy skull, lacking any intelligence within.",
+        "info": {
+            "national_pokedex": "0408",
+            "species": "Head Butt Pokémon",
+            "height": "0.9 m / 2'11\"",
+            "weight": "31.5 kg / 69.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_089_EN.webp",
@@ -2395,7 +2893,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "89",
         "rarity": "◊◊◊",
-        "description": "In ancient times, people would dig up fossils of\nthis Pokémon and use its skull, which is harder\nthan steel, to make helmets."
+        "description": "In ancient times, people would dig up fossils of\nthis Pokémon and use its skull, which is harder\nthan steel, to make helmets.",
+        "info": {
+            "national_pokedex": "0409",
+            "species": "Head Butt Pokémon",
+            "height": "1.6 m / 5'03\"",
+            "weight": "102.5 kg / 226.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_090_EN.webp",
@@ -2423,7 +2927,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "90",
         "rarity": "◊",
-        "description": "Its appearance changes depending on where it\nevolved. The materials on hand become a part of\nits body."
+        "description": "Its appearance changes depending on where it\nevolved. The materials on hand become a part of\nits body.",
+        "info": {
+            "national_pokedex": "0413",
+            "species": "Bagworm Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "6.5 kg / 14.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_091_EN.webp",
@@ -2449,7 +2959,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "91",
         "rarity": "◊",
-        "description": "They communicate with one another using their\nauras. They are able to run all through the night."
+        "description": "They communicate with one another using their\nauras. They are able to run all through the night.",
+        "info": {
+            "national_pokedex": "0447",
+            "species": "Emanation Pokémon",
+            "height": "0.7 m / 2'04\"",
+            "weight": "20.2 kg / 44.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_092_EN.webp",
@@ -2476,7 +2992,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "92",
         "rarity": "◊◊◊",
-        "description": "It’s said that no foe can remain invisible to\nLucario, since it can detect auras—even those\nof foes it could not otherwise see."
+        "description": "It’s said that no foe can remain invisible to\nLucario, since it can detect auras—even those\nof foes it could not otherwise see.",
+        "info": {
+            "national_pokedex": "0448",
+            "species": "Aura Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "54.1 kg / 119.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_093_EN.webp",
@@ -2504,7 +3026,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "93",
         "rarity": "◊",
-        "description": "It shuts its nostrils tight, then travels through sand\nas if walking. They form colonies of around 10."
+        "description": "It shuts its nostrils tight, then travels through sand\nas if walking. They form colonies of around 10.",
+        "info": {
+            "national_pokedex": "0449",
+            "species": "Hippo Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "49.5 kg / 109.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_094_EN.webp",
@@ -2533,7 +3061,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "94",
         "rarity": "◊◊",
-        "description": "It is surprisingly quick to anger. It holds its mouth\nagape as a display of its strength."
+        "description": "It is surprisingly quick to anger. It holds its mouth\nagape as a display of its strength.",
+        "info": {
+            "national_pokedex": "0450",
+            "species": "Heavyweight Pokémon",
+            "height": "2.0 m / 6'07\"",
+            "weight": "300.0 kg / 661.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_095_EN.webp",
@@ -2585,7 +3119,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "96",
         "rarity": "◊",
-        "description": "Feared and loathed by many, it is believed to\nbring misfortune to all those who see it at night."
+        "description": "Feared and loathed by many, it is believed to\nbring misfortune to all those who see it at night.",
+        "info": {
+            "national_pokedex": "0198",
+            "species": "Darkness Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "2.1 kg / 4.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_097_EN.webp",
@@ -2612,7 +3152,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "97",
         "rarity": "◊◊",
-        "description": "It is merciless by nature. It is said that it never\nforgives the mistakes of its Murkrow followers."
+        "description": "It is merciless by nature. It is said that it never\nforgives the mistakes of its Murkrow followers.",
+        "info": {
+            "national_pokedex": "0430",
+            "species": "Big Boss Pokémon",
+            "height": "0.9 m / 2'11\"",
+            "weight": "27.3 kg / 60.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_098_EN.webp",
@@ -2638,7 +3184,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "98",
         "rarity": "◊",
-        "description": "This cunning Pokémon hides under the cover of\ndarkness, waiting to attack its prey."
+        "description": "This cunning Pokémon hides under the cover of\ndarkness, waiting to attack its prey.",
+        "info": {
+            "national_pokedex": "0215",
+            "species": "Sharp Claw Pokémon",
+            "height": "0.9 m / 2'11\"",
+            "weight": "28.0 kg / 61.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_099_EN.webp",
@@ -2689,7 +3241,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "100",
         "rarity": "◊",
-        "description": "A Pokémon with a persistent nature, it chases its\nchosen prey until the prey becomes exhausted."
+        "description": "A Pokémon with a persistent nature, it chases its\nchosen prey until the prey becomes exhausted.",
+        "info": {
+            "national_pokedex": "0261",
+            "species": "Bite Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "13.6 kg / 30.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_101_EN.webp",
@@ -2716,7 +3274,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "101",
         "rarity": "◊◊",
-        "description": "It will always obey the commands of a skilled\nTrainer. Its behavior arises from its living in packs\nin ancient times."
+        "description": "It will always obey the commands of a skilled\nTrainer. Its behavior arises from its living in packs\nin ancient times.",
+        "info": {
+            "national_pokedex": "0262",
+            "species": "Bite Pokémon",
+            "height": "1 m / 3'03'",
+            "weight": "37 kg / 81.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_102_EN.webp",
@@ -2742,7 +3306,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "102",
         "rarity": "◊",
-        "description": "It sprays a foul fluid from its rear. Its stench\nspreads over a mile radius, driving Pokémon\naway."
+        "description": "It sprays a foul fluid from its rear. Its stench\nspreads over a mile radius, driving Pokémon\naway.",
+        "info": {
+            "national_pokedex": "0434",
+            "species": "Skunk Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "19.2 kg / 42.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_103_EN.webp",
@@ -2769,7 +3339,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "103",
         "rarity": "◊◊",
-        "description": "It attacks by spraying a horribly smelly fluid from\nthe tip of its tail. Attacks from above confound it."
+        "description": "It attacks by spraying a horribly smelly fluid from\nthe tip of its tail. Attacks from above confound it.",
+        "info": {
+            "national_pokedex": "0435",
+            "species": "Skunk Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "38.0 kg / 83.8 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_104_EN.webp",
@@ -2795,7 +3371,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "104",
         "rarity": "◊◊",
-        "description": "Its constant mischief and misdeeds resulted\nin it being bound to an Odd Keystone by a\nmysterious spell."
+        "description": "Its constant mischief and misdeeds resulted\nin it being bound to an Odd Keystone by a\nmysterious spell.",
+        "info": {
+            "national_pokedex": "0442",
+            "species": "Forbidden Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "108.0 kg / 238.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_105_EN.webp",
@@ -2822,7 +3404,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "105",
         "rarity": "◊",
-        "description": "After burrowing into the sand, it waits patiently\nfor prey to come near. This Pokémon and\nSizzlipede share common descent."
+        "description": "After burrowing into the sand, it waits patiently\nfor prey to come near. This Pokémon and\nSizzlipede share common descent.",
+        "info": {
+            "national_pokedex": "0451",
+            "species": "Scorpion Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "12.0 kg / 26.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_106_EN.webp",
@@ -2850,7 +3438,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "106",
         "rarity": "◊◊",
-        "description": "Its poison is potent, but it rarely sees use. This\nPokémon prefers to use physical force instead,\ngoing on rampages with its car-crushing strength."
+        "description": "Its poison is potent, but it rarely sees use. This\nPokémon prefers to use physical force instead,\ngoing on rampages with its car-crushing strength.",
+        "info": {
+            "national_pokedex": "0452",
+            "species": "Ogre Scorp Pokémon",
+            "height": "1.3 m / 4'03\"",
+            "weight": "61.5 kg / 135.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_107_EN.webp",
@@ -2877,7 +3471,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "107",
         "rarity": "◊",
-        "description": "Inflating its poison sacs, it fills the area with an\nodd sound and hits flinching opponents with a\npoison jab."
+        "description": "Inflating its poison sacs, it fills the area with an\nodd sound and hits flinching opponents with a\npoison jab.",
+        "info": {
+            "national_pokedex": "0453",
+            "species": "Toxic Mouth Pokémon",
+            "height": "0.7 m / 2'04\"",
+            "weight": "23.0 kg / 50.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_108_EN.webp",
@@ -2904,7 +3504,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "108",
         "rarity": "◊◊",
-        "description": "Swaying and dodging the attacks of its foes, it\nweaves its flexible body in close, then lunges\nout with its poisonous claws."
+        "description": "Swaying and dodging the attacks of its foes, it\nweaves its flexible body in close, then lunges\nout with its poisonous claws.",
+        "info": {
+            "national_pokedex": "0454",
+            "species": "Toxic Mouth Pokémon",
+            "height": "1.3 m / 4'03\"",
+            "weight": "44.4 kg / 97.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_109_EN.webp",
@@ -2932,7 +3538,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "109",
         "rarity": "◊◊◊",
-        "description": "It chases people and Pokémon from its territory by\ncausing them to experience deep,\nnightmarish slumbers."
+        "description": "It chases people and Pokémon from its territory by\ncausing them to experience deep,\nnightmarish slumbers.",
+        "info": {
+            "national_pokedex": "0491",
+            "species": "Pitch-Black Pokémon",
+            "height": "1.5 m / 4'11\"",
+            "weight": "50.5 kg / 111.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_110_EN.webp",
@@ -2985,7 +3597,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "111",
         "rarity": "◊◊",
-        "description": "People fashion swords from Skarmory’s shed\nfeathers, so this Pokémon is a popular element\nin heraldic designs."
+        "description": "People fashion swords from Skarmory’s shed\nfeathers, so this Pokémon is a popular element\nin heraldic designs.",
+        "info": {
+            "national_pokedex": "0227",
+            "species": "Armor Bird Pokémon",
+            "height": "1.7 m / 5'07\"",
+            "weight": "50.5 kg / 111.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_112_EN.webp",
@@ -3013,7 +3631,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "112",
         "rarity": "◊◊",
-        "description": "Registeel’s body is made of a strange material\nthat is flexible enough to stretch and shrink but\nalso more durable than any metal."
+        "description": "Registeel’s body is made of a strange material\nthat is flexible enough to stretch and shrink but\nalso more durable than any metal.",
+        "info": {
+            "national_pokedex": "0379",
+            "species": "Iron Pokémon",
+            "height": "1.9 m / 6'03\"",
+            "weight": "205.0 kg / 451.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_113_EN.webp",
@@ -3040,7 +3664,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "113",
         "rarity": "◊◊",
-        "description": "A mild-mannered, herbivorous Pokémon, it used\nits face to dig up tree roots to eat. The skin on\nits face was plenty tough."
+        "description": "A mild-mannered, herbivorous Pokémon, it used\nits face to dig up tree roots to eat. The skin on\nits face was plenty tough.",
+        "info": {
+            "national_pokedex": "0410",
+            "species": "Shield Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "57.0 kg / 125.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_114_EN.webp",
@@ -3068,7 +3698,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "114",
         "rarity": "◊◊◊",
-        "description": "The bones of its face are huge and hard, so\nthey were mistaken for its spine until after this\nPokémon was successfully restored."
+        "description": "The bones of its face are huge and hard, so\nthey were mistaken for its spine until after this\nPokémon was successfully restored.",
+        "info": {
+            "national_pokedex": "0411",
+            "species": "Shield Pokémon",
+            "height": "1.3 m / 4'03\"",
+            "weight": "149.5 kg / 329.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_115_EN.webp",
@@ -3095,7 +3731,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "115",
         "rarity": "◊",
-        "description": "Its appearance changes depending on where it\nevolved. The materials on hand become a part of\nits body."
+        "description": "Its appearance changes depending on where it\nevolved. The materials on hand become a part of\nits body.",
+        "info": {
+            "national_pokedex": "0413",
+            "species": "Bagworm Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "6.5 kg / 14.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_116_EN.webp",
@@ -3122,7 +3764,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "116",
         "rarity": "◊",
-        "description": "Ancient people believed that the pattern on\nBronzor’s back contained a mysterious power."
+        "description": "Ancient people believed that the pattern on\nBronzor’s back contained a mysterious power.",
+        "info": {
+            "national_pokedex": "0436",
+            "species": "Bronze Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "60.5 kg / 133.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_117_EN.webp",
@@ -3150,7 +3798,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "117",
         "rarity": "◊◊",
-        "description": "In ages past, this Pokémon was revered as a\nbringer of rain. It was found buried in the ground."
+        "description": "In ages past, this Pokémon was revered as a\nbringer of rain. It was found buried in the ground.",
+        "info": {
+            "national_pokedex": "0437",
+            "species": "Bronze Bell Pokémon",
+            "height": "1.3 m / 4'03\"",
+            "weight": "187.0 kg / 412.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_118_EN.webp",
@@ -3179,7 +3833,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "118",
         "rarity": "◊◊",
-        "description": "Although it can control its units known as\nMini-Noses, they sometimes get lost and don’t\ncome back."
+        "description": "Although it can control its units known as\nMini-Noses, they sometimes get lost and don’t\ncome back.",
+        "info": {
+            "national_pokedex": "0476",
+            "species": "Compass Pokémon",
+            "height": "1.4 m / 4'07\"",
+            "weight": "340.0 kg / 749.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_119_EN.webp",
@@ -3244,7 +3904,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "120",
         "rarity": "◊◊◊",
-        "description": "It dwells in volcanic caves. It digs in with its\ncross-shaped feet to crawl on ceilings and walls."
+        "description": "It dwells in volcanic caves. It digs in with its\ncross-shaped feet to crawl on ceilings and walls.",
+        "info": {
+            "national_pokedex": "0485",
+            "species": "Lava Dome Pokémon",
+            "height": "1.7 m / 5'07\"",
+            "weight": "430.0 kg / 948.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_121_EN.webp",
@@ -3270,7 +3936,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "121",
         "rarity": "◊",
-        "description": "It skulks in caves, and when prey or an enemy\npasses by, it leaps out and chomps them.\nThe force of its attack sometimes chips its teeth."
+        "description": "It skulks in caves, and when prey or an enemy\npasses by, it leaps out and chomps them.\nThe force of its attack sometimes chips its teeth.",
+        "info": {
+            "national_pokedex": "0443",
+            "species": "Land Shark Pokémon",
+            "height": "0.7 m / 2'04\"",
+            "weight": "20.5 kg / 45.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_122_EN.webp",
@@ -3297,7 +3969,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "122",
         "rarity": "◊◊",
-        "description": "In rare cases, it molts and sheds its scales.\nMedicine containing its scales as an ingredient\nwill make a weary body feel invigorated."
+        "description": "In rare cases, it molts and sheds its scales.\nMedicine containing its scales as an ingredient\nwill make a weary body feel invigorated.",
+        "info": {
+            "national_pokedex": "0444",
+            "species": "Cave Pokémon",
+            "height": "1.4 m / 4'07\"",
+            "weight": "56.0 kg / 123.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_123_EN.webp",
@@ -3324,7 +4002,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "123",
         "rarity": "◊◊◊",
-        "description": "It is said that when one runs at high speed,\nits wings create blades of wind that can fell\nnearby trees."
+        "description": "It is said that when one runs at high speed,\nits wings create blades of wind that can fell\nnearby trees.",
+        "info": {
+            "national_pokedex": "0445",
+            "species": "Mach Pokémon",
+            "height": "1.9 m / 6'03\"",
+            "weight": "95.0 kg / 209.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_124_EN.webp",
@@ -3352,7 +4036,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "124",
         "rarity": "◊",
-        "description": "If this Pokémon’s sticky saliva gets on you and\nyou don’t clean it off, an intense itch will set in.\nThe itch won’t go away, either."
+        "description": "If this Pokémon’s sticky saliva gets on you and\nyou don’t clean it off, an intense itch will set in.\nThe itch won’t go away, either.",
+        "info": {
+            "national_pokedex": "0108",
+            "species": "Licking Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "65.5 kg / 144.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_125_EN.webp",
@@ -3406,7 +4096,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "126",
         "rarity": "◊",
-        "description": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment."
+        "description": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment.",
+        "info": {
+            "national_pokedex": "0133",
+            "species": "Evolution Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "6.5 kg / 14.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_127_EN.webp",
@@ -3432,7 +4128,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "127",
         "rarity": "◊",
-        "description": "State-of-the-art technology was used to create\nPorygon. It was the first artificial Pokémon to be\ncreated via computer programming."
+        "description": "State-of-the-art technology was used to create\nPorygon. It was the first artificial Pokémon to be\ncreated via computer programming.",
+        "info": {
+            "national_pokedex": "0137",
+            "species": "Virtual Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "36.5 kg / 80.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_128_EN.webp",
@@ -3458,7 +4160,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "128",
         "rarity": "◊◊",
-        "description": "This is a Porygon that was updated with special\ndata. Porygon2 develops itself by learning about\nmany different subjects all on its own."
+        "description": "This is a Porygon that was updated with special\ndata. Porygon2 develops itself by learning about\nmany different subjects all on its own.",
+        "info": {
+            "national_pokedex": "0233",
+            "species": "Virtual Pokémon",
+            "height": "2'00\" m / 0.6",
+            "weight": "71.6 kg / 32.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_129_EN.webp",
@@ -3486,7 +4194,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "129",
         "rarity": "◊◊◊",
-        "description": "Porygon-Z had a program installed to allow it to\nmove between dimensions, but the program also\ncaused instability in Porygon-Z’s behavior."
+        "description": "Porygon-Z had a program installed to allow it to\nmove between dimensions, but the program also\ncaused instability in Porygon-Z’s behavior.",
+        "info": {
+            "national_pokedex": "0474",
+            "species": "Virtual Pokémon",
+            "height": "0.9 m / 2'11\"",
+            "weight": "34.0 kg / 75.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_130_EN.webp",
@@ -3512,7 +4226,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "130",
         "rarity": "◊",
-        "description": "As it did more and more with its tail, its hands\nbecame clumsy. It makes its nest high in\nthe treetops."
+        "description": "As it did more and more with its tail, its hands\nbecame clumsy. It makes its nest high in\nthe treetops.",
+        "info": {
+            "national_pokedex": "0190",
+            "species": "Long Tail Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "11.5 kg / 25.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_131_EN.webp",
@@ -3538,7 +4258,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "131",
         "rarity": "◊",
-        "description": "It uses its tails for everything. If it wraps both\nof its tails around you and gives you a squeeze,\nthat’s proof it really likes you."
+        "description": "It uses its tails for everything. If it wraps both\nof its tails around you and gives you a squeeze,\nthat’s proof it really likes you.",
+        "info": {
+            "national_pokedex": "0424",
+            "species": "Long Tail Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "20.3 kg / 44.8 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_132_EN.webp",
@@ -3564,7 +4290,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "132",
         "rarity": "◊",
-        "description": "They flock around mountains and fields, chasing\nafter bug Pokémon. Their singing is noisy and\nannoying."
+        "description": "They flock around mountains and fields, chasing\nafter bug Pokémon. Their singing is noisy and\nannoying.",
+        "info": {
+            "national_pokedex": "0396",
+            "species": "Starling Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "2.0 kg / 4.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_133_EN.webp",
@@ -3591,7 +4323,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "133",
         "rarity": "◊",
-        "description": "Recognizing their own weakness, they always live\nin a group. When alone, a Staravia cries noisily."
+        "description": "Recognizing their own weakness, they always live\nin a group. When alone, a Staravia cries noisily.",
+        "info": {
+            "national_pokedex": "0397",
+            "species": "Starling Pokémon",
+            "height": "0.6 m / 2'00\"",
+            "weight": "15.5 kg / 34.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_134_EN.webp",
@@ -3619,7 +4357,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "134",
         "rarity": "◊◊",
-        "description": "When Staravia evolve into Staraptor, they leave\nthe flock to live alone. They have sturdy wings."
+        "description": "When Staravia evolve into Staraptor, they leave\nthe flock to live alone. They have sturdy wings.",
+        "info": {
+            "national_pokedex": "0398",
+            "species": "Predator Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "24.9 kg / 54.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_135_EN.webp",
@@ -3646,7 +4390,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "135",
         "rarity": "◊",
-        "description": "With nerves of steel, nothing can perturb it. It is\nmore agile and active than it appears."
+        "description": "With nerves of steel, nothing can perturb it. It is\nmore agile and active than it appears.",
+        "info": {
+            "national_pokedex": "0399",
+            "species": "Plump Mouse Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "20.0 kg / 44.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_136_EN.webp",
@@ -3673,7 +4423,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "136",
         "rarity": "◊",
-        "description": "It busily makes its nest with stacks of branches and\nroots it has cut up with its sharp incisors."
+        "description": "It busily makes its nest with stacks of branches and\nroots it has cut up with its sharp incisors.",
+        "info": {
+            "national_pokedex": "0400",
+            "species": "Beaver Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "31.5 kg / 69.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_137_EN.webp",
@@ -3699,7 +4455,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "137",
         "rarity": "◊",
-        "description": "If both of Buneary’s ears are rolled up, something\nis wrong with its body or mind. It’s a sure sign the\nPokémon is in need of care."
+        "description": "If both of Buneary’s ears are rolled up, something\nis wrong with its body or mind. It’s a sure sign the\nPokémon is in need of care.",
+        "info": {
+            "national_pokedex": "0427",
+            "species": "Rabbit Pokémon",
+            "height": "0.7 m / 1'04\"",
+            "weight": "5.5 kg / 12.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_138_EN.webp",
@@ -3725,7 +4487,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "138",
         "rarity": "◊",
-        "description": "Lopunny is constantly monitoring its surroundings.\nIf danger approaches, this Pokémon responds\nwith superdestructive kicks."
+        "description": "Lopunny is constantly monitoring its surroundings.\nIf danger approaches, this Pokémon responds\nwith superdestructive kicks.",
+        "info": {
+            "national_pokedex": "0428",
+            "species": "Rabbit Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "33.3 kg / 73.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_139_EN.webp",
@@ -3751,7 +4519,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "139",
         "rarity": "◊",
-        "description": "It claws if displeased and purrs when affectionate.\nIts fickleness is very popular among some."
+        "description": "It claws if displeased and purrs when affectionate.\nIts fickleness is very popular among some.",
+        "info": {
+            "national_pokedex": "0431",
+            "species": "Catty Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "3.9 kg / 8.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_140_EN.webp",
@@ -3779,7 +4553,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "140",
         "rarity": "◊◊",
-        "description": "It would claim another Pokémon’s nest as its own\nif it finds a nest sufficiently comfortable."
+        "description": "It would claim another Pokémon’s nest as its own\nif it finds a nest sufficiently comfortable.",
+        "info": {
+            "national_pokedex": "0432",
+            "species": "Tiger Cat Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "43.8 kg / 96.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_141_EN.webp",
@@ -3805,7 +4585,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "141",
         "rarity": "◊",
-        "description": "It mimics the cries of other Pokémon to trick them\ninto thinking it’s one of them. This way they won’t\nattack it."
+        "description": "It mimics the cries of other Pokémon to trick them\ninto thinking it’s one of them. This way they won’t\nattack it.",
+        "info": {
+            "national_pokedex": "0441",
+            "species": "Music Note Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "1.9 kg / 4.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_142_EN.webp",
@@ -3832,7 +4618,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "142",
         "rarity": "◊",
-        "description": "This Rotom has entered an electric fan. It smirks\nwith satisfaction over a prank well pulled after it\nblows away everything around it."
+        "description": "This Rotom has entered an electric fan. It smirks\nwith satisfaction over a prank well pulled after it\nblows away everything around it.",
+        "info": {
+            "national_pokedex": "0479",
+            "species": "Plasma Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "0.3 kg / 0.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_143_EN.webp",
@@ -3861,7 +4653,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "143",
         "rarity": "◊◊◊",
-        "description": "It is said to have made Pokémon that look like\nitself from a special ice mountain, rocks,\nand magma."
+        "description": "It is said to have made Pokémon that look like\nitself from a special ice mountain, rocks,\nand magma.",
+        "info": {
+            "national_pokedex": "0486",
+            "species": "Colossal Pokémon",
+            "height": "3.7 m / 12'02\"",
+            "weight": "420.0 kg / 925.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_144_EN.webp",
@@ -4022,7 +4820,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "156",
         "rarity": "☆",
-        "description": "Tangrowth has two arms that it can extend as it\npleases. Recent research has shown that these\narms are, in fact, bundles of vines."
+        "description": "Tangrowth has two arms that it can extend as it\npleases. Recent research has shown that these\narms are, in fact, bundles of vines.",
+        "info": {
+            "national_pokedex": "0465",
+            "species": "Vine Pokémon",
+            "height": "2.0 m / 6'07\"",
+            "weight": "128.6 kg / 283.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_157_EN.webp",
@@ -4048,7 +4852,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "157",
         "rarity": "☆",
-        "description": "At night, Combee sleep in a group of about a\nhundred, packed closely together in a lump."
+        "description": "At night, Combee sleep in a group of about a\nhundred, packed closely together in a lump.",
+        "info": {
+            "national_pokedex": "0415",
+            "species": "Tiny Bee Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "5.5 kg / 12.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_158_EN.webp",
@@ -4076,7 +4886,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "158",
         "rarity": "☆",
-        "description": "It attracts prey with its sweet-smelling saliva, then\nchomps down. It takes a whole day to eat prey."
+        "description": "It attracts prey with its sweet-smelling saliva, then\nchomps down. It takes a whole day to eat prey.",
+        "info": {
+            "national_pokedex": "0455",
+            "species": "Bug Catcher Pokémon",
+            "height": "1.4 m / 4'07\"",
+            "weight": "27.0 kg / 59.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_159_EN.webp",
@@ -4103,7 +4919,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "159",
         "rarity": "☆",
-        "description": "It can dissolve toxins in the air to instantly\ntransform ruined land into a lush field of flowers."
+        "description": "It can dissolve toxins in the air to instantly\ntransform ruined land into a lush field of flowers.",
+        "info": {
+            "national_pokedex": "0492",
+            "species": "Gratitude Pokémon",
+            "height": "0.2 m / 0'08\"",
+            "weight": "2.1 kg / 4.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_160_EN.webp",
@@ -4132,7 +4954,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "160",
         "rarity": "☆",
-        "description": "This Pokémon can be spotted in wall paintings\nfrom as far back as 10,000 years ago. For a\nwhile, it was thought to have gone extinct."
+        "description": "This Pokémon can be spotted in wall paintings\nfrom as far back as 10,000 years ago. For a\nwhile, it was thought to have gone extinct.",
+        "info": {
+            "national_pokedex": "0473",
+            "species": "Twin Tusk Pokémon",
+            "height": "2.5 m / 8'02\"",
+            "weight": "291.0 kg / 641.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_161_EN.webp",
@@ -4160,7 +4988,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "161",
         "rarity": "☆",
-        "description": "They normally inhabit rocky seashores, but in\ntimes of continuous rain, they can sometimes be\nfound in the mountains, far from the sea."
+        "description": "They normally inhabit rocky seashores, but in\ntimes of continuous rain, they can sometimes be\nfound in the mountains, far from the sea.",
+        "info": {
+            "national_pokedex": "0423",
+            "species": "Sea Slug Pokémon",
+            "height": "0.9 m / 2'11\"",
+            "weight": "29.9 kg / 65.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_162_EN.webp",
@@ -4186,7 +5020,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "162",
         "rarity": "☆",
-        "description": "It is born with a wondrous power that lets it bond\nwith any kind of Pokémon."
+        "description": "It is born with a wondrous power that lets it bond\nwith any kind of Pokémon.",
+        "info": {
+            "national_pokedex": "0490",
+            "species": "Seafaring Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "1.4 kg / 3.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_163_EN.webp",
@@ -4212,7 +5052,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "163",
         "rarity": "☆",
-        "description": "The extension and contraction of its muscles\ngenerates electricity. It glows when in trouble."
+        "description": "The extension and contraction of its muscles\ngenerates electricity. It glows when in trouble.",
+        "info": {
+            "national_pokedex": "0403",
+            "species": "Flash Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "9.5 kg / 20.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_164_EN.webp",
@@ -4238,7 +5084,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "164",
         "rarity": "☆",
-        "description": "Its electricity-like body can enter some kinds\nof machines and take control in order to make\nmischief."
+        "description": "Its electricity-like body can enter some kinds\nof machines and take control in order to make\nmischief.",
+        "info": {
+            "national_pokedex": "0479",
+            "species": "Plasma Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "0.3 kg / 0.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_165_EN.webp",
@@ -4264,7 +5116,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "165",
         "rarity": "☆",
-        "description": "It is whispered that any child who mistakes\nDrifloon for a balloon and holds on to it could\nwind up missing."
+        "description": "It is whispered that any child who mistakes\nDrifloon for a balloon and holds on to it could\nwind up missing.",
+        "info": {
+            "national_pokedex": "0425",
+            "species": "Balloon Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "1.2 kg / 2.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_166_EN.webp",
@@ -4292,7 +5150,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "166",
         "rarity": "☆",
-        "description": "Known as “The Being of Emotion.” It taught\nhumans the nobility of sorrow, pain, and joy."
+        "description": "Known as “The Being of Emotion.” It taught\nhumans the nobility of sorrow, pain, and joy.",
+        "info": {
+            "national_pokedex": "0481",
+            "species": "Emotion Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "0.3 kg / 0.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_167_EN.webp",
@@ -4320,7 +5184,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "167",
         "rarity": "☆",
-        "description": "This Pokémon is said to live in a world on the\nreverse side of ours, where common knowledge is\ndistorted and strange."
+        "description": "This Pokémon is said to live in a world on the\nreverse side of ours, where common knowledge is\ndistorted and strange.",
+        "info": {
+            "national_pokedex": "0487",
+            "species": "Renegade Pokémon",
+            "height": "4.5 m / 14'09\"",
+            "weight": "750.0 kg / 1653.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_168_EN.webp",
@@ -4347,7 +5217,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "168",
         "rarity": "☆",
-        "description": "Shiny particles are released from its wings like a\nveil. It is said to represent the crescent moon."
+        "description": "Shiny particles are released from its wings like a\nveil. It is said to represent the crescent moon.",
+        "info": {
+            "national_pokedex": "0488",
+            "species": "Lunar Pokémon",
+            "height": "1.5 m / 4'11\"",
+            "weight": "85.6 kg / 188.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_169_EN.webp",
@@ -4376,7 +5252,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "169",
         "rarity": "☆",
-        "description": "It can load up to three projectiles per arm into\nthe holes in its hands. What launches out of those\nholes could be either rocks or Roggenrola."
+        "description": "It can load up to three projectiles per arm into\nthe holes in its hands. What launches out of those\nholes could be either rocks or Roggenrola.",
+        "info": {
+            "national_pokedex": "0464",
+            "species": "Drill Pokémon",
+            "height": "2.4 m / 7'10\"",
+            "weight": "282.8 kg / 623.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_170_EN.webp",
@@ -4403,7 +5285,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "170",
         "rarity": "☆",
-        "description": "It’s said that no foe can remain invisible to\nLucario, since it can detect auras—even those\nof foes it could not otherwise see."
+        "description": "It’s said that no foe can remain invisible to\nLucario, since it can detect auras—even those\nof foes it could not otherwise see.",
+        "info": {
+            "national_pokedex": "0448",
+            "species": "Aura Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "54.1 kg / 119.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_171_EN.webp",
@@ -4431,7 +5319,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "171",
         "rarity": "☆",
-        "description": "It shuts its nostrils tight, then travels through sand\nas if walking. They form colonies of around 10."
+        "description": "It shuts its nostrils tight, then travels through sand\nas if walking. They form colonies of around 10.",
+        "info": {
+            "national_pokedex": "0449",
+            "species": "Hippo Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "49.5 kg / 109.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_172_EN.webp",
@@ -4457,7 +5351,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "172",
         "rarity": "☆",
-        "description": "Its constant mischief and misdeeds resulted\nin it being bound to an Odd Keystone by a\nmysterious spell."
+        "description": "Its constant mischief and misdeeds resulted\nin it being bound to an Odd Keystone by a\nmysterious spell.",
+        "info": {
+            "national_pokedex": "0442",
+            "species": "Forbidden Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "108.0 kg / 238.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_173_EN.webp",
@@ -4484,7 +5384,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "173",
         "rarity": "☆",
-        "description": "Inflating its poison sacs, it fills the area with an\nodd sound and hits flinching opponents with a\npoison jab."
+        "description": "Inflating its poison sacs, it fills the area with an\nodd sound and hits flinching opponents with a\npoison jab.",
+        "info": {
+            "national_pokedex": "0453",
+            "species": "Toxic Mouth Pokémon",
+            "height": "0.7 m / 2'04\"",
+            "weight": "23.0 kg / 50.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_174_EN.webp",
@@ -4512,7 +5418,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "174",
         "rarity": "☆",
-        "description": "It dwells in volcanic caves. It digs in with its\ncross-shaped feet to crawl on ceilings and walls."
+        "description": "It dwells in volcanic caves. It digs in with its\ncross-shaped feet to crawl on ceilings and walls.",
+        "info": {
+            "national_pokedex": "0485",
+            "species": "Lava Dome Pokémon",
+            "height": "1.7 m / 5'07\"",
+            "weight": "430.0 kg / 948.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_175_EN.webp",
@@ -4539,7 +5451,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "175",
         "rarity": "☆",
-        "description": "It is said that when one runs at high speed,\nits wings create blades of wind that can fell\nnearby trees."
+        "description": "It is said that when one runs at high speed,\nits wings create blades of wind that can fell\nnearby trees.",
+        "info": {
+            "national_pokedex": "0445",
+            "species": "Mach Pokémon",
+            "height": "1.9 m / 6'03\"",
+            "weight": "95.0 kg / 209.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_176_EN.webp",
@@ -4567,7 +5485,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "176",
         "rarity": "☆",
-        "description": "When Staravia evolve into Staraptor, they leave\nthe flock to live alone. They have sturdy wings."
+        "description": "When Staravia evolve into Staraptor, they leave\nthe flock to live alone. They have sturdy wings.",
+        "info": {
+            "national_pokedex": "0398",
+            "species": "Predator Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "24.9 kg / 54.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_177_EN.webp",
@@ -4594,7 +5518,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "177",
         "rarity": "☆",
-        "description": "With nerves of steel, nothing can perturb it. It is\nmore agile and active than it appears."
+        "description": "With nerves of steel, nothing can perturb it. It is\nmore agile and active than it appears.",
+        "info": {
+            "national_pokedex": "0399",
+            "species": "Plump Mouse Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "20.0 kg / 44.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_178_EN.webp",
@@ -4620,7 +5550,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "178",
         "rarity": "☆",
-        "description": "It claws if displeased and purrs when affectionate.\nIts fickleness is very popular among some."
+        "description": "It claws if displeased and purrs when affectionate.\nIts fickleness is very popular among some.",
+        "info": {
+            "national_pokedex": "0431",
+            "species": "Catty Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "3.9 kg / 8.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_179_EN.webp",
@@ -4649,7 +5585,13 @@
         "set": "Space-Time Smackdown  (A2)",
         "id": "179",
         "rarity": "☆",
-        "description": "It is said to have made Pokémon that look like\nitself from a special ice mountain, rocks,\nand magma."
+        "description": "It is said to have made Pokémon that look like\nitself from a special ice mountain, rocks,\nand magma.",
+        "info": {
+            "national_pokedex": "0486",
+            "species": "Colossal Pokémon",
+            "height": "3.7 m / 12'02\"",
+            "weight": "420.0 kg / 925.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_180_EN.webp",

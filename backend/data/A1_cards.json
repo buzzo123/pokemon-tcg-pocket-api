@@ -24,7 +24,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "1",
         "rarity": "◊",
-        "description": "There is a plant seed on its back right from the\nday this Pokémon is born. The seed slowly\ngrows larger."
+        "description": "There is a plant seed on its back right from the\nday this Pokémon is born. The seed slowly\ngrows larger.",
+        "info": {
+            "national_pokedex": "0001",
+            "species": "Seed Pokémon",
+            "height": "0.7 m / 2'04\"",
+            "weight": "6.9 kg / 15.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_002_EN.webp",
@@ -52,7 +58,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "2",
         "rarity": "◊◊",
-        "description": "When the bulb on its back grows large, it\nappears to lose the ability to stand on its\nhind legs."
+        "description": "When the bulb on its back grows large, it\nappears to lose the ability to stand on its\nhind legs.",
+        "info": {
+            "national_pokedex": "0002",
+            "species": "Seed Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "13.0 kg / 28.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_003_EN.webp",
@@ -81,7 +93,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "3",
         "rarity": "◊◊◊",
-        "description": "Its plant blooms when it is absorbing solar\nenergy. It stays on the move to seek sunlight."
+        "description": "Its plant blooms when it is absorbing solar\nenergy. It stays on the move to seek sunlight.",
+        "info": {
+            "national_pokedex": "0003",
+            "species": "Seed Pokémon",
+            "height": "2.0 m / 6'07\"",
+            "weight": "100.0 kg / 220.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_004_EN.webp",
@@ -145,7 +163,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "5",
         "rarity": "◊",
-        "description": "For protection, it releases a horrible stench from\nthe antenna on its head to drive away enemies."
+        "description": "For protection, it releases a horrible stench from\nthe antenna on its head to drive away enemies.",
+        "info": {
+            "national_pokedex": "0010",
+            "species": "Worm Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "2.9 kg / 6.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_006_EN.webp",
@@ -172,7 +196,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "6",
         "rarity": "◊",
-        "description": "It is waiting for the moment to evolve. At this\nstage, it can only harden, so it remains\nmotionless to avoid attack."
+        "description": "It is waiting for the moment to evolve. At this\nstage, it can only harden, so it remains\nmotionless to avoid attack.",
+        "info": {
+            "national_pokedex": "0011",
+            "species": "Cocoon Pokémon",
+            "height": "0.7 m / 2'04\"",
+            "weight": "9.9 kg / 21.8 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_007_EN.webp",
@@ -200,7 +230,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "7",
         "rarity": "◊◊◊",
-        "description": "In battle, it flaps its wings at great speed to\nrelease highly toxic dust into the air."
+        "description": "In battle, it flaps its wings at great speed to\nrelease highly toxic dust into the air.",
+        "info": {
+            "national_pokedex": "0012",
+            "species": "Butterfly Pokémon",
+            "height": "1.1 m / 3'07\"",
+            "weight": "32.0 kg / 70.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_008_EN.webp",
@@ -226,7 +262,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "8",
         "rarity": "◊",
-        "description": "Often found in forests and grasslands.\nIt has a sharp, toxic barb of around two inches\non top of its head."
+        "description": "Often found in forests and grasslands.\nIt has a sharp, toxic barb of around two inches\non top of its head.",
+        "info": {
+            "national_pokedex": "0013",
+            "species": "Hairy Bug Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "3.2 kg / 7.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_009_EN.webp",
@@ -252,7 +294,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "9",
         "rarity": "◊",
-        "description": "Almost incapable of moving, this Pokémon can only\nharden its shell to protect itself when it is\nin danger."
+        "description": "Almost incapable of moving, this Pokémon can only\nharden its shell to protect itself when it is\nin danger.",
+        "info": {
+            "national_pokedex": "0014",
+            "species": "Cocoon Pokémon",
+            "height": "0.6 m / 2'00\"",
+            "weight": "10.0 kg / 22.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_010_EN.webp",
@@ -278,7 +326,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "10",
         "rarity": "◊◊◊",
-        "description": "It has three poisonous stingers on its forelegs and\nits tail. They are used to jab its enemy repeatedly."
+        "description": "It has three poisonous stingers on its forelegs and\nits tail. They are used to jab its enemy repeatedly.",
+        "info": {
+            "national_pokedex": "0015",
+            "species": "Poison Bee Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "29.5 kg / 65.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_011_EN.webp",
@@ -304,7 +358,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "11",
         "rarity": "◊",
-        "description": "If exposed to moonlight, it starts to move.\nIt roams far and wide at night to scatter its seeds."
+        "description": "If exposed to moonlight, it starts to move.\nIt roams far and wide at night to scatter its seeds.",
+        "info": {
+            "national_pokedex": "0043",
+            "species": "Weed Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "5.4 kg / 11.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_012_EN.webp",
@@ -331,7 +391,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "12",
         "rarity": "◊◊",
-        "description": "Its pistils exude an incredibly foul odor.\nThe horrid stench can cause fainting at a distance\nof 1.25 miles."
+        "description": "Its pistils exude an incredibly foul odor.\nThe horrid stench can cause fainting at a distance\nof 1.25 miles.",
+        "info": {
+            "national_pokedex": "0044",
+            "species": "Weed Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "8.6 kg / 19.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_013_EN.webp",
@@ -359,7 +425,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "13",
         "rarity": "◊◊◊",
-        "description": "It has the world’s largest petals. With every step,\nthe petals shake out heavy clouds of toxic pollen."
+        "description": "It has the world’s largest petals. With every step,\nthe petals shake out heavy clouds of toxic pollen.",
+        "info": {
+            "national_pokedex": "0045",
+            "species": "Flower Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "18.6 kg / 41.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_014_EN.webp",
@@ -386,7 +458,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "14",
         "rarity": "◊",
-        "description": "The mushrooms, known as tochukaso, are\ncontrolling the bug. Even if the bug bugs the\nmushrooms, they tell it to bug off."
+        "description": "The mushrooms, known as tochukaso, are\ncontrolling the bug. Even if the bug bugs the\nmushrooms, they tell it to bug off.",
+        "info": {
+            "national_pokedex": "0046",
+            "species": "Mushroom Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "5.4 kg / 11.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_015_EN.webp",
@@ -414,7 +492,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "15",
         "rarity": "◊◊",
-        "description": "The bug is mostly dead, with the mushroom on\nits back having become the main body. If the\nmushroom comes off, the bug stops moving."
+        "description": "The bug is mostly dead, with the mushroom on\nits back having become the main body. If the\nmushroom comes off, the bug stops moving.",
+        "info": {
+            "national_pokedex": "0047",
+            "species": "Mushroom Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "29.5 kg / 65.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_016_EN.webp",
@@ -440,7 +524,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "16",
         "rarity": "◊",
-        "description": "Poison oozes from all over its body. It catches\nsmall bug Pokémon at night that are attracted\nby light."
+        "description": "Poison oozes from all over its body. It catches\nsmall bug Pokémon at night that are attracted\nby light.",
+        "info": {
+            "national_pokedex": "0048",
+            "species": "Insect Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "30.0 kg / 66.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_017_EN.webp",
@@ -466,7 +556,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "17",
         "rarity": "◊◊",
-        "description": "The wings are covered with dustlike scales. Every\ntime it flaps its wings, it looses highly toxic dust."
+        "description": "The wings are covered with dustlike scales. Every\ntime it flaps its wings, it looses highly toxic dust.",
+        "info": {
+            "national_pokedex": "0049",
+            "species": "Poison Moth Pokémon",
+            "height": "1.5 m / 4'11\"",
+            "weight": "12.5 kg / 27.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_018_EN.webp",
@@ -492,7 +588,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "18",
         "rarity": "◊",
-        "description": "Even though its body is extremely skinny, it is\nblindingly fast when catching its prey."
+        "description": "Even though its body is extremely skinny, it is\nblindingly fast when catching its prey.",
+        "info": {
+            "national_pokedex": "0069",
+            "species": "Flower Pokémon",
+            "height": "0.7 m / 2'04\"",
+            "weight": "4.0 kg / 8.8 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_019_EN.webp",
@@ -519,7 +621,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "19",
         "rarity": "◊◊",
-        "description": "The leafy parts act as cutters for slashing foes.\nIt spits a fluid that dissolves everything."
+        "description": "The leafy parts act as cutters for slashing foes.\nIt spits a fluid that dissolves everything.",
+        "info": {
+            "national_pokedex": "0070",
+            "species": "Flycatcher Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "6.4 kg / 14.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_020_EN.webp",
@@ -546,7 +654,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "20",
         "rarity": "◊◊◊",
-        "description": "Said to live in huge colonies deep in jungles,\nalthough no one has ever returned from there."
+        "description": "Said to live in huge colonies deep in jungles,\nalthough no one has ever returned from there.",
+        "info": {
+            "national_pokedex": "0071",
+            "species": "Flycatcher Pokémon",
+            "height": "1.7 m / 5'07\"",
+            "weight": "15.5 kg / 34.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_021_EN.webp",
@@ -572,7 +686,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "21",
         "rarity": "◊",
-        "description": "Though it may look like it’s just a bunch of eggs,\nit’s a proper Pokémon. Exeggcute communicates\nwith others of its kind via telepathy, apparently."
+        "description": "Though it may look like it’s just a bunch of eggs,\nit’s a proper Pokémon. Exeggcute communicates\nwith others of its kind via telepathy, apparently.",
+        "info": {
+            "national_pokedex": "0102",
+            "species": "Egg Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "2.5 kg / 5.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_022_EN.webp",
@@ -598,7 +718,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "22",
         "rarity": "◊◊◊",
-        "description": "Each of Exeggutor’s three heads is thinking\ndifferent thoughts. The three don’t seem to be\nvery interested in one another."
+        "description": "Each of Exeggutor’s three heads is thinking\ndifferent thoughts. The three don’t seem to be\nvery interested in one another.",
+        "info": {
+            "national_pokedex": "0103",
+            "species": "Coconut Pokémon",
+            "height": "2.0 m / 6'07\"",
+            "weight": "120.0 kg / 264.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_023_EN.webp",
@@ -650,7 +776,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "24",
         "rarity": "◊",
-        "description": "Hidden beneath a tangle of vines that grows\nnonstop even if the vines are torn off, this\nPokémon’s true appearance remains a mystery."
+        "description": "Hidden beneath a tangle of vines that grows\nnonstop even if the vines are torn off, this\nPokémon’s true appearance remains a mystery.",
+        "info": {
+            "national_pokedex": "0114",
+            "species": "Vine Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "35.0 kg / 77.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_025_EN.webp",
@@ -676,7 +808,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "25",
         "rarity": "◊",
-        "description": "It slashes through grass with its sharp\nscythes, moving too fast for the human\neye to track."
+        "description": "It slashes through grass with its sharp\nscythes, moving too fast for the human\neye to track.",
+        "info": {
+            "national_pokedex": "0123",
+            "species": "Mantis Pokémon",
+            "height": "1.5 m / 4'11\"",
+            "weight": "56.0 kg / 123.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_026_EN.webp",
@@ -703,7 +841,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "26",
         "rarity": "◊◊",
-        "description": "These Pokémon judge one another based on\npincers. Thicker, more impressive pincers make\nfor more popularity with the opposite gender."
+        "description": "These Pokémon judge one another based on\npincers. Thicker, more impressive pincers make\nfor more popularity with the opposite gender.",
+        "info": {
+            "national_pokedex": "0127",
+            "species": "Stag Beetle Pokémon",
+            "height": "1.5 m / 4'11\"",
+            "weight": "55.0 kg / 121.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_027_EN.webp",
@@ -729,7 +873,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "27",
         "rarity": "◊",
-        "description": "It shoots cotton from its body to protect itself.\nIf it gets caught up in hurricane-strength winds,\nit can get sent to the other side of the Earth."
+        "description": "It shoots cotton from its body to protect itself.\nIf it gets caught up in hurricane-strength winds,\nit can get sent to the other side of the Earth.",
+        "info": {
+            "national_pokedex": "0546",
+            "species": "Cotton Puff Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "0.6 kg / 1.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_028_EN.webp",
@@ -755,7 +905,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "28",
         "rarity": "◊◊",
-        "description": "It scatters cotton all over the place as a prank. If\nit gets wet, it’ll become too heavy to move and\nhave no choice but to answer for its mischief."
+        "description": "It scatters cotton all over the place as a prank. If\nit gets wet, it’ll become too heavy to move and\nhave no choice but to answer for its mischief.",
+        "info": {
+            "national_pokedex": "0547",
+            "species": "Windveiled Pokémon",
+            "height": "0.7 m / 2'04\"",
+            "weight": "6.6 kg / 14.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_029_EN.webp",
@@ -781,7 +937,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "29",
         "rarity": "◊",
-        "description": "The leaves on its head grow right back even if\nthey fall out. These bitter leaves refresh those\nwho eat them."
+        "description": "The leaves on its head grow right back even if\nthey fall out. These bitter leaves refresh those\nwho eat them.",
+        "info": {
+            "national_pokedex": "0548",
+            "species": "Bulb Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "6.6 kg / 14.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_030_EN.webp",
@@ -808,7 +970,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "30",
         "rarity": "◊◊",
-        "description": "The fragrance of the garland on its head has\na relaxing effect, but taking care of it is very\ndifficult."
+        "description": "The fragrance of the garland on its head has\na relaxing effect, but taking care of it is very\ndifficult.",
+        "info": {
+            "national_pokedex": "0549",
+            "species": "Flowering Pokémon",
+            "height": "1.1 m / 3'07\"",
+            "weight": "16.3 kg / 35.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_031_EN.webp",
@@ -834,7 +1002,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "31",
         "rarity": "◊",
-        "description": "Until recently, people living in the mountains\nwould ride on the backs of these Pokémon to\ntraverse the mountain paths."
+        "description": "Until recently, people living in the mountains\nwould ride on the backs of these Pokémon to\ntraverse the mountain paths.",
+        "info": {
+            "national_pokedex": "0672",
+            "species": "Mount Pokémon",
+            "height": "0.9 m / 2'11\"",
+            "weight": "31.0 kg / 68.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_032_EN.webp",
@@ -862,7 +1036,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "32",
         "rarity": "◊",
-        "description": "It can sense the feelings of others by touching\nthem with its horns. This species has assisted\npeople with their work since 5,000 years ago."
+        "description": "It can sense the feelings of others by touching\nthem with its horns. This species has assisted\npeople with their work since 5,000 years ago.",
+        "info": {
+            "national_pokedex": "0673",
+            "species": "Mount Pokémon",
+            "height": "1.7 m / 5'07\"",
+            "weight": "91.0 kg / 200.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_033_EN.webp",
@@ -888,7 +1068,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "33",
         "rarity": "◊",
-        "description": "It has a preference for hot things. When it rains,\nsteam is said to spout from the tip of its tail."
+        "description": "It has a preference for hot things. When it rains,\nsteam is said to spout from the tip of its tail.",
+        "info": {
+            "national_pokedex": "0004",
+            "species": "Lizard Pokémon",
+            "height": "0.61 m / 2'00\"",
+            "weight": "8.5 kg / 18.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_034_EN.webp",
@@ -916,7 +1102,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "34",
         "rarity": "◊◊",
-        "description": "It has a barbaric nature. In battle, it whips its\nfiery tail around and slashes away with sharp claws."
+        "description": "It has a barbaric nature. In battle, it whips its\nfiery tail around and slashes away with sharp claws.",
+        "info": {
+            "national_pokedex": "0005",
+            "species": "Flame Pokémon",
+            "height": "1.1 m / 3'07\"",
+            "weight": "19.0 kg / 41.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_035_EN.webp",
@@ -945,7 +1137,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "35",
         "rarity": "◊◊◊",
-        "description": "It spits fire that is hot enough to melt boulders.\nIt may cause forest fires by blowing flames."
+        "description": "It spits fire that is hot enough to melt boulders.\nIt may cause forest fires by blowing flames.",
+        "info": {
+            "national_pokedex": "0006",
+            "species": "Flame Pokémon",
+            "height": "1.7 m / 5'07\"",
+            "weight": "90.5 kg / 199.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_036_EN.webp",
@@ -1009,7 +1207,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "37",
         "rarity": "◊",
-        "description": "While young, it has six gorgeous tails. When it\ngrows, several new tails are sprouted."
+        "description": "While young, it has six gorgeous tails. When it\ngrows, several new tails are sprouted.",
+        "info": {
+            "national_pokedex": "0037",
+            "species": "Fox Pokémon",
+            "height": "0.6 m / 2'00\"",
+            "weight": "9.9 kg / 21.8 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_038_EN.webp",
@@ -1036,7 +1240,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "38",
         "rarity": "◊◊",
-        "description": "It is said to live 1,000 years, and each of its tails\nis loaded with supernatural powers."
+        "description": "It is said to live 1,000 years, and each of its tails\nis loaded with supernatural powers.",
+        "info": {
+            "national_pokedex": "0038",
+            "species": "Fox Pokémon",
+            "height": "1.1 m / 3'07\"",
+            "weight": "19.9 kg / 43.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_039_EN.webp",
@@ -1063,7 +1273,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "39",
         "rarity": "◊",
-        "description": "It has a brave and trustworthy nature. It fearlessly\nstands up to bigger and stronger foes."
+        "description": "It has a brave and trustworthy nature. It fearlessly\nstands up to bigger and stronger foes.",
+        "info": {
+            "national_pokedex": "0058",
+            "species": "Puppy Pokémon",
+            "height": "0.7 m / 2'04\"",
+            "weight": "19.0 kg / 41.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_040_EN.webp",
@@ -1091,7 +1307,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "40",
         "rarity": "◊◊◊",
-        "description": "An ancient picture scroll shows that people\nwere captivated by its movement as it ran\nthrough prairies."
+        "description": "An ancient picture scroll shows that people\nwere captivated by its movement as it ran\nthrough prairies.",
+        "info": {
+            "national_pokedex": "0059",
+            "species": "Legendary Pokémon",
+            "height": "1.9 m / 6'03\"",
+            "weight": "155.0 kg / 341.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_041_EN.webp",
@@ -1144,7 +1366,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "42",
         "rarity": "◊",
-        "description": "It can’t run properly when it’s newly born.\nAs it races around with others of its kind,\nits legs grow stronger."
+        "description": "It can’t run properly when it’s newly born.\nAs it races around with others of its kind,\nits legs grow stronger.",
+        "info": {
+            "national_pokedex": "0077",
+            "species": "Fire Horse Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "30.0 kg / 66.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_043_EN.webp",
@@ -1170,7 +1398,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "43",
         "rarity": "◊◊",
-        "description": "This Pokémon can be seen galloping through\nfields at speeds of up to 150 mph, its fiery mane\nfluttering in the wind."
+        "description": "This Pokémon can be seen galloping through\nfields at speeds of up to 150 mph, its fiery mane\nfluttering in the wind.",
+        "info": {
+            "national_pokedex": "0078",
+            "species": "Fire Horse Pokémon",
+            "height": "1.7 m / 5'07\"",
+            "weight": "95.0 kg / 209.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_044_EN.webp",
@@ -1197,7 +1431,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "44",
         "rarity": "◊",
-        "description": "Magmar dispatches its prey with fire. But it\nregrets this habit once it realizes that it has\nburned its intended prey to a charred crisp."
+        "description": "Magmar dispatches its prey with fire. But it\nregrets this habit once it realizes that it has\nburned its intended prey to a charred crisp.",
+        "info": {
+            "national_pokedex": "0126",
+            "species": "Spitfire Pokémon",
+            "height": "1.3 m / 4'03\"",
+            "weight": "44.5 kg / 98.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_045_EN.webp",
@@ -1225,7 +1465,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "45",
         "rarity": "◊◊◊",
-        "description": "Inhaled air is carried to its flame sac, heated, and\nexhaled as fire that reaches over 3,000 degrees\nFahrenheit."
+        "description": "Inhaled air is carried to its flame sac, heated, and\nexhaled as fire that reaches over 3,000 degrees\nFahrenheit.",
+        "info": {
+            "national_pokedex": "0136",
+            "species": "Flame Pokémon",
+            "height": "0.9 m / 2'11\"",
+            "weight": "25.0 kg / 55.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_046_EN.webp",
@@ -1253,7 +1499,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "46",
         "rarity": "◊◊◊",
-        "description": "It’s one of the legendary bird Pokémon. When\nMoltres flaps its flaming wings, they glimmer with\na dazzling red glow."
+        "description": "It’s one of the legendary bird Pokémon. When\nMoltres flaps its flaming wings, they glimmer with\na dazzling red glow.",
+        "info": {
+            "national_pokedex": "0146",
+            "species": "Flame Pokémon",
+            "height": "2.0 m / 6'07\"",
+            "weight": "60.0 kg / 132.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_047_EN.webp",
@@ -1314,7 +1566,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "48",
         "rarity": "◊",
-        "description": "There’s a hole in its tail that allows it to draw in\nthe air it needs to keep its fire burning. If the\nhole gets blocked, this Pokémon will fall ill."
+        "description": "There’s a hole in its tail that allows it to draw in\nthe air it needs to keep its fire burning. If the\nhole gets blocked, this Pokémon will fall ill.",
+        "info": {
+            "national_pokedex": "0631",
+            "species": "Anteater Pokémon",
+            "height": "1.4 m / 4'07\"",
+            "weight": "58.0 kg / 127.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_049_EN.webp",
@@ -1340,7 +1598,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "49",
         "rarity": "◊",
-        "description": "It taunts its prey and lures them into narrow,\nrocky areas where it then sprays them with toxic\ngas to make them dizzy and take them down."
+        "description": "It taunts its prey and lures them into narrow,\nrocky areas where it then sprays them with toxic\ngas to make them dizzy and take them down.",
+        "info": {
+            "national_pokedex": "0757",
+            "species": "Toxic Lizard Pokémon",
+            "height": "0.6 m / 2'00\"",
+            "weight": "4.8 kg / 10.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_050_EN.webp",
@@ -1367,7 +1631,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "50",
         "rarity": "◊",
-        "description": "Salazzle makes its opponents light-headed with\npoisonous gas, then captivates them with alluring\nmovements to turn them into loyal servants."
+        "description": "Salazzle makes its opponents light-headed with\npoisonous gas, then captivates them with alluring\nmovements to turn them into loyal servants.",
+        "info": {
+            "national_pokedex": "0758",
+            "species": "Toxic Lizard Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "22.2 kg / 48.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_051_EN.webp",
@@ -1393,7 +1663,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "51",
         "rarity": "◊",
-        "description": "It stores flammable gas in its body and uses it to\ngenerate heat. The yellow sections on its belly\nget particularly hot."
+        "description": "It stores flammable gas in its body and uses it to\ngenerate heat. The yellow sections on its belly\nget particularly hot.",
+        "info": {
+            "national_pokedex": "0850",
+            "species": "Radiator Pokémon",
+            "height": "0.7 m / 2'04\"",
+            "weight": "1.0 kg / 2.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_052_EN.webp",
@@ -1422,7 +1698,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "52",
         "rarity": "◊◊",
-        "description": "When it heats up, its body temperature reaches\nabout 1,500 degrees Fahrenheit. It lashes its\nbody like a whip and launches itself at enemies."
+        "description": "When it heats up, its body temperature reaches\nabout 1,500 degrees Fahrenheit. It lashes its\nbody like a whip and launches itself at enemies.",
+        "info": {
+            "national_pokedex": "0851",
+            "species": "Radiator Pokémon",
+            "height": "3.0 m / 9'10\"",
+            "weight": "120.0 kg / 264.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_053_EN.webp",
@@ -1448,7 +1730,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "53",
         "rarity": "◊",
-        "description": "When it retracts its long neck into its shell, it\nsquirts out water with vigorous force."
+        "description": "When it retracts its long neck into its shell, it\nsquirts out water with vigorous force.",
+        "info": {
+            "national_pokedex": "0007",
+            "species": "Tiny Turtle Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "9.0 kg / 19.8 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_054_EN.webp",
@@ -1475,7 +1763,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "54",
         "rarity": "◊◊",
-        "description": "It is recognized as a symbol of longevity. If its\nshell has algae on it, that Wartortle is very old."
+        "description": "It is recognized as a symbol of longevity. If its\nshell has algae on it, that Wartortle is very old.",
+        "info": {
+            "national_pokedex": "0008",
+            "species": "Turtle Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "22.5 kg / 49.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_055_EN.webp",
@@ -1503,7 +1797,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "55",
         "rarity": "◊◊◊",
-        "description": "It crushes its foe under its heavy body to cause\nfainting. In a pinch, it will withdraw inside its shell."
+        "description": "It crushes its foe under its heavy body to cause\nfainting. In a pinch, it will withdraw inside its shell.",
+        "info": {
+            "national_pokedex": "0009",
+            "species": "Shellfish Pokémon",
+            "height": "1.6 m / 5'03\"",
+            "weight": "85.5 kg / 188.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_056_EN.webp",
@@ -1565,7 +1865,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "57",
         "rarity": "◊",
-        "description": "It is constantly wracked by a headache. When the\nheadache turns intense, it begins using mysterious\npowers."
+        "description": "It is constantly wracked by a headache. When the\nheadache turns intense, it begins using mysterious\npowers.",
+        "info": {
+            "national_pokedex": "0054",
+            "species": "Duck Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "19.6 kg / 43.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_058_EN.webp",
@@ -1592,7 +1898,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "58",
         "rarity": "◊◊",
-        "description": "When it swims at full speed using its long,\nwebbed limbs, its forehead somehow begins\nto glow."
+        "description": "When it swims at full speed using its long,\nwebbed limbs, its forehead somehow begins\nto glow.",
+        "info": {
+            "national_pokedex": "0055",
+            "species": "Duck Pokémon",
+            "height": "1.7 m / 5'07\"",
+            "weight": "76.6 kg / 168.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_059_EN.webp",
@@ -1618,7 +1930,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "59",
         "rarity": "◊",
-        "description": "For Poliwag, swimming is easier than walking.\nThe swirl pattern on its belly is actually part of\nthe Pokémon’s innards showing through the skin."
+        "description": "For Poliwag, swimming is easier than walking.\nThe swirl pattern on its belly is actually part of\nthe Pokémon’s innards showing through the skin.",
+        "info": {
+            "national_pokedex": "0060",
+            "species": "Tadpole Pokémon",
+            "height": "0.6 m / 2'00\"",
+            "weight": "12.4 kg / 27.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_060_EN.webp",
@@ -1645,7 +1963,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "60",
         "rarity": "◊◊",
-        "description": "Staring at the swirl on its belly causes drowsiness.\nThis trait of Poliwhirl’s has been used in place of\nlullabies to get children to go to sleep."
+        "description": "Staring at the swirl on its belly causes drowsiness.\nThis trait of Poliwhirl’s has been used in place of\nlullabies to get children to go to sleep.",
+        "info": {
+            "national_pokedex": "0061",
+            "species": "Tadpole Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "20.0 kg / 44.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_061_EN.webp",
@@ -1673,7 +1997,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "61",
         "rarity": "◊◊◊",
-        "description": "Its body is solid muscle. When swimming through\ncold seas, Poliwrath uses its impressive arms to\nsmash through drift ice and plow forward."
+        "description": "Its body is solid muscle. When swimming through\ncold seas, Poliwrath uses its impressive arms to\nsmash through drift ice and plow forward.",
+        "info": {
+            "national_pokedex": "0062",
+            "species": "Tadpole Pokémon",
+            "height": "1.3 m / 4'03\"",
+            "weight": "54.0 kg / 119.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_062_EN.webp",
@@ -1699,7 +2029,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "62",
         "rarity": "◊",
-        "description": "Tentacool is not a particularly strong swimmer.\nIt drifts across the surface of shallow seas as it\nsearches for prey."
+        "description": "Tentacool is not a particularly strong swimmer.\nIt drifts across the surface of shallow seas as it\nsearches for prey.",
+        "info": {
+            "national_pokedex": "0072",
+            "species": "Jellyfish Pokémon",
+            "height": "0.9 m / 2'11\"",
+            "weight": "45.5 kg / 100.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_063_EN.webp",
@@ -1726,7 +2062,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "63",
         "rarity": "◊◊",
-        "description": "When the red orbs on Tentacruel’s head glow\nbrightly, watch out. The Pokémon is about to\nfire off a burst of ultrasonic waves."
+        "description": "When the red orbs on Tentacruel’s head glow\nbrightly, watch out. The Pokémon is about to\nfire off a burst of ultrasonic waves.",
+        "info": {
+            "national_pokedex": "0073",
+            "species": "Jellyfish Pokémon",
+            "height": "1.6 m / 5'03\"",
+            "weight": "55.0 kg / 121.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_064_EN.webp",
@@ -1753,7 +2095,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "64",
         "rarity": "◊",
-        "description": "Thanks to its thick fat, cold seas don’t bother it\nat all, but it gets tired pretty easily in\nwarm waters."
+        "description": "Thanks to its thick fat, cold seas don’t bother it\nat all, but it gets tired pretty easily in\nwarm waters.",
+        "info": {
+            "national_pokedex": "0086",
+            "species": "Sea Lion Pokémon",
+            "height": "1.1 m / 3'07\"",
+            "weight": "90.0 kg / 198.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_065_EN.webp",
@@ -1781,7 +2129,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "65",
         "rarity": "◊◊",
-        "description": "It sunbathes on the beach after meals. The rise\nin its body temperature helps its digestion."
+        "description": "It sunbathes on the beach after meals. The rise\nin its body temperature helps its digestion.",
+        "info": {
+            "national_pokedex": "0087",
+            "species": "Sea Lion Pokémon",
+            "height": "1.7 m / 5'07\"",
+            "weight": "120.0 kg / 264.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_066_EN.webp",
@@ -1807,7 +2161,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "66",
         "rarity": "◊",
-        "description": "It is encased in a shell that is harder than diamond.\nInside, however, it is surprisingly tender."
+        "description": "It is encased in a shell that is harder than diamond.\nInside, however, it is surprisingly tender.",
+        "info": {
+            "national_pokedex": "0090",
+            "species": "Bivalve Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "4.0 kg / 8.8 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_067_EN.webp",
@@ -1835,7 +2195,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "67",
         "rarity": "◊◊",
-        "description": "Cloyster that live in seas with harsh tidal currents\ngrow large, sharp spikes on their shells."
+        "description": "Cloyster that live in seas with harsh tidal currents\ngrow large, sharp spikes on their shells.",
+        "info": {
+            "national_pokedex": "0091",
+            "species": "Bivalve Pokémon",
+            "height": "1.5 m / 4'11\"",
+            "weight": "132.5 kg / 292.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_068_EN.webp",
@@ -1862,7 +2228,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "68",
         "rarity": "◊",
-        "description": "It can be found near the sea. The large pincers\ngrow back if they are torn out of their sockets."
+        "description": "It can be found near the sea. The large pincers\ngrow back if they are torn out of their sockets.",
+        "info": {
+            "national_pokedex": "0098",
+            "species": "River Crab Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "6.5 kg / 14.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_069_EN.webp",
@@ -1890,7 +2262,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "69",
         "rarity": "◊◊",
-        "description": "Its large and hard pincer has 10,000-horsepower\nstrength. However, being so big, it is unwieldy\nto move."
+        "description": "Its large and hard pincer has 10,000-horsepower\nstrength. However, being so big, it is unwieldy\nto move.",
+        "info": {
+            "national_pokedex": "0099",
+            "species": "Pincer Pokémon",
+            "height": "1.3 m / 4'03\"",
+            "weight": "60.0 kg / 132.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_070_EN.webp",
@@ -1916,7 +2294,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "70",
         "rarity": "◊",
-        "description": "Horsea makes its home in oceans with gentle\ncurrents. If this Pokémon is under attack, it spits\nout pitch-black ink and escapes."
+        "description": "Horsea makes its home in oceans with gentle\ncurrents. If this Pokémon is under attack, it spits\nout pitch-black ink and escapes.",
+        "info": {
+            "national_pokedex": "0116",
+            "species": "Dragon Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "8.0 kg / 17.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_071_EN.webp",
@@ -1944,7 +2328,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "71",
         "rarity": "◊◊",
-        "description": "It’s the males that raise the offspring. While\nSeadra are raising young, the spines on their\nbacks secrete thicker and stronger poison."
+        "description": "It’s the males that raise the offspring. While\nSeadra are raising young, the spines on their\nbacks secrete thicker and stronger poison.",
+        "info": {
+            "national_pokedex": "0117",
+            "species": "Dragon Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "25.0 kg / 55.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_072_EN.webp",
@@ -1970,7 +2360,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "72",
         "rarity": "◊",
-        "description": "Its dorsal, pectoral, and tail fins wave elegantly\nin water. That is why it is known as the Water Dancer."
+        "description": "Its dorsal, pectoral, and tail fins wave elegantly\nin water. That is why it is known as the Water Dancer.",
+        "info": {
+            "national_pokedex": "0118",
+            "species": "Goldfish Pokémon",
+            "height": "0.6 m / 2'00\"",
+            "weight": "15.0 kg / 33.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_073_EN.webp",
@@ -1996,7 +2392,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "73",
         "rarity": "◊",
-        "description": "In autumn, its body becomes more fatty in\npreparing to propose to a mate. It takes on\nbeautiful colors."
+        "description": "In autumn, its body becomes more fatty in\npreparing to propose to a mate. It takes on\nbeautiful colors.",
+        "info": {
+            "national_pokedex": "0119",
+            "species": "Goldfish Pokémon",
+            "height": "1.3 m / 4'03\"",
+            "weight": "39.0 kg / 86.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_074_EN.webp",
@@ -2022,7 +2424,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "74",
         "rarity": "◊",
-        "description": "If you visit a beach at the end of summer, you’ll\nbe able to see groups of Staryu lighting up in a\nsteady rhythm."
+        "description": "If you visit a beach at the end of summer, you’ll\nbe able to see groups of Staryu lighting up in a\nsteady rhythm.",
+        "info": {
+            "national_pokedex": "0120",
+            "species": "Star Shape Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "34.5 kg / 76.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_075_EN.webp",
@@ -2048,7 +2456,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "75",
         "rarity": "◊◊",
-        "description": "This Pokémon has an organ known as its core.\nThe organ glows in seven colors when Starmie is\nunleashing its potent psychic powers."
+        "description": "This Pokémon has an organ known as its core.\nThe organ glows in seven colors when Starmie is\nunleashing its potent psychic powers.",
+        "info": {
+            "national_pokedex": "0121",
+            "species": "Mysterious Pokémon",
+            "height": "1.1 m / 3'07\"",
+            "weight": "80.0 kg / 176.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_076_EN.webp",
@@ -2100,7 +2514,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "77",
         "rarity": "◊",
-        "description": "An underpowered, pathetic Pokémon. It may\njump high on rare occasions but never more\nthan seven feet."
+        "description": "An underpowered, pathetic Pokémon. It may\njump high on rare occasions but never more\nthan seven feet.",
+        "info": {
+            "national_pokedex": "0129",
+            "species": "Fish Pokémon",
+            "height": "0.9 m / 2'11\"",
+            "weight": "10.0 kg / 22.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_078_EN.webp",
@@ -2129,7 +2549,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "78",
         "rarity": "◊◊◊",
-        "description": "Once it appears, it goes on a rampage.\nIt remains enraged until it demolishes\neverything around it."
+        "description": "Once it appears, it goes on a rampage.\nIt remains enraged until it demolishes\neverything around it.",
+        "info": {
+            "national_pokedex": "0130",
+            "species": "Atrocious Pokémon",
+            "height": "6.5 m / 21'04\"",
+            "weight": "235.0 kg / 518.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_079_EN.webp",
@@ -2155,7 +2581,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "79",
         "rarity": "◊◊◊",
-        "description": "A smart and kindhearted Pokémon,\nit glides across the surface of the sea while\nits beautiful song echoes around it."
+        "description": "A smart and kindhearted Pokémon,\nit glides across the surface of the sea while\nits beautiful song echoes around it.",
+        "info": {
+            "national_pokedex": "0131",
+            "species": "Transport Pokémon",
+            "height": "2.5 m / 8'02\"",
+            "weight": "220.5 kg / 485.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_080_EN.webp",
@@ -2183,7 +2615,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "80",
         "rarity": "◊◊◊",
-        "description": "It lives close to water. Its long tail is ridged with\na fin, which is often mistaken for a mermaid’s."
+        "description": "It lives close to water. Its long tail is ridged with\na fin, which is often mistaken for a mermaid’s.",
+        "info": {
+            "national_pokedex": "0134",
+            "species": "Bubble Jet Pokémon",
+            "height": "1 m / 3'03\"",
+            "weight": "29 kg / 63.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_081_EN.webp",
@@ -2209,7 +2647,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "81",
         "rarity": "◊◊",
-        "description": "Because some Omanyte manage to escape after\nbeing restored or are released into the wild by\npeople, this species is becoming a problem."
+        "description": "Because some Omanyte manage to escape after\nbeing restored or are released into the wild by\npeople, this species is becoming a problem.",
+        "info": {
+            "national_pokedex": "0138",
+            "species": "Spiral Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "7.5 kg / 16.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_082_EN.webp",
@@ -2237,7 +2681,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "82",
         "rarity": "◊◊◊",
-        "description": "Weighed down by a large and heavy shell,\nOmastar couldn’t move very fast. Some say it\nwent extinct because it was unable to catch food."
+        "description": "Weighed down by a large and heavy shell,\nOmastar couldn’t move very fast. Some say it\nwent extinct because it was unable to catch food.",
+        "info": {
+            "national_pokedex": "0139",
+            "species": "Spiral Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "35.0 kg / 77.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_083_EN.webp",
@@ -2265,7 +2715,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "83",
         "rarity": "◊◊◊",
-        "description": "It’s said that this Pokémon’s beautiful blue wings\nare made of ice. Articuno flies over snowy\nmountains, its long tail fluttering along behind it."
+        "description": "It’s said that this Pokémon’s beautiful blue wings\nare made of ice. Articuno flies over snowy\nmountains, its long tail fluttering along behind it.",
+        "info": {
+            "national_pokedex": "0144",
+            "species": "Freeze Pokémon",
+            "height": "1.7 m / 5'07\"",
+            "weight": "55.4 kg / 122.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_084_EN.webp",
@@ -2328,7 +2784,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "85",
         "rarity": "◊",
-        "description": "When attacked, it uses its feathers to splash water,\nescaping under cover of the spray."
+        "description": "When attacked, it uses its feathers to splash water,\nescaping under cover of the spray.",
+        "info": {
+            "national_pokedex": "0580",
+            "species": "Water Bird Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "5.5 kg / 12.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_086_EN.webp",
@@ -2356,7 +2818,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "86",
         "rarity": "◊◊",
-        "description": "Despite their elegant appearance, they can flap\ntheir wings strongly and fly for thousands of miles."
+        "description": "Despite their elegant appearance, they can flap\ntheir wings strongly and fly for thousands of miles.",
+        "info": {
+            "national_pokedex": "0581",
+            "species": "White Bird Pokémon",
+            "height": "1.3 m / 4'03\"",
+            "weight": "24.2 kg / 53.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_087_EN.webp",
@@ -2382,7 +2850,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "87",
         "rarity": "◊",
-        "description": "It secretes flexible bubbles from its chest and back.\nThe bubbles reduce the damage it would otherwise\ntake when attacked."
+        "description": "It secretes flexible bubbles from its chest and back.\nThe bubbles reduce the damage it would otherwise\ntake when attacked.",
+        "info": {
+            "national_pokedex": "0656",
+            "species": "Bubble Frog Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "7.0 kg / 15.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_088_EN.webp",
@@ -2408,7 +2882,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "88",
         "rarity": "◊◊",
-        "description": "It can throw bubble-covered pebbles with precise \ncontrol, hitting empty cans up to a hundred feet away."
+        "description": "It can throw bubble-covered pebbles with precise \ncontrol, hitting empty cans up to a hundred feet away.",
+        "info": {
+            "national_pokedex": "0657",
+            "species": "Bubble Frog Pokémon",
+            "height": "0.6 m / 2'00\"",
+            "weight": "10.9 kg / 24.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_089_EN.webp",
@@ -2435,7 +2915,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "89",
         "rarity": "◊◊◊",
-        "description": "It creates throwing stars out of compressed water. \nWhen it spins them and throws them at high speed, \nthese stars can split metal in two."
+        "description": "It creates throwing stars out of compressed water. \nWhen it spins them and throws them at high speed, \nthese stars can split metal in two.",
+        "info": {
+            "national_pokedex": "0658",
+            "species": "Ninja Pokémon",
+            "height": "1.5 m / 4'11\"",
+            "weight": "40.0 kg / 88.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_090_EN.webp",
@@ -2461,7 +2947,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "90",
         "rarity": "◊",
-        "description": "It lives in warm, shallow waters. If it encounters a\nfoe, it will spit out its internal organs as a means\nto punch them."
+        "description": "It lives in warm, shallow waters. If it encounters a\nfoe, it will spit out its internal organs as a means\nto punch them.",
+        "info": {
+            "national_pokedex": "0771",
+            "species": "Sea Cucumber Pokémon",
+            "height": "0.31 m / 1'00\"",
+            "weight": "1.18 kg / 2.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_091_EN.webp",
@@ -2488,7 +2980,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "91",
         "rarity": "◊◊",
-        "description": "It grinds its teeth with great force to stimulate\nits brain. It fires the psychic energy created by\nthis process from the protuberance on its head."
+        "description": "It grinds its teeth with great force to stimulate\nits brain. It fires the psychic energy created by\nthis process from the protuberance on its head.",
+        "info": {
+            "national_pokedex": "0779",
+            "species": "Gnash Teeth Pokémon",
+            "height": "0.9 m / 2'11\"",
+            "weight": "19.0 kg / 41.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_092_EN.webp",
@@ -2514,7 +3012,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "92",
         "rarity": "◊",
-        "description": "It eats snow that has accumulated on the ground.\nIt prefers soft, freshly fallen snow, so it will eat its\nway up a mountain, aiming for the peak."
+        "description": "It eats snow that has accumulated on the ground.\nIt prefers soft, freshly fallen snow, so it will eat its\nway up a mountain, aiming for the peak.",
+        "info": {
+            "national_pokedex": "0872",
+            "species": "Worm Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "3.8 kg / 8.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_093_EN.webp",
@@ -2541,7 +3045,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "93",
         "rarity": "◊◊",
-        "description": "Frosmoth senses air currents with its antennae.\nIt sends its scales drifting on frigid air, making\nthem fall like snow."
+        "description": "Frosmoth senses air currents with its antennae.\nIt sends its scales drifting on frigid air, making\nthem fall like snow.",
+        "info": {
+            "national_pokedex": "0873",
+            "species": "Frost Moth Pokémon",
+            "height": "1.3 m / 4'03\"",
+            "weight": "42.0 kg / 92.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_094_EN.webp",
@@ -2567,7 +3077,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "94",
         "rarity": "◊",
-        "description": "When it is angered, it immediately discharges the\nenergy stored in the pouches in its cheeks."
+        "description": "When it is angered, it immediately discharges the\nenergy stored in the pouches in its cheeks.",
+        "info": {
+            "national_pokedex": "0025",
+            "species": "Mouse Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "6.0 kg / 13.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_095_EN.webp",
@@ -2595,7 +3111,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "95",
         "rarity": "◊◊◊",
-        "description": "Its tail discharges electricity into the ground,\nprotecting it from getting shocked."
+        "description": "Its tail discharges electricity into the ground,\nprotecting it from getting shocked.",
+        "info": {
+            "national_pokedex": "0026",
+            "species": "Mouse Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "30.0 kg / 66.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_096_EN.webp",
@@ -2647,7 +3169,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "97",
         "rarity": "◊",
-        "description": "The electromagnetic waves emitted by the units\nat the sides of its head expel antigravity, which\nallows it to float."
+        "description": "The electromagnetic waves emitted by the units\nat the sides of its head expel antigravity, which\nallows it to float.",
+        "info": {
+            "national_pokedex": "0081",
+            "species": "Magnet Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "6.0 kg / 13.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_098_EN.webp",
@@ -2676,7 +3204,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "98",
         "rarity": "◊◊◊",
-        "description": "Three Magnemite are linked by a strong magnetic\nforce. Earaches will occur if you get too close."
+        "description": "Three Magnemite are linked by a strong magnetic\nforce. Earaches will occur if you get too close.",
+        "info": {
+            "national_pokedex": "0082",
+            "species": "Magnet Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "60.0 kg / 132.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_099_EN.webp",
@@ -2702,7 +3236,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "99",
         "rarity": "◊",
-        "description": "It rolls to move. If the ground is uneven, a sudden\njolt from hitting a bump can cause it to explode."
+        "description": "It rolls to move. If the ground is uneven, a sudden\njolt from hitting a bump can cause it to explode.",
+        "info": {
+            "national_pokedex": "0100",
+            "species": "Ball Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "10.4 kg / 22.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_100_EN.webp",
@@ -2729,7 +3269,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "100",
         "rarity": "◊◊",
-        "description": "The more energy it charges up, the faster\nit gets. But this also makes it more likely\nto explode."
+        "description": "The more energy it charges up, the faster\nit gets. But this also makes it more likely\nto explode.",
+        "info": {
+            "national_pokedex": "0101",
+            "species": "Ball Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "66.6 kg / 146.8 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_101_EN.webp",
@@ -2756,7 +3302,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "101",
         "rarity": "◊",
-        "description": "Many power plants keep Ground-type Pokémon\naround as a defense against Electabuzz that\ncome seeking electricity."
+        "description": "Many power plants keep Ground-type Pokémon\naround as a defense against Electabuzz that\ncome seeking electricity.",
+        "info": {
+            "national_pokedex": "0125",
+            "species": "Electric Pokémon",
+            "height": "1.1 m / 3'07\"",
+            "weight": "30.0 kg / 66.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_102_EN.webp",
@@ -2783,7 +3335,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "102",
         "rarity": "◊◊◊",
-        "description": "It concentrates the weak electric charges emitted\nby its cells and launches wicked lightning bolts."
+        "description": "It concentrates the weak electric charges emitted\nby its cells and launches wicked lightning bolts.",
+        "info": {
+            "national_pokedex": "0135",
+            "species": "Lightning Pokémon",
+            "height": "0.79 m / 2'07\"",
+            "weight": "24.5 kg / 54.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_103_EN.webp",
@@ -2811,7 +3369,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "103",
         "rarity": "◊◊◊",
-        "description": "This Pokémon has complete control over\nelectricity. There are tales of Zapdos nesting in\nthe dark depths of pitch-black thunderclouds."
+        "description": "This Pokémon has complete control over\nelectricity. There are tales of Zapdos nesting in\nthe dark depths of pitch-black thunderclouds.",
+        "info": {
+            "national_pokedex": "0145",
+            "species": "Electric Pokémon",
+            "height": "1.6 m / 5'03\"",
+            "weight": "52.6 kg / 116.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_104_EN.webp",
@@ -2872,7 +3436,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "105",
         "rarity": "◊",
-        "description": "When thunderclouds cover the sky, it will appear.\nIt can catch lightning with its mane and store\nthe electricity."
+        "description": "When thunderclouds cover the sky, it will appear.\nIt can catch lightning with its mane and store\nthe electricity.",
+        "info": {
+            "national_pokedex": "0522",
+            "species": "Electrified Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "29.8 kg / 65.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_106_EN.webp",
@@ -2898,7 +3468,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "106",
         "rarity": "◊◊",
-        "description": "When this ill-tempered Pokémon runs wild, it\nshoots lightning from its mane in all directions."
+        "description": "When this ill-tempered Pokémon runs wild, it\nshoots lightning from its mane in all directions.",
+        "info": {
+            "national_pokedex": "0523",
+            "species": "Thunderbolt Pokémon",
+            "height": "1.6 m / 5'03\"",
+            "weight": "79.5 kg / 175.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_107_EN.webp",
@@ -2924,7 +3500,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "107",
         "rarity": "◊",
-        "description": "While one alone doesn’t have much power,\na chain of many Tynamo can be as powerful\nas lightning."
+        "description": "While one alone doesn’t have much power,\na chain of many Tynamo can be as powerful\nas lightning.",
+        "info": {
+            "national_pokedex": "0602",
+            "species": "EleFish Pokémon",
+            "height": "0.2 m / 0'08\"",
+            "weight": "0.3 kg / 0.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_108_EN.webp",
@@ -2950,7 +3532,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "108",
         "rarity": "◊◊",
-        "description": "They coil around foes and shock them with\nelectricity-generating organs that seem simply\nto be circular patterns."
+        "description": "They coil around foes and shock them with\nelectricity-generating organs that seem simply\nto be circular patterns.",
+        "info": {
+            "national_pokedex": "0603",
+            "species": "EleFish Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "22.0 kg / 48.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_109_EN.webp",
@@ -2978,7 +3566,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "109",
         "rarity": "◊◊◊",
-        "description": "They crawl out of the ocean using their arms.\nThey will attack prey on shore and immediately\ndrag it into the ocean."
+        "description": "They crawl out of the ocean using their arms.\nThey will attack prey on shore and immediately\ndrag it into the ocean.",
+        "info": {
+            "national_pokedex": "0604",
+            "species": "EleFish Pokémon",
+            "height": "2.1 m / 6'11\"",
+            "weight": "85.5 kg / 177.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_110_EN.webp",
@@ -3004,7 +3598,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "110",
         "rarity": "◊",
-        "description": "When spread, the frills on its head act like solar\npanels, generating the power behind this\nPokémon’s electric moves."
+        "description": "When spread, the frills on its head act like solar\npanels, generating the power behind this\nPokémon’s electric moves.",
+        "info": {
+            "national_pokedex": "0694",
+            "species": "Generator Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "6.0 kg / 13.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_111_EN.webp",
@@ -3031,7 +3631,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "111",
         "rarity": "◊",
-        "description": "One Heliolisk basking in the sun with its frill\noutspread is all it would take to produce enough\nelectricity to power a city."
+        "description": "One Heliolisk basking in the sun with its frill\noutspread is all it would take to produce enough\nelectricity to power a city.",
+        "info": {
+            "national_pokedex": "0695",
+            "species": "Generator Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "21.0 kg / 46.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_112_EN.webp",
@@ -3058,7 +3664,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "112",
         "rarity": "◊◊",
-        "description": "This Pokémon generates electricity when it\ndigests food. It uses its five hard teeth to scrape\nseaweed off surfaces and eat it."
+        "description": "This Pokémon generates electricity when it\ndigests food. It uses its five hard teeth to scrape\nseaweed off surfaces and eat it.",
+        "info": {
+            "national_pokedex": "0871",
+            "species": "Sea Urchin Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "1.0 kg / 2.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_113_EN.webp",
@@ -3084,7 +3696,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "113",
         "rarity": "◊",
-        "description": "It is said that happiness will come to those who\nsee a gathering of Clefairy dancing under a\nfull moon."
+        "description": "It is said that happiness will come to those who\nsee a gathering of Clefairy dancing under a\nfull moon.",
+        "info": {
+            "national_pokedex": "0035",
+            "species": "Fairy Pokémon",
+            "height": "0.6 m / 2'00\"",
+            "weight": "7.5 kg / 16.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_114_EN.webp",
@@ -3110,7 +3728,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "114",
         "rarity": "◊◊",
-        "description": "A timid fairy Pokémon that is rarely seen, it will\nrun and hide the moment it senses people."
+        "description": "A timid fairy Pokémon that is rarely seen, it will\nrun and hide the moment it senses people.",
+        "info": {
+            "national_pokedex": "0036",
+            "species": "Fairy Pokémon",
+            "height": "1.3 m / 4'03\"",
+            "weight": "40.0 kg / 88.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_115_EN.webp",
@@ -3136,7 +3760,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "115",
         "rarity": "◊",
-        "description": "This Pokémon uses its psychic powers while it\nsleeps. The contents of Abra’s dreams affect the\npowers that the Pokémon wields."
+        "description": "This Pokémon uses its psychic powers while it\nsleeps. The contents of Abra’s dreams affect the\npowers that the Pokémon wields.",
+        "info": {
+            "national_pokedex": "0063",
+            "species": "Psi Pokémon",
+            "height": "0.9 m / 2'11\"",
+            "weight": "19.5 kg / 43.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_116_EN.webp",
@@ -3164,7 +3794,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "116",
         "rarity": "◊◊",
-        "description": "Using its psychic power, Kadabra levitates as it\nsleeps. It uses its springy tail as a pillow."
+        "description": "Using its psychic power, Kadabra levitates as it\nsleeps. It uses its springy tail as a pillow.",
+        "info": {
+            "national_pokedex": "0064",
+            "species": "Psi Pokémon",
+            "height": "1.3 m / 4'03\"",
+            "weight": "56.7 kg / 124.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_117_EN.webp",
@@ -3192,7 +3828,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "117",
         "rarity": "◊◊◊",
-        "description": "It has an incredibly high level of intelligence.\nSome say that Alakazam remembers everything\nthat ever happens to it, from birth till death."
+        "description": "It has an incredibly high level of intelligence.\nSome say that Alakazam remembers everything\nthat ever happens to it, from birth till death.",
+        "info": {
+            "national_pokedex": "0065",
+            "species": "Psi Pokémon",
+            "height": "1.5 m / 4'11\"",
+            "weight": "48.0 kg / 105.8 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_118_EN.webp",
@@ -3219,7 +3861,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "118",
         "rarity": "◊",
-        "description": "It is incredibly slow and dopey. It takes five\nseconds for it to feel pain when under attack."
+        "description": "It is incredibly slow and dopey. It takes five\nseconds for it to feel pain when under attack.",
+        "info": {
+            "national_pokedex": "0079",
+            "species": "Dopey Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "36.0 kg / 79.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_119_EN.webp",
@@ -3247,7 +3895,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "119",
         "rarity": "◊◊",
-        "description": "When a Slowpoke went hunting in the sea, its tail\nwas bitten by a Shellder. That made it evolve\ninto Slowbro."
+        "description": "When a Slowpoke went hunting in the sea, its tail\nwas bitten by a Shellder. That made it evolve\ninto Slowbro.",
+        "info": {
+            "national_pokedex": "0080",
+            "species": "Hermit Crab Pokémon",
+            "height": "1.6 m / 5'03\"",
+            "weight": "78.5 kg / 173.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_120_EN.webp",
@@ -3273,7 +3927,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "120",
         "rarity": "◊",
-        "description": "It wraps its opponent in its gas-like body,\nslowly weakening its prey by poisoning it\nthrough the skin."
+        "description": "It wraps its opponent in its gas-like body,\nslowly weakening its prey by poisoning it\nthrough the skin.",
+        "info": {
+            "national_pokedex": "0092",
+            "species": "Gas Pokémon",
+            "height": "1.3 m / 4'03\"",
+            "weight": "0.1 kg / 0.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_121_EN.webp",
@@ -3299,7 +3959,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "121",
         "rarity": "◊◊",
-        "description": "It likes to lurk in the dark and tap shoulders\nwith a gaseous hand. Its touch causes endless\nshuddering."
+        "description": "It likes to lurk in the dark and tap shoulders\nwith a gaseous hand. Its touch causes endless\nshuddering.",
+        "info": {
+            "national_pokedex": "0093",
+            "species": "Gas Pokémon",
+            "height": "1.6 m / 5'03\"",
+            "weight": "0.1 kg / 0.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_122_EN.webp",
@@ -3325,7 +3991,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "122",
         "rarity": "◊◊◊",
-        "description": "To steal the life of its target, it slips into\nthe prey’s shadow and silently waits for\nan opportunity."
+        "description": "To steal the life of its target, it slips into\nthe prey’s shadow and silently waits for\nan opportunity.",
+        "info": {
+            "national_pokedex": "0094",
+            "species": "Shadow Pokémon",
+            "height": "1.5 m / 4'11\"",
+            "weight": "40.5 kg / 89.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_123_EN.webp",
@@ -3379,7 +4051,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "124",
         "rarity": "◊",
-        "description": "It remembers every dream it eats. It rarely eats\nthe dreams of adults because children’s are much\ntastier."
+        "description": "It remembers every dream it eats. It rarely eats\nthe dreams of adults because children’s are much\ntastier.",
+        "info": {
+            "national_pokedex": "0096",
+            "species": "Hypnosis Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "32.4kg kg / 71.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_125_EN.webp",
@@ -3407,7 +4085,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "125",
         "rarity": "◊◊◊",
-        "description": "When it locks eyes with an enemy, it will use\na mix of psi moves, such as Hypnosis and\nConfusion."
+        "description": "When it locks eyes with an enemy, it will use\na mix of psi moves, such as Hypnosis and\nConfusion.",
+        "info": {
+            "national_pokedex": "0097",
+            "species": "Hypnosis Pokémon",
+            "height": "1.6 m / 5'03\"",
+            "weight": "75.6 kg / 166.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_126_EN.webp",
@@ -3434,7 +4118,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "126",
         "rarity": "◊◊",
-        "description": "The broadness of its hands may be no\ncoincidence—many scientists believe its palms\nbecame enlarged specifically for pantomiming."
+        "description": "The broadness of its hands may be no\ncoincidence—many scientists believe its palms\nbecame enlarged specifically for pantomiming.",
+        "info": {
+            "national_pokedex": "0122",
+            "species": "Barrier Pokémon",
+            "height": "1.3 m / 4'03\"",
+            "weight": "54.5 kg / 120.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_127_EN.webp",
@@ -3461,7 +4151,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "127",
         "rarity": "◊",
-        "description": "Its strange cries sound like human language.\nThere are some musicians who compose songs\nfor Jynx to sing."
+        "description": "Its strange cries sound like human language.\nThere are some musicians who compose songs\nfor Jynx to sing.",
+        "info": {
+            "national_pokedex": "0124",
+            "species": "Human Shape Pokémon",
+            "height": "1.4 m / 4'07\"",
+            "weight": "40.6 kg / 89.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_128_EN.webp",
@@ -3490,7 +4186,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "128",
         "rarity": "◊◊◊",
-        "description": "It was created by a scientist after years of horrific\ngene-splicing and DNA-engineering experiments."
+        "description": "It was created by a scientist after years of horrific\ngene-splicing and DNA-engineering experiments.",
+        "info": {
+            "national_pokedex": "0150",
+            "species": "Genetic Pokémon",
+            "height": "2.0 m / 6'07\"",
+            "weight": "122.0 kg / 269.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_129_EN.webp",
@@ -3553,7 +4255,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "130",
         "rarity": "◊",
-        "description": "The horns on its head provide a strong power\nthat enables it to sense people’s emotions."
+        "description": "The horns on its head provide a strong power\nthat enables it to sense people’s emotions.",
+        "info": {
+            "national_pokedex": "0280",
+            "species": "Feeling Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "6.6 kg / 14.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_131_EN.webp",
@@ -3580,7 +4288,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "131",
         "rarity": "◊◊",
-        "description": "It has a psychic power that enables it to distort\nthe space around it and see into the future."
+        "description": "It has a psychic power that enables it to distort\nthe space around it and see into the future.",
+        "info": {
+            "national_pokedex": "0281",
+            "species": "Emotion Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "20.2 kg / 44.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_132_EN.webp",
@@ -3608,7 +4322,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "132",
         "rarity": "◊◊◊",
-        "description": "To protect its Trainer, it will expend all its psychic\npower to create a small black hole."
+        "description": "To protect its Trainer, it will expend all its psychic\npower to create a small black hole.",
+        "info": {
+            "national_pokedex": "0282",
+            "species": "Embrace Pokémon",
+            "height": "1.6 m / 5'03\"",
+            "weight": "48.4 kg / 106.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_133_EN.webp",
@@ -3634,7 +4354,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "133",
         "rarity": "◊",
-        "description": "While inside a cave, if you look up and see lots\nof heart-shaped marks lining the walls, it’s\nevidence that Woobat live there."
+        "description": "While inside a cave, if you look up and see lots\nof heart-shaped marks lining the walls, it’s\nevidence that Woobat live there.",
+        "info": {
+            "national_pokedex": "0527",
+            "species": "Bat Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "2.1 kg / 4.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_134_EN.webp",
@@ -3661,7 +4387,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "134",
         "rarity": "◊",
-        "description": "Emitting powerful sound waves tires it out.\nAfterward, it won’t be able to fly for a\nlittle while."
+        "description": "Emitting powerful sound waves tires it out.\nAfterward, it won’t be able to fly for a\nlittle while.",
+        "info": {
+            "national_pokedex": "0528",
+            "species": "Courting Pokémon",
+            "height": "0.9 m / 2'11\"",
+            "weight": "10.5 kg / 23.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_135_EN.webp",
@@ -3689,7 +4421,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "135",
         "rarity": "◊",
-        "description": "They were sculpted from clay in ancient times.\nNo one knows why, but some of them are driven\nto continually line up boulders."
+        "description": "They were sculpted from clay in ancient times.\nNo one knows why, but some of them are driven\nto continually line up boulders.",
+        "info": {
+            "national_pokedex": "0622",
+            "species": "Automaton Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "92.2 kg / 202.8 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_136_EN.webp",
@@ -3718,7 +4456,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "136",
         "rarity": "◊◊",
-        "description": "Artillery platforms built into the walls of ancient\ncastles served as perches from which Golurk\ncould fire energy beams."
+        "description": "Artillery platforms built into the walls of ancient\ncastles served as perches from which Golurk\ncould fire energy beams.",
+        "info": {
+            "national_pokedex": "0623",
+            "species": "Automaton Pokémon",
+            "height": "2.8 m / 9'02\"",
+            "weight": "330.0 kg / 727.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_137_EN.webp",
@@ -3744,7 +4488,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "137",
         "rarity": "◊",
-        "description": "It loves to bathe in the grit of dry, sandy areas.\nBy sand bathing, the Pokémon rids itself of dirt\nand moisture clinging to its body."
+        "description": "It loves to bathe in the grit of dry, sandy areas.\nBy sand bathing, the Pokémon rids itself of dirt\nand moisture clinging to its body.",
+        "info": {
+            "national_pokedex": "0027",
+            "species": "Mouse Pokémon",
+            "height": "0.6 m / 2'00\"",
+            "weight": "12.0 kg / 26.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_138_EN.webp",
@@ -3771,7 +4521,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "138",
         "rarity": "◊◊",
-        "description": "The drier the area Sandslash lives in, the harder\nand smoother the Pokémon’s spikes will feel\nwhen touched."
+        "description": "The drier the area Sandslash lives in, the harder\nand smoother the Pokémon’s spikes will feel\nwhen touched.",
+        "info": {
+            "national_pokedex": "0028",
+            "species": "Mouse Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "29.5 kg / 65.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_139_EN.webp",
@@ -3797,7 +4553,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "139",
         "rarity": "◊",
-        "description": "It lives about one yard underground, where it\nfeeds on plant roots. It sometimes appears\naboveground."
+        "description": "It lives about one yard underground, where it\nfeeds on plant roots. It sometimes appears\naboveground.",
+        "info": {
+            "national_pokedex": "0050",
+            "species": "Mole Pokémon",
+            "height": "0.2 m / 0'08\"",
+            "weight": "0.8 kg / 1.8 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_140_EN.webp",
@@ -3823,7 +4585,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "140",
         "rarity": "◊◊",
-        "description": "Its three heads bob separately up and down to\nloosen the soil nearby, making it easier for it\nto burrow."
+        "description": "Its three heads bob separately up and down to\nloosen the soil nearby, making it easier for it\nto burrow.",
+        "info": {
+            "national_pokedex": "0051",
+            "species": "Mole Pokémon",
+            "height": "0.7 m / 2'04\"",
+            "weight": "33.3 kg / 73.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_141_EN.webp",
@@ -3849,7 +4617,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "141",
         "rarity": "◊",
-        "description": "It lives in groups in the treetops. If it loses sight of\nits group, it becomes infuriated by its loneliness."
+        "description": "It lives in groups in the treetops. If it loses sight of\nits group, it becomes infuriated by its loneliness.",
+        "info": {
+            "national_pokedex": "0056",
+            "species": "Pig Monkey Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "28.0 kg / 61.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_142_EN.webp",
@@ -3876,7 +4650,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "142",
         "rarity": "◊◊",
-        "description": "It becomes wildly furious if it even senses\nsomeone looking at it. It chases anyone\nthat meets its glare."
+        "description": "It becomes wildly furious if it even senses\nsomeone looking at it. It chases anyone\nthat meets its glare.",
+        "info": {
+            "national_pokedex": "0057",
+            "species": "Pig Monkey Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "32.0 kg / 70.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_143_EN.webp",
@@ -3902,7 +4682,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "143",
         "rarity": "◊",
-        "description": "Its whole body is composed of muscles.\nEven though it’s the size of a human child, it can\nhurl 100 grown-ups."
+        "description": "Its whole body is composed of muscles.\nEven though it’s the size of a human child, it can\nhurl 100 grown-ups.",
+        "info": {
+            "national_pokedex": "0066",
+            "species": "Superpower Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "19.5 kg / 43.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_144_EN.webp",
@@ -3929,7 +4715,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "144",
         "rarity": "◊◊",
-        "description": "Its muscular body is so powerful, it must wear a\npower-save belt to be able to regulate\nits motions."
+        "description": "Its muscular body is so powerful, it must wear a\npower-save belt to be able to regulate\nits motions.",
+        "info": {
+            "national_pokedex": "0067",
+            "species": "Superpower Pokémon",
+            "height": "1.5 m / 4'11\"",
+            "weight": "70.3 kg / 155.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_145_EN.webp",
@@ -3957,7 +4749,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "145",
         "rarity": "◊◊◊",
-        "description": "It quickly swings its four arms to rock its\nopponents with ceaseless punches and chops\nfrom all angles."
+        "description": "It quickly swings its four arms to rock its\nopponents with ceaseless punches and chops\nfrom all angles.",
+        "info": {
+            "national_pokedex": "0068",
+            "species": "Superpower Pokémon",
+            "height": "1.6 m / 5'03\"",
+            "weight": "130.0 kg / 286.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_146_EN.webp",
@@ -4010,7 +4808,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "147",
         "rarity": "◊",
-        "description": "Geodude that have lived a long life have had all\ntheir edges smoothed out until they’re totally\nround. They also have a calm, quiet disposition."
+        "description": "Geodude that have lived a long life have had all\ntheir edges smoothed out until they’re totally\nround. They also have a calm, quiet disposition.",
+        "info": {
+            "national_pokedex": "0074",
+            "species": "Rock Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "20.0 kg / 44.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_148_EN.webp",
@@ -4038,7 +4842,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "148",
         "rarity": "◊◊",
-        "description": "It climbs up cliffs as it heads toward the peak\nof a mountain. As soon as it reaches the summit,\nit rolls back down the way it came."
+        "description": "It climbs up cliffs as it heads toward the peak\nof a mountain. As soon as it reaches the summit,\nit rolls back down the way it came.",
+        "info": {
+            "national_pokedex": "0075",
+            "species": "Rock Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "105.0 kg / 231.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_149_EN.webp",
@@ -4067,7 +4877,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "149",
         "rarity": "◊◊◊",
-        "description": "When Golem grow old, they stop shedding their\nshells. Those that have lived a long, long time\nhave shells green with moss."
+        "description": "When Golem grow old, they stop shedding their\nshells. Those that have lived a long, long time\nhave shells green with moss.",
+        "info": {
+            "national_pokedex": "0076",
+            "species": "Megaton Pokémon",
+            "height": "1.4 m / 4'07\"",
+            "weight": "300.0 kg / 661.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_150_EN.webp",
@@ -4095,7 +4911,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "150",
         "rarity": "◊◊",
-        "description": "As it digs through the ground, it absorbs many\nhard objects. This is what makes its body so solid."
+        "description": "As it digs through the ground, it absorbs many\nhard objects. This is what makes its body so solid.",
+        "info": {
+            "national_pokedex": "0095",
+            "species": "Rock Snake Pokémon",
+            "height": "8.8 m / 28'10\"",
+            "weight": "210.5 kg / 463.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_151_EN.webp",
@@ -4121,7 +4943,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "151",
         "rarity": "◊",
-        "description": "When the memory of its departed mother brings\nit to tears, its cries echo mournfully within the\nskull it wears on its head."
+        "description": "When the memory of its departed mother brings\nit to tears, its cries echo mournfully within the\nskull it wears on its head.",
+        "info": {
+            "national_pokedex": "0104",
+            "species": "Lonely Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "6.5 kg / 14.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_152_EN.webp",
@@ -4147,7 +4975,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "152",
         "rarity": "◊◊",
-        "description": "This Pokémon overcame its sorrow to evolve a\nsturdy new body. Marowak faces its opponents\nbravely, using a bone as a weapon."
+        "description": "This Pokémon overcame its sorrow to evolve a\nsturdy new body. Marowak faces its opponents\nbravely, using a bone as a weapon.",
+        "info": {
+            "national_pokedex": "0105",
+            "species": "Bone Keeper Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "45.0 kg / 99.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_153_EN.webp",
@@ -4199,7 +5033,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "154",
         "rarity": "◊",
-        "description": "This amazing Pokémon has an awesome sense of\nbalance. It can kick in succession from any position."
+        "description": "This amazing Pokémon has an awesome sense of\nbalance. It can kick in succession from any position.",
+        "info": {
+            "national_pokedex": "0106",
+            "species": "Kicking Pokémon",
+            "height": "1.5 m / 4'11\"",
+            "weight": "49.8 kg / 109.8 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_155_EN.webp",
@@ -4225,7 +5065,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "155",
         "rarity": "◊",
-        "description": "Its punches slice the air. They are launched at\nsuch high speed, even a slight graze could cause\na burn."
+        "description": "Its punches slice the air. They are launched at\nsuch high speed, even a slight graze could cause\na burn.",
+        "info": {
+            "national_pokedex": "0107",
+            "species": "Punching Pokémon",
+            "height": "1.4 m / 4'07\"",
+            "weight": "50.2 kg / 110.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_156_EN.webp",
@@ -4253,7 +5099,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "156",
         "rarity": "◊",
-        "description": "Strong, but not too bright, this Pokémon can\nshatter even a skyscraper with its charging tackles."
+        "description": "Strong, but not too bright, this Pokémon can\nshatter even a skyscraper with its charging tackles.",
+        "info": {
+            "national_pokedex": "0111",
+            "species": "Spikes Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "115.0 kg / 253.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_157_EN.webp",
@@ -4282,7 +5134,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "157",
         "rarity": "◊◊",
-        "description": "It begins walking on its hind legs after evolution.\nIt can punch holes through boulders with its horn."
+        "description": "It begins walking on its hind legs after evolution.\nIt can punch holes through boulders with its horn.",
+        "info": {
+            "national_pokedex": "0112",
+            "species": "Drill Pokémon",
+            "height": "1.9 m / 6'03\"",
+            "weight": "120.0 kg / 264.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_158_EN.webp",
@@ -4308,7 +5166,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "158",
         "rarity": "◊◊",
-        "description": "This species is almost entirely extinct. Kabuto\nmolt every three days, making their shells harder\nand harder."
+        "description": "This species is almost entirely extinct. Kabuto\nmolt every three days, making their shells harder\nand harder.",
+        "info": {
+            "national_pokedex": "0140",
+            "species": "Shellfish Pokémon",
+            "height": "0.51 m / 1'08\"",
+            "weight": "11.5 kg / 25.35 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_159_EN.webp",
@@ -4334,7 +5198,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "159",
         "rarity": "◊◊◊",
-        "description": "Kabutops slices its prey apart and sucks out\nthe fluids. The discarded body parts become\nfood for other Pokémon."
+        "description": "Kabutops slices its prey apart and sucks out\nthe fluids. The discarded body parts become\nfood for other Pokémon.",
+        "info": {
+            "national_pokedex": "0141",
+            "species": "Shellfish Pokémon",
+            "height": "1.3 m / 4'03\"",
+            "weight": "40.5 kg / 89.29 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_160_EN.webp",
@@ -4360,7 +5230,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "160",
         "rarity": "◊",
-        "description": "In one minute, a well-trained Mienfoo can chop\nwith its arms more than 100 times."
+        "description": "In one minute, a well-trained Mienfoo can chop\nwith its arms more than 100 times.",
+        "info": {
+            "national_pokedex": "0619",
+            "species": "Martial Arts Pokémon",
+            "height": "0.9 m / 2'11\"",
+            "weight": "20.0 kg / 44.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_161_EN.webp",
@@ -4386,7 +5262,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "161",
         "rarity": "◊◊",
-        "description": "When Mienshao comes across a truly challenging\nopponent, it will lighten itself by biting off the\nfur on its arms."
+        "description": "When Mienshao comes across a truly challenging\nopponent, it will lighten itself by biting off the\nfur on its arms.",
+        "info": {
+            "national_pokedex": "0620",
+            "species": "Martial Arts Pokémon",
+            "height": "1.4 m / 4'07\"",
+            "weight": "35.5 kg / 78.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_162_EN.webp",
@@ -4413,7 +5295,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "162",
         "rarity": "◊",
-        "description": "It’s very curious, but its means of investigating\nthings is to try to punch them with its tentacles.\nThe search for food is what brings it onto land."
+        "description": "It’s very curious, but its means of investigating\nthings is to try to punch them with its tentacles.\nThe search for food is what brings it onto land.",
+        "info": {
+            "national_pokedex": "0852",
+            "species": "Tantrum Pokémon",
+            "height": "0.6 m / 2'00\"",
+            "weight": "4.0 kg / 8.8 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_163_EN.webp",
@@ -4441,7 +5329,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "163",
         "rarity": "◊◊",
-        "description": "A body made up of nothing but muscle makes\nthe grappling moves this Pokémon performs with\nits tentacles tremendously powerful."
+        "description": "A body made up of nothing but muscle makes\nthe grappling moves this Pokémon performs with\nits tentacles tremendously powerful.",
+        "info": {
+            "national_pokedex": "0853",
+            "species": "Jujitsu Pokémon",
+            "height": "1.6 m / 5'3\"",
+            "weight": "39.0 kg / 86 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_164_EN.webp",
@@ -4467,7 +5361,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "164",
         "rarity": "◊",
-        "description": "By dislocating its jaw, it can swallow prey larger\nthan itself. After a meal, it curls up and rests."
+        "description": "By dislocating its jaw, it can swallow prey larger\nthan itself. After a meal, it curls up and rests.",
+        "info": {
+            "national_pokedex": "0023",
+            "species": "Snake Pokémon",
+            "height": "2.0 m / 6'07\"",
+            "weight": "6.9 kg / 15.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_165_EN.webp",
@@ -4494,7 +5394,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "165",
         "rarity": "◊◊",
-        "description": "The latest research has determined that there\nare over 20 possible arrangements of the\npatterns on its stomach."
+        "description": "The latest research has determined that there\nare over 20 possible arrangements of the\npatterns on its stomach.",
+        "info": {
+            "national_pokedex": "0024",
+            "species": "Cobra Pokémon",
+            "height": "3.5 m / 11'06\"",
+            "weight": "65.0 kg / 143.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_166_EN.webp",
@@ -4520,7 +5426,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "166",
         "rarity": "◊",
-        "description": "Females are more sensitive to smells than males.\nWhile foraging, they’ll use their whiskers to check\nwind direction and stay downwind of predators."
+        "description": "Females are more sensitive to smells than males.\nWhile foraging, they’ll use their whiskers to check\nwind direction and stay downwind of predators.",
+        "info": {
+            "national_pokedex": "0029",
+            "species": "Poison Pin Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "7.0 kg / 15.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_167_EN.webp",
@@ -4546,7 +5458,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "167",
         "rarity": "◊◊",
-        "description": "The horn on its head has atrophied. It’s thought\nthat this happens so Nidorina’s children won’t get\npoked while their mother is feeding them."
+        "description": "The horn on its head has atrophied. It’s thought\nthat this happens so Nidorina’s children won’t get\npoked while their mother is feeding them.",
+        "info": {
+            "national_pokedex": "0030",
+            "species": "Poison Pin Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "20.0 kg / 44.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_168_EN.webp",
@@ -4574,7 +5492,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "168",
         "rarity": "◊◊◊",
-        "description": "Nidoqueen is better at defense than offense.\nWith scales like armor, this Pokémon will shield\nits children from any kind of attack."
+        "description": "Nidoqueen is better at defense than offense.\nWith scales like armor, this Pokémon will shield\nits children from any kind of attack.",
+        "info": {
+            "national_pokedex": "0031",
+            "species": "Drill Pokémon",
+            "height": "1.3 m / 4'03\"",
+            "weight": "60.0 kg / 132.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_169_EN.webp",
@@ -4600,7 +5524,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "169",
         "rarity": "◊",
-        "description": "The horn on a male Nidoran’s forehead contains\na powerful poison. This is a very cautious\nPokémon, always straining its large ears."
+        "description": "The horn on a male Nidoran’s forehead contains\na powerful poison. This is a very cautious\nPokémon, always straining its large ears.",
+        "info": {
+            "national_pokedex": "0032",
+            "species": "Poison Pin Pokémon",
+            "height": "0.5 m / 1'07\"",
+            "weight": "9.0 kg / 19.8 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_170_EN.webp",
@@ -4627,7 +5557,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "170",
         "rarity": "◊◊",
-        "description": "With a horn that’s harder than diamond, this\nPokémon goes around shattering boulders as it\nsearches for a moon stone."
+        "description": "With a horn that’s harder than diamond, this\nPokémon goes around shattering boulders as it\nsearches for a moon stone.",
+        "info": {
+            "national_pokedex": "0033",
+            "species": "Poison Pin Pokémon",
+            "height": "0.9 m / 2'11\"",
+            "weight": "19.5 kg / 43.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_171_EN.webp",
@@ -4655,7 +5591,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "171",
         "rarity": "◊◊◊",
-        "description": "When it goes on a rampage, it’s impossible to\ncontrol. But in the presence of a Nidoqueen it’s\nlived with for a long time, Nidoking calms down."
+        "description": "When it goes on a rampage, it’s impossible to\ncontrol. But in the presence of a Nidoqueen it’s\nlived with for a long time, Nidoking calms down.",
+        "info": {
+            "national_pokedex": "0034",
+            "species": "Drill Pokémon",
+            "height": "1.4 m / 4'07\"",
+            "weight": "62.0 kg / 136.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_172_EN.webp",
@@ -4681,7 +5623,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "172",
         "rarity": "◊",
-        "description": "It emits ultrasonic waves from its mouth to check\nits surroundings. Even in tight caves, Zubat flies\naround with skill."
+        "description": "It emits ultrasonic waves from its mouth to check\nits surroundings. Even in tight caves, Zubat flies\naround with skill.",
+        "info": {
+            "national_pokedex": "0041",
+            "species": "Bat Pokémon",
+            "height": "0.6 m / 2'07\"",
+            "weight": "7.5 kg / 16.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_173_EN.webp",
@@ -4707,7 +5655,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "173",
         "rarity": "◊◊",
-        "description": "It loves to drink other creatures’ blood. It’s said\nthat if it finds others of its kind going hungry,\nit sometimes shares the blood it’s gathered."
+        "description": "It loves to drink other creatures’ blood. It’s said\nthat if it finds others of its kind going hungry,\nit sometimes shares the blood it’s gathered.",
+        "info": {
+            "national_pokedex": "0042",
+            "species": "Bat Pokémon",
+            "height": "1.6 m / 5'03\"",
+            "weight": "55.0 kg / 121.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_174_EN.webp",
@@ -4733,7 +5687,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "174",
         "rarity": "◊",
-        "description": "Born from sludge, these Pokémon now gather\nin polluted places and increase the bacteria in\ntheir bodies."
+        "description": "Born from sludge, these Pokémon now gather\nin polluted places and increase the bacteria in\ntheir bodies.",
+        "info": {
+            "national_pokedex": "0088",
+            "species": "Sludge Pokémon",
+            "height": "0.9 m / 2'11\"",
+            "weight": "30.0 kg / 66.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_175_EN.webp",
@@ -4761,7 +5721,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "175",
         "rarity": "◊◊◊",
-        "description": "It’s thickly covered with a filthy, vile\nsludge. It is so toxic, even its footprints\ncontain poison."
+        "description": "It’s thickly covered with a filthy, vile\nsludge. It is so toxic, even its footprints\ncontain poison.",
+        "info": {
+            "national_pokedex": "0089",
+            "species": "Sludge Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "30.0 kg / 66.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_176_EN.webp",
@@ -4787,7 +5753,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "176",
         "rarity": "◊",
-        "description": "Its body is full of poisonous gas. It floats into\ngarbage dumps, seeking out the fumes of raw,\nrotting trash."
+        "description": "Its body is full of poisonous gas. It floats into\ngarbage dumps, seeking out the fumes of raw,\nrotting trash.",
+        "info": {
+            "national_pokedex": "0109",
+            "species": "Poison Gas Pokémon",
+            "height": "0.6 m / 2'00\"",
+            "weight": "1.0 kg / 2.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_177_EN.webp",
@@ -4813,7 +5785,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "177",
         "rarity": "◊◊◊",
-        "description": "If one of the twin Koffing inflates, the other one\ndeflates. It constantly mixes its poisonous gases."
+        "description": "If one of the twin Koffing inflates, the other one\ndeflates. It constantly mixes its poisonous gases.",
+        "info": {
+            "national_pokedex": "0110",
+            "species": "Poison Gas Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "9.5 kg / 20.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_178_EN.webp",
@@ -4839,7 +5817,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "178",
         "rarity": "◊",
-        "description": "It uses its docile-looking face to lull foes into\ncomplacency, then bites with its huge,\nrelentless jaws."
+        "description": "It uses its docile-looking face to lull foes into\ncomplacency, then bites with its huge,\nrelentless jaws.",
+        "info": {
+            "national_pokedex": "0303",
+            "species": "Deceiver Pokémon",
+            "height": "0.6 m / 2'00\"",
+            "weight": "11.5 kg / 25.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_179_EN.webp",
@@ -4865,7 +5849,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "179",
         "rarity": "◊",
-        "description": "Pawniard will fearlessly challenge even powerful\nfoes. In a pinch, it will cling to opponents and\npierce them with the blades all over its body."
+        "description": "Pawniard will fearlessly challenge even powerful\nfoes. In a pinch, it will cling to opponents and\npierce them with the blades all over its body.",
+        "info": {
+            "national_pokedex": "0624",
+            "species": "Sharp Blade Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "10.2 kg / 22.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_180_EN.webp",
@@ -4892,7 +5882,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "180",
         "rarity": "◊◊",
-        "description": "This Pokémon commands a group of several\nPawniard. Groups that are defeated in territorial\ndisputes are absorbed by the winning side."
+        "description": "This Pokémon commands a group of several\nPawniard. Groups that are defeated in territorial\ndisputes are absorbed by the winning side.",
+        "info": {
+            "national_pokedex": "0625",
+            "species": "Sword Blade Pokémon",
+            "height": "1.6 m / 5'03\"",
+            "weight": "70.0 kg / 154.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_181_EN.webp",
@@ -4918,7 +5914,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "181",
         "rarity": "◊",
-        "description": "It dissolves and eats metal. Circulating liquid\nmetal within its body is how it generates energy."
+        "description": "It dissolves and eats metal. Circulating liquid\nmetal within its body is how it generates energy.",
+        "info": {
+            "national_pokedex": "0808",
+            "species": "Hex Nut Pokémon",
+            "height": "0.2 m / 0'08\"",
+            "weight": "8.0 kg / 17.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_182_EN.webp",
@@ -4947,7 +5949,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "182",
         "rarity": "◊◊◊",
-        "description": "At the end of its life-span, Melmetal will rust and\nfall apart. The small shards left behind will\neventually be reborn as Meltan."
+        "description": "At the end of its life-span, Melmetal will rust and\nfall apart. The small shards left behind will\neventually be reborn as Meltan.",
+        "info": {
+            "national_pokedex": "0809",
+            "species": "Hex Nut Pokémon",
+            "height": "2.5 m / 8'02\"",
+            "weight": "800.0 kg / 1763.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_183_EN.webp",
@@ -4974,7 +5982,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "183",
         "rarity": "◊",
-        "description": "It sheds many layers of skin as it grows larger.\nDuring this process, it is protected by a rapid\nwaterfall."
+        "description": "It sheds many layers of skin as it grows larger.\nDuring this process, it is protected by a rapid\nwaterfall.",
+        "info": {
+            "national_pokedex": "0147",
+            "species": "Dragon Pokémon",
+            "height": "1.8 m / 5'11\"",
+            "weight": "3.3 kg / 7.28 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_184_EN.webp",
@@ -5002,7 +6016,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "184",
         "rarity": "◊◊",
-        "description": "They say that if it emits an aura from its whole\nbody, the weather will begin to change instantly."
+        "description": "They say that if it emits an aura from its whole\nbody, the weather will begin to change instantly.",
+        "info": {
+            "national_pokedex": "0148",
+            "species": "Dragon Pokémon",
+            "height": "4.0 m / 13'01\"",
+            "weight": "16.5 kg / 36.68 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_185_EN.webp",
@@ -5031,7 +6051,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "185",
         "rarity": "◊◊◊",
-        "description": "It is said that somewhere in the ocean lies an\nisland where these gather. Only they live there."
+        "description": "It is said that somewhere in the ocean lies an\nisland where these gather. Only they live there.",
+        "info": {
+            "national_pokedex": "0149",
+            "species": "Dragon Pokémon",
+            "height": "2.2 m / 7'03\"",
+            "weight": "210.0 kg / 463.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_186_EN.webp",
@@ -5057,7 +6083,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "186",
         "rarity": "◊",
-        "description": "A common sight in forests and woods. It flaps\nits wings at ground level to kick up blinding sand."
+        "description": "A common sight in forests and woods. It flaps\nits wings at ground level to kick up blinding sand.",
+        "info": {
+            "national_pokedex": "0016",
+            "species": "Tiny Bird Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "1.8 kg / 4.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_187_EN.webp",
@@ -5083,7 +6115,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "187",
         "rarity": "◊",
-        "description": "The claws on its feet are well developed.\nIt can carry prey such as an Exeggcute\nto its nest over 60 miles away."
+        "description": "The claws on its feet are well developed.\nIt can carry prey such as an Exeggcute\nto its nest over 60 miles away.",
+        "info": {
+            "national_pokedex": "0017",
+            "species": "Bird Pokémon",
+            "height": "1.1 m / 3'07\"",
+            "weight": "30.0 kg / 66.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_188_EN.webp",
@@ -5110,7 +6148,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "188",
         "rarity": "◊◊◊",
-        "description": "When hunting, it skims the surface of water\nat high speed to pick off unwary prey such\nas Magikarp."
+        "description": "When hunting, it skims the surface of water\nat high speed to pick off unwary prey such\nas Magikarp.",
+        "info": {
+            "national_pokedex": "0018",
+            "species": "Bird Pokémon",
+            "height": "1.5 m / 4'11\"",
+            "weight": "39.5 kg / 87.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_189_EN.webp",
@@ -5136,7 +6180,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "189",
         "rarity": "◊",
-        "description": "Its incisors grow continuously throughout its life.\nIf its incisors get too long, this Pokémon\nbecomes unable to eat, and it starves to death."
+        "description": "Its incisors grow continuously throughout its life.\nIf its incisors get too long, this Pokémon\nbecomes unable to eat, and it starves to death.",
+        "info": {
+            "national_pokedex": "0019",
+            "species": "Mouse Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "3.5 kg / 7.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_190_EN.webp",
@@ -5162,7 +6212,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "190",
         "rarity": "◊",
-        "description": "People say that it fled from its enemies by\nusing its small webbed hind feet to swim\nfrom island to island in Alola."
+        "description": "People say that it fled from its enemies by\nusing its small webbed hind feet to swim\nfrom island to island in Alola.",
+        "info": {
+            "national_pokedex": "0020",
+            "species": "Mouse Pokémon",
+            "height": "0.7 m / 2'04\"",
+            "weight": "18.5 kg / 40.8 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_191_EN.webp",
@@ -5188,7 +6244,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "191",
         "rarity": "◊",
-        "description": "Its reckless nature leads it to stand up to\nothers—even large Pokémon—if it has to protect\nits territory."
+        "description": "Its reckless nature leads it to stand up to\nothers—even large Pokémon—if it has to protect\nits territory.",
+        "info": {
+            "national_pokedex": "0021",
+            "species": "Tiny Bird Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "2.0 kg / 4.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_192_EN.webp",
@@ -5215,7 +6277,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "192",
         "rarity": "◊",
-        "description": "Carrying food through Fearow’s territory is\ndangerous. It will snatch the food away from\nyou in a flash!"
+        "description": "Carrying food through Fearow’s territory is\ndangerous. It will snatch the food away from\nyou in a flash!",
+        "info": {
+            "national_pokedex": "0022",
+            "species": "Beak Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "38.0 kg / 83.8 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_193_EN.webp",
@@ -5242,7 +6310,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "193",
         "rarity": "◊",
-        "description": "When its huge eyes waver, it sings a mysteriously\nsoothing melody that lulls its enemies to sleep."
+        "description": "When its huge eyes waver, it sings a mysteriously\nsoothing melody that lulls its enemies to sleep.",
+        "info": {
+            "national_pokedex": "0039",
+            "species": "Balloon Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "5.5 kg / 12.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_194_EN.webp",
@@ -5269,7 +6343,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "194",
         "rarity": "◊",
-        "description": "It has a very fine fur. Take care not to make it\nangry, or it may inflate steadily and hit with a\nbody slam."
+        "description": "It has a very fine fur. Take care not to make it\nangry, or it may inflate steadily and hit with a\nbody slam.",
+        "info": {
+            "national_pokedex": "0040",
+            "species": "Balloon Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "12.0 kg / 26.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_195_EN.webp",
@@ -5322,7 +6402,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "196",
         "rarity": "◊",
-        "description": "All it does is sleep during the daytime. At night,\nit patrols its territory with its eyes aglow."
+        "description": "All it does is sleep during the daytime. At night,\nit patrols its territory with its eyes aglow.",
+        "info": {
+            "national_pokedex": "0052",
+            "species": "Scratch Cat Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "4.2 kg / 9.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_197_EN.webp",
@@ -5349,7 +6435,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "197",
         "rarity": "◊◊",
-        "description": "Although its fur has many admirers, it is tough to\nraise as a pet because of its fickle meanness."
+        "description": "Although its fur has many admirers, it is tough to\nraise as a pet because of its fickle meanness.",
+        "info": {
+            "national_pokedex": "0053",
+            "species": "Classy Cat Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "32.0 kg / 70.6 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_198_EN.webp",
@@ -5375,7 +6467,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "198",
         "rarity": "◊",
-        "description": "The stalk this Pokémon carries in its wings serves\nas a sword to cut down opponents. In a dire\nsituation, the stalk can also serve as food."
+        "description": "The stalk this Pokémon carries in its wings serves\nas a sword to cut down opponents. In a dire\nsituation, the stalk can also serve as food.",
+        "info": {
+            "national_pokedex": "0083",
+            "species": "Wild Duck Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "15.0 kg / 33.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_199_EN.webp",
@@ -5401,7 +6499,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "199",
         "rarity": "◊",
-        "description": "A two-headed Pokémon that was discovered as a \nsudden mutation. It runs at a pace of over 60 miles\nper hour."
+        "description": "A two-headed Pokémon that was discovered as a \nsudden mutation. It runs at a pace of over 60 miles\nper hour.",
+        "info": {
+            "national_pokedex": "0084",
+            "species": "Twin Bird Pokémon",
+            "height": "1.4 m / 4'07\"",
+            "weight": "39.2 kg / 86.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_200_EN.webp",
@@ -5427,7 +6531,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "200",
         "rarity": "◊◊",
-        "description": "An enemy that takes its eyes off any of the\nthree heads—even for a second—will get\npecked severely."
+        "description": "An enemy that takes its eyes off any of the\nthree heads—even for a second—will get\npecked severely.",
+        "info": {
+            "national_pokedex": "0085",
+            "species": "Triple Bird Pokémon",
+            "height": "1.8 m / 5'11\"",
+            "weight": "85.2 kg / 187.8 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_201_EN.webp",
@@ -5455,7 +6565,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "201",
         "rarity": "◊◊",
-        "description": "If this Pokémon’s sticky saliva gets on you and\nyou don’t clean it off, an intense itch will set in.\nThe itch won’t go away, either."
+        "description": "If this Pokémon’s sticky saliva gets on you and\nyou don’t clean it off, an intense itch will set in.\nThe itch won’t go away, either.",
+        "info": {
+            "national_pokedex": "0108",
+            "species": "Licking Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "65.5 kg / 144.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_202_EN.webp",
@@ -5483,7 +6599,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "202",
         "rarity": "◊◊",
-        "description": "This kindly Pokémon lays highly nutritious eggs\nand shares them with injured Pokémon or people."
+        "description": "This kindly Pokémon lays highly nutritious eggs\nand shares them with injured Pokémon or people.",
+        "info": {
+            "national_pokedex": "0113",
+            "species": "Egg Pokémon",
+            "height": "1.1 m / 3'07\"",
+            "weight": "34.6 kg / 76.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_203_EN.webp",
@@ -5509,7 +6631,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "203",
         "rarity": "◊◊◊",
-        "description": "Although it’s carrying its baby in a pouch on\nits belly, Kangaskhan is swift on its feet. It\nintimidates its opponents with quick jabs."
+        "description": "Although it’s carrying its baby in a pouch on\nits belly, Kangaskhan is swift on its feet. It\nintimidates its opponents with quick jabs.",
+        "info": {
+            "national_pokedex": "0115",
+            "species": "Parent Pokémon",
+            "height": "2.2 m / 7'03\"",
+            "weight": "80.0 kg / 176.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_204_EN.webp",
@@ -5536,7 +6664,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "204",
         "rarity": "◊◊",
-        "description": "When Tauros begins whipping itself with its tails,\nit’s a warning that the Pokémon is about to\ncharge with astounding speed."
+        "description": "When Tauros begins whipping itself with its tails,\nit’s a warning that the Pokémon is about to\ncharge with astounding speed.",
+        "info": {
+            "national_pokedex": "0128",
+            "species": "Wild Bull Pokémon",
+            "height": "1.4 m / 4'07\"",
+            "weight": "88.4 kg / 194.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_205_EN.webp",
@@ -5562,7 +6696,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "205",
         "rarity": "◊◊◊",
-        "description": "Its transformation ability is perfect. However,\nif made to laugh, it can’t maintain its disguise."
+        "description": "Its transformation ability is perfect. However,\nif made to laugh, it can’t maintain its disguise.",
+        "info": {
+            "national_pokedex": "0132",
+            "species": "Transform Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "4.0 kg / 8.8 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_206_EN.webp",
@@ -5588,7 +6728,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "206",
         "rarity": "◊",
-        "description": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment."
+        "description": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment.",
+        "info": {
+            "national_pokedex": "0133",
+            "species": "Evolution Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "6.5 kg / 14.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_207_EN.webp",
@@ -5614,7 +6760,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "207",
         "rarity": "◊",
-        "description": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment."
+        "description": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment.",
+        "info": {
+            "national_pokedex": "0133",
+            "species": "Evolution Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "6.5 kg / 14.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_208_EN.webp",
@@ -5640,7 +6792,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "208",
         "rarity": "◊",
-        "description": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment."
+        "description": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment.",
+        "info": {
+            "national_pokedex": "0133",
+            "species": "Evolution Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "6.5 kg / 14.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_209_EN.webp",
@@ -5666,7 +6824,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "209",
         "rarity": "◊◊",
-        "description": "State-of-the-art technology was used to create\nPorygon. It was the first artificial Pokémon to be\ncreated via computer programming."
+        "description": "State-of-the-art technology was used to create\nPorygon. It was the first artificial Pokémon to be\ncreated via computer programming.",
+        "info": {
+            "national_pokedex": "0137",
+            "species": "Virtual Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "36.5 kg / 80.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_210_EN.webp",
@@ -5693,7 +6857,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "210",
         "rarity": "◊◊◊",
-        "description": "This is a ferocious Pokémon from ancient times.\nApparently even modern technology is incapable\nof producing a perfectly restored specimen."
+        "description": "This is a ferocious Pokémon from ancient times.\nApparently even modern technology is incapable\nof producing a perfectly restored specimen.",
+        "info": {
+            "national_pokedex": "0142",
+            "species": "Fossil Pokémon",
+            "height": "1.8 m / 5'11\"",
+            "weight": "59.0 kg / 130.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_211_EN.webp",
@@ -5722,7 +6892,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "211",
         "rarity": "◊◊◊",
-        "description": "It is not satisfied unless it eats over 880 pounds\nof food every day. When it is done eating, it\ngoes promptly to sleep."
+        "description": "It is not satisfied unless it eats over 880 pounds\nof food every day. When it is done eating, it\ngoes promptly to sleep.",
+        "info": {
+            "national_pokedex": "0143",
+            "species": "Sleeping Pokémon",
+            "height": "2.11 m / 6'11\"",
+            "weight": "460.0 kg / 1014.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_212_EN.webp",
@@ -5748,7 +6924,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "212",
         "rarity": "◊",
-        "description": "The way it brushes away grime with its tail\ncan be helpful when cleaning. But its focus on\nspotlessness can make cleaning more of a hassle."
+        "description": "The way it brushes away grime with its tail\ncan be helpful when cleaning. But its focus on\nspotlessness can make cleaning more of a hassle.",
+        "info": {
+            "national_pokedex": "0572",
+            "species": "Chinchilla Pokémon",
+            "height": "0.4 m / 1'04”",
+            "weight": "5.8 kg / 12.8 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_213_EN.webp",
@@ -5776,7 +6958,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "213",
         "rarity": "◊◊",
-        "description": "Its body secretes oil that this Pokémon spreads\nover its nest as a coating to protect it from dust.\nCinccino won’t tolerate even a speck of the stuff."
+        "description": "Its body secretes oil that this Pokémon spreads\nover its nest as a coating to protect it from dust.\nCinccino won’t tolerate even a speck of the stuff.",
+        "info": {
+            "national_pokedex": "0573",
+            "species": "Scarf Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "7.5 kg / 16.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_214_EN.webp",
@@ -5803,7 +6991,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "214",
         "rarity": "◊",
-        "description": "Its curly fleece is such an effective cushion that\nthis Pokémon could fall off a cliff and stand right\nback up at the bottom, unharmed."
+        "description": "Its curly fleece is such an effective cushion that\nthis Pokémon could fall off a cliff and stand right\nback up at the bottom, unharmed.",
+        "info": {
+            "national_pokedex": "0831",
+            "species": "Sheep Pokémon",
+            "height": "0.6 m / 2'00\"",
+            "weight": "6.0 kg / 13.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_215_EN.webp",
@@ -5831,7 +7025,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "215",
         "rarity": "◊",
-        "description": "Weave a carpet from its springy wool, and you end\nup with something closer to a trampoline. You’ll\nstart to bounce the moment you set foot on it."
+        "description": "Weave a carpet from its springy wool, and you end\nup with something closer to a trampoline. You’ll\nstart to bounce the moment you set foot on it.",
+        "info": {
+            "national_pokedex": "0832",
+            "species": "Sheep Pokémon",
+            "height": "1.3 m / 4'03\"",
+            "weight": "43.0 kg / 94.8 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_216_EN.webp",
@@ -5979,7 +7179,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "227",
         "rarity": "☆",
-        "description": "There is a plant seed on its back right from the\nday this Pokémon is born. The seed slowly\ngrows larger."
+        "description": "There is a plant seed on its back right from the\nday this Pokémon is born. The seed slowly\ngrows larger.",
+        "info": {
+            "national_pokedex": "0001",
+            "species": "Seed Pokémon",
+            "height": "0.7 m / 2'04\"",
+            "weight": "6.9 kg / 15.2 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_228_EN.webp",
@@ -6006,7 +7212,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "228",
         "rarity": "☆",
-        "description": "Its pistils exude an incredibly foul odor.\nThe horrid stench can cause fainting at a distance\nof 1.25 miles."
+        "description": "Its pistils exude an incredibly foul odor.\nThe horrid stench can cause fainting at a distance\nof 1.25 miles.",
+        "info": {
+            "national_pokedex": "0044",
+            "species": "Weed Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "8.6 kg / 19.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_229_EN.webp",
@@ -6033,7 +7245,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "229",
         "rarity": "☆",
-        "description": "These Pokémon judge one another based on\npincers. Thicker, more impressive pincers make\nfor more popularity with the opposite gender."
+        "description": "These Pokémon judge one another based on\npincers. Thicker, more impressive pincers make\nfor more popularity with the opposite gender.",
+        "info": {
+            "national_pokedex": "0127",
+            "species": "Stag Beetle Pokémon",
+            "height": "1.5 m / 4'11\"",
+            "weight": "55.0 kg / 121.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_230_EN.webp",
@@ -6059,7 +7277,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "230",
         "rarity": "☆",
-        "description": "It has a preference for hot things. When it rains,\nsteam is said to spout from the tip of its tail."
+        "description": "It has a preference for hot things. When it rains,\nsteam is said to spout from the tip of its tail.",
+        "info": {
+            "national_pokedex": "0004",
+            "species": "Lizard Pokémon",
+            "height": "0.61 m / 2'00\"",
+            "weight": "8.5 kg / 18.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_231_EN.webp",
@@ -6085,7 +7309,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "231",
         "rarity": "☆",
-        "description": "This Pokémon can be seen galloping through\nfields at speeds of up to 150 mph, its fiery mane\nfluttering in the wind."
+        "description": "This Pokémon can be seen galloping through\nfields at speeds of up to 150 mph, its fiery mane\nfluttering in the wind.",
+        "info": {
+            "national_pokedex": "0078",
+            "species": "Fire Horse Pokémon",
+            "height": "1.7 m / 5'07\"",
+            "weight": "95.0 kg / 209.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_232_EN.webp",
@@ -6111,7 +7341,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "232",
         "rarity": "☆",
-        "description": "When it retracts its long neck into its shell, it\nsquirts out water with vigorous force."
+        "description": "When it retracts its long neck into its shell, it\nsquirts out water with vigorous force.",
+        "info": {
+            "national_pokedex": "0007",
+            "species": "Tiny Turtle Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "9.0 kg / 19.8 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_233_EN.webp",
@@ -6140,7 +7376,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "233",
         "rarity": "☆",
-        "description": "Once it appears, it goes on a rampage.\nIt remains enraged until it demolishes\neverything around it."
+        "description": "Once it appears, it goes on a rampage.\nIt remains enraged until it demolishes\neverything around it.",
+        "info": {
+            "national_pokedex": "0130",
+            "species": "Atrocious Pokémon",
+            "height": "6.5 m / 21'04\"",
+            "weight": "235.0 kg / 518.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_234_EN.webp",
@@ -6166,7 +7408,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "234",
         "rarity": "☆",
-        "description": "A smart and kindhearted Pokémon,\nit glides across the surface of the sea while\nits beautiful song echoes around it."
+        "description": "A smart and kindhearted Pokémon,\nit glides across the surface of the sea while\nits beautiful song echoes around it.",
+        "info": {
+            "national_pokedex": "0131",
+            "species": "Transport Pokémon",
+            "height": "2.5 m / 8'02\"",
+            "weight": "220.5 kg / 485.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_235_EN.webp",
@@ -6193,7 +7441,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "235",
         "rarity": "☆",
-        "description": "The more energy it charges up, the faster\nit gets. But this also makes it more likely\nto explode."
+        "description": "The more energy it charges up, the faster\nit gets. But this also makes it more likely\nto explode.",
+        "info": {
+            "national_pokedex": "0101",
+            "species": "Ball Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "66.6 kg / 146.8 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_236_EN.webp",
@@ -6221,7 +7475,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "236",
         "rarity": "☆",
-        "description": "It has an incredibly high level of intelligence.\nSome say that Alakazam remembers everything\nthat ever happens to it, from birth till death."
+        "description": "It has an incredibly high level of intelligence.\nSome say that Alakazam remembers everything\nthat ever happens to it, from birth till death.",
+        "info": {
+            "national_pokedex": "0065",
+            "species": "Psi Pokémon",
+            "height": "1.5 m / 4'11\"",
+            "weight": "48.0 kg / 105.8 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_237_EN.webp",
@@ -6248,7 +7508,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "237",
         "rarity": "☆",
-        "description": "It is incredibly slow and dopey. It takes five\nseconds for it to feel pain when under attack."
+        "description": "It is incredibly slow and dopey. It takes five\nseconds for it to feel pain when under attack.",
+        "info": {
+            "national_pokedex": "0079",
+            "species": "Dopey Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "36.0 kg / 79.4 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_238_EN.webp",
@@ -6274,7 +7540,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "238",
         "rarity": "☆",
-        "description": "It lives about one yard underground, where it\nfeeds on plant roots. It sometimes appears\naboveground."
+        "description": "It lives about one yard underground, where it\nfeeds on plant roots. It sometimes appears\naboveground.",
+        "info": {
+            "national_pokedex": "0050",
+            "species": "Mole Pokémon",
+            "height": "0.2 m / 0'08\"",
+            "weight": "0.8 kg / 1.8 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_239_EN.webp",
@@ -6300,7 +7572,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "239",
         "rarity": "☆",
-        "description": "When the memory of its departed mother brings\nit to tears, its cries echo mournfully within the\nskull it wears on its head."
+        "description": "When the memory of its departed mother brings\nit to tears, its cries echo mournfully within the\nskull it wears on its head.",
+        "info": {
+            "national_pokedex": "0104",
+            "species": "Lonely Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "6.5 kg / 14.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_240_EN.webp",
@@ -6328,7 +7606,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "240",
         "rarity": "☆",
-        "description": "Nidoqueen is better at defense than offense.\nWith scales like armor, this Pokémon will shield\nits children from any kind of attack."
+        "description": "Nidoqueen is better at defense than offense.\nWith scales like armor, this Pokémon will shield\nits children from any kind of attack.",
+        "info": {
+            "national_pokedex": "0031",
+            "species": "Drill Pokémon",
+            "height": "1.3 m / 4'03\"",
+            "weight": "60.0 kg / 132.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_241_EN.webp",
@@ -6356,7 +7640,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "241",
         "rarity": "☆",
-        "description": "When it goes on a rampage, it’s impossible to\ncontrol. But in the presence of a Nidoqueen it’s\nlived with for a long time, Nidoking calms down."
+        "description": "When it goes on a rampage, it’s impossible to\ncontrol. But in the presence of a Nidoqueen it’s\nlived with for a long time, Nidoking calms down.",
+        "info": {
+            "national_pokedex": "0034",
+            "species": "Drill Pokémon",
+            "height": "1.4 m / 4'07\"",
+            "weight": "62.0 kg / 136.7 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_242_EN.webp",
@@ -6382,7 +7672,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "242",
         "rarity": "☆",
-        "description": "It loves to drink other creatures’ blood. It’s said\nthat if it finds others of its kind going hungry,\nit sometimes shares the blood it’s gathered."
+        "description": "It loves to drink other creatures’ blood. It’s said\nthat if it finds others of its kind going hungry,\nit sometimes shares the blood it’s gathered.",
+        "info": {
+            "national_pokedex": "0042",
+            "species": "Bat Pokémon",
+            "height": "1.6 m / 5'03\"",
+            "weight": "55.0 kg / 121.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_243_EN.webp",
@@ -6408,7 +7704,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "243",
         "rarity": "☆",
-        "description": "If one of the twin Koffing inflates, the other one\ndeflates. It constantly mixes its poisonous gases."
+        "description": "If one of the twin Koffing inflates, the other one\ndeflates. It constantly mixes its poisonous gases.",
+        "info": {
+            "national_pokedex": "0110",
+            "species": "Poison Gas Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "9.5 kg / 20.9 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_244_EN.webp",
@@ -6437,7 +7739,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "244",
         "rarity": "☆",
-        "description": "It is said that somewhere in the ocean lies an\nisland where these gather. Only they live there."
+        "description": "It is said that somewhere in the ocean lies an\nisland where these gather. Only they live there.",
+        "info": {
+            "national_pokedex": "0149",
+            "species": "Dragon Pokémon",
+            "height": "2.2 m / 7'03\"",
+            "weight": "210.0 kg / 463.0 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_245_EN.webp",
@@ -6464,7 +7772,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "245",
         "rarity": "☆",
-        "description": "When hunting, it skims the surface of water\nat high speed to pick off unwary prey such\nas Magikarp."
+        "description": "When hunting, it skims the surface of water\nat high speed to pick off unwary prey such\nas Magikarp.",
+        "info": {
+            "national_pokedex": "0018",
+            "species": "Bird Pokémon",
+            "height": "1.5 m / 4'11\"",
+            "weight": "39.5 kg / 87.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_246_EN.webp",
@@ -6490,7 +7804,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "246",
         "rarity": "☆",
-        "description": "All it does is sleep during the daytime. At night,\nit patrols its territory with its eyes aglow."
+        "description": "All it does is sleep during the daytime. At night,\nit patrols its territory with its eyes aglow.",
+        "info": {
+            "national_pokedex": "0052",
+            "species": "Scratch Cat Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "4.2 kg / 9.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_247_EN.webp",
@@ -6516,7 +7836,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "247",
         "rarity": "☆",
-        "description": "Its transformation ability is perfect. However,\nif made to laugh, it can’t maintain its disguise."
+        "description": "Its transformation ability is perfect. However,\nif made to laugh, it can’t maintain its disguise.",
+        "info": {
+            "national_pokedex": "0132",
+            "species": "Transform Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "4.0 kg / 8.8 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_248_EN.webp",
@@ -6542,7 +7868,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "248",
         "rarity": "☆",
-        "description": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment."
+        "description": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment.",
+        "info": {
+            "national_pokedex": "0133",
+            "species": "Evolution Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "6.5 kg / 14.3 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_249_EN.webp",
@@ -6568,7 +7900,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "249",
         "rarity": "☆",
-        "description": "State-of-the-art technology was used to create\nPorygon. It was the first artificial Pokémon to be\ncreated via computer programming."
+        "description": "State-of-the-art technology was used to create\nPorygon. It was the first artificial Pokémon to be\ncreated via computer programming.",
+        "info": {
+            "national_pokedex": "0137",
+            "species": "Virtual Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "36.5 kg / 80.5 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_250_EN.webp",
@@ -6597,7 +7935,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "250",
         "rarity": "☆",
-        "description": "It is not satisfied unless it eats over 880 pounds\nof food every day. When it is done eating, it\ngoes promptly to sleep."
+        "description": "It is not satisfied unless it eats over 880 pounds\nof food every day. When it is done eating, it\ngoes promptly to sleep.",
+        "info": {
+            "national_pokedex": "0143",
+            "species": "Sleeping Pokémon",
+            "height": "2.11 m / 6'11\"",
+            "weight": "460.0 kg / 1014.1 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_251_EN.webp",
@@ -7465,7 +8809,13 @@
         "set": "Genetic Apex  (A1)",
         "id": "283",
         "rarity": "☆☆☆",
-        "description": "Because it can use all kinds of moves, many\nscientists believe Mew to be the ancestor\nof Pokémon."
+        "description": "Because it can use all kinds of moves, many\nscientists believe Mew to be the ancestor\nof Pokémon.",
+        "info": {
+            "national_pokedex": "0151",
+            "species": "New Species Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "4.0 kg / 8.82 lbs."
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_284_EN.webp",
