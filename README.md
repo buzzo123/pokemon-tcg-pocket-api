@@ -12,8 +12,8 @@ This is an Express.js-based API that serves Pokémon Pocket card data from JSON 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/pokemon-api.git
-   cd pokemon-api
+   git clone https://github.com/buzzo123/pokemon-tcg-pocket-api.git
+   cd pokemon-tcg-pocket-api
    ```
 2. Install dependencies:
    ```sh
