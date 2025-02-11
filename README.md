@@ -1,4 +1,4 @@
-# Pokémon API
+# Pokémon Pocket API
 
 This is an Express.js-based API that serves Pokémon Pocket card data from JSON files.
 
@@ -60,13 +60,14 @@ Example:
 ```sh
 GET /set/A2/100
 ```
-Returns the card from A2 set with ID 223.
+Returns the card from A2 set with ID 100.
 
 ## Data Source
 
 The card data and images were scraped from:
 ```
 https://limitlesstcg.com/
+https://www.pokemon-zone.com/
 ```
 
 
