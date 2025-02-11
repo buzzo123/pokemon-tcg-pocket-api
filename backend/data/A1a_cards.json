@@ -1,0 +1,2135 @@
+[
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_001_EN.webp",
+        "type": "Pokémon",
+        "name": "Exeggcute",
+        "energy": "Grass",
+        "hp": "50",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "C"
+                ],
+                "name": "Growth Spurt",
+                "attack": "",
+                "effect": "Take a [G] Energy from your Energy Zone and attach it to this Pokémon."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "Yuka Morii",
+        "set": "Mythical Island  (A1a)",
+        "id": "1",
+        "rarity": "◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_002_EN.webp",
+        "type": "Pokémon",
+        "name": "Exeggutor",
+        "energy": "Grass",
+        "hp": "130",
+        "category": "Stage 1",
+        "evolvesfrom": "Exeggcute",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "G",
+                    "C",
+                    "C",
+                    "C"
+                ],
+                "name": "Psychic",
+                "attack": "80+",
+                "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "3",
+        "artist": "Masakazu Fukuda",
+        "set": "Mythical Island  (A1a)",
+        "id": "2",
+        "rarity": "◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_003_EN.webp",
+        "type": "Pokémon",
+        "name": "Celebi ex",
+        "energy": "Grass",
+        "hp": "130",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "G",
+                    "C"
+                ],
+                "name": "Powerful Bloom",
+                "attack": "50x",
+                "effect": "Flip a coin for each Energy attached to this Pokémon. This attack does 50 damage for each heads."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "PLANETA CG Works",
+        "set": "Mythical Island  (A1a)",
+        "id": "3",
+        "rarity": "◊◊◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_004_EN.webp",
+        "type": "Pokémon",
+        "name": "Snivy",
+        "energy": "Grass",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "G",
+                    "C"
+                ],
+                "name": "Vine Whip",
+                "attack": "40",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "Kagemaru Himeno",
+        "set": "Mythical Island  (A1a)",
+        "id": "4",
+        "rarity": "◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_005_EN.webp",
+        "type": "Pokémon",
+        "name": "Servine",
+        "energy": "Grass",
+        "hp": "80",
+        "category": "Stage 1",
+        "evolvesfrom": "Snivy",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "G",
+                    "C"
+                ],
+                "name": "Vine Whip",
+                "attack": "50",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "Shigenori Negishi",
+        "set": "Mythical Island  (A1a)",
+        "id": "5",
+        "rarity": "◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_006_EN.webp",
+        "type": "Pokémon",
+        "name": "Serperior",
+        "energy": "Grass",
+        "hp": "110",
+        "category": "Stage 2",
+        "evolvesfrom": "Servine",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "G",
+                    "C",
+                    "C",
+                    "C"
+                ],
+                "name": "Solar Beam",
+                "attack": "70",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "2",
+        "artist": "Yoshioka",
+        "set": "Mythical Island  (A1a)",
+        "id": "6",
+        "rarity": "◊◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_007_EN.webp",
+        "type": "Pokémon",
+        "name": "Morelull",
+        "energy": "Grass",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "G"
+                ],
+                "name": "Ram",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "Saya Tsuruta",
+        "set": "Mythical Island  (A1a)",
+        "id": "7",
+        "rarity": "◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_008_EN.webp",
+        "type": "Pokémon",
+        "name": "Shiinotic",
+        "energy": "Grass",
+        "hp": "90",
+        "category": "Stage 1",
+        "evolvesfrom": "Morelull",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "G",
+                    "G"
+                ],
+                "name": "Flickering Spores",
+                "attack": "50",
+                "effect": "Your opponent's Active Pokémon is now Asleep."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "2",
+        "artist": "Mizue",
+        "set": "Mythical Island  (A1a)",
+        "id": "8",
+        "rarity": "◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_009_EN.webp",
+        "type": "Pokémon",
+        "name": "Dhelmise",
+        "energy": "Grass",
+        "hp": "100",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "G"
+                ],
+                "name": "Energy Whip",
+                "attack": "20+",
+                "effect": "If this Pokémon has at least 3 extra [G] Energy attached, this attack does 70 more damage."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "2",
+        "artist": "Hasuno",
+        "set": "Mythical Island  (A1a)",
+        "id": "9",
+        "rarity": "◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_010_EN.webp",
+        "type": "Pokémon",
+        "name": "Ponyta",
+        "energy": "Fire",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "R"
+                ],
+                "name": "Stomp",
+                "attack": "10+",
+                "effect": "Flip a coin. If heads, this attack does 30 more damage."
+            }
+        ],
+        "weakness": "Water",
+        "retreat": "1",
+        "artist": "Tomokazu Komiya",
+        "set": "Mythical Island  (A1a)",
+        "id": "10",
+        "rarity": "◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_011_EN.webp",
+        "type": "Pokémon",
+        "name": "Rapidash",
+        "energy": "Fire",
+        "hp": "100",
+        "category": "Stage 1",
+        "evolvesfrom": "Ponyta",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "R",
+                    "C"
+                ],
+                "name": "Rising Lunge",
+                "attack": "40+",
+                "effect": "Flip a coin. If heads, this attack does 60 more damage."
+            }
+        ],
+        "weakness": "Water",
+        "retreat": "1",
+        "artist": "AKIRA EGAWA",
+        "set": "Mythical Island  (A1a)",
+        "id": "11",
+        "rarity": "◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_012_EN.webp",
+        "type": "Pokémon",
+        "name": "Magmar",
+        "energy": "Fire",
+        "hp": "80",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "R",
+                    "R"
+                ],
+                "name": "Fire Blast",
+                "attack": "80",
+                "effect": "Discard 2 [R] Energy from this Pokémon."
+            }
+        ],
+        "weakness": "Water",
+        "retreat": "2",
+        "artist": "sui",
+        "set": "Mythical Island  (A1a)",
+        "id": "12",
+        "rarity": "◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_013_EN.webp",
+        "type": "Pokémon",
+        "name": "Larvesta",
+        "energy": "Fire",
+        "hp": "80",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "R",
+                    "C"
+                ],
+                "name": "Combustion",
+                "attack": "30",
+                "effect": ""
+            }
+        ],
+        "weakness": "Water",
+        "retreat": "2",
+        "artist": "kawayoo",
+        "set": "Mythical Island  (A1a)",
+        "id": "13",
+        "rarity": "◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_014_EN.webp",
+        "type": "Pokémon",
+        "name": "Volcarona",
+        "energy": "Fire",
+        "hp": "120",
+        "category": "Stage 1",
+        "evolvesfrom": "Larvesta",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "R",
+                    "R",
+                    "C"
+                ],
+                "name": "Volcanic Ash",
+                "attack": "",
+                "effect": "Discard 2 [R] Energy from this Pokémon. This attack does 80 damage to 1 of your opponent's Pokémon."
+            }
+        ],
+        "weakness": "Water",
+        "retreat": "2",
+        "artist": "DOM",
+        "set": "Mythical Island  (A1a)",
+        "id": "14",
+        "rarity": "◊◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_015_EN.webp",
+        "type": "Pokémon",
+        "name": "Salandit",
+        "energy": "Fire",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "C"
+                ],
+                "name": "Venoshock",
+                "attack": "10+",
+                "effect": "If your opponent's Active Pokémon is Poisoned, this attack does 40 more damage."
+            }
+        ],
+        "weakness": "Water",
+        "retreat": "1",
+        "artist": "Naoki Saito",
+        "set": "Mythical Island  (A1a)",
+        "id": "15",
+        "rarity": "◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_016_EN.webp",
+        "type": "Pokémon",
+        "name": "Salazzle",
+        "energy": "Fire",
+        "hp": "80",
+        "category": "Stage 1",
+        "evolvesfrom": "Salandit",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "R"
+                ],
+                "name": "Poison Claws",
+                "attack": "30",
+                "effect": "Your opponent's Active Pokémon is now Poisoned."
+            }
+        ],
+        "weakness": "Water",
+        "retreat": "1",
+        "artist": "Mitsuhiro Arita",
+        "set": "Mythical Island  (A1a)",
+        "id": "16",
+        "rarity": "◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_017_EN.webp",
+        "type": "Pokémon",
+        "name": "Magikarp",
+        "energy": "Water",
+        "hp": "30",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "W"
+                ],
+                "name": "Leap Out",
+                "attack": "",
+                "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "Mitsuhiro Arita",
+        "set": "Mythical Island  (A1a)",
+        "id": "17",
+        "rarity": "◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_018_EN.webp",
+        "type": "Pokémon",
+        "name": "Gyarados ex",
+        "energy": "Water",
+        "hp": "180",
+        "category": "Stage 1",
+        "evolvesfrom": "Magikarp",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "W",
+                    "W",
+                    "W",
+                    "C"
+                ],
+                "name": "Rampaging Whirlpool",
+                "attack": "140",
+                "effect": "Discard a random Energy from among the Energy attached to all Pokémon (both yours and your opponent's)."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "3",
+        "artist": "PLANETA CG Works",
+        "set": "Mythical Island  (A1a)",
+        "id": "18",
+        "rarity": "◊◊◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_019_EN.webp",
+        "type": "Pokémon",
+        "name": "Vaporeon",
+        "energy": "Water",
+        "hp": "120",
+        "category": "Stage 1",
+        "evolvesfrom": "Eevee",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "W",
+                    "C",
+                    "C"
+                ],
+                "name": "Wave Splash",
+                "attack": "60",
+                "effect": ""
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "2",
+        "artist": "LINNE",
+        "set": "Mythical Island  (A1a)",
+        "id": "19",
+        "rarity": "◊◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_020_EN.webp",
+        "type": "Pokémon",
+        "name": "Finneon",
+        "energy": "Water",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "W"
+                ],
+                "name": "ater Gun",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "sui",
+        "set": "Mythical Island  (A1a)",
+        "id": "20",
+        "rarity": "◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_021_EN.webp",
+        "type": "Pokémon",
+        "name": "Lumineon",
+        "energy": "Water",
+        "hp": "80",
+        "category": "Stage 1",
+        "evolvesfrom": "Finneon",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "W",
+                    "W"
+                ],
+                "name": "Aqua Liner",
+                "attack": "",
+                "effect": "This attack does 50 damage to 1 of your opponent's Benched Pokémon."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "0",
+        "artist": "Sekio",
+        "set": "Mythical Island  (A1a)",
+        "id": "21",
+        "rarity": "◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_022_EN.webp",
+        "type": "Pokémon",
+        "name": "Chewtle",
+        "energy": "Water",
+        "hp": "80",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "W",
+                    "C"
+                ],
+                "name": "Bite",
+                "attack": "30",
+                "effect": ""
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "2",
+        "artist": "Taiga Kayama",
+        "set": "Mythical Island  (A1a)",
+        "id": "22",
+        "rarity": "◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_023_EN.webp",
+        "type": "Pokémon",
+        "name": "Drednaw",
+        "energy": "Water",
+        "hp": "130",
+        "category": "Stage 1",
+        "evolvesfrom": "Chewtle",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "W",
+                    "W",
+                    "W"
+                ],
+                "name": "Crunch",
+                "attack": "70",
+                "effect": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "3",
+        "artist": "nisimono",
+        "set": "Mythical Island  (A1a)",
+        "id": "23",
+        "rarity": "◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_024_EN.webp",
+        "type": "Pokémon",
+        "name": "Cramorant",
+        "energy": "Water",
+        "hp": "80",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "W",
+                    "W",
+                    "C"
+                ],
+                "name": "Dive",
+                "attack": "60",
+                "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "Jerky",
+        "set": "Mythical Island  (A1a)",
+        "id": "24",
+        "rarity": "◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_025_EN.webp",
+        "type": "Pokémon",
+        "name": "Pikachu",
+        "energy": "Lightning",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "L"
+                ],
+                "name": "Circle Circuit",
+                "attack": "10x",
+                "effect": "This attack does 10 damage for each of your Benched [L] Pokémon."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Naoyo Kimura",
+        "set": "Mythical Island  (A1a)",
+        "id": "25",
+        "rarity": "◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_026_EN.webp",
+        "type": "Pokémon",
+        "name": "Raichu",
+        "energy": "Lightning",
+        "hp": "120",
+        "category": "Stage 1",
+        "evolvesfrom": "Pikachu",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "L",
+                    "L",
+                    "L"
+                ],
+                "name": "Gigashock",
+                "attack": "60",
+                "effect": "This attack also does 20 damage to each of your opponent's Benched Pokémon."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "2",
+        "artist": "hncl",
+        "set": "Mythical Island  (A1a)",
+        "id": "26",
+        "rarity": "◊◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_027_EN.webp",
+        "type": "Pokémon",
+        "name": "Electabuzz",
+        "energy": "Lightning",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "L",
+                    "L"
+                ],
+                "name": "Thunder Spear",
+                "attack": "",
+                "effect": "This attack does 40 damage to 1 of your opponent's Pokémon."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Naoyo Kimura",
+        "set": "Mythical Island  (A1a)",
+        "id": "27",
+        "rarity": "◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_028_EN.webp",
+        "type": "Pokémon",
+        "name": "Joltik",
+        "energy": "Lightning",
+        "hp": "40",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "L"
+                ],
+                "name": "Bug Bite",
+                "attack": "30",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "MINAMINAMI Take",
+        "set": "Mythical Island  (A1a)",
+        "id": "28",
+        "rarity": "◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_029_EN.webp",
+        "type": "Pokémon",
+        "name": "Galvantula",
+        "energy": "Lightning",
+        "hp": "80",
+        "category": "Stage 1",
+        "evolvesfrom": "Joltik",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "L",
+                    "L"
+                ],
+                "name": "Electroweb",
+                "attack": "70",
+                "effect": "During your opponent's next turn, the Defending Pokémon can't retreat."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Mitsuhiro Arita",
+        "set": "Mythical Island  (A1a)",
+        "id": "29",
+        "rarity": "◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_030_EN.webp",
+        "type": "Pokémon",
+        "name": "Dedenne",
+        "energy": "Lightning",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "L"
+                ],
+                "name": "Thunder Shock",
+                "attack": "10",
+                "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Taiga Kayama",
+        "set": "Mythical Island  (A1a)",
+        "id": "30",
+        "rarity": "◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_031_EN.webp",
+        "type": "Pokémon",
+        "name": "Mew",
+        "energy": "Psychic",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "P"
+                ],
+                "name": "sy Report",
+                "attack": "20",
+                "effect": "Your opponent reveals their hand."
+            }
+        ],
+        "weakness": "Darkness",
+        "retreat": "1",
+        "artist": "Saya Tsuruta",
+        "set": "Mythical Island  (A1a)",
+        "id": "31",
+        "rarity": "◊◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_032_EN.webp",
+        "type": "Pokémon",
+        "name": "Mew ex",
+        "energy": "Psychic",
+        "hp": "130",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "P"
+                ],
+                "name": "syshot",
+                "attack": "20",
+                "effect": ""
+            },
+            {
+                "energy_cost": [
+                    "C",
+                    "C",
+                    "C"
+                ],
+                "name": "Genome Hacking",
+                "attack": "",
+                "effect": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
+            }
+        ],
+        "weakness": "Darkness",
+        "retreat": "1",
+        "artist": "PLANETA CG Works",
+        "set": "Mythical Island  (A1a)",
+        "id": "32",
+        "rarity": "◊◊◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_033_EN.webp",
+        "type": "Pokémon",
+        "name": "Sigilyph",
+        "energy": "Psychic",
+        "hp": "80",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "P"
+                ],
+                "name": "Spike Draw",
+                "attack": "10",
+                "effect": "Draw a card."
+            }
+        ],
+        "weakness": "Darkness",
+        "retreat": "1",
+        "artist": "Shigenori Negishi",
+        "set": "Mythical Island  (A1a)",
+        "id": "33",
+        "rarity": "◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_034_EN.webp",
+        "type": "Pokémon",
+        "name": "Elgyem",
+        "energy": "Psychic",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "P"
+                ],
+                "name": "Headbutt",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Darkness",
+        "retreat": "1",
+        "artist": "Kouki Saitou",
+        "set": "Mythical Island  (A1a)",
+        "id": "34",
+        "rarity": "◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_035_EN.webp",
+        "type": "Pokémon",
+        "name": "Beheeyem",
+        "energy": "Psychic",
+        "hp": "90",
+        "category": "Stage 1",
+        "evolvesfrom": "Elgyem",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "P"
+                ],
+                "name": "Mind Jack",
+                "attack": "10+",
+                "effect": "This attack does 20 more damage for each of your opponent's Benched Pokémon."
+            }
+        ],
+        "weakness": "Darkness",
+        "retreat": "1",
+        "artist": "sowsow",
+        "set": "Mythical Island  (A1a)",
+        "id": "35",
+        "rarity": "◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_036_EN.webp",
+        "type": "Pokémon",
+        "name": "Flabébé",
+        "energy": "Psychic",
+        "hp": "40",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "P"
+                ],
+                "name": "Hypnotic Gaze",
+                "attack": "",
+                "effect": "Your opponent's Active Pokémon is now Asleep."
+            }
+        ],
+        "weakness": "Metal",
+        "retreat": "1",
+        "artist": "Cona Nitanda",
+        "set": "Mythical Island  (A1a)",
+        "id": "36",
+        "rarity": "◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_037_EN.webp",
+        "type": "Pokémon",
+        "name": "Floette",
+        "energy": "Psychic",
+        "hp": "70",
+        "category": "Stage 1",
+        "evolvesfrom": "Flabébé",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "P"
+                ],
+                "name": "Leaf Drain",
+                "attack": "40",
+                "effect": "Heal 10 damage from this Pokémon."
+            }
+        ],
+        "weakness": "Metal",
+        "retreat": "1",
+        "artist": "Cona Nitanda",
+        "set": "Mythical Island  (A1a)",
+        "id": "37",
+        "rarity": "◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_038_EN.webp",
+        "type": "Pokémon",
+        "name": "Florges",
+        "energy": "Psychic",
+        "hp": "120",
+        "category": "Stage 2",
+        "evolvesfrom": "Floette",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "P",
+                    "P"
+                ],
+                "name": "Bloomshine",
+                "attack": "80",
+                "effect": "Heal 20 damage from each of your Pokémon."
+            }
+        ],
+        "weakness": "Metal",
+        "retreat": "1",
+        "artist": "Cona Nitanda",
+        "set": "Mythical Island  (A1a)",
+        "id": "38",
+        "rarity": "◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_039_EN.webp",
+        "type": "Pokémon",
+        "name": "Swirlix",
+        "energy": "Psychic",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "P"
+                ],
+                "name": "Fairy Wind",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Metal",
+        "retreat": "1",
+        "artist": "5ban Graphics",
+        "set": "Mythical Island  (A1a)",
+        "id": "39",
+        "rarity": "◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_040_EN.webp",
+        "type": "Pokémon",
+        "name": "Slurpuff",
+        "energy": "Psychic",
+        "hp": "100",
+        "category": "Stage 1",
+        "evolvesfrom": "Swirlix",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "P",
+                    "C"
+                ],
+                "name": "Magical Shot",
+                "attack": "60",
+                "effect": ""
+            }
+        ],
+        "weakness": "Metal",
+        "retreat": "2",
+        "artist": "Kagemaru Himeno",
+        "set": "Mythical Island  (A1a)",
+        "id": "40",
+        "rarity": "◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_041_EN.webp",
+        "type": "Pokémon",
+        "name": "Mankey",
+        "energy": "Fighting",
+        "hp": "50",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "F"
+                ],
+                "name": "ocus ist",
+                "attack": "50",
+                "effect": "Flip a coin. If tails, this attack does nothing."
+            }
+        ],
+        "weakness": "Psychic",
+        "retreat": "1",
+        "artist": "Akira Komayama",
+        "set": "Mythical Island  (A1a)",
+        "id": "41",
+        "rarity": "◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_042_EN.webp",
+        "type": "Pokémon",
+        "name": "Primeape",
+        "energy": "Fighting",
+        "hp": "80",
+        "category": "Stage 1",
+        "evolvesfrom": "Mankey",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "F"
+                ],
+                "name": "Punch",
+                "attack": "50",
+                "effect": ""
+            }
+        ],
+        "weakness": "Psychic",
+        "retreat": "1",
+        "artist": "Taiga Kayama",
+        "set": "Mythical Island  (A1a)",
+        "id": "42",
+        "rarity": "◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_043_EN.webp",
+        "type": "Pokémon",
+        "name": "Geodude",
+        "energy": "Fighting",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "F",
+                    "C"
+                ],
+                "name": "Light Punch",
+                "attack": "30",
+                "effect": ""
+            }
+        ],
+        "weakness": "Grass",
+        "retreat": "2",
+        "artist": "GOSSAN",
+        "set": "Mythical Island  (A1a)",
+        "id": "43",
+        "rarity": "◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_044_EN.webp",
+        "type": "Pokémon",
+        "name": "Graveler",
+        "energy": "Fighting",
+        "hp": "100",
+        "category": "Stage 1",
+        "evolvesfrom": "Geodude",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "F",
+                    "C"
+                ],
+                "name": "Lunge Out",
+                "attack": "40",
+                "effect": ""
+            }
+        ],
+        "weakness": "Grass",
+        "retreat": "3",
+        "artist": "Ayaka Yoshida",
+        "set": "Mythical Island  (A1a)",
+        "id": "44",
+        "rarity": "◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_045_EN.webp",
+        "type": "Pokémon",
+        "name": "Golem",
+        "energy": "Fighting",
+        "hp": "160",
+        "category": "Stage 2",
+        "evolvesfrom": "Graveler",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "F",
+                    "F",
+                    "F",
+                    "C"
+                ],
+                "name": "Guard Press",
+                "attack": "120",
+                "effect": "During your opponent's next turn, this Pokémon takes −30 damage from attacks."
+            }
+        ],
+        "weakness": "Grass",
+        "retreat": "3",
+        "artist": "Masakazu Fukuda",
+        "set": "Mythical Island  (A1a)",
+        "id": "45",
+        "rarity": "◊◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_046_EN.webp",
+        "type": "Pokémon",
+        "name": "Aerodactyl ex",
+        "energy": "Fighting",
+        "hp": "140",
+        "category": "Stage 1",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "F",
+                    "C"
+                ],
+                "name": "Land Crush",
+                "attack": "80",
+                "effect": ""
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "PLANETA CG Works",
+        "set": "Mythical Island  (A1a)",
+        "id": "46",
+        "rarity": "◊◊◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_047_EN.webp",
+        "type": "Pokémon",
+        "name": "Marshadow",
+        "energy": "Fighting",
+        "hp": "80",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "F",
+                    "C"
+                ],
+                "name": "Revenge",
+                "attack": "40+",
+                "effect": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage."
+            }
+        ],
+        "weakness": "Psychic",
+        "retreat": "1",
+        "artist": "kantaro",
+        "set": "Mythical Island  (A1a)",
+        "id": "47",
+        "rarity": "◊◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_048_EN.webp",
+        "type": "Pokémon",
+        "name": "Stonjourner",
+        "energy": "Fighting",
+        "hp": "120",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "F",
+                    "F",
+                    "F"
+                ],
+                "name": "Mega Kick",
+                "attack": "90",
+                "effect": ""
+            }
+        ],
+        "weakness": "Grass",
+        "retreat": "3",
+        "artist": "Teeziro",
+        "set": "Mythical Island  (A1a)",
+        "id": "48",
+        "rarity": "◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_049_EN.webp",
+        "type": "Pokémon",
+        "name": "Koffing",
+        "energy": "Darkness",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "D"
+                ],
+                "name": "ivision",
+                "attack": "",
+                "effect": "Put 1 random Koffing from your deck onto your Bench."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "2",
+        "artist": "Naoyo Kimura",
+        "set": "Mythical Island  (A1a)",
+        "id": "49",
+        "rarity": "◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_050_EN.webp",
+        "type": "Pokémon",
+        "name": "Weezing",
+        "energy": "Darkness",
+        "hp": "110",
+        "category": "Stage 1",
+        "evolvesfrom": "Koffing",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "D",
+                    "D"
+                ],
+                "name": "Smokescreen",
+                "attack": "50",
+                "effect": "During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "3",
+        "artist": "Mousho",
+        "set": "Mythical Island  (A1a)",
+        "id": "50",
+        "rarity": "◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_051_EN.webp",
+        "type": "Pokémon",
+        "name": "Purrloin",
+        "energy": "Darkness",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "D"
+                ],
+                "name": "Scratch",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Grass",
+        "retreat": "1",
+        "artist": "Kagemaru Himeno",
+        "set": "Mythical Island  (A1a)",
+        "id": "51",
+        "rarity": "◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_052_EN.webp",
+        "type": "Pokémon",
+        "name": "Liepard",
+        "energy": "Darkness",
+        "hp": "90",
+        "category": "Stage 1",
+        "evolvesfrom": "Purrloin",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "D"
+                ],
+                "name": "Slash",
+                "attack": "40",
+                "effect": ""
+            }
+        ],
+        "weakness": "Grass",
+        "retreat": "1",
+        "artist": "GIDORA",
+        "set": "Mythical Island  (A1a)",
+        "id": "52",
+        "rarity": "◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_053_EN.webp",
+        "type": "Pokémon",
+        "name": "Venipede",
+        "energy": "Darkness",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "D"
+                ],
+                "name": "Ram",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Yukiko Baba",
+        "set": "Mythical Island  (A1a)",
+        "id": "53",
+        "rarity": "◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_054_EN.webp",
+        "type": "Pokémon",
+        "name": "Whirlipede",
+        "energy": "Darkness",
+        "hp": "90",
+        "category": "Stage 1",
+        "evolvesfrom": "Venipede",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "D"
+                ],
+                "name": "Poison Sting",
+                "attack": "20",
+                "effect": "Your opponent's Active Pokémon is now Poisoned."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "2",
+        "artist": "Shin Nagasawa",
+        "set": "Mythical Island  (A1a)",
+        "id": "54",
+        "rarity": "◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_055_EN.webp",
+        "type": "Pokémon",
+        "name": "Scolipede",
+        "energy": "Darkness",
+        "hp": "140",
+        "category": "Stage 2",
+        "evolvesfrom": "Whirlipede",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "D",
+                    "C"
+                ],
+                "name": "Venoshock",
+                "attack": "70+",
+                "effect": "If your opponent's Active Pokémon is Poisoned, this attack does 50 more damage."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "2",
+        "artist": "5ban Graphics",
+        "set": "Mythical Island  (A1a)",
+        "id": "55",
+        "rarity": "◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_056_EN.webp",
+        "type": "Pokémon",
+        "name": "Druddigon",
+        "energy": "Dragon",
+        "hp": "100",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "R",
+                    "W",
+                    "C"
+                ],
+                "name": "Dragon Claw",
+                "attack": "90",
+                "effect": ""
+            }
+        ],
+        "weakness": "none",
+        "retreat": "2",
+        "artist": "Ryota Murayama",
+        "set": "Mythical Island  (A1a)",
+        "id": "56",
+        "rarity": "◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_057_EN.webp",
+        "type": "Pokémon",
+        "name": "Pidgey",
+        "energy": "Colorless",
+        "hp": "50",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "C"
+                ],
+                "name": "Flap",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "Shigenori Negishi",
+        "set": "Mythical Island  (A1a)",
+        "id": "57",
+        "rarity": "◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_058_EN.webp",
+        "type": "Pokémon",
+        "name": "Pidgeotto",
+        "energy": "Colorless",
+        "hp": "90",
+        "category": "Stage 1",
+        "evolvesfrom": "Pidgey",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "C",
+                    "C",
+                    "C"
+                ],
+                "name": "Wing Attack",
+                "attack": "50",
+                "effect": ""
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "Taiga Kayama",
+        "set": "Mythical Island  (A1a)",
+        "id": "58",
+        "rarity": "◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_059_EN.webp",
+        "type": "Pokémon",
+        "name": "Pidgeot ex",
+        "energy": "Colorless",
+        "hp": "170",
+        "category": "Stage 2",
+        "evolvesfrom": "Pidgeotto",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "C",
+                    "C",
+                    "C"
+                ],
+                "name": "Scattering Cyclone",
+                "attack": "80+",
+                "effect": "This attack does 20 more damage for each of your opponent's Benched Pokémon."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "PLANETA CG Works",
+        "set": "Mythical Island  (A1a)",
+        "id": "59",
+        "rarity": "◊◊◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_060_EN.webp",
+        "type": "Pokémon",
+        "name": "Tauros",
+        "energy": "Colorless",
+        "hp": "100",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "C",
+                    "C",
+                    "C"
+                ],
+                "name": "Fighting Tackle",
+                "attack": "40+",
+                "effect": "If your opponent's Active Pokémon is a Pokémon  more damage."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "2",
+        "artist": "KEIICHIRO ITO",
+        "set": "Mythical Island  (A1a)",
+        "id": "60",
+        "rarity": "◊◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_061_EN.webp",
+        "type": "Pokémon",
+        "name": "Eevee",
+        "energy": "Colorless",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "C"
+                ],
+                "name": "ontinuous Steps",
+                "attack": "20x",
+                "effect": "Flip a coin until you get tails. This attack does 20 damage for each heads."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Hitoshi Ariga",
+        "set": "Mythical Island  (A1a)",
+        "id": "61",
+        "rarity": "◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_062_EN.webp",
+        "type": "Pokémon",
+        "name": "Chatot",
+        "energy": "Colorless",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "C"
+                ],
+                "name": "Mimic",
+                "attack": "",
+                "effect": "Shuffle your hand into your deck. Draw a card for each card in your opponent's hand."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "Masako Tomii",
+        "set": "Mythical Island  (A1a)",
+        "id": "62",
+        "rarity": "◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_063_EN.webp",
+        "type": "Trainer",
+        "name": "Old Amber",
+        "category": "Item",
+        "effect": "Play this card as if it were a 40-HP Basic [C] Pokémon.At any time during your turn, you may discard this card from play.This card can't retreat.",
+        "artist": "Toyste Beach",
+        "set": "Mythical Island  (A1a)",
+        "id": "63",
+        "rarity": "◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_064_EN.webp",
+        "type": "Trainer",
+        "name": "Pokémon Flute",
+        "category": "Item",
+        "effect": "Put a Basic Pokémon from your opponent's discard pile onto their Bench.",
+        "artist": "Toyste Beach",
+        "set": "Mythical Island  (A1a)",
+        "id": "64",
+        "rarity": "◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_065_EN.webp",
+        "type": "Trainer",
+        "name": "Mythical Slab",
+        "category": "Item",
+        "effect": "Look at the top card of your deck. If that card is a [P] Pokémon, put it into your hand. If it is not a [P] Pokémon, put it on the bottom of your deck.",
+        "artist": "AYUMI ODASHIMA",
+        "set": "Mythical Island  (A1a)",
+        "id": "65",
+        "rarity": "◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_066_EN.webp",
+        "type": "Trainer",
+        "name": "Budding Expeditioner",
+        "category": "Supporter",
+        "effect": "Put your Mew ex in the Active Spot into your hand.",
+        "artist": "Yuu Nishida",
+        "set": "Mythical Island  (A1a)",
+        "id": "66",
+        "rarity": "◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_067_EN.webp",
+        "type": "Trainer",
+        "name": "Blue",
+        "category": "Supporter",
+        "effect": "During your opponent's next turn, all of your Pokémon take −10 damage from attacks from your opponent's Pokémon.",
+        "artist": "Ryuta Fuse",
+        "set": "Mythical Island  (A1a)",
+        "id": "67",
+        "rarity": "◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_068_EN.webp",
+        "type": "Trainer",
+        "name": "Leaf",
+        "category": "Supporter",
+        "effect": "During this turn, the Retreat Cost of your Active Pokémon is 2 less.",
+        "artist": "En Morikura",
+        "set": "Mythical Island  (A1a)",
+        "id": "68",
+        "rarity": "◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_069_EN.webp",
+        "type": "Pokémon",
+        "name": "Exeggutor",
+        "energy": "Grass",
+        "hp": "130",
+        "category": "Stage 1",
+        "evolvesfrom": "Exeggcute",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "G",
+                    "C",
+                    "C",
+                    "C"
+                ],
+                "name": "Psychic",
+                "attack": "80+",
+                "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "3",
+        "artist": "Gapao",
+        "set": "Mythical Island  (A1a)",
+        "id": "69",
+        "rarity": "☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_070_EN.webp",
+        "type": "Pokémon",
+        "name": "Serperior",
+        "energy": "Grass",
+        "hp": "110",
+        "category": "Stage 2",
+        "evolvesfrom": "Servine",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "G",
+                    "C",
+                    "C",
+                    "C"
+                ],
+                "name": "Solar Beam",
+                "attack": "70",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "2",
+        "artist": "rika",
+        "set": "Mythical Island  (A1a)",
+        "id": "70",
+        "rarity": "☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_071_EN.webp",
+        "type": "Pokémon",
+        "name": "Salandit",
+        "energy": "Fire",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "C"
+                ],
+                "name": "Venoshock",
+                "attack": "10+",
+                "effect": "If your opponent's Active Pokémon is Poisoned, this attack does 40 more damage."
+            }
+        ],
+        "weakness": "Water",
+        "retreat": "1",
+        "artist": "Nurikabe",
+        "set": "Mythical Island  (A1a)",
+        "id": "71",
+        "rarity": "☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_072_EN.webp",
+        "type": "Pokémon",
+        "name": "Vaporeon",
+        "energy": "Water",
+        "hp": "120",
+        "category": "Stage 1",
+        "evolvesfrom": "Eevee",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "W",
+                    "C",
+                    "C"
+                ],
+                "name": "Wave Splash",
+                "attack": "60",
+                "effect": ""
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "2",
+        "artist": "aspara",
+        "set": "Mythical Island  (A1a)",
+        "id": "72",
+        "rarity": "☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_073_EN.webp",
+        "type": "Pokémon",
+        "name": "Dedenne",
+        "energy": "Lightning",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "L"
+                ],
+                "name": "Thunder Shock",
+                "attack": "10",
+                "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Yuu Nishida",
+        "set": "Mythical Island  (A1a)",
+        "id": "73",
+        "rarity": "☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_074_EN.webp",
+        "type": "Pokémon",
+        "name": "Marshadow",
+        "energy": "Fighting",
+        "hp": "80",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "F",
+                    "C"
+                ],
+                "name": "Revenge",
+                "attack": "40+",
+                "effect": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage."
+            }
+        ],
+        "weakness": "Psychic",
+        "retreat": "1",
+        "artist": "OKACHEKE",
+        "set": "Mythical Island  (A1a)",
+        "id": "74",
+        "rarity": "☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_075_EN.webp",
+        "type": "Pokémon",
+        "name": "Celebi ex",
+        "energy": "Grass",
+        "hp": "130",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "G",
+                    "C"
+                ],
+                "name": "Powerful Bloom",
+                "attack": "50x",
+                "effect": "Flip a coin for each Energy attached to this Pokémon. This attack does 50 damage for each heads."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "PLANETA CG Works",
+        "set": "Mythical Island  (A1a)",
+        "id": "75",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_076_EN.webp",
+        "type": "Pokémon",
+        "name": "Gyarados ex",
+        "energy": "Water",
+        "hp": "180",
+        "category": "Stage 1",
+        "evolvesfrom": "Magikarp",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "W",
+                    "W",
+                    "W",
+                    "C"
+                ],
+                "name": "Rampaging Whirlpool",
+                "attack": "140",
+                "effect": "Discard a random Energy from among the Energy attached to all Pokémon (both yours and your opponent's)."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "3",
+        "artist": "PLANETA CG Works",
+        "set": "Mythical Island  (A1a)",
+        "id": "76",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_077_EN.webp",
+        "type": "Pokémon",
+        "name": "Mew ex",
+        "energy": "Psychic",
+        "hp": "130",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "P"
+                ],
+                "name": "syshot",
+                "attack": "20",
+                "effect": ""
+            },
+            {
+                "energy_cost": [
+                    "C",
+                    "C",
+                    "C"
+                ],
+                "name": "Genome Hacking",
+                "attack": "",
+                "effect": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
+            }
+        ],
+        "weakness": "Darkness",
+        "retreat": "1",
+        "artist": "PLANETA CG Works",
+        "set": "Mythical Island  (A1a)",
+        "id": "77",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_078_EN.webp",
+        "type": "Pokémon",
+        "name": "Aerodactyl ex",
+        "energy": "Fighting",
+        "hp": "140",
+        "category": "Stage 1",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "F",
+                    "C"
+                ],
+                "name": "Land Crush",
+                "attack": "80",
+                "effect": ""
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "PLANETA CG Works",
+        "set": "Mythical Island  (A1a)",
+        "id": "78",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_079_EN.webp",
+        "type": "Pokémon",
+        "name": "Pidgeot ex",
+        "energy": "Colorless",
+        "hp": "170",
+        "category": "Stage 2",
+        "evolvesfrom": "Pidgeotto",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "C",
+                    "C",
+                    "C"
+                ],
+                "name": "Scattering Cyclone",
+                "attack": "80+",
+                "effect": "This attack does 20 more damage for each of your opponent's Benched Pokémon."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "PLANETA CG Works",
+        "set": "Mythical Island  (A1a)",
+        "id": "79",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_080_EN.webp",
+        "type": "Trainer",
+        "name": "Budding Expeditioner",
+        "category": "Supporter",
+        "effect": "Put your Mew ex in the Active Spot into your hand.",
+        "artist": "Yuu Nishida",
+        "set": "Mythical Island  (A1a)",
+        "id": "80",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_081_EN.webp",
+        "type": "Trainer",
+        "name": "Blue",
+        "category": "Supporter",
+        "effect": "During your opponent's next turn, all of your Pokémon take −10 damage from attacks from your opponent's Pokémon.",
+        "artist": "Ryuta Fuse",
+        "set": "Mythical Island  (A1a)",
+        "id": "81",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_082_EN.webp",
+        "type": "Trainer",
+        "name": "Leaf",
+        "category": "Supporter",
+        "effect": "During this turn, the Retreat Cost of your Active Pokémon is 2 less.",
+        "artist": "En Morikura",
+        "set": "Mythical Island  (A1a)",
+        "id": "82",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_083_EN.webp",
+        "type": "Pokémon",
+        "name": "Mew ex",
+        "energy": "Psychic",
+        "hp": "130",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "P"
+                ],
+                "name": "syshot",
+                "attack": "20",
+                "effect": ""
+            },
+            {
+                "energy_cost": [
+                    "C",
+                    "C",
+                    "C"
+                ],
+                "name": "Genome Hacking",
+                "attack": "",
+                "effect": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
+            }
+        ],
+        "weakness": "Darkness",
+        "retreat": "1",
+        "artist": "HYOGONOSUKE",
+        "set": "Mythical Island  (A1a)",
+        "id": "83",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_084_EN.webp",
+        "type": "Pokémon",
+        "name": "Aerodactyl ex",
+        "energy": "Fighting",
+        "hp": "140",
+        "category": "Stage 1",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "F",
+                    "C"
+                ],
+                "name": "Land Crush",
+                "attack": "80",
+                "effect": ""
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "danciao",
+        "set": "Mythical Island  (A1a)",
+        "id": "84",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_085_EN.webp",
+        "type": "Pokémon",
+        "name": "Celebi ex",
+        "energy": "Grass",
+        "hp": "130",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "G",
+                    "C"
+                ],
+                "name": "Powerful Bloom",
+                "attack": "50x",
+                "effect": "Flip a coin for each Energy attached to this Pokémon. This attack does 50 damage for each heads."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "kantaro",
+        "set": "Mythical Island  (A1a)",
+        "id": "85",
+        "rarity": "☆☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_086_EN.webp",
+        "type": "Pokémon",
+        "name": "Mew ex",
+        "energy": "Psychic",
+        "hp": "130",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "P"
+                ],
+                "name": "syshot",
+                "attack": "20",
+                "effect": ""
+            },
+            {
+                "energy_cost": [
+                    "C",
+                    "C",
+                    "C"
+                ],
+                "name": "Genome Hacking",
+                "attack": "",
+                "effect": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
+            }
+        ],
+        "weakness": "Darkness",
+        "retreat": "1",
+        "artist": "PLANETA CG Works",
+        "set": "Mythical Island  (A1a)",
+        "id": "86",
+        "rarity": "Crown Rare"
+    }
+]

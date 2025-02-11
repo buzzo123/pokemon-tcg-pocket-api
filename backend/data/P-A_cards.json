@@ -1,0 +1,951 @@
+[
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_001_EN.webp",
+        "type": "Trainer",
+        "name": "Potion",
+        "category": "Item",
+        "effect": "Heal 20 damage from 1 of your Pokémon.",
+        "artist": "5ban Graphics",
+        "set": "Promo-A",
+        "id": "1",
+        "rarity": "Shop"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_002_EN.webp",
+        "type": "Trainer",
+        "name": "X Speed",
+        "category": "Item",
+        "effect": "During this turn, the Retreat Cost of your Active Pokémon is 1 less.",
+        "artist": "Toyste Beach",
+        "set": "Promo-A",
+        "id": "2",
+        "rarity": "Shop"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_003_EN.webp",
+        "type": "Trainer",
+        "name": "Hand Scope",
+        "category": "Item",
+        "effect": "Your opponent reveals their hand.",
+        "artist": "Toyste Beach",
+        "set": "Promo-A",
+        "id": "3",
+        "rarity": "Shop"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_004_EN.webp",
+        "type": "Trainer",
+        "name": "Pokédex",
+        "category": "Item",
+        "effect": "Look at the top 3 cards of your deck.",
+        "artist": "Ryo Ueda",
+        "set": "Promo-A",
+        "id": "4",
+        "rarity": "Shop"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_005_EN.webp",
+        "type": "Trainer",
+        "name": "Poké Ball",
+        "category": "Item",
+        "effect": "Put 1 random Basic Pokemon from your deck into your hand.",
+        "artist": "Ryo Ueda",
+        "set": "Promo-A",
+        "id": "5",
+        "rarity": "Shop"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_006_EN.webp",
+        "type": "Trainer",
+        "name": "Red Card",
+        "category": "Item",
+        "effect": "Your opponent shuffles their hand into their deck and draws 3 cards.",
+        "artist": "5ban Graphics",
+        "set": "Promo-A",
+        "id": "6",
+        "rarity": "Shop"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_007_EN.webp",
+        "type": "Trainer",
+        "name": "Professor's Research",
+        "category": "Supporter",
+        "effect": "Draw 2 cards.",
+        "artist": "Naoki Saito",
+        "set": "Promo-A",
+        "id": "7",
+        "rarity": "Shop"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_008_EN.webp",
+        "type": "Trainer",
+        "name": "Pokédex",
+        "category": "Item",
+        "effect": "Look at the top 3 cards of your deck.",
+        "artist": "Yuu Nishida",
+        "set": "Promo-A",
+        "id": "8",
+        "rarity": "Campaign"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_009_EN.webp",
+        "type": "Pokémon",
+        "name": "Pikachu",
+        "energy": "Lightning",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "L"
+                ],
+                "name": "Gnaw",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Atsushi Furusawa",
+        "set": "Promo-A",
+        "id": "9",
+        "rarity": "Premium Missions"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_010_EN.webp",
+        "type": "Pokémon",
+        "name": "Mewtwo",
+        "energy": "Psychic",
+        "hp": "120",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "P",
+                    "P",
+                    "C",
+                    "C"
+                ],
+                "name": "Power Blast",
+                "attack": "120",
+                "effect": "Discard 2 [P] Energy from this Pokémon."
+            }
+        ],
+        "weakness": "Darkness",
+        "retreat": "2",
+        "artist": "Krgc",
+        "set": "Promo-A",
+        "id": "10",
+        "rarity": "Premium Missions"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_011_EN.webp",
+        "type": "Pokémon",
+        "name": "Chansey",
+        "energy": "Colorless",
+        "hp": "120",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "C",
+                    "C",
+                    "C"
+                ],
+                "name": "Gentle Slap",
+                "attack": "60",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "3",
+        "artist": "sowsow",
+        "set": "Promo-A",
+        "id": "11",
+        "rarity": "Wonder Pick"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_012_EN.webp",
+        "type": "Pokémon",
+        "name": "Meowth",
+        "energy": "Colorless",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "C"
+                ],
+                "name": "Pay Day",
+                "attack": "10",
+                "effect": "Draw 1 card."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Shigenori Negishi",
+        "set": "Promo-A",
+        "id": "12",
+        "rarity": "Wonder Pick"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_013_EN.webp",
+        "type": "Pokémon",
+        "name": "Butterfree",
+        "energy": "Grass",
+        "hp": "120",
+        "category": "Stage 2",
+        "evolvesfrom": "Metapod",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "G",
+                    "C",
+                    "C"
+                ],
+                "name": "Gust",
+                "attack": "60",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "miki kudo",
+        "set": "Promo-A",
+        "id": "13",
+        "rarity": "Promo pack"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_014_EN.webp",
+        "type": "Pokémon",
+        "name": "Lapras ex",
+        "energy": "Water",
+        "hp": "140",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "W",
+                    "W",
+                    "C"
+                ],
+                "name": "Bubble Drain",
+                "attack": "80",
+                "effect": "Heal 20 damage from this Pokémon."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "3",
+        "artist": "PLANETA CG Works",
+        "set": "Promo-A",
+        "id": "14",
+        "rarity": "Promo pack"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_015_EN.webp",
+        "type": "Pokémon",
+        "name": "Pikachu",
+        "energy": "Lightning",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "L"
+                ],
+                "name": "Gnaw",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Kouki Saitou",
+        "set": "Promo-A",
+        "id": "15",
+        "rarity": "Promo pack"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_016_EN.webp",
+        "type": "Pokémon",
+        "name": "Clefairy",
+        "energy": "Psychic",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "P"
+                ],
+                "name": "Slap",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Metal",
+        "retreat": "1",
+        "artist": "Shibuzoh.",
+        "set": "Promo-A",
+        "id": "16",
+        "rarity": "Promo pack"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_017_EN.webp",
+        "type": "Pokémon",
+        "name": "Mankey",
+        "energy": "Fighting",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "F"
+                ],
+                "name": "Reckless Charge",
+                "attack": "30",
+                "effect": "This Pokémon also does 10 damage to itself."
+            }
+        ],
+        "weakness": "Psychic",
+        "retreat": "1",
+        "artist": "Souichirou Gunjima",
+        "set": "Promo-A",
+        "id": "17",
+        "rarity": "Promo pack"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_018_EN.webp",
+        "type": "Pokémon",
+        "name": "Venusaur",
+        "energy": "Grass",
+        "hp": "160",
+        "category": "Stage 2",
+        "evolvesfrom": "Ivysaur",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "G",
+                    "G",
+                    "C",
+                    "C"
+                ],
+                "name": "Mega Drain",
+                "attack": "80",
+                "effect": "Heal 30 damage from this Pokémon."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "3",
+        "artist": "Kuroimori",
+        "set": "Promo-A",
+        "id": "18",
+        "rarity": "Promo pack"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_019_EN.webp",
+        "type": "Pokémon",
+        "name": "Greninja",
+        "energy": "Water",
+        "hp": "120",
+        "category": "Stage 2",
+        "evolvesfrom": "Frogadier",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "W",
+                    "C"
+                ],
+                "name": "Mist Slash",
+                "attack": "60",
+                "effect": ""
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "Sanosuke Sakuma",
+        "set": "Promo-A",
+        "id": "19",
+        "rarity": "Promo pack"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_020_EN.webp",
+        "type": "Pokémon",
+        "name": "Haunter",
+        "energy": "Psychic",
+        "hp": "70",
+        "category": "Stage 1",
+        "evolvesfrom": "Gastly",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "P"
+                ],
+                "name": "Surprise Attack",
+                "attack": "50",
+                "effect": "Flip a coin. If tails, this attack does nothing."
+            }
+        ],
+        "weakness": "Darkness",
+        "retreat": "1",
+        "artist": "Mékayu",
+        "set": "Promo-A",
+        "id": "20",
+        "rarity": "Promo pack"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_021_EN.webp",
+        "type": "Pokémon",
+        "name": "Onix",
+        "energy": "Fighting",
+        "hp": "110",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "F",
+                    "F",
+                    "F"
+                ],
+                "name": "Land Crush",
+                "attack": "70",
+                "effect": ""
+            }
+        ],
+        "weakness": "Grass",
+        "retreat": "4",
+        "artist": "Tomokazu Komiya",
+        "set": "Promo-A",
+        "id": "21",
+        "rarity": "Promo pack"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_022_EN.webp",
+        "type": "Pokémon",
+        "name": "Jigglypuff",
+        "energy": "Colorless",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "C"
+                ],
+                "name": "Sing",
+                "attack": "",
+                "effect": "Your opponent's Active Pokémon is now Asleep."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Kurata So",
+        "set": "Promo-A",
+        "id": "22",
+        "rarity": "Promo pack"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_023_EN.webp",
+        "type": "Pokémon",
+        "name": "Bulbasaur",
+        "energy": "Grass",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "G",
+                    "C"
+                ],
+                "name": "Vine Whip",
+                "attack": "40",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "Kouki Saitou",
+        "set": "Promo-A",
+        "id": "23",
+        "rarity": "Wonder Pick"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_024_EN.webp",
+        "type": "Pokémon",
+        "name": "Magnemite",
+        "energy": "Lightning",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "L"
+                ],
+                "name": "ightning Ball",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Miki Tanaka",
+        "set": "Promo-A",
+        "id": "24",
+        "rarity": "Wonder Pick"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_025_EN.webp",
+        "type": "Pokémon",
+        "name": "Moltres ex",
+        "energy": "Fire",
+        "hp": "140",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "R"
+                ],
+                "name": "Inferno Dance",
+                "attack": "",
+                "effect": "Flip 3 coins. Take an amount of [R] Energy from your Energy Zone equal to the number of heads and attach it to your Benched [R] Pokémon in any way you like."
+            },
+            {
+                "energy_cost": [
+                    "R",
+                    "C",
+                    "C"
+                ],
+                "name": "Heat Blast",
+                "attack": "70",
+                "effect": ""
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "2",
+        "artist": "PLANETA Igarashi",
+        "set": "Promo-A",
+        "id": "25",
+        "rarity": "Premium Missions"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_026_EN.webp",
+        "type": "Pokémon",
+        "name": "Pikachu",
+        "energy": "Lightning",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "L"
+                ],
+                "name": "Gnaw",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Kouki Saitou",
+        "set": "Promo-A",
+        "id": "26",
+        "rarity": "Campaign"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_027_EN.webp",
+        "type": "Pokémon",
+        "name": "Snivy",
+        "energy": "Grass",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "G"
+                ],
+                "name": "Tackle",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "Yoriyuki Ikegami",
+        "set": "Promo-A",
+        "id": "27",
+        "rarity": "Promo pack"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_028_EN.webp",
+        "type": "Pokémon",
+        "name": "Volcarona",
+        "energy": "Fire",
+        "hp": "120",
+        "category": "Stage 1",
+        "evolvesfrom": "Larvesta",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "R",
+                    "R",
+                    "C"
+                ],
+                "name": "Volcanic Ash",
+                "attack": "",
+                "effect": "Discard 2 [R] Energy from this Pokémon. This attack does 80 damage to 1 of your opponent's Pokémon."
+            }
+        ],
+        "weakness": "Water",
+        "retreat": "2",
+        "artist": "Shin Nagasawa",
+        "set": "Promo-A",
+        "id": "28",
+        "rarity": "Promo pack"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_029_EN.webp",
+        "type": "Pokémon",
+        "name": "Blastoise",
+        "energy": "Water",
+        "hp": "150",
+        "category": "Stage 2",
+        "evolvesfrom": "Wartortle",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "W",
+                    "W",
+                    "C"
+                ],
+                "name": "Hydro Pump",
+                "attack": "80+",
+                "effect": "If this Pokémon has at least 2 extra [W] Energy attached, this attack does 60 more damage."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "3",
+        "artist": "danciao",
+        "set": "Promo-A",
+        "id": "29",
+        "rarity": "Promo pack"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_030_EN.webp",
+        "type": "Pokémon",
+        "name": "Eevee",
+        "energy": "Colorless",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "C"
+                ],
+                "name": "Growl",
+                "attack": "",
+                "effect": "During your opponent's next turn, attacks used by the Defending Pokémon do −20 damage."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "En Morikura",
+        "set": "Promo-A",
+        "id": "30",
+        "rarity": "Promo pack"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_031_EN.webp",
+        "type": "Pokémon",
+        "name": "Cinccino",
+        "energy": "Colorless",
+        "hp": "90",
+        "category": "Stage 1",
+        "evolvesfrom": "Minccino",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "C",
+                    "C",
+                    "C"
+                ],
+                "name": "Do the Wave",
+                "attack": "30x",
+                "effect": "This attack does 30 damage for each of your Benched Pokémon."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "MAHOU",
+        "set": "Promo-A",
+        "id": "31",
+        "rarity": "Promo pack"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_032_EN.webp",
+        "type": "Pokémon",
+        "name": "Charmander",
+        "energy": "Fire",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "R"
+                ],
+                "name": "Ember",
+                "attack": "30",
+                "effect": "Discard a [R] Energy from this Pokémon."
+            }
+        ],
+        "weakness": "Water",
+        "retreat": "1",
+        "artist": "Naoyo Kimura",
+        "set": "Promo-A",
+        "id": "32",
+        "rarity": "Wonder Pick"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_033_EN.webp",
+        "type": "Pokémon",
+        "name": "Squirtle",
+        "energy": "Water",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "W"
+                ],
+                "name": "ater Gun",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "Kanako Eo",
+        "set": "Promo-A",
+        "id": "33",
+        "rarity": "Wonder Pick"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_034_EN.webp",
+        "type": "Pokémon",
+        "name": "Piplup",
+        "energy": "Water",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "C"
+                ],
+                "name": "Nap",
+                "attack": "",
+                "effect": "Heal 20 damage from this Pokémon."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "Kariya",
+        "set": "Promo-A",
+        "id": "34",
+        "rarity": "Premium Missions"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_035_EN.webp",
+        "type": "Pokémon",
+        "name": "Turtwig",
+        "energy": "Grass",
+        "hp": "80",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "G",
+                    "C"
+                ],
+                "name": "Bite",
+                "attack": "30",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "2",
+        "artist": "Atsuko Nishida",
+        "set": "Promo-A",
+        "id": "35",
+        "rarity": "Promo pack"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_036_EN.webp",
+        "type": "Pokémon",
+        "name": "Electivire",
+        "energy": "Lightning",
+        "hp": "120",
+        "category": "Stage 1",
+        "evolvesfrom": "Electabuzz",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "L",
+                    "L"
+                ],
+                "name": "Exciting Voltage",
+                "attack": "40+",
+                "effect": "If this Pokémon has at least 2 extra [L] Energy attached, this attack does 80 more damage."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "3",
+        "artist": "Sumiyoshi Kizuki",
+        "set": "Promo-A",
+        "id": "36",
+        "rarity": "Promo pack"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_037_EN.webp",
+        "type": "Pokémon",
+        "name": "Cresselia ex",
+        "energy": "Psychic",
+        "hp": "140",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "P",
+                    "P",
+                    "C"
+                ],
+                "name": "Psychic Flash",
+                "attack": "80",
+                "effect": ""
+            }
+        ],
+        "weakness": "Darkness",
+        "retreat": "2",
+        "artist": "PLANETA Mochizuki",
+        "set": "Promo-A",
+        "id": "37",
+        "rarity": "Promo pack"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_038_EN.webp",
+        "type": "Pokémon",
+        "name": "Misdreavus",
+        "energy": "Psychic",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "P"
+                ],
+                "name": "Confuse Ray",
+                "attack": "",
+                "effect": "Your opponent's Active Pokémon is now Confused."
+            }
+        ],
+        "weakness": "Darkness",
+        "retreat": "1",
+        "artist": "Miki Tanaka",
+        "set": "Promo-A",
+        "id": "38",
+        "rarity": "Promo pack"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_039_EN.webp",
+        "type": "Pokémon",
+        "name": "Skarmory",
+        "energy": "Metal",
+        "hp": "80",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "M"
+                ],
+                "name": "etal Arms",
+                "attack": "20+",
+                "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 30 more damage."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "Anesaki Dynamic",
+        "set": "Promo-A",
+        "id": "39",
+        "rarity": "Promo pack"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_040_EN.webp",
+        "type": "Pokémon",
+        "name": "Chimchar",
+        "energy": "Fire",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "R"
+                ],
+                "name": "Scratch",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Water",
+        "retreat": "1",
+        "artist": "sui",
+        "set": "Promo-A",
+        "id": "40",
+        "rarity": "Wonder Pick"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_041_EN.webp",
+        "type": "Pokémon",
+        "name": "Togepi",
+        "energy": "Psychic",
+        "hp": "50",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "P"
+                ],
+                "name": "ound",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Metal",
+        "retreat": "1",
+        "artist": "Naoyo Kimura",
+        "set": "Promo-A",
+        "id": "41",
+        "rarity": "Wonder Pick"
+    }
+]
