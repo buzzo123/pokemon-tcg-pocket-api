@@ -22,7 +22,8 @@
         "artist": "Yuka Morii",
         "set": "Mythical Island  (A1a)",
         "id": "1",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Though it may look like it’s just a bunch of eggs,\nit’s a proper Pokémon. Exeggcute communicates\nwith others of its kind via telepathy, apparently."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_002_EN.webp",
@@ -50,7 +51,8 @@
         "artist": "Masakazu Fukuda",
         "set": "Mythical Island  (A1a)",
         "id": "2",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "Each of Exeggutor’s three heads is thinking\ndifferent thoughts. The three don’t seem to be\nvery interested in one another."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_003_EN.webp",
@@ -102,7 +104,8 @@
         "artist": "Kagemaru Himeno",
         "set": "Mythical Island  (A1a)",
         "id": "4",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Being exposed to sunlight makes its movements\nswifter. It uses vines more adeptly than its hands."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_005_EN.webp",
@@ -128,7 +131,8 @@
         "artist": "Shigenori Negishi",
         "set": "Mythical Island  (A1a)",
         "id": "5",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "It moves along the ground as if sliding. Its swift\nmovements befuddle its foes, and it then attacks\nwith a vine whip."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_006_EN.webp",
@@ -156,7 +160,8 @@
         "artist": "Yoshioka",
         "set": "Mythical Island  (A1a)",
         "id": "6",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "It only gives its all against strong opponents who\nare not fazed by the glare from Serperior’s\nnoble eyes."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_007_EN.webp",
@@ -181,7 +186,8 @@
         "artist": "Saya Tsuruta",
         "set": "Mythical Island  (A1a)",
         "id": "7",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Pokémon living in the forest eat the\ndelicious caps on Morelull’s head.\nThe caps regrow overnight."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_008_EN.webp",
@@ -207,7 +213,8 @@
         "artist": "Mizue",
         "set": "Mythical Island  (A1a)",
         "id": "8",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "Its flickering spores lure in prey and put them to\nsleep. Once this Pokémon has its prey snoozing,\nit drains their vitality with its fingertips."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_009_EN.webp",
@@ -232,7 +239,8 @@
         "artist": "Hasuno",
         "set": "Mythical Island  (A1a)",
         "id": "9",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "After a piece of seaweed merged with debris\nfrom a sunken ship, it was reborn as this\nghost Pokémon."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_010_EN.webp",
@@ -257,7 +265,8 @@
         "artist": "Tomokazu Komiya",
         "set": "Mythical Island  (A1a)",
         "id": "10",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It can’t run properly when it’s newly born.\nAs it races around with others of its kind,\nits legs grow stronger."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_011_EN.webp",
@@ -283,7 +292,8 @@
         "artist": "AKIRA EGAWA",
         "set": "Mythical Island  (A1a)",
         "id": "11",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "This Pokémon can be seen galloping through\nfields at speeds of up to 150 mph, its fiery mane\nfluttering in the wind."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_012_EN.webp",
@@ -309,7 +319,8 @@
         "artist": "sui",
         "set": "Mythical Island  (A1a)",
         "id": "12",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "Magmar dispatches its prey with fire. But it\nregrets this habit once it realizes that it has\nburned its intended prey to a charred crisp."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_013_EN.webp",
@@ -335,7 +346,8 @@
         "artist": "kawayoo",
         "set": "Mythical Island  (A1a)",
         "id": "13",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "This Pokémon was called the Larva That Stole\nthe Sun. The fire Larvesta spouts from its horns\ncan cut right through a sheet of iron."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_014_EN.webp",
@@ -362,7 +374,8 @@
         "artist": "DOM",
         "set": "Mythical Island  (A1a)",
         "id": "14",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "Its burning body causes it to be unpopular in hot\nparts of the world, but in cold ones, Volcarona is\nrevered as an embodiment of the sun."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_015_EN.webp",
@@ -387,7 +400,8 @@
         "artist": "Naoki Saito",
         "set": "Mythical Island  (A1a)",
         "id": "15",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It taunts its prey and lures them into narrow,\nrocky areas where it then sprays them with toxic\ngas to make them dizzy and take them down."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_016_EN.webp",
@@ -412,7 +426,8 @@
         "artist": "Mitsuhiro Arita",
         "set": "Mythical Island  (A1a)",
         "id": "16",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Salazzle makes its opponents light-headed with\npoisonous gas, then captivates them with alluring\nmovements to turn them into loyal servants."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_017_EN.webp",
@@ -437,7 +452,8 @@
         "artist": "Mitsuhiro Arita",
         "set": "Mythical Island  (A1a)",
         "id": "17",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "An underpowered, pathetic Pokémon. It may\njump high on rare occasions but never more\nthan seven feet."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_018_EN.webp",
@@ -492,7 +508,8 @@
         "artist": "LINNE",
         "set": "Mythical Island  (A1a)",
         "id": "19",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "It lives close to water. Its long tail is ridged with\na fin, which is often mistaken for a mermaid’s."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_020_EN.webp",
@@ -517,7 +534,8 @@
         "artist": "sui",
         "set": "Mythical Island  (A1a)",
         "id": "20",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "The line running down its side can store sunlight.\nIt shines vividly at night."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_021_EN.webp",
@@ -543,7 +561,8 @@
         "artist": "Sekio",
         "set": "Mythical Island  (A1a)",
         "id": "21",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "With its shining light, it lures its prey close.\nHowever, the light also happens to attract\nferocious fish Pokémon—its natural predators."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_022_EN.webp",
@@ -569,7 +588,8 @@
         "artist": "Taiga Kayama",
         "set": "Mythical Island  (A1a)",
         "id": "22",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Its large front tooth is still growing in. When the\ntooth itches, this Pokémon will bite another\nChewtle’s horn, and the two Pokémon will tussle."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_023_EN.webp",
@@ -596,7 +616,8 @@
         "artist": "nisimono",
         "set": "Mythical Island  (A1a)",
         "id": "23",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "Its massive, jagged teeth can crush a\nboulder in a single bite. This Pokémon\nhas an extremely vicious disposition."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_024_EN.webp",
@@ -623,7 +644,8 @@
         "artist": "Jerky",
         "set": "Mythical Island  (A1a)",
         "id": "24",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It’s so strong that it can knock out some\nopponents in a single hit, but it also may\nforget what it’s battling midfight."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_025_EN.webp",
@@ -648,7 +670,8 @@
         "artist": "Naoyo Kimura",
         "set": "Mythical Island  (A1a)",
         "id": "25",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "When it is angered, it immediately discharges the\nenergy stored in the pouches in its cheeks."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_026_EN.webp",
@@ -675,7 +698,8 @@
         "artist": "hncl",
         "set": "Mythical Island  (A1a)",
         "id": "26",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "Its tail discharges electricity into the ground,\nprotecting it from getting shocked."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_027_EN.webp",
@@ -701,7 +725,8 @@
         "artist": "Naoyo Kimura",
         "set": "Mythical Island  (A1a)",
         "id": "27",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "Many power plants keep Ground-type Pokémon\naround as a defense against Electabuzz that\ncome seeking electricity."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_028_EN.webp",
@@ -726,7 +751,8 @@
         "artist": "MINAMINAMI Take",
         "set": "Mythical Island  (A1a)",
         "id": "28",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Joltik can be found clinging to other Pokémon.\nIt’s soaking up static electricity because it can’t\nproduce a charge on its own."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_029_EN.webp",
@@ -752,7 +778,8 @@
         "artist": "Mitsuhiro Arita",
         "set": "Mythical Island  (A1a)",
         "id": "29",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "It launches electrified fur from its abdomen as its\nmeans of attack. Opponents hit by the fur could\nbe in for three full days and nights of paralysis."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_030_EN.webp",
@@ -777,7 +804,8 @@
         "artist": "Taiga Kayama",
         "set": "Mythical Island  (A1a)",
         "id": "30",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It’s small and its electricity-generating organ is\nnot fully developed, so it uses its tail to absorb\nelectricity from people’s homes and charge itself."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_031_EN.webp",
@@ -802,7 +830,8 @@
         "artist": "Saya Tsuruta",
         "set": "Mythical Island  (A1a)",
         "id": "31",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "Because it can use all kinds of moves, many\nscientists believe Mew to be the ancestor\nof Pokémon."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_032_EN.webp",
@@ -862,7 +891,8 @@
         "artist": "Shigenori Negishi",
         "set": "Mythical Island  (A1a)",
         "id": "33",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "Psychic power allows these Pokémon to fly. Some\nsay they were the guardians of an ancient city.\nOthers say they were the guardians’ emissaries."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_034_EN.webp",
@@ -887,7 +917,8 @@
         "artist": "Kouki Saitou",
         "set": "Mythical Island  (A1a)",
         "id": "34",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "If this Pokémon stands near a TV, strange scenery\nwill appear on the screen. That scenery is said\nto be from its home."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_035_EN.webp",
@@ -912,7 +943,8 @@
         "artist": "sowsow",
         "set": "Mythical Island  (A1a)",
         "id": "35",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "Whenever a Beheeyem visits a farm,\na Dubwool mysteriously disappears."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_036_EN.webp",
@@ -937,7 +969,8 @@
         "artist": "Cona Nitanda",
         "set": "Mythical Island  (A1a)",
         "id": "36",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "This Pokémon can draw forth the power hidden\nwithin blooming wild flowers. It is particularly\nfond of red flowers."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_037_EN.webp",
@@ -962,7 +995,8 @@
         "artist": "Cona Nitanda",
         "set": "Mythical Island  (A1a)",
         "id": "37",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "This Pokémon draws forth what power is left in\nwithered flowers to make them healthy again.\nIt holds a red flower."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_038_EN.webp",
@@ -988,7 +1022,8 @@
         "artist": "Cona Nitanda",
         "set": "Mythical Island  (A1a)",
         "id": "38",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "This Pokémon creates an impressive flower\ngarden in its territory. It draws forth the power\nof the red flowers around its neck."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_039_EN.webp",
@@ -1013,7 +1048,8 @@
         "artist": "5ban Graphics",
         "set": "Mythical Island  (A1a)",
         "id": "39",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It eats its own weight in sugar every day.\nIf it doesn’t get enough sugar, it becomes\nincredibly grumpy."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_040_EN.webp",
@@ -1039,7 +1075,8 @@
         "artist": "Kagemaru Himeno",
         "set": "Mythical Island  (A1a)",
         "id": "40",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "By taking in a person’s scent, it can sniff out their\nmental and physical condition. It’s hoped that\nthis skill will have many medical applications."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_041_EN.webp",
@@ -1064,7 +1101,8 @@
         "artist": "Akira Komayama",
         "set": "Mythical Island  (A1a)",
         "id": "41",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It lives in groups in the treetops. If it loses sight of\nits group, it becomes infuriated by its loneliness."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_042_EN.webp",
@@ -1089,7 +1127,8 @@
         "artist": "Taiga Kayama",
         "set": "Mythical Island  (A1a)",
         "id": "42",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It becomes wildly furious if it even senses\nsomeone looking at it. It chases anyone\nthat meets its glare."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_043_EN.webp",
@@ -1115,7 +1154,8 @@
         "artist": "GOSSAN",
         "set": "Mythical Island  (A1a)",
         "id": "43",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Geodude that have lived a long life have had all\ntheir edges smoothed out until they’re totally\nround. They also have a calm, quiet disposition."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_044_EN.webp",
@@ -1141,7 +1181,8 @@
         "artist": "Ayaka Yoshida",
         "set": "Mythical Island  (A1a)",
         "id": "44",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "It climbs up cliffs as it heads toward the peak\nof a mountain. As soon as it reaches the summit,\nit rolls back down the way it came."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_045_EN.webp",
@@ -1169,7 +1210,8 @@
         "artist": "Masakazu Fukuda",
         "set": "Mythical Island  (A1a)",
         "id": "45",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "When Golem grow old, they stop shedding their\nshells. Those that have lived a long, long time\nhave shells green with moss."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_046_EN.webp",
@@ -1221,7 +1263,8 @@
         "artist": "kantaro",
         "set": "Mythical Island  (A1a)",
         "id": "47",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "It slips into the shadows of others and mimics\ntheir powers and movements. As it improves, it\nbecomes stronger than those it’s imitating."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_048_EN.webp",
@@ -1248,7 +1291,8 @@
         "artist": "Teeziro",
         "set": "Mythical Island  (A1a)",
         "id": "48",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "The elemental composition of the rocks that\nform its body were found to match the bedrock\nof a land far away from this Pokémon’s habitat."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_049_EN.webp",
@@ -1273,7 +1317,8 @@
         "artist": "Naoyo Kimura",
         "set": "Mythical Island  (A1a)",
         "id": "49",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Its body is full of poisonous gas. It floats into\ngarbage dumps, seeking out the fumes of raw,\nrotting trash."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_050_EN.webp",
@@ -1299,7 +1344,8 @@
         "artist": "Mousho",
         "set": "Mythical Island  (A1a)",
         "id": "50",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "If one of the twin Koffing inflates, the other one\ndeflates. It constantly mixes its poisonous gases."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_051_EN.webp",
@@ -1324,7 +1370,8 @@
         "artist": "Kagemaru Himeno",
         "set": "Mythical Island  (A1a)",
         "id": "51",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It steals things from people just to amuse itself\nwith their frustration. A rivalry exists between\nthis Pokémon and Nickit."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_052_EN.webp",
@@ -1349,7 +1396,8 @@
         "artist": "GIDORA",
         "set": "Mythical Island  (A1a)",
         "id": "52",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Don’t be fooled by its gorgeous fur and elegant\nfigure. This is a moody and vicious Pokémon."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_053_EN.webp",
@@ -1374,7 +1422,8 @@
         "artist": "Yukiko Baba",
         "set": "Mythical Island  (A1a)",
         "id": "53",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Venipede and Sizzlipede are similar species,\nbut when the two meet, a huge fight ensues."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_054_EN.webp",
@@ -1399,7 +1448,8 @@
         "artist": "Shin Nagasawa",
         "set": "Mythical Island  (A1a)",
         "id": "54",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "This Pokémon spins itself rapidly and charges into\nits opponents. Its top speed is just over 60 mph."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_055_EN.webp",
@@ -1425,7 +1475,8 @@
         "artist": "5ban Graphics",
         "set": "Mythical Island  (A1a)",
         "id": "55",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "Scolipede latches on to its prey with the claws on\nits neck before slamming them into the ground\nand jabbing them with its claws’ toxic spikes."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_056_EN.webp",
@@ -1452,7 +1503,8 @@
         "artist": "Ryota Murayama",
         "set": "Mythical Island  (A1a)",
         "id": "56",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "Druddigon lives in caves, but it never skips\nsunbathing—it won’t be able to move if its body\ngets too cold."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_057_EN.webp",
@@ -1477,7 +1529,8 @@
         "artist": "Shigenori Negishi",
         "set": "Mythical Island  (A1a)",
         "id": "57",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "A common sight in forests and woods. It flaps\nits wings at ground level to kick up blinding sand."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_058_EN.webp",
@@ -1504,7 +1557,8 @@
         "artist": "Taiga Kayama",
         "set": "Mythical Island  (A1a)",
         "id": "58",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "The claws on its feet are well developed.\nIt can carry prey such as an Exeggcute\nto its nest over 60 miles away."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_059_EN.webp",
@@ -1558,7 +1612,8 @@
         "artist": "KEIICHIRO ITO",
         "set": "Mythical Island  (A1a)",
         "id": "60",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "When Tauros begins whipping itself with its tails,\nit’s a warning that the Pokémon is about to\ncharge with astounding speed."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_061_EN.webp",
@@ -1583,7 +1638,8 @@
         "artist": "Hitoshi Ariga",
         "set": "Mythical Island  (A1a)",
         "id": "61",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_062_EN.webp",
@@ -1608,7 +1664,8 @@
         "artist": "Masako Tomii",
         "set": "Mythical Island  (A1a)",
         "id": "62",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It mimics the cries of other Pokémon to trick them\ninto thinking it’s one of them. This way they won’t\nattack it."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_063_EN.webp",
@@ -1702,7 +1759,8 @@
         "artist": "Gapao",
         "set": "Mythical Island  (A1a)",
         "id": "69",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "Each of Exeggutor’s three heads is thinking\ndifferent thoughts. The three don’t seem to be\nvery interested in one another."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_070_EN.webp",
@@ -1730,7 +1788,8 @@
         "artist": "rika",
         "set": "Mythical Island  (A1a)",
         "id": "70",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "It only gives its all against strong opponents who\nare not fazed by the glare from Serperior’s\nnoble eyes."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_071_EN.webp",
@@ -1755,7 +1814,8 @@
         "artist": "Nurikabe",
         "set": "Mythical Island  (A1a)",
         "id": "71",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "It taunts its prey and lures them into narrow,\nrocky areas where it then sprays them with toxic\ngas to make them dizzy and take them down."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_072_EN.webp",
@@ -1782,7 +1842,8 @@
         "artist": "aspara",
         "set": "Mythical Island  (A1a)",
         "id": "72",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "It lives close to water. Its long tail is ridged with\na fin, which is often mistaken for a mermaid’s."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_073_EN.webp",
@@ -1807,7 +1868,8 @@
         "artist": "Yuu Nishida",
         "set": "Mythical Island  (A1a)",
         "id": "73",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "It’s small and its electricity-generating organ is\nnot fully developed, so it uses its tail to absorb\nelectricity from people’s homes and charge itself."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_074_EN.webp",
@@ -1833,7 +1895,8 @@
         "artist": "OKACHEKE",
         "set": "Mythical Island  (A1a)",
         "id": "74",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "It slips into the shadows of others and mimics\ntheir powers and movements. As it improves, it\nbecomes stronger than those it’s imitating."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_075_EN.webp",

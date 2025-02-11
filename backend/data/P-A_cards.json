@@ -110,7 +110,8 @@
         "artist": "Atsushi Furusawa",
         "set": "Promo-A",
         "id": "9",
-        "rarity": "Premium Missions"
+        "rarity": "Premium Missions",
+        "description": "When it is angered, it immediately discharges the\nenergy stored in the pouches in its cheeks."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_010_EN.webp",
@@ -138,7 +139,8 @@
         "artist": "Krgc",
         "set": "Promo-A",
         "id": "10",
-        "rarity": "Premium Missions"
+        "rarity": "Premium Missions",
+        "description": "It was created by a scientist after years of horrific\ngene-splicing and DNA-engineering experiments."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_011_EN.webp",
@@ -165,7 +167,8 @@
         "artist": "sowsow",
         "set": "Promo-A",
         "id": "11",
-        "rarity": "Wonder Pick"
+        "rarity": "Wonder Pick",
+        "description": "This kindly Pokémon lays highly nutritious eggs\nand shares them with injured Pokémon or people."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_012_EN.webp",
@@ -190,7 +193,8 @@
         "artist": "Shigenori Negishi",
         "set": "Promo-A",
         "id": "12",
-        "rarity": "Wonder Pick"
+        "rarity": "Wonder Pick",
+        "description": "All it does is sleep during the daytime. At night,\nit patrols its territory with its eyes aglow."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_013_EN.webp",
@@ -217,7 +221,8 @@
         "artist": "miki kudo",
         "set": "Promo-A",
         "id": "13",
-        "rarity": "Promo pack"
+        "rarity": "Promo pack",
+        "description": "In battle, it flaps its wings at great speed to\nrelease highly toxic dust into the air."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_014_EN.webp",
@@ -269,7 +274,8 @@
         "artist": "Kouki Saitou",
         "set": "Promo-A",
         "id": "15",
-        "rarity": "Promo pack"
+        "rarity": "Promo pack",
+        "description": "When it is angered, it immediately discharges the\nenergy stored in the pouches in its cheeks."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_016_EN.webp",
@@ -294,7 +300,8 @@
         "artist": "Shibuzoh.",
         "set": "Promo-A",
         "id": "16",
-        "rarity": "Promo pack"
+        "rarity": "Promo pack",
+        "description": "It is said that happiness will come to those who\nsee a gathering of Clefairy dancing under a\nfull moon."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_017_EN.webp",
@@ -319,7 +326,8 @@
         "artist": "Souichirou Gunjima",
         "set": "Promo-A",
         "id": "17",
-        "rarity": "Promo pack"
+        "rarity": "Promo pack",
+        "description": "It lives in groups in the treetops. If it loses sight of\nits group, it becomes infuriated by its loneliness."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_018_EN.webp",
@@ -347,7 +355,8 @@
         "artist": "Kuroimori",
         "set": "Promo-A",
         "id": "18",
-        "rarity": "Promo pack"
+        "rarity": "Promo pack",
+        "description": "Its plant blooms when it is absorbing solar\nenergy. It stays on the move to seek sunlight."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_019_EN.webp",
@@ -373,7 +382,8 @@
         "artist": "Sanosuke Sakuma",
         "set": "Promo-A",
         "id": "19",
-        "rarity": "Promo pack"
+        "rarity": "Promo pack",
+        "description": "It creates throwing stars out of compressed water. \nWhen it spins them and throws them at high speed, \nthese stars can split metal in two."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_020_EN.webp",
@@ -398,7 +408,8 @@
         "artist": "Mékayu",
         "set": "Promo-A",
         "id": "20",
-        "rarity": "Promo pack"
+        "rarity": "Promo pack",
+        "description": "It likes to lurk in the dark and tap shoulders\nwith a gaseous hand. Its touch causes endless\nshuddering."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_021_EN.webp",
@@ -425,7 +436,8 @@
         "artist": "Tomokazu Komiya",
         "set": "Promo-A",
         "id": "21",
-        "rarity": "Promo pack"
+        "rarity": "Promo pack",
+        "description": "As it digs through the ground, it absorbs many\nhard objects. This is what makes its body so solid."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_022_EN.webp",
@@ -450,7 +462,8 @@
         "artist": "Kurata So",
         "set": "Promo-A",
         "id": "22",
-        "rarity": "Promo pack"
+        "rarity": "Promo pack",
+        "description": "When its huge eyes waver, it sings a mysteriously\nsoothing melody that lulls its enemies to sleep."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_023_EN.webp",
@@ -476,7 +489,8 @@
         "artist": "Kouki Saitou",
         "set": "Promo-A",
         "id": "23",
-        "rarity": "Wonder Pick"
+        "rarity": "Wonder Pick",
+        "description": "There is a plant seed on its back right from the\nday this Pokémon is born. The seed slowly\ngrows larger."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_024_EN.webp",
@@ -501,7 +515,8 @@
         "artist": "Miki Tanaka",
         "set": "Promo-A",
         "id": "24",
-        "rarity": "Wonder Pick"
+        "rarity": "Wonder Pick",
+        "description": "The electromagnetic waves emitted by the units\nat the sides of its head expel antigravity, which\nallows it to float."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_025_EN.webp",
@@ -561,7 +576,8 @@
         "artist": "Kouki Saitou",
         "set": "Promo-A",
         "id": "26",
-        "rarity": "Campaign"
+        "rarity": "Campaign",
+        "description": "When it is angered, it immediately discharges the\nenergy stored in the pouches in its cheeks."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_027_EN.webp",
@@ -586,7 +602,8 @@
         "artist": "Yoriyuki Ikegami",
         "set": "Promo-A",
         "id": "27",
-        "rarity": "Promo pack"
+        "rarity": "Promo pack",
+        "description": "Being exposed to sunlight makes its movements\nswifter. It uses vines more adeptly than its hands."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_028_EN.webp",
@@ -613,7 +630,8 @@
         "artist": "Shin Nagasawa",
         "set": "Promo-A",
         "id": "28",
-        "rarity": "Promo pack"
+        "rarity": "Promo pack",
+        "description": "Its burning body causes it to be unpopular in hot\nparts of the world, but in cold ones, Volcarona is\nrevered as an embodiment of the sun."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_029_EN.webp",
@@ -640,7 +658,8 @@
         "artist": "danciao",
         "set": "Promo-A",
         "id": "29",
-        "rarity": "Promo pack"
+        "rarity": "Promo pack",
+        "description": "It crushes its foe under its heavy body to cause\nfainting. In a pinch, it will withdraw inside its shell."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_030_EN.webp",
@@ -665,7 +684,8 @@
         "artist": "En Morikura",
         "set": "Promo-A",
         "id": "30",
-        "rarity": "Promo pack"
+        "rarity": "Promo pack",
+        "description": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_031_EN.webp",
@@ -692,7 +712,8 @@
         "artist": "MAHOU",
         "set": "Promo-A",
         "id": "31",
-        "rarity": "Promo pack"
+        "rarity": "Promo pack",
+        "description": "Its body secretes oil that this Pokémon spreads\nover its nest as a coating to protect it from dust.\nCinccino won’t tolerate even a speck of the stuff."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_032_EN.webp",
@@ -717,7 +738,8 @@
         "artist": "Naoyo Kimura",
         "set": "Promo-A",
         "id": "32",
-        "rarity": "Wonder Pick"
+        "rarity": "Wonder Pick",
+        "description": "It has a preference for hot things. When it rains,\nsteam is said to spout from the tip of its tail."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_033_EN.webp",
@@ -742,7 +764,8 @@
         "artist": "Kanako Eo",
         "set": "Promo-A",
         "id": "33",
-        "rarity": "Wonder Pick"
+        "rarity": "Wonder Pick",
+        "description": "When it retracts its long neck into its shell, it\nsquirts out water with vigorous force."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_034_EN.webp",
@@ -767,7 +790,8 @@
         "artist": "Kariya",
         "set": "Promo-A",
         "id": "34",
-        "rarity": "Premium Missions"
+        "rarity": "Premium Missions",
+        "description": "It doesn’t like to be taken care of. It’s difficult to\nbond with since it won’t listen to its Trainer."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_035_EN.webp",
@@ -793,7 +817,8 @@
         "artist": "Atsuko Nishida",
         "set": "Promo-A",
         "id": "35",
-        "rarity": "Promo pack"
+        "rarity": "Promo pack",
+        "description": "It uses its whole body to photosynthesize when\nexposed to sunlight. Its shell is made from\nhardened soil."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_036_EN.webp",
@@ -819,7 +844,8 @@
         "artist": "Sumiyoshi Kizuki",
         "set": "Promo-A",
         "id": "36",
-        "rarity": "Promo pack"
+        "rarity": "Promo pack",
+        "description": "The amount of electrical energy this Pokémon\nproduces is proportional to the rate of its pulse.\nThe voltage jumps while Electivire is battling."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_037_EN.webp",
@@ -871,7 +897,8 @@
         "artist": "Miki Tanaka",
         "set": "Promo-A",
         "id": "38",
-        "rarity": "Promo pack"
+        "rarity": "Promo pack",
+        "description": "This Pokémon startles people in the middle of\nthe night. It gathers fear as its energy."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_039_EN.webp",
@@ -896,7 +923,8 @@
         "artist": "Anesaki Dynamic",
         "set": "Promo-A",
         "id": "39",
-        "rarity": "Promo pack"
+        "rarity": "Promo pack",
+        "description": "People fashion swords from Skarmory’s shed\nfeathers, so this Pokémon is a popular element\nin heraldic designs."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_040_EN.webp",
@@ -921,7 +949,8 @@
         "artist": "sui",
         "set": "Promo-A",
         "id": "40",
-        "rarity": "Wonder Pick"
+        "rarity": "Wonder Pick",
+        "description": "Its fiery rear end is fueled by gas made in its belly.\nEven rain can’t extinguish the fire."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_041_EN.webp",
@@ -946,6 +975,7 @@
         "artist": "Naoyo Kimura",
         "set": "Promo-A",
         "id": "41",
-        "rarity": "Wonder Pick"
+        "rarity": "Wonder Pick",
+        "description": "The shell seems to be filled with joy. It is said\nthat it will share good luck when treated kindly."
     }
 ]

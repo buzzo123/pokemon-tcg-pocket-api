@@ -22,7 +22,8 @@
         "artist": "Asako Ito",
         "set": "Space-Time Smackdown  (A2)",
         "id": "1",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "If exposed to moonlight, it starts to move.\nIt roams far and wide at night to scatter its seeds."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_002_EN.webp",
@@ -47,7 +48,8 @@
         "artist": "Shibuzoh.",
         "set": "Space-Time Smackdown  (A2)",
         "id": "2",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Its pistils exude an incredibly foul odor.\nThe horrid stench can cause fainting at a distance\nof 1.25 miles."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_003_EN.webp",
@@ -73,7 +75,8 @@
         "artist": "Naoyo Kimura",
         "set": "Space-Time Smackdown  (A2)",
         "id": "3",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "Plentiful in the tropics. When it dances, its petals\nrub together and make a pleasant ringing sound."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_004_EN.webp",
@@ -99,7 +102,8 @@
         "artist": "Narumi Sato",
         "set": "Space-Time Smackdown  (A2)",
         "id": "4",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Hidden beneath a tangle of vines that grows\nnonstop even if the vines are torn off, this\nPokémon’s true appearance remains a mystery."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_005_EN.webp",
@@ -127,7 +131,8 @@
         "artist": "kodama",
         "set": "Space-Time Smackdown  (A2)",
         "id": "5",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "Tangrowth has two arms that it can extend as it\npleases. Recent research has shown that these\narms are, in fact, bundles of vines."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_006_EN.webp",
@@ -152,7 +157,8 @@
         "artist": "Eri Yamaki",
         "set": "Space-Time Smackdown  (A2)",
         "id": "6",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Its eyes can see 360 degrees without moving its\nhead. It won’t miss prey—even those behind it."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_007_EN.webp",
@@ -204,7 +210,8 @@
         "artist": "kirisAki",
         "set": "Space-Time Smackdown  (A2)",
         "id": "8",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Its flowers give off a relaxing fragrance.\nThe stronger its aroma, the healthier\nthe Roselia is."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_009_EN.webp",
@@ -230,7 +237,8 @@
         "artist": "Masakazu Fukuda",
         "set": "Space-Time Smackdown  (A2)",
         "id": "9",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "After captivating opponents with its sweet scent,\nit lashes them with its thorny whips."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_010_EN.webp",
@@ -256,7 +264,8 @@
         "artist": "OOYAMA",
         "set": "Space-Time Smackdown  (A2)",
         "id": "10",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It uses its whole body to photosynthesize when\nexposed to sunlight. Its shell is made from\nhardened soil."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_011_EN.webp",
@@ -283,7 +292,8 @@
         "artist": "Sumiyoshi Kizuki",
         "set": "Space-Time Smackdown  (A2)",
         "id": "11",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "It lives along water in forests. In the daytime,\nit leaves the forest to sunbathe its treed shell."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_012_EN.webp",
@@ -311,7 +321,8 @@
         "artist": "kawayoo",
         "set": "Space-Time Smackdown  (A2)",
         "id": "12",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "Ancient people imagined that beneath the\nground dwelt a gigantic Torterra."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_013_EN.webp",
@@ -336,7 +347,8 @@
         "artist": "Shigenori Negishi",
         "set": "Space-Time Smackdown  (A2)",
         "id": "13",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Its legs are short. Whenever it stumbles, its stiff\nantennae clack with a xylophone-like sound."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_014_EN.webp",
@@ -362,7 +374,8 @@
         "artist": "Naoyo Kimura",
         "set": "Space-Time Smackdown  (A2)",
         "id": "14",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "By allowing its cry to resonate in the hollow of its\nbelly, it produces a captivating sound."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_015_EN.webp",
@@ -387,7 +400,8 @@
         "artist": "Mugi Hamada",
         "set": "Space-Time Smackdown  (A2)",
         "id": "15",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "To shelter itself from cold, wintry winds, it covers\nitself with a cloak made of twigs and leaves."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_016_EN.webp",
@@ -414,7 +428,8 @@
         "artist": "Kouki Saitou",
         "set": "Space-Time Smackdown  (A2)",
         "id": "16",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Its appearance changes depending on where it\nevolved. The materials on hand become a part of\nits body."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_017_EN.webp",
@@ -439,7 +454,8 @@
         "artist": "Yukiko Baba",
         "set": "Space-Time Smackdown  (A2)",
         "id": "17",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "At night, Combee sleep in a group of about a\nhundred, packed closely together in a lump."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_018_EN.webp",
@@ -465,7 +481,8 @@
         "artist": "chibi",
         "set": "Space-Time Smackdown  (A2)",
         "id": "18",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "It houses its colony in cells in its body and\nreleases various pheromones to make those\ngrubs do its bidding."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_019_EN.webp",
@@ -492,7 +509,8 @@
         "artist": "Anesaki Dynamic",
         "set": "Space-Time Smackdown  (A2)",
         "id": "19",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "It attracts prey with its sweet-smelling saliva, then\nchomps down. It takes a whole day to eat prey."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_020_EN.webp",
@@ -518,7 +536,8 @@
         "artist": "Kouki Saitou",
         "set": "Space-Time Smackdown  (A2)",
         "id": "20",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "When you see Leafeon asleep in a patch of\nsunshine, you’ll know it is using photosynthesis\nto produce clean air."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_021_EN.webp",
@@ -544,7 +563,8 @@
         "artist": "kawayoo",
         "set": "Space-Time Smackdown  (A2)",
         "id": "21",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "The lawn mower is one of the household\nappliances that led to the development of\nthe Rotom Dex."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_022_EN.webp",
@@ -570,7 +590,8 @@
         "artist": "Narumi Sato",
         "set": "Space-Time Smackdown  (A2)",
         "id": "22",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "It can dissolve toxins in the air to instantly\ntransform ruined land into a lush field of flowers."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_023_EN.webp",
@@ -595,7 +616,8 @@
         "artist": "Hiroki Asanuma",
         "set": "Space-Time Smackdown  (A2)",
         "id": "23",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Magmar dispatches its prey with fire. But it\nregrets this habit once it realizes that it has\nburned its intended prey to a charred crisp."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_024_EN.webp",
@@ -623,7 +645,8 @@
         "artist": "KEIICHIRO ITO",
         "set": "Space-Time Smackdown  (A2)",
         "id": "24",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "When Magmortar inhales deeply, the fire burning\nin its belly intensifies, rising in temperature to\nover 3,600 degrees Fahrenheit."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_025_EN.webp",
@@ -648,7 +671,8 @@
         "artist": "Naoyo Kimura",
         "set": "Space-Time Smackdown  (A2)",
         "id": "25",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "A common sight in volcanic areas, it slowly slithers\naround in a constant search for warm places."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_026_EN.webp",
@@ -674,7 +698,8 @@
         "artist": "Oswaldo KATO",
         "set": "Space-Time Smackdown  (A2)",
         "id": "26",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "Its brittle shell occasionally spouts intense flames\nthat circulate throughout its body."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_027_EN.webp",
@@ -699,7 +724,8 @@
         "artist": "Kagemaru Himeno",
         "set": "Space-Time Smackdown  (A2)",
         "id": "27",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Its fiery rear end is fueled by gas made in its belly.\nEven rain can’t extinguish the fire."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_028_EN.webp",
@@ -724,7 +750,8 @@
         "artist": "Masakazu Fukuda",
         "set": "Space-Time Smackdown  (A2)",
         "id": "28",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "It skillfully controls the intensity of the fire on its\ntail to keep its foes at an ideal distance."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_029_EN.webp",
@@ -776,7 +803,8 @@
         "artist": "Kedamahadaitai Yawarakai",
         "set": "Space-Time Smackdown  (A2)",
         "id": "30",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "If the convection microwave oven is not working\nproperly, then the Rotom inhabiting it will\nbecome lethargic."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_031_EN.webp",
@@ -802,7 +830,8 @@
         "artist": "Eri Yamaki",
         "set": "Space-Time Smackdown  (A2)",
         "id": "31",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It rubs its snout on the ground to find and dig up\nfood. It sometimes discovers hot springs."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_032_EN.webp",
@@ -829,7 +858,8 @@
         "artist": "Suwama Chiaki",
         "set": "Space-Time Smackdown  (A2)",
         "id": "32",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "If it charges at an enemy, the hairs on its back\nstand up straight. It is very sensitive to sound."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_033_EN.webp",
@@ -857,7 +887,8 @@
         "artist": "match",
         "set": "Space-Time Smackdown  (A2)",
         "id": "33",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "This Pokémon can be spotted in wall paintings\nfrom as far back as 10,000 years ago. For a\nwhile, it was thought to have gone extinct."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_034_EN.webp",
@@ -883,7 +914,8 @@
         "artist": "Tomokazu Komiya",
         "set": "Space-Time Smackdown  (A2)",
         "id": "34",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "With cold air that can reach temperatures as low\nas −328 degrees Fahrenheit, Regice instantly\nfreezes any creature that approaches it."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_035_EN.webp",
@@ -908,7 +940,8 @@
         "artist": "Hajime Kusajima",
         "set": "Space-Time Smackdown  (A2)",
         "id": "35",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It doesn’t like to be taken care of. It’s difficult to\nbond with since it won’t listen to its Trainer."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_036_EN.webp",
@@ -934,7 +967,8 @@
         "artist": "Mizue",
         "set": "Space-Time Smackdown  (A2)",
         "id": "36",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "It lives alone, away from others. Apparently, every\none of them believes it is the most important."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_037_EN.webp",
@@ -961,7 +995,8 @@
         "artist": "Satoshi Shirai",
         "set": "Space-Time Smackdown  (A2)",
         "id": "37",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "It swims as fast as a jet boat. The edges of its\nwings are sharp and can slice apart drifting ice."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_038_EN.webp",
@@ -986,7 +1021,8 @@
         "artist": "OKUBO",
         "set": "Space-Time Smackdown  (A2)",
         "id": "38",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It spins its two tails like a screw to propel itself\nthrough water. The tails also slice clinging\nseaweed."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_039_EN.webp",
@@ -1011,7 +1047,8 @@
         "artist": "Kanako Eo",
         "set": "Space-Time Smackdown  (A2)",
         "id": "39",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "With its flotation sac inflated, it can carry people\non its back. It deflates the sac before it dives."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_040_EN.webp",
@@ -1037,7 +1074,8 @@
         "artist": "Teeziro",
         "set": "Space-Time Smackdown  (A2)",
         "id": "40",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It used to have a shell on its back long ago.\nThis species is closely related to Pokémon\nlike Shellder."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_041_EN.webp",
@@ -1064,7 +1102,8 @@
         "artist": "Aya Kusube",
         "set": "Space-Time Smackdown  (A2)",
         "id": "41",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "They normally inhabit rocky seashores, but in\ntimes of continuous rain, they can sometimes be\nfound in the mountains, far from the sea."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_042_EN.webp",
@@ -1089,7 +1128,8 @@
         "artist": "Shigenori Negishi",
         "set": "Space-Time Smackdown  (A2)",
         "id": "42",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "The line running down its side can store sunlight.\nIt shines vividly at night."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_043_EN.webp",
@@ -1114,7 +1154,8 @@
         "artist": "rika",
         "set": "Space-Time Smackdown  (A2)",
         "id": "43",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "With its shining light, it lures its prey close.\nHowever, the light also happens to attract\nferocious fish Pokémon—its natural predators."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_044_EN.webp",
@@ -1139,7 +1180,8 @@
         "artist": "match",
         "set": "Space-Time Smackdown  (A2)",
         "id": "44",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "During cold seasons, it migrates to the\nmountain’s lower reaches. It returns to the\nsnow-covered summit in the spring."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_045_EN.webp",
@@ -1167,7 +1209,8 @@
         "artist": "Shin Nagasawa",
         "set": "Space-Time Smackdown  (A2)",
         "id": "45",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "It lives a quiet life on mountains that are\nperpetually covered in snow. It hides itself\nby whipping up blizzards."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_046_EN.webp",
@@ -1193,7 +1236,8 @@
         "artist": "Naoyo Kimura",
         "set": "Space-Time Smackdown  (A2)",
         "id": "46",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "It can control its body temperature at will.\nThis enables it to freeze the moisture in the\natmosphere, creating flurries of diamond dust."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_047_EN.webp",
@@ -1218,7 +1262,8 @@
         "artist": "Saboteri",
         "set": "Space-Time Smackdown  (A2)",
         "id": "47",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "This Rotom has entered a washing machine.\nIt nods with satisfaction after it floods the\nsurrounding area."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_048_EN.webp",
@@ -1244,7 +1289,8 @@
         "artist": "MAHOU",
         "set": "Space-Time Smackdown  (A2)",
         "id": "48",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "This Rotom has entered a refrigerator. It leaps\naround gleefully after it uses cold air to freeze\nthe area around it."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_049_EN.webp",
@@ -1305,7 +1351,8 @@
         "artist": "MINAMINAMI Take",
         "set": "Space-Time Smackdown  (A2)",
         "id": "50",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "It is born with a wondrous power that lets it bond\nwith any kind of Pokémon."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_051_EN.webp",
@@ -1330,7 +1377,8 @@
         "artist": "MAHOU",
         "set": "Space-Time Smackdown  (A2)",
         "id": "51",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "The electromagnetic waves emitted by the units\nat the sides of its head expel antigravity, which\nallows it to float."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_052_EN.webp",
@@ -1356,7 +1404,8 @@
         "artist": "Yumi",
         "set": "Space-Time Smackdown  (A2)",
         "id": "52",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "Three Magnemite are linked by a strong magnetic\nforce. Earaches will occur if you get too close."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_053_EN.webp",
@@ -1383,7 +1432,8 @@
         "artist": "Yoshinobu Saito",
         "set": "Space-Time Smackdown  (A2)",
         "id": "53",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "As it zooms through the sky, this Pokémon seems\nto be receiving signals of unknown origin while\ntransmitting signals of unknown purpose."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_054_EN.webp",
@@ -1408,7 +1458,8 @@
         "artist": "Midori Harada",
         "set": "Space-Time Smackdown  (A2)",
         "id": "54",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It rolls to move. If the ground is uneven, a sudden\njolt from hitting a bump can cause it to explode."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_055_EN.webp",
@@ -1433,7 +1484,8 @@
         "artist": "Anesaki Dynamic",
         "set": "Space-Time Smackdown  (A2)",
         "id": "55",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "The more energy it charges up, the faster\nit gets. But this also makes it more likely\nto explode."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_056_EN.webp",
@@ -1458,7 +1510,8 @@
         "artist": "Shin Nagasawa",
         "set": "Space-Time Smackdown  (A2)",
         "id": "56",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Many power plants keep Ground-type Pokémon\naround as a defense against Electabuzz that\ncome seeking electricity."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_057_EN.webp",
@@ -1484,7 +1537,8 @@
         "artist": "kawayoo",
         "set": "Space-Time Smackdown  (A2)",
         "id": "57",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "The amount of electrical energy this Pokémon\nproduces is proportional to the rate of its pulse.\nThe voltage jumps while Electivire is battling."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_058_EN.webp",
@@ -1509,7 +1563,8 @@
         "artist": "Shibuzoh.",
         "set": "Space-Time Smackdown  (A2)",
         "id": "58",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "The extension and contraction of its muscles\ngenerates electricity. It glows when in trouble."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_059_EN.webp",
@@ -1535,7 +1590,8 @@
         "artist": "Naoki Saito",
         "set": "Space-Time Smackdown  (A2)",
         "id": "59",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "Strong electricity courses through the tips of\nits sharp claws. A light scratch causes fainting\nin foes."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_060_EN.webp",
@@ -1562,7 +1618,8 @@
         "artist": "Hitoshi Ariga",
         "set": "Space-Time Smackdown  (A2)",
         "id": "60",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "It can see clearly through walls to track down its\nprey and seek its lost young."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_061_EN.webp",
@@ -1613,7 +1670,8 @@
         "artist": "Krgc",
         "set": "Space-Time Smackdown  (A2)",
         "id": "62",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Its electricity-like body can enter some kinds\nof machines and take control in order to make\nmischief."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_063_EN.webp",
@@ -1638,7 +1696,8 @@
         "artist": "Narumi Sato",
         "set": "Space-Time Smackdown  (A2)",
         "id": "63",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "The shell seems to be filled with joy. It is said\nthat it will share good luck when treated kindly."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_064_EN.webp",
@@ -1663,7 +1722,8 @@
         "artist": "Kanako Eo",
         "set": "Space-Time Smackdown  (A2)",
         "id": "64",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "They say that it will appear before kindhearted,\ncaring people and shower them with happiness."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_065_EN.webp",
@@ -1689,7 +1749,8 @@
         "artist": "kawayoo",
         "set": "Space-Time Smackdown  (A2)",
         "id": "65",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "These Pokémon are never seen anywhere near\nconflict or turmoil. In recent times, they’ve hardly\nbeen seen at all."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_066_EN.webp",
@@ -1714,7 +1775,8 @@
         "artist": "Sumiyoshi Kizuki",
         "set": "Space-Time Smackdown  (A2)",
         "id": "66",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "This Pokémon startles people in the middle of\nthe night. It gathers fear as its energy."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_067_EN.webp",
@@ -1765,7 +1827,8 @@
         "artist": "Miki Tanaka",
         "set": "Space-Time Smackdown  (A2)",
         "id": "68",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "The horns on its head provide a strong power\nthat enables it to sense people’s emotions."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_069_EN.webp",
@@ -1790,7 +1853,8 @@
         "artist": "Yukiko Baba",
         "set": "Space-Time Smackdown  (A2)",
         "id": "69",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It has a psychic power that enables it to distort\nthe space around it and see into the future."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_070_EN.webp",
@@ -1815,7 +1879,8 @@
         "artist": "ryoma uratsuka",
         "set": "Space-Time Smackdown  (A2)",
         "id": "70",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "If it finds bad children who won’t listen to their\nparents, it will spirit them away—or so it’s said."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_071_EN.webp",
@@ -1842,7 +1907,8 @@
         "artist": "Sumiyoshi Kizuki",
         "set": "Space-Time Smackdown  (A2)",
         "id": "71",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "It seeks drifting will-o’-the-wisps and sucks them\ninto its empty body. What happens inside is\na mystery."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_072_EN.webp",
@@ -1869,7 +1935,8 @@
         "artist": "Suwama Chiaki",
         "set": "Space-Time Smackdown  (A2)",
         "id": "72",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "At the bidding of transmissions from the spirit\nworld, it steals people and Pokémon away.\nNo one knows whether it has a will of its own."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_073_EN.webp",
@@ -1894,7 +1961,8 @@
         "artist": "Atsuko Nishida",
         "set": "Space-Time Smackdown  (A2)",
         "id": "73",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It is whispered that any child who mistakes\nDrifloon for a balloon and holds on to it could\nwind up missing."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_074_EN.webp",
@@ -1920,7 +1988,8 @@
         "artist": "Miki Tanaka",
         "set": "Space-Time Smackdown  (A2)",
         "id": "74",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "Some say this Pokémon is a collection of souls\nburdened with regrets, silently drifting through\nthe dusk."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_075_EN.webp",
@@ -1945,7 +2014,8 @@
         "artist": "AKIRA EGAWA",
         "set": "Space-Time Smackdown  (A2)",
         "id": "75",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "Known as “The Being of Knowledge.” It is said\nthat it can wipe out the memory of those who see\nits eyes."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_076_EN.webp",
@@ -1972,7 +2042,8 @@
         "artist": "AKIRA EGAWA",
         "set": "Space-Time Smackdown  (A2)",
         "id": "76",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "Known as “The Being of Emotion.” It taught\nhumans the nobility of sorrow, pain, and joy."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_077_EN.webp",
@@ -1997,7 +2068,8 @@
         "artist": "AKIRA EGAWA",
         "set": "Space-Time Smackdown  (A2)",
         "id": "77",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "Known as “The Being of Willpower.” It sleeps at the\nbottom of a lake to keep the world in balance."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_078_EN.webp",
@@ -2024,7 +2096,8 @@
         "artist": "AKIRA EGAWA",
         "set": "Space-Time Smackdown  (A2)",
         "id": "78",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "This Pokémon is said to live in a world on the\nreverse side of ours, where common knowledge is\ndistorted and strange."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_079_EN.webp",
@@ -2050,7 +2123,8 @@
         "artist": "Masako Tomii",
         "set": "Space-Time Smackdown  (A2)",
         "id": "79",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "Shiny particles are released from its wings like a\nveil. It is said to represent the crescent moon."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_080_EN.webp",
@@ -2076,7 +2150,8 @@
         "artist": "otumami",
         "set": "Space-Time Smackdown  (A2)",
         "id": "80",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Strong, but not too bright, this Pokémon can\nshatter even a skyscraper with its charging tackles."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_081_EN.webp",
@@ -2103,7 +2178,8 @@
         "artist": "Oswaldo KATO",
         "set": "Space-Time Smackdown  (A2)",
         "id": "81",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "It begins walking on its hind legs after evolution.\nIt can punch holes through boulders with its horn."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_082_EN.webp",
@@ -2131,7 +2207,8 @@
         "artist": "Naoki Saito",
         "set": "Space-Time Smackdown  (A2)",
         "id": "82",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "It can load up to three projectiles per arm into\nthe holes in its hands. What launches out of those\nholes could be either rocks or Roggenrola."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_083_EN.webp",
@@ -2156,7 +2233,8 @@
         "artist": "Sanosuke Sakuma",
         "set": "Space-Time Smackdown  (A2)",
         "id": "83",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It usually clings to cliffs. When it spots its prey,\nit spreads its wings and glides down to attack."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_084_EN.webp",
@@ -2181,7 +2259,8 @@
         "artist": "Mizue",
         "set": "Space-Time Smackdown  (A2)",
         "id": "84",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "It observes prey while hanging inverted from\nbranches. When the chance presents itself,\nit swoops!"
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_085_EN.webp",
@@ -2207,7 +2286,8 @@
         "artist": "sowsow",
         "set": "Space-Time Smackdown  (A2)",
         "id": "85",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It launches kicks while spinning. If it spins at high\nspeed, it may bore its way into the ground."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_086_EN.webp",
@@ -2233,7 +2313,8 @@
         "artist": "Midori Harada",
         "set": "Space-Time Smackdown  (A2)",
         "id": "86",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It moves less than an inch a year, but when\nit’s in a jam, it will spin and drill down into the\nground in a split second."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_087_EN.webp",
@@ -2261,7 +2342,8 @@
         "artist": "Tomokazu Komiya",
         "set": "Space-Time Smackdown  (A2)",
         "id": "87",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "Every bit of Regirock’s body is made of stone.\nAs parts of its body erode, this Pokémon sticks\nrocks to itself to repair what’s been lost."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_088_EN.webp",
@@ -2286,7 +2368,8 @@
         "artist": "Kouki Saitou",
         "set": "Space-Time Smackdown  (A2)",
         "id": "88",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "A primeval Pokémon, it possesses a hard and\nsturdy skull, lacking any intelligence within."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_089_EN.webp",
@@ -2311,7 +2394,8 @@
         "artist": "Yoshinobu Saito",
         "set": "Space-Time Smackdown  (A2)",
         "id": "89",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "In ancient times, people would dig up fossils of\nthis Pokémon and use its skull, which is harder\nthan steel, to make helmets."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_090_EN.webp",
@@ -2338,7 +2422,8 @@
         "artist": "Hajime Kusajima",
         "set": "Space-Time Smackdown  (A2)",
         "id": "90",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Its appearance changes depending on where it\nevolved. The materials on hand become a part of\nits body."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_091_EN.webp",
@@ -2363,7 +2448,8 @@
         "artist": "AKIRA EGAWA",
         "set": "Space-Time Smackdown  (A2)",
         "id": "91",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "They communicate with one another using their\nauras. They are able to run all through the night."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_092_EN.webp",
@@ -2389,7 +2475,8 @@
         "artist": "nagimiso",
         "set": "Space-Time Smackdown  (A2)",
         "id": "92",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "It’s said that no foe can remain invisible to\nLucario, since it can detect auras—even those\nof foes it could not otherwise see."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_093_EN.webp",
@@ -2416,7 +2503,8 @@
         "artist": "Akira Komayama",
         "set": "Space-Time Smackdown  (A2)",
         "id": "93",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It shuts its nostrils tight, then travels through sand\nas if walking. They form colonies of around 10."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_094_EN.webp",
@@ -2444,7 +2532,8 @@
         "artist": "KEIICHIRO ITO",
         "set": "Space-Time Smackdown  (A2)",
         "id": "94",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "It is surprisingly quick to anger. It holds its mouth\nagape as a display of its strength."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_095_EN.webp",
@@ -2495,7 +2584,8 @@
         "artist": "Yukiko Baba",
         "set": "Space-Time Smackdown  (A2)",
         "id": "96",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Feared and loathed by many, it is believed to\nbring misfortune to all those who see it at night."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_097_EN.webp",
@@ -2521,7 +2611,8 @@
         "artist": "Hideki Ishikawa",
         "set": "Space-Time Smackdown  (A2)",
         "id": "97",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "It is merciless by nature. It is said that it never\nforgives the mistakes of its Murkrow followers."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_098_EN.webp",
@@ -2546,7 +2637,8 @@
         "artist": "Hasuno",
         "set": "Space-Time Smackdown  (A2)",
         "id": "98",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "This cunning Pokémon hides under the cover of\ndarkness, waiting to attack its prey."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_099_EN.webp",
@@ -2596,7 +2688,8 @@
         "artist": "Midori Harada",
         "set": "Space-Time Smackdown  (A2)",
         "id": "100",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "A Pokémon with a persistent nature, it chases its\nchosen prey until the prey becomes exhausted."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_101_EN.webp",
@@ -2622,7 +2715,8 @@
         "artist": "Kouki Saitou",
         "set": "Space-Time Smackdown  (A2)",
         "id": "101",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "It will always obey the commands of a skilled\nTrainer. Its behavior arises from its living in packs\nin ancient times."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_102_EN.webp",
@@ -2647,7 +2741,8 @@
         "artist": "Kyoko Umemoto",
         "set": "Space-Time Smackdown  (A2)",
         "id": "102",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It sprays a foul fluid from its rear. Its stench\nspreads over a mile radius, driving Pokémon\naway."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_103_EN.webp",
@@ -2673,7 +2768,8 @@
         "artist": "kirisAki",
         "set": "Space-Time Smackdown  (A2)",
         "id": "103",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "It attacks by spraying a horribly smelly fluid from\nthe tip of its tail. Attacks from above confound it."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_104_EN.webp",
@@ -2698,7 +2794,8 @@
         "artist": "HYOGONOSUKE",
         "set": "Space-Time Smackdown  (A2)",
         "id": "104",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "Its constant mischief and misdeeds resulted\nin it being bound to an Odd Keystone by a\nmysterious spell."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_105_EN.webp",
@@ -2724,7 +2821,8 @@
         "artist": "Naoki Saito",
         "set": "Space-Time Smackdown  (A2)",
         "id": "105",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "After burrowing into the sand, it waits patiently\nfor prey to come near. This Pokémon and\nSizzlipede share common descent."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_106_EN.webp",
@@ -2751,7 +2849,8 @@
         "artist": "Hitoshi Ariga",
         "set": "Space-Time Smackdown  (A2)",
         "id": "106",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "Its poison is potent, but it rarely sees use. This\nPokémon prefers to use physical force instead,\ngoing on rampages with its car-crushing strength."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_107_EN.webp",
@@ -2777,7 +2876,8 @@
         "artist": "Masakazu Fukuda",
         "set": "Space-Time Smackdown  (A2)",
         "id": "107",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Inflating its poison sacs, it fills the area with an\nodd sound and hits flinching opponents with a\npoison jab."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_108_EN.webp",
@@ -2803,7 +2903,8 @@
         "artist": "Hajime Kusajima",
         "set": "Space-Time Smackdown  (A2)",
         "id": "108",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "Swaying and dodging the attacks of its foes, it\nweaves its flexible body in close, then lunges\nout with its poisonous claws."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_109_EN.webp",
@@ -2830,7 +2931,8 @@
         "artist": "Masako Tomii",
         "set": "Space-Time Smackdown  (A2)",
         "id": "109",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "It chases people and Pokémon from its territory by\ncausing them to experience deep,\nnightmarish slumbers."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_110_EN.webp",
@@ -2882,7 +2984,8 @@
         "artist": "Oswaldo KATO",
         "set": "Space-Time Smackdown  (A2)",
         "id": "111",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "People fashion swords from Skarmory’s shed\nfeathers, so this Pokémon is a popular element\nin heraldic designs."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_112_EN.webp",
@@ -2909,7 +3012,8 @@
         "artist": "Tomokazu Komiya",
         "set": "Space-Time Smackdown  (A2)",
         "id": "112",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "Registeel’s body is made of a strange material\nthat is flexible enough to stretch and shrink but\nalso more durable than any metal."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_113_EN.webp",
@@ -2935,7 +3039,8 @@
         "artist": "Kouki Saitou",
         "set": "Space-Time Smackdown  (A2)",
         "id": "113",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "A mild-mannered, herbivorous Pokémon, it used\nits face to dig up tree roots to eat. The skin on\nits face was plenty tough."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_114_EN.webp",
@@ -2962,7 +3067,8 @@
         "artist": "Kagemaru Himeno",
         "set": "Space-Time Smackdown  (A2)",
         "id": "114",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "The bones of its face are huge and hard, so\nthey were mistaken for its spine until after this\nPokémon was successfully restored."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_115_EN.webp",
@@ -2988,7 +3094,8 @@
         "artist": "Kyoko Umemoto",
         "set": "Space-Time Smackdown  (A2)",
         "id": "115",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Its appearance changes depending on where it\nevolved. The materials on hand become a part of\nits body."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_116_EN.webp",
@@ -3014,7 +3121,8 @@
         "artist": "Miki Tanaka",
         "set": "Space-Time Smackdown  (A2)",
         "id": "116",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Ancient people believed that the pattern on\nBronzor’s back contained a mysterious power."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_117_EN.webp",
@@ -3041,7 +3149,8 @@
         "artist": "Yuka Morii",
         "set": "Space-Time Smackdown  (A2)",
         "id": "117",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "In ages past, this Pokémon was revered as a\nbringer of rain. It was found buried in the ground."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_118_EN.webp",
@@ -3069,7 +3178,8 @@
         "artist": "MAHOU",
         "set": "Space-Time Smackdown  (A2)",
         "id": "118",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "Although it can control its units known as\nMini-Noses, they sometimes get lost and don’t\ncome back."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_119_EN.webp",
@@ -3133,7 +3243,8 @@
         "artist": "Oswaldo KATO",
         "set": "Space-Time Smackdown  (A2)",
         "id": "120",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "It dwells in volcanic caves. It digs in with its\ncross-shaped feet to crawl on ceilings and walls."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_121_EN.webp",
@@ -3158,7 +3269,8 @@
         "artist": "Naoyo Kimura",
         "set": "Space-Time Smackdown  (A2)",
         "id": "121",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It skulks in caves, and when prey or an enemy\npasses by, it leaps out and chomps them.\nThe force of its attack sometimes chips its teeth."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_122_EN.webp",
@@ -3184,7 +3296,8 @@
         "artist": "Shigenori Negishi",
         "set": "Space-Time Smackdown  (A2)",
         "id": "122",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "In rare cases, it molts and sheds its scales.\nMedicine containing its scales as an ingredient\nwill make a weary body feel invigorated."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_123_EN.webp",
@@ -3210,7 +3323,8 @@
         "artist": "Atsushi Furusawa",
         "set": "Space-Time Smackdown  (A2)",
         "id": "123",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "It is said that when one runs at high speed,\nits wings create blades of wind that can fell\nnearby trees."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_124_EN.webp",
@@ -3237,7 +3351,8 @@
         "artist": "Yukiko Baba",
         "set": "Space-Time Smackdown  (A2)",
         "id": "124",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "If this Pokémon’s sticky saliva gets on you and\nyou don’t clean it off, an intense itch will set in.\nThe itch won’t go away, either."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_125_EN.webp",
@@ -3290,7 +3405,8 @@
         "artist": "Shibuzoh.",
         "set": "Space-Time Smackdown  (A2)",
         "id": "126",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_127_EN.webp",
@@ -3315,7 +3431,8 @@
         "artist": "Shin Nagasawa",
         "set": "Space-Time Smackdown  (A2)",
         "id": "127",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "State-of-the-art technology was used to create\nPorygon. It was the first artificial Pokémon to be\ncreated via computer programming."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_128_EN.webp",
@@ -3340,7 +3457,8 @@
         "artist": "sowsow",
         "set": "Space-Time Smackdown  (A2)",
         "id": "128",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "This is a Porygon that was updated with special\ndata. Porygon2 develops itself by learning about\nmany different subjects all on its own."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_129_EN.webp",
@@ -3367,7 +3485,8 @@
         "artist": "Shin Nagasawa",
         "set": "Space-Time Smackdown  (A2)",
         "id": "129",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "Porygon-Z had a program installed to allow it to\nmove between dimensions, but the program also\ncaused instability in Porygon-Z’s behavior."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_130_EN.webp",
@@ -3392,7 +3511,8 @@
         "artist": "Miki Tanaka",
         "set": "Space-Time Smackdown  (A2)",
         "id": "130",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "As it did more and more with its tail, its hands\nbecame clumsy. It makes its nest high in\nthe treetops."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_131_EN.webp",
@@ -3417,7 +3537,8 @@
         "artist": "Naoyo Kimura",
         "set": "Space-Time Smackdown  (A2)",
         "id": "131",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It uses its tails for everything. If it wraps both\nof its tails around you and gives you a squeeze,\nthat’s proof it really likes you."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_132_EN.webp",
@@ -3442,7 +3563,8 @@
         "artist": "Atsuko Nishida",
         "set": "Space-Time Smackdown  (A2)",
         "id": "132",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "They flock around mountains and fields, chasing\nafter bug Pokémon. Their singing is noisy and\nannoying."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_133_EN.webp",
@@ -3468,7 +3590,8 @@
         "artist": "REND",
         "set": "Space-Time Smackdown  (A2)",
         "id": "133",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Recognizing their own weakness, they always live\nin a group. When alone, a Staravia cries noisily."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_134_EN.webp",
@@ -3495,7 +3618,8 @@
         "artist": "Sekio",
         "set": "Space-Time Smackdown  (A2)",
         "id": "134",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "When Staravia evolve into Staraptor, they leave\nthe flock to live alone. They have sturdy wings."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_135_EN.webp",
@@ -3521,7 +3645,8 @@
         "artist": "Kagemaru Himeno",
         "set": "Space-Time Smackdown  (A2)",
         "id": "135",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "With nerves of steel, nothing can perturb it. It is\nmore agile and active than it appears."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_136_EN.webp",
@@ -3547,7 +3672,8 @@
         "artist": "kirisAki",
         "set": "Space-Time Smackdown  (A2)",
         "id": "136",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It busily makes its nest with stacks of branches and\nroots it has cut up with its sharp incisors."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_137_EN.webp",
@@ -3572,7 +3698,8 @@
         "artist": "Narumi Sato",
         "set": "Space-Time Smackdown  (A2)",
         "id": "137",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "If both of Buneary’s ears are rolled up, something\nis wrong with its body or mind. It’s a sure sign the\nPokémon is in need of care."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_138_EN.webp",
@@ -3597,7 +3724,8 @@
         "artist": "Sanosuke Sakuma",
         "set": "Space-Time Smackdown  (A2)",
         "id": "138",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Lopunny is constantly monitoring its surroundings.\nIf danger approaches, this Pokémon responds\nwith superdestructive kicks."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_139_EN.webp",
@@ -3622,7 +3750,8 @@
         "artist": "sowsow",
         "set": "Space-Time Smackdown  (A2)",
         "id": "139",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It claws if displeased and purrs when affectionate.\nIts fickleness is very popular among some."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_140_EN.webp",
@@ -3649,7 +3778,8 @@
         "artist": "Kagemaru Himeno",
         "set": "Space-Time Smackdown  (A2)",
         "id": "140",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "It would claim another Pokémon’s nest as its own\nif it finds a nest sufficiently comfortable."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_141_EN.webp",
@@ -3674,7 +3804,8 @@
         "artist": "HYOGONOSUKE",
         "set": "Space-Time Smackdown  (A2)",
         "id": "141",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It mimics the cries of other Pokémon to trick them\ninto thinking it’s one of them. This way they won’t\nattack it."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_142_EN.webp",
@@ -3700,7 +3831,8 @@
         "artist": "Masakazu Fukuda",
         "set": "Space-Time Smackdown  (A2)",
         "id": "142",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "This Rotom has entered an electric fan. It smirks\nwith satisfaction over a prank well pulled after it\nblows away everything around it."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_143_EN.webp",
@@ -3728,7 +3860,8 @@
         "artist": "Tomokazu Komiya",
         "set": "Space-Time Smackdown  (A2)",
         "id": "143",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "It is said to have made Pokémon that look like\nitself from a special ice mountain, rocks,\nand magma."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_144_EN.webp",
@@ -3888,7 +4021,8 @@
         "artist": "Saboteri",
         "set": "Space-Time Smackdown  (A2)",
         "id": "156",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "Tangrowth has two arms that it can extend as it\npleases. Recent research has shown that these\narms are, in fact, bundles of vines."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_157_EN.webp",
@@ -3913,7 +4047,8 @@
         "artist": "Shibuzoh.",
         "set": "Space-Time Smackdown  (A2)",
         "id": "157",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "At night, Combee sleep in a group of about a\nhundred, packed closely together in a lump."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_158_EN.webp",
@@ -3940,7 +4075,8 @@
         "artist": "Yoriyuki Ikegami",
         "set": "Space-Time Smackdown  (A2)",
         "id": "158",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "It attracts prey with its sweet-smelling saliva, then\nchomps down. It takes a whole day to eat prey."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_159_EN.webp",
@@ -3966,7 +4102,8 @@
         "artist": "REND",
         "set": "Space-Time Smackdown  (A2)",
         "id": "159",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "It can dissolve toxins in the air to instantly\ntransform ruined land into a lush field of flowers."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_160_EN.webp",
@@ -3994,7 +4131,8 @@
         "artist": "OKACHEKE",
         "set": "Space-Time Smackdown  (A2)",
         "id": "160",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "This Pokémon can be spotted in wall paintings\nfrom as far back as 10,000 years ago. For a\nwhile, it was thought to have gone extinct."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_161_EN.webp",
@@ -4021,7 +4159,8 @@
         "artist": "takashi shiraishi",
         "set": "Space-Time Smackdown  (A2)",
         "id": "161",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "They normally inhabit rocky seashores, but in\ntimes of continuous rain, they can sometimes be\nfound in the mountains, far from the sea."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_162_EN.webp",
@@ -4046,7 +4185,8 @@
         "artist": "miki kudo",
         "set": "Space-Time Smackdown  (A2)",
         "id": "162",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "It is born with a wondrous power that lets it bond\nwith any kind of Pokémon."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_163_EN.webp",
@@ -4071,7 +4211,8 @@
         "artist": "Yuu Nishida",
         "set": "Space-Time Smackdown  (A2)",
         "id": "163",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "The extension and contraction of its muscles\ngenerates electricity. It glows when in trouble."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_164_EN.webp",
@@ -4096,7 +4237,8 @@
         "artist": "Shimaris Yukichi",
         "set": "Space-Time Smackdown  (A2)",
         "id": "164",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "Its electricity-like body can enter some kinds\nof machines and take control in order to make\nmischief."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_165_EN.webp",
@@ -4121,7 +4263,8 @@
         "artist": "Orca",
         "set": "Space-Time Smackdown  (A2)",
         "id": "165",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "It is whispered that any child who mistakes\nDrifloon for a balloon and holds on to it could\nwind up missing."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_166_EN.webp",
@@ -4148,7 +4291,8 @@
         "artist": "Orca",
         "set": "Space-Time Smackdown  (A2)",
         "id": "166",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "Known as “The Being of Emotion.” It taught\nhumans the nobility of sorrow, pain, and joy."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_167_EN.webp",
@@ -4175,7 +4319,8 @@
         "artist": "Rond",
         "set": "Space-Time Smackdown  (A2)",
         "id": "167",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "This Pokémon is said to live in a world on the\nreverse side of ours, where common knowledge is\ndistorted and strange."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_168_EN.webp",
@@ -4201,7 +4346,8 @@
         "artist": "rika",
         "set": "Space-Time Smackdown  (A2)",
         "id": "168",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "Shiny particles are released from its wings like a\nveil. It is said to represent the crescent moon."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_169_EN.webp",
@@ -4229,7 +4375,8 @@
         "artist": "Taiga Kayama",
         "set": "Space-Time Smackdown  (A2)",
         "id": "169",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "It can load up to three projectiles per arm into\nthe holes in its hands. What launches out of those\nholes could be either rocks or Roggenrola."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_170_EN.webp",
@@ -4255,7 +4402,8 @@
         "artist": "Akira Komayama",
         "set": "Space-Time Smackdown  (A2)",
         "id": "170",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "It’s said that no foe can remain invisible to\nLucario, since it can detect auras—even those\nof foes it could not otherwise see."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_171_EN.webp",
@@ -4282,7 +4430,8 @@
         "artist": "Teeziro",
         "set": "Space-Time Smackdown  (A2)",
         "id": "171",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "It shuts its nostrils tight, then travels through sand\nas if walking. They form colonies of around 10."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_172_EN.webp",
@@ -4307,7 +4456,8 @@
         "artist": "Shinji Kanda",
         "set": "Space-Time Smackdown  (A2)",
         "id": "172",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "Its constant mischief and misdeeds resulted\nin it being bound to an Odd Keystone by a\nmysterious spell."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_173_EN.webp",
@@ -4333,7 +4483,8 @@
         "artist": "GOSSAN",
         "set": "Space-Time Smackdown  (A2)",
         "id": "173",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "Inflating its poison sacs, it fills the area with an\nodd sound and hits flinching opponents with a\npoison jab."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_174_EN.webp",
@@ -4360,7 +4511,8 @@
         "artist": "OKUBO",
         "set": "Space-Time Smackdown  (A2)",
         "id": "174",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "It dwells in volcanic caves. It digs in with its\ncross-shaped feet to crawl on ceilings and walls."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_175_EN.webp",
@@ -4386,7 +4538,8 @@
         "artist": "MINAMINAMI Take",
         "set": "Space-Time Smackdown  (A2)",
         "id": "175",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "It is said that when one runs at high speed,\nits wings create blades of wind that can fell\nnearby trees."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_176_EN.webp",
@@ -4413,7 +4566,8 @@
         "artist": "Ryota Murayama",
         "set": "Space-Time Smackdown  (A2)",
         "id": "176",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "When Staravia evolve into Staraptor, they leave\nthe flock to live alone. They have sturdy wings."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_177_EN.webp",
@@ -4439,7 +4593,8 @@
         "artist": "Shinya Komatsu",
         "set": "Space-Time Smackdown  (A2)",
         "id": "177",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "With nerves of steel, nothing can perturb it. It is\nmore agile and active than it appears."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_178_EN.webp",
@@ -4464,7 +4619,8 @@
         "artist": "matazo",
         "set": "Space-Time Smackdown  (A2)",
         "id": "178",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "It claws if displeased and purrs when affectionate.\nIts fickleness is very popular among some."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_179_EN.webp",
@@ -4492,7 +4648,8 @@
         "artist": "Tetsu Kayama",
         "set": "Space-Time Smackdown  (A2)",
         "id": "179",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "It is said to have made Pokémon that look like\nitself from a special ice mountain, rocks,\nand magma."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_180_EN.webp",

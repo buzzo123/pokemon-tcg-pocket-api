@@ -23,7 +23,8 @@
         "artist": "Narumi Sato",
         "set": "Genetic Apex  (A1)",
         "id": "1",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "There is a plant seed on its back right from the\nday this Pokémon is born. The seed slowly\ngrows larger."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_002_EN.webp",
@@ -50,7 +51,8 @@
         "artist": "Kurata So",
         "set": "Genetic Apex  (A1)",
         "id": "2",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "When the bulb on its back grows large, it\nappears to lose the ability to stand on its\nhind legs."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_003_EN.webp",
@@ -78,7 +80,8 @@
         "artist": "Ryota Murayama",
         "set": "Genetic Apex  (A1)",
         "id": "3",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "Its plant blooms when it is absorbing solar\nenergy. It stays on the move to seek sunlight."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_004_EN.webp",
@@ -141,7 +144,8 @@
         "artist": "Miki Tanaka",
         "set": "Genetic Apex  (A1)",
         "id": "5",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "For protection, it releases a horrible stench from\nthe antenna on its head to drive away enemies."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_006_EN.webp",
@@ -167,7 +171,8 @@
         "artist": "Yuka Morii",
         "set": "Genetic Apex  (A1)",
         "id": "6",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It is waiting for the moment to evolve. At this\nstage, it can only harden, so it remains\nmotionless to avoid attack."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_007_EN.webp",
@@ -194,7 +199,8 @@
         "artist": "Shin Nagasawa",
         "set": "Genetic Apex  (A1)",
         "id": "7",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "In battle, it flaps its wings at great speed to\nrelease highly toxic dust into the air."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_008_EN.webp",
@@ -219,7 +225,8 @@
         "artist": "Hajime Kusajima",
         "set": "Genetic Apex  (A1)",
         "id": "8",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Often found in forests and grasslands.\nIt has a sharp, toxic barb of around two inches\non top of its head."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_009_EN.webp",
@@ -244,7 +251,8 @@
         "artist": "miki kudo",
         "set": "Genetic Apex  (A1)",
         "id": "9",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Almost incapable of moving, this Pokémon can only\nharden its shell to protect itself when it is\nin danger."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_010_EN.webp",
@@ -269,7 +277,8 @@
         "artist": "You Iribi",
         "set": "Genetic Apex  (A1)",
         "id": "10",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "It has three poisonous stingers on its forelegs and\nits tail. They are used to jab its enemy repeatedly."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_011_EN.webp",
@@ -294,7 +303,8 @@
         "artist": "HYOGONOSUKE",
         "set": "Genetic Apex  (A1)",
         "id": "11",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "If exposed to moonlight, it starts to move.\nIt roams far and wide at night to scatter its seeds."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_012_EN.webp",
@@ -320,7 +330,8 @@
         "artist": "Anesaki Dynamic",
         "set": "Genetic Apex  (A1)",
         "id": "12",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "Its pistils exude an incredibly foul odor.\nThe horrid stench can cause fainting at a distance\nof 1.25 miles."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_013_EN.webp",
@@ -347,7 +358,8 @@
         "artist": "Kyoko Umemoto",
         "set": "Genetic Apex  (A1)",
         "id": "13",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "It has the world’s largest petals. With every step,\nthe petals shake out heavy clouds of toxic pollen."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_014_EN.webp",
@@ -373,7 +385,8 @@
         "artist": "Naoyo Kimura",
         "set": "Genetic Apex  (A1)",
         "id": "14",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "The mushrooms, known as tochukaso, are\ncontrolling the bug. Even if the bug bugs the\nmushrooms, they tell it to bug off."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_015_EN.webp",
@@ -400,7 +413,8 @@
         "artist": "Eri Yamaki",
         "set": "Genetic Apex  (A1)",
         "id": "15",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "The bug is mostly dead, with the mushroom on\nits back having become the main body. If the\nmushroom comes off, the bug stops moving."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_016_EN.webp",
@@ -425,7 +439,8 @@
         "artist": "HYOGONOSUKE",
         "set": "Genetic Apex  (A1)",
         "id": "16",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Poison oozes from all over its body. It catches\nsmall bug Pokémon at night that are attracted\nby light."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_017_EN.webp",
@@ -450,7 +465,8 @@
         "artist": "Mina Nakai",
         "set": "Genetic Apex  (A1)",
         "id": "17",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "The wings are covered with dustlike scales. Every\ntime it flaps its wings, it looses highly toxic dust."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_018_EN.webp",
@@ -475,7 +491,8 @@
         "artist": "HYOGONOSUKE",
         "set": "Genetic Apex  (A1)",
         "id": "18",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Even though its body is extremely skinny, it is\nblindingly fast when catching its prey."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_019_EN.webp",
@@ -501,7 +518,8 @@
         "artist": "Miki Tanaka",
         "set": "Genetic Apex  (A1)",
         "id": "19",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "The leafy parts act as cutters for slashing foes.\nIt spits a fluid that dissolves everything."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_020_EN.webp",
@@ -527,7 +545,8 @@
         "artist": "Sumiyoshi Kizuki",
         "set": "Genetic Apex  (A1)",
         "id": "20",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "Said to live in huge colonies deep in jungles,\nalthough no one has ever returned from there."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_021_EN.webp",
@@ -552,7 +571,8 @@
         "artist": "kawayoo",
         "set": "Genetic Apex  (A1)",
         "id": "21",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Though it may look like it’s just a bunch of eggs,\nit’s a proper Pokémon. Exeggcute communicates\nwith others of its kind via telepathy, apparently."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_022_EN.webp",
@@ -577,7 +597,8 @@
         "artist": "Yukiko Baba",
         "set": "Genetic Apex  (A1)",
         "id": "22",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "Each of Exeggutor’s three heads is thinking\ndifferent thoughts. The three don’t seem to be\nvery interested in one another."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_023_EN.webp",
@@ -628,7 +649,8 @@
         "artist": "Midori Harada",
         "set": "Genetic Apex  (A1)",
         "id": "24",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Hidden beneath a tangle of vines that grows\nnonstop even if the vines are torn off, this\nPokémon’s true appearance remains a mystery."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_025_EN.webp",
@@ -653,7 +675,8 @@
         "artist": "Hasuno",
         "set": "Genetic Apex  (A1)",
         "id": "25",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It slashes through grass with its sharp\nscythes, moving too fast for the human\neye to track."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_026_EN.webp",
@@ -679,7 +702,8 @@
         "artist": "Eri Yamaki",
         "set": "Genetic Apex  (A1)",
         "id": "26",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "These Pokémon judge one another based on\npincers. Thicker, more impressive pincers make\nfor more popularity with the opposite gender."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_027_EN.webp",
@@ -704,7 +728,8 @@
         "artist": "Kanako Eo",
         "set": "Genetic Apex  (A1)",
         "id": "27",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It shoots cotton from its body to protect itself.\nIf it gets caught up in hurricane-strength winds,\nit can get sent to the other side of the Earth."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_028_EN.webp",
@@ -729,7 +754,8 @@
         "artist": "Atsuko Nishida",
         "set": "Genetic Apex  (A1)",
         "id": "28",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "It scatters cotton all over the place as a prank. If\nit gets wet, it’ll become too heavy to move and\nhave no choice but to answer for its mischief."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_029_EN.webp",
@@ -754,7 +780,8 @@
         "artist": "Naoyo Kimura",
         "set": "Genetic Apex  (A1)",
         "id": "29",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "The leaves on its head grow right back even if\nthey fall out. These bitter leaves refresh those\nwho eat them."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_030_EN.webp",
@@ -780,7 +807,8 @@
         "artist": "You Iribi",
         "set": "Genetic Apex  (A1)",
         "id": "30",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "The fragrance of the garland on its head has\na relaxing effect, but taking care of it is very\ndifficult."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_031_EN.webp",
@@ -805,7 +833,8 @@
         "artist": "Naoki Saito",
         "set": "Genetic Apex  (A1)",
         "id": "31",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Until recently, people living in the mountains\nwould ride on the backs of these Pokémon to\ntraverse the mountain paths."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_032_EN.webp",
@@ -832,7 +861,8 @@
         "artist": "You Iribi",
         "set": "Genetic Apex  (A1)",
         "id": "32",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It can sense the feelings of others by touching\nthem with its horns. This species has assisted\npeople with their work since 5,000 years ago."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_033_EN.webp",
@@ -857,7 +887,8 @@
         "artist": "Teeziro",
         "set": "Genetic Apex  (A1)",
         "id": "33",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It has a preference for hot things. When it rains,\nsteam is said to spout from the tip of its tail."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_034_EN.webp",
@@ -884,7 +915,8 @@
         "artist": "kantaro",
         "set": "Genetic Apex  (A1)",
         "id": "34",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "It has a barbaric nature. In battle, it whips its\nfiery tail around and slashes away with sharp claws."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_035_EN.webp",
@@ -912,7 +944,8 @@
         "artist": "takuyoa",
         "set": "Genetic Apex  (A1)",
         "id": "35",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "It spits fire that is hot enough to melt boulders.\nIt may cause forest fires by blowing flames."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_036_EN.webp",
@@ -975,7 +1008,8 @@
         "artist": "Toshinao Aoki",
         "set": "Genetic Apex  (A1)",
         "id": "37",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "While young, it has six gorgeous tails. When it\ngrows, several new tails are sprouted."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_038_EN.webp",
@@ -1001,7 +1035,8 @@
         "artist": "You Iribi",
         "set": "Genetic Apex  (A1)",
         "id": "38",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "It is said to live 1,000 years, and each of its tails\nis loaded with supernatural powers."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_039_EN.webp",
@@ -1027,7 +1062,8 @@
         "artist": "Mizue",
         "set": "Genetic Apex  (A1)",
         "id": "39",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It has a brave and trustworthy nature. It fearlessly\nstands up to bigger and stronger foes."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_040_EN.webp",
@@ -1054,7 +1090,8 @@
         "artist": "kodama",
         "set": "Genetic Apex  (A1)",
         "id": "40",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "An ancient picture scroll shows that people\nwere captivated by its movement as it ran\nthrough prairies."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_041_EN.webp",
@@ -1106,7 +1143,8 @@
         "artist": "Uta",
         "set": "Genetic Apex  (A1)",
         "id": "42",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It can’t run properly when it’s newly born.\nAs it races around with others of its kind,\nits legs grow stronger."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_043_EN.webp",
@@ -1131,7 +1169,8 @@
         "artist": "Misa Tsutsui",
         "set": "Genetic Apex  (A1)",
         "id": "43",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "This Pokémon can be seen galloping through\nfields at speeds of up to 150 mph, its fiery mane\nfluttering in the wind."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_044_EN.webp",
@@ -1157,7 +1196,8 @@
         "artist": "Ryuta Fuse",
         "set": "Genetic Apex  (A1)",
         "id": "44",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Magmar dispatches its prey with fire. But it\nregrets this habit once it realizes that it has\nburned its intended prey to a charred crisp."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_045_EN.webp",
@@ -1184,7 +1224,8 @@
         "artist": "sui",
         "set": "Genetic Apex  (A1)",
         "id": "45",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "Inhaled air is carried to its flame sac, heated, and\nexhaled as fire that reaches over 3,000 degrees\nFahrenheit."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_046_EN.webp",
@@ -1211,7 +1252,8 @@
         "artist": "Hitoshi Ariga",
         "set": "Genetic Apex  (A1)",
         "id": "46",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "It’s one of the legendary bird Pokémon. When\nMoltres flaps its flaming wings, they glimmer with\na dazzling red glow."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_047_EN.webp",
@@ -1271,7 +1313,8 @@
         "artist": "Suwama Chiaki",
         "set": "Genetic Apex  (A1)",
         "id": "48",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "There’s a hole in its tail that allows it to draw in\nthe air it needs to keep its fire burning. If the\nhole gets blocked, this Pokémon will fall ill."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_049_EN.webp",
@@ -1296,7 +1339,8 @@
         "artist": "Kyoko Umemoto",
         "set": "Genetic Apex  (A1)",
         "id": "49",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It taunts its prey and lures them into narrow,\nrocky areas where it then sprays them with toxic\ngas to make them dizzy and take them down."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_050_EN.webp",
@@ -1322,7 +1366,8 @@
         "artist": "hatachu",
         "set": "Genetic Apex  (A1)",
         "id": "50",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Salazzle makes its opponents light-headed with\npoisonous gas, then captivates them with alluring\nmovements to turn them into loyal servants."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_051_EN.webp",
@@ -1347,7 +1392,8 @@
         "artist": "Teeziro",
         "set": "Genetic Apex  (A1)",
         "id": "51",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It stores flammable gas in its body and uses it to\ngenerate heat. The yellow sections on its belly\nget particularly hot."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_052_EN.webp",
@@ -1375,7 +1421,8 @@
         "artist": "GOSSAN",
         "set": "Genetic Apex  (A1)",
         "id": "52",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "When it heats up, its body temperature reaches\nabout 1,500 degrees Fahrenheit. It lashes its\nbody like a whip and launches itself at enemies."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_053_EN.webp",
@@ -1400,7 +1447,8 @@
         "artist": "Mizue",
         "set": "Genetic Apex  (A1)",
         "id": "53",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "When it retracts its long neck into its shell, it\nsquirts out water with vigorous force."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_054_EN.webp",
@@ -1426,7 +1474,8 @@
         "artist": "Nelnal",
         "set": "Genetic Apex  (A1)",
         "id": "54",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "It is recognized as a symbol of longevity. If its\nshell has algae on it, that Wartortle is very old."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_055_EN.webp",
@@ -1453,7 +1502,8 @@
         "artist": "Nurikabe",
         "set": "Genetic Apex  (A1)",
         "id": "55",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "It crushes its foe under its heavy body to cause\nfainting. In a pinch, it will withdraw inside its shell."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_056_EN.webp",
@@ -1514,7 +1564,8 @@
         "artist": "Shibuzoh.",
         "set": "Genetic Apex  (A1)",
         "id": "57",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It is constantly wracked by a headache. When the\nheadache turns intense, it begins using mysterious\npowers."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_058_EN.webp",
@@ -1540,7 +1591,8 @@
         "artist": "Naoki Saito",
         "set": "Genetic Apex  (A1)",
         "id": "58",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "When it swims at full speed using its long,\nwebbed limbs, its forehead somehow begins\nto glow."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_059_EN.webp",
@@ -1565,7 +1617,8 @@
         "artist": "Shibuzoh.",
         "set": "Genetic Apex  (A1)",
         "id": "59",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "For Poliwag, swimming is easier than walking.\nThe swirl pattern on its belly is actually part of\nthe Pokémon’s innards showing through the skin."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_060_EN.webp",
@@ -1591,7 +1644,8 @@
         "artist": "Yuka Morii",
         "set": "Genetic Apex  (A1)",
         "id": "60",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "Staring at the swirl on its belly causes drowsiness.\nThis trait of Poliwhirl’s has been used in place of\nlullabies to get children to go to sleep."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_061_EN.webp",
@@ -1618,7 +1672,8 @@
         "artist": "Akira Komayama",
         "set": "Genetic Apex  (A1)",
         "id": "61",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "Its body is solid muscle. When swimming through\ncold seas, Poliwrath uses its impressive arms to\nsmash through drift ice and plow forward."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_062_EN.webp",
@@ -1643,7 +1698,8 @@
         "artist": "Shinya Komatsu",
         "set": "Genetic Apex  (A1)",
         "id": "62",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Tentacool is not a particularly strong swimmer.\nIt drifts across the surface of shallow seas as it\nsearches for prey."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_063_EN.webp",
@@ -1669,7 +1725,8 @@
         "artist": "kodama",
         "set": "Genetic Apex  (A1)",
         "id": "63",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "When the red orbs on Tentacruel’s head glow\nbrightly, watch out. The Pokémon is about to\nfire off a burst of ultrasonic waves."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_064_EN.webp",
@@ -1695,7 +1752,8 @@
         "artist": "Masako Yamashita",
         "set": "Genetic Apex  (A1)",
         "id": "64",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Thanks to its thick fat, cold seas don’t bother it\nat all, but it gets tired pretty easily in\nwarm waters."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_065_EN.webp",
@@ -1722,7 +1780,8 @@
         "artist": "Kanako Eo",
         "set": "Genetic Apex  (A1)",
         "id": "65",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "It sunbathes on the beach after meals. The rise\nin its body temperature helps its digestion."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_066_EN.webp",
@@ -1747,7 +1806,8 @@
         "artist": "Sumiyoshi Kizuki",
         "set": "Genetic Apex  (A1)",
         "id": "66",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It is encased in a shell that is harder than diamond.\nInside, however, it is surprisingly tender."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_067_EN.webp",
@@ -1774,7 +1834,8 @@
         "artist": "Saya Tsuruta",
         "set": "Genetic Apex  (A1)",
         "id": "67",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "Cloyster that live in seas with harsh tidal currents\ngrow large, sharp spikes on their shells."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_068_EN.webp",
@@ -1800,7 +1861,8 @@
         "artist": "Tomokazu Komiya",
         "set": "Genetic Apex  (A1)",
         "id": "68",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It can be found near the sea. The large pincers\ngrow back if they are torn out of their sockets."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_069_EN.webp",
@@ -1827,7 +1889,8 @@
         "artist": "Shigenori Negishi",
         "set": "Genetic Apex  (A1)",
         "id": "69",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "Its large and hard pincer has 10,000-horsepower\nstrength. However, being so big, it is unwieldy\nto move."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_070_EN.webp",
@@ -1852,7 +1915,8 @@
         "artist": "Saya Tsuruta",
         "set": "Genetic Apex  (A1)",
         "id": "70",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Horsea makes its home in oceans with gentle\ncurrents. If this Pokémon is under attack, it spits\nout pitch-black ink and escapes."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_071_EN.webp",
@@ -1879,7 +1943,8 @@
         "artist": "Sanosuke Sakuma",
         "set": "Genetic Apex  (A1)",
         "id": "71",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "It’s the males that raise the offspring. While\nSeadra are raising young, the spines on their\nbacks secrete thicker and stronger poison."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_072_EN.webp",
@@ -1904,7 +1969,8 @@
         "artist": "Kyoko Umemoto",
         "set": "Genetic Apex  (A1)",
         "id": "72",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Its dorsal, pectoral, and tail fins wave elegantly\nin water. That is why it is known as the Water Dancer."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_073_EN.webp",
@@ -1929,7 +1995,8 @@
         "artist": "Kyoko Umemoto",
         "set": "Genetic Apex  (A1)",
         "id": "73",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "In autumn, its body becomes more fatty in\npreparing to propose to a mate. It takes on\nbeautiful colors."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_074_EN.webp",
@@ -1954,7 +2021,8 @@
         "artist": "Hiroki Asanuma",
         "set": "Genetic Apex  (A1)",
         "id": "74",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "If you visit a beach at the end of summer, you’ll\nbe able to see groups of Staryu lighting up in a\nsteady rhythm."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_075_EN.webp",
@@ -1979,7 +2047,8 @@
         "artist": "Yukiko Baba",
         "set": "Genetic Apex  (A1)",
         "id": "75",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "This Pokémon has an organ known as its core.\nThe organ glows in seven colors when Starmie is\nunleashing its potent psychic powers."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_076_EN.webp",
@@ -2030,7 +2099,8 @@
         "artist": "Sekio",
         "set": "Genetic Apex  (A1)",
         "id": "77",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "An underpowered, pathetic Pokémon. It may\njump high on rare occasions but never more\nthan seven feet."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_078_EN.webp",
@@ -2058,7 +2128,8 @@
         "artist": "Mitsuhiro Arita",
         "set": "Genetic Apex  (A1)",
         "id": "78",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "Once it appears, it goes on a rampage.\nIt remains enraged until it demolishes\neverything around it."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_079_EN.webp",
@@ -2083,7 +2154,8 @@
         "artist": "Sekio",
         "set": "Genetic Apex  (A1)",
         "id": "79",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "A smart and kindhearted Pokémon,\nit glides across the surface of the sea while\nits beautiful song echoes around it."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_080_EN.webp",
@@ -2110,7 +2182,8 @@
         "artist": "Kagemaru Himeno",
         "set": "Genetic Apex  (A1)",
         "id": "80",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "It lives close to water. Its long tail is ridged with\na fin, which is often mistaken for a mermaid’s."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_081_EN.webp",
@@ -2135,7 +2208,8 @@
         "artist": "Suwama Chiaki",
         "set": "Genetic Apex  (A1)",
         "id": "81",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "Because some Omanyte manage to escape after\nbeing restored or are released into the wild by\npeople, this species is becoming a problem."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_082_EN.webp",
@@ -2162,7 +2236,8 @@
         "artist": "kirisAki",
         "set": "Genetic Apex  (A1)",
         "id": "82",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "Weighed down by a large and heavy shell,\nOmastar couldn’t move very fast. Some say it\nwent extinct because it was unable to catch food."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_083_EN.webp",
@@ -2189,7 +2264,8 @@
         "artist": "Hitoshi Ariga",
         "set": "Genetic Apex  (A1)",
         "id": "83",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "It’s said that this Pokémon’s beautiful blue wings\nare made of ice. Articuno flies over snowy\nmountains, its long tail fluttering along behind it."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_084_EN.webp",
@@ -2251,7 +2327,8 @@
         "artist": "Yumi",
         "set": "Genetic Apex  (A1)",
         "id": "85",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "When attacked, it uses its feathers to splash water,\nescaping under cover of the spray."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_086_EN.webp",
@@ -2278,7 +2355,8 @@
         "artist": "sui",
         "set": "Genetic Apex  (A1)",
         "id": "86",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "Despite their elegant appearance, they can flap\ntheir wings strongly and fly for thousands of miles."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_087_EN.webp",
@@ -2303,7 +2381,8 @@
         "artist": "Aya Kusube",
         "set": "Genetic Apex  (A1)",
         "id": "87",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It secretes flexible bubbles from its chest and back.\nThe bubbles reduce the damage it would otherwise\ntake when attacked."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_088_EN.webp",
@@ -2328,7 +2407,8 @@
         "artist": "Akira Komayama",
         "set": "Genetic Apex  (A1)",
         "id": "88",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "It can throw bubble-covered pebbles with precise \ncontrol, hitting empty cans up to a hundred feet away."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_089_EN.webp",
@@ -2354,7 +2434,8 @@
         "artist": "5ban Graphics",
         "set": "Genetic Apex  (A1)",
         "id": "89",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "It creates throwing stars out of compressed water. \nWhen it spins them and throws them at high speed, \nthese stars can split metal in two."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_090_EN.webp",
@@ -2379,7 +2460,8 @@
         "artist": "OOYAMA",
         "set": "Genetic Apex  (A1)",
         "id": "90",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It lives in warm, shallow waters. If it encounters a\nfoe, it will spit out its internal organs as a means\nto punch them."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_091_EN.webp",
@@ -2405,7 +2487,8 @@
         "artist": "Mizue",
         "set": "Genetic Apex  (A1)",
         "id": "91",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "It grinds its teeth with great force to stimulate\nits brain. It fires the psychic energy created by\nthis process from the protuberance on its head."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_092_EN.webp",
@@ -2430,7 +2513,8 @@
         "artist": "ryoma uratsuka",
         "set": "Genetic Apex  (A1)",
         "id": "92",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It eats snow that has accumulated on the ground.\nIt prefers soft, freshly fallen snow, so it will eat its\nway up a mountain, aiming for the peak."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_093_EN.webp",
@@ -2456,7 +2540,8 @@
         "artist": "aoki",
         "set": "Genetic Apex  (A1)",
         "id": "93",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "Frosmoth senses air currents with its antennae.\nIt sends its scales drifting on frigid air, making\nthem fall like snow."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_094_EN.webp",
@@ -2481,7 +2566,8 @@
         "artist": "Mitsuhiro Arita",
         "set": "Genetic Apex  (A1)",
         "id": "94",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "When it is angered, it immediately discharges the\nenergy stored in the pouches in its cheeks."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_095_EN.webp",
@@ -2508,7 +2594,8 @@
         "artist": "AKIRA EGAWA",
         "set": "Genetic Apex  (A1)",
         "id": "95",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "Its tail discharges electricity into the ground,\nprotecting it from getting shocked."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_096_EN.webp",
@@ -2559,7 +2646,8 @@
         "artist": "sowsow",
         "set": "Genetic Apex  (A1)",
         "id": "97",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "The electromagnetic waves emitted by the units\nat the sides of its head expel antigravity, which\nallows it to float."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_098_EN.webp",
@@ -2587,7 +2675,8 @@
         "artist": "kirisAki",
         "set": "Genetic Apex  (A1)",
         "id": "98",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "Three Magnemite are linked by a strong magnetic\nforce. Earaches will occur if you get too close."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_099_EN.webp",
@@ -2612,7 +2701,8 @@
         "artist": "SATOSHI NAKAI",
         "set": "Genetic Apex  (A1)",
         "id": "99",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It rolls to move. If the ground is uneven, a sudden\njolt from hitting a bump can cause it to explode."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_100_EN.webp",
@@ -2638,7 +2728,8 @@
         "artist": "Asako Ito",
         "set": "Genetic Apex  (A1)",
         "id": "100",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "The more energy it charges up, the faster\nit gets. But this also makes it more likely\nto explode."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_101_EN.webp",
@@ -2664,7 +2755,8 @@
         "artist": "Ryuta Fuse",
         "set": "Genetic Apex  (A1)",
         "id": "101",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Many power plants keep Ground-type Pokémon\naround as a defense against Electabuzz that\ncome seeking electricity."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_102_EN.webp",
@@ -2690,7 +2782,8 @@
         "artist": "Kouki Saitou",
         "set": "Genetic Apex  (A1)",
         "id": "102",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "It concentrates the weak electric charges emitted\nby its cells and launches wicked lightning bolts."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_103_EN.webp",
@@ -2717,7 +2810,8 @@
         "artist": "Hitoshi Ariga",
         "set": "Genetic Apex  (A1)",
         "id": "103",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "This Pokémon has complete control over\nelectricity. There are tales of Zapdos nesting in\nthe dark depths of pitch-black thunderclouds."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_104_EN.webp",
@@ -2777,7 +2871,8 @@
         "artist": "Shin Nagasawa",
         "set": "Genetic Apex  (A1)",
         "id": "105",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "When thunderclouds cover the sky, it will appear.\nIt can catch lightning with its mane and store\nthe electricity."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_106_EN.webp",
@@ -2802,7 +2897,8 @@
         "artist": "Misa Tsutsui",
         "set": "Genetic Apex  (A1)",
         "id": "106",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "When this ill-tempered Pokémon runs wild, it\nshoots lightning from its mane in all directions."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_107_EN.webp",
@@ -2827,7 +2923,8 @@
         "artist": "Asako Ito",
         "set": "Genetic Apex  (A1)",
         "id": "107",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "While one alone doesn’t have much power,\na chain of many Tynamo can be as powerful\nas lightning."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_108_EN.webp",
@@ -2852,7 +2949,8 @@
         "artist": "Midori Harada",
         "set": "Genetic Apex  (A1)",
         "id": "108",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "They coil around foes and shock them with\nelectricity-generating organs that seem simply\nto be circular patterns."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_109_EN.webp",
@@ -2879,7 +2977,8 @@
         "artist": "hatachu",
         "set": "Genetic Apex  (A1)",
         "id": "109",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "They crawl out of the ocean using their arms.\nThey will attack prey on shore and immediately\ndrag it into the ocean."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_110_EN.webp",
@@ -2904,7 +3003,8 @@
         "artist": "5ban Graphics",
         "set": "Genetic Apex  (A1)",
         "id": "110",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "When spread, the frills on its head act like solar\npanels, generating the power behind this\nPokémon’s electric moves."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_111_EN.webp",
@@ -2930,7 +3030,8 @@
         "artist": "otumami",
         "set": "Genetic Apex  (A1)",
         "id": "111",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "One Heliolisk basking in the sun with its frill\noutspread is all it would take to produce enough\nelectricity to power a city."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_112_EN.webp",
@@ -2956,7 +3057,8 @@
         "artist": "Tika Matsuno",
         "set": "Genetic Apex  (A1)",
         "id": "112",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "This Pokémon generates electricity when it\ndigests food. It uses its five hard teeth to scrape\nseaweed off surfaces and eat it."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_113_EN.webp",
@@ -2981,7 +3083,8 @@
         "artist": "kirisAki",
         "set": "Genetic Apex  (A1)",
         "id": "113",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It is said that happiness will come to those who\nsee a gathering of Clefairy dancing under a\nfull moon."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_114_EN.webp",
@@ -3006,7 +3109,8 @@
         "artist": "Sanosuke Sakuma",
         "set": "Genetic Apex  (A1)",
         "id": "114",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "A timid fairy Pokémon that is rarely seen, it will\nrun and hide the moment it senses people."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_115_EN.webp",
@@ -3031,7 +3135,8 @@
         "artist": "Aya Kusube",
         "set": "Genetic Apex  (A1)",
         "id": "115",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "This Pokémon uses its psychic powers while it\nsleeps. The contents of Abra’s dreams affect the\npowers that the Pokémon wields."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_116_EN.webp",
@@ -3058,7 +3163,8 @@
         "artist": "Ken Sugimori",
         "set": "Genetic Apex  (A1)",
         "id": "116",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "Using its psychic power, Kadabra levitates as it\nsleeps. It uses its springy tail as a pillow."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_117_EN.webp",
@@ -3085,7 +3191,8 @@
         "artist": "Kouki Saitou",
         "set": "Genetic Apex  (A1)",
         "id": "117",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "It has an incredibly high level of intelligence.\nSome say that Alakazam remembers everything\nthat ever happens to it, from birth till death."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_118_EN.webp",
@@ -3111,7 +3218,8 @@
         "artist": "Miki Tanaka",
         "set": "Genetic Apex  (A1)",
         "id": "118",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It is incredibly slow and dopey. It takes five\nseconds for it to feel pain when under attack."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_119_EN.webp",
@@ -3138,7 +3246,8 @@
         "artist": "Kagemaru Himeno",
         "set": "Genetic Apex  (A1)",
         "id": "119",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "When a Slowpoke went hunting in the sea, its tail\nwas bitten by a Shellder. That made it evolve\ninto Slowbro."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_120_EN.webp",
@@ -3163,7 +3272,8 @@
         "artist": "Masako Yamashita",
         "set": "Genetic Apex  (A1)",
         "id": "120",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It wraps its opponent in its gas-like body,\nslowly weakening its prey by poisoning it\nthrough the skin."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_121_EN.webp",
@@ -3188,7 +3298,8 @@
         "artist": "Nisata Niso",
         "set": "Genetic Apex  (A1)",
         "id": "121",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "It likes to lurk in the dark and tap shoulders\nwith a gaseous hand. Its touch causes endless\nshuddering."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_122_EN.webp",
@@ -3213,7 +3324,8 @@
         "artist": "Naoyo Kimura",
         "set": "Genetic Apex  (A1)",
         "id": "122",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "To steal the life of its target, it slips into\nthe prey’s shadow and silently waits for\nan opportunity."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_123_EN.webp",
@@ -3266,7 +3378,8 @@
         "artist": "Yukiko Baba",
         "set": "Genetic Apex  (A1)",
         "id": "124",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It remembers every dream it eats. It rarely eats\nthe dreams of adults because children’s are much\ntastier."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_125_EN.webp",
@@ -3293,7 +3406,8 @@
         "artist": "Shigenori Negishi",
         "set": "Genetic Apex  (A1)",
         "id": "125",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "When it locks eyes with an enemy, it will use\na mix of psi moves, such as Hypnosis and\nConfusion."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_126_EN.webp",
@@ -3319,7 +3433,8 @@
         "artist": "Kagemaru Himeno",
         "set": "Genetic Apex  (A1)",
         "id": "126",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "The broadness of its hands may be no\ncoincidence—many scientists believe its palms\nbecame enlarged specifically for pantomiming."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_127_EN.webp",
@@ -3345,7 +3460,8 @@
         "artist": "Oswaldo KATO",
         "set": "Genetic Apex  (A1)",
         "id": "127",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Its strange cries sound like human language.\nThere are some musicians who compose songs\nfor Jynx to sing."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_128_EN.webp",
@@ -3373,7 +3489,8 @@
         "artist": "kawayoo",
         "set": "Genetic Apex  (A1)",
         "id": "128",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "It was created by a scientist after years of horrific\ngene-splicing and DNA-engineering experiments."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_129_EN.webp",
@@ -3435,7 +3552,8 @@
         "artist": "Yuka Morii",
         "set": "Genetic Apex  (A1)",
         "id": "130",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "The horns on its head provide a strong power\nthat enables it to sense people’s emotions."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_131_EN.webp",
@@ -3461,7 +3579,8 @@
         "artist": "sowsow",
         "set": "Genetic Apex  (A1)",
         "id": "131",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "It has a psychic power that enables it to distort\nthe space around it and see into the future."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_132_EN.webp",
@@ -3488,7 +3607,8 @@
         "artist": "Yuu Nishida",
         "set": "Genetic Apex  (A1)",
         "id": "132",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "To protect its Trainer, it will expend all its psychic\npower to create a small black hole."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_133_EN.webp",
@@ -3513,7 +3633,8 @@
         "artist": "MAHOU",
         "set": "Genetic Apex  (A1)",
         "id": "133",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "While inside a cave, if you look up and see lots\nof heart-shaped marks lining the walls, it’s\nevidence that Woobat live there."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_134_EN.webp",
@@ -3539,7 +3660,8 @@
         "artist": "Masakazu Fukuda",
         "set": "Genetic Apex  (A1)",
         "id": "134",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Emitting powerful sound waves tires it out.\nAfterward, it won’t be able to fly for a\nlittle while."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_135_EN.webp",
@@ -3566,7 +3688,8 @@
         "artist": "Kyoko Umemoto",
         "set": "Genetic Apex  (A1)",
         "id": "135",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "They were sculpted from clay in ancient times.\nNo one knows why, but some of them are driven\nto continually line up boulders."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_136_EN.webp",
@@ -3594,7 +3717,8 @@
         "artist": "match",
         "set": "Genetic Apex  (A1)",
         "id": "136",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "Artillery platforms built into the walls of ancient\ncastles served as perches from which Golurk\ncould fire energy beams."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_137_EN.webp",
@@ -3619,7 +3743,8 @@
         "artist": "Miki Tanaka",
         "set": "Genetic Apex  (A1)",
         "id": "137",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It loves to bathe in the grit of dry, sandy areas.\nBy sand bathing, the Pokémon rids itself of dirt\nand moisture clinging to its body."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_138_EN.webp",
@@ -3645,7 +3770,8 @@
         "artist": "Miki Tanaka",
         "set": "Genetic Apex  (A1)",
         "id": "138",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "The drier the area Sandslash lives in, the harder\nand smoother the Pokémon’s spikes will feel\nwhen touched."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_139_EN.webp",
@@ -3670,7 +3796,8 @@
         "artist": "Masako Yamashita",
         "set": "Genetic Apex  (A1)",
         "id": "139",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It lives about one yard underground, where it\nfeeds on plant roots. It sometimes appears\naboveground."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_140_EN.webp",
@@ -3695,7 +3822,8 @@
         "artist": "Akira Komayama",
         "set": "Genetic Apex  (A1)",
         "id": "140",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "Its three heads bob separately up and down to\nloosen the soil nearby, making it easier for it\nto burrow."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_141_EN.webp",
@@ -3720,7 +3848,8 @@
         "artist": "Kanako Eo",
         "set": "Genetic Apex  (A1)",
         "id": "141",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It lives in groups in the treetops. If it loses sight of\nits group, it becomes infuriated by its loneliness."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_142_EN.webp",
@@ -3746,7 +3875,8 @@
         "artist": "Kagemaru Himeno",
         "set": "Genetic Apex  (A1)",
         "id": "142",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "It becomes wildly furious if it even senses\nsomeone looking at it. It chases anyone\nthat meets its glare."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_143_EN.webp",
@@ -3771,7 +3901,8 @@
         "artist": "Kyoko Umemoto",
         "set": "Genetic Apex  (A1)",
         "id": "143",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Its whole body is composed of muscles.\nEven though it’s the size of a human child, it can\nhurl 100 grown-ups."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_144_EN.webp",
@@ -3797,7 +3928,8 @@
         "artist": "match",
         "set": "Genetic Apex  (A1)",
         "id": "144",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "Its muscular body is so powerful, it must wear a\npower-save belt to be able to regulate\nits motions."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_145_EN.webp",
@@ -3824,7 +3956,8 @@
         "artist": "Hitoshi Ariga",
         "set": "Genetic Apex  (A1)",
         "id": "145",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "It quickly swings its four arms to rock its\nopponents with ceaseless punches and chops\nfrom all angles."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_146_EN.webp",
@@ -3876,7 +4009,8 @@
         "artist": "Kouki Saitou",
         "set": "Genetic Apex  (A1)",
         "id": "147",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Geodude that have lived a long life have had all\ntheir edges smoothed out until they’re totally\nround. They also have a calm, quiet disposition."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_148_EN.webp",
@@ -3903,7 +4037,8 @@
         "artist": "Naoyo Kimura",
         "set": "Genetic Apex  (A1)",
         "id": "148",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "It climbs up cliffs as it heads toward the peak\nof a mountain. As soon as it reaches the summit,\nit rolls back down the way it came."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_149_EN.webp",
@@ -3931,7 +4066,8 @@
         "artist": "Sumiyoshi Kizuki",
         "set": "Genetic Apex  (A1)",
         "id": "149",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "When Golem grow old, they stop shedding their\nshells. Those that have lived a long, long time\nhave shells green with moss."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_150_EN.webp",
@@ -3958,7 +4094,8 @@
         "artist": "otumami",
         "set": "Genetic Apex  (A1)",
         "id": "150",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "As it digs through the ground, it absorbs many\nhard objects. This is what makes its body so solid."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_151_EN.webp",
@@ -3983,7 +4120,8 @@
         "artist": "sowsow",
         "set": "Genetic Apex  (A1)",
         "id": "151",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "When the memory of its departed mother brings\nit to tears, its cries echo mournfully within the\nskull it wears on its head."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_152_EN.webp",
@@ -4008,7 +4146,8 @@
         "artist": "Shin Nagasawa",
         "set": "Genetic Apex  (A1)",
         "id": "152",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "This Pokémon overcame its sorrow to evolve a\nsturdy new body. Marowak faces its opponents\nbravely, using a bone as a weapon."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_153_EN.webp",
@@ -4059,7 +4198,8 @@
         "artist": "Yukiko Baba",
         "set": "Genetic Apex  (A1)",
         "id": "154",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "This amazing Pokémon has an awesome sense of\nbalance. It can kick in succession from any position."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_155_EN.webp",
@@ -4084,7 +4224,8 @@
         "artist": "Ken Sugimori",
         "set": "Genetic Apex  (A1)",
         "id": "155",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Its punches slice the air. They are launched at\nsuch high speed, even a slight graze could cause\na burn."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_156_EN.webp",
@@ -4111,7 +4252,8 @@
         "artist": "Midori Harada",
         "set": "Genetic Apex  (A1)",
         "id": "156",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Strong, but not too bright, this Pokémon can\nshatter even a skyscraper with its charging tackles."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_157_EN.webp",
@@ -4139,7 +4281,8 @@
         "artist": "Masakazu Fukuda",
         "set": "Genetic Apex  (A1)",
         "id": "157",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "It begins walking on its hind legs after evolution.\nIt can punch holes through boulders with its horn."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_158_EN.webp",
@@ -4164,7 +4307,8 @@
         "artist": "sui",
         "set": "Genetic Apex  (A1)",
         "id": "158",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "This species is almost entirely extinct. Kabuto\nmolt every three days, making their shells harder\nand harder."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_159_EN.webp",
@@ -4189,7 +4333,8 @@
         "artist": "Shin Nagasawa",
         "set": "Genetic Apex  (A1)",
         "id": "159",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "Kabutops slices its prey apart and sucks out\nthe fluids. The discarded body parts become\nfood for other Pokémon."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_160_EN.webp",
@@ -4214,7 +4359,8 @@
         "artist": "match",
         "set": "Genetic Apex  (A1)",
         "id": "160",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "In one minute, a well-trained Mienfoo can chop\nwith its arms more than 100 times."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_161_EN.webp",
@@ -4239,7 +4385,8 @@
         "artist": "Atsuko Nishida",
         "set": "Genetic Apex  (A1)",
         "id": "161",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "When Mienshao comes across a truly challenging\nopponent, it will lighten itself by biting off the\nfur on its arms."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_162_EN.webp",
@@ -4265,7 +4412,8 @@
         "artist": "Yuu Nishida",
         "set": "Genetic Apex  (A1)",
         "id": "162",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It’s very curious, but its means of investigating\nthings is to try to punch them with its tentacles.\nThe search for food is what brings it onto land."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_163_EN.webp",
@@ -4292,7 +4440,8 @@
         "artist": "kurumitsu",
         "set": "Genetic Apex  (A1)",
         "id": "163",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "A body made up of nothing but muscle makes\nthe grappling moves this Pokémon performs with\nits tentacles tremendously powerful."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_164_EN.webp",
@@ -4317,7 +4466,8 @@
         "artist": "MAHOU",
         "set": "Genetic Apex  (A1)",
         "id": "164",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "By dislocating its jaw, it can swallow prey larger\nthan itself. After a meal, it curls up and rests."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_165_EN.webp",
@@ -4343,7 +4493,8 @@
         "artist": "Naoki Saito",
         "set": "Genetic Apex  (A1)",
         "id": "165",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "The latest research has determined that there\nare over 20 possible arrangements of the\npatterns on its stomach."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_166_EN.webp",
@@ -4368,7 +4519,8 @@
         "artist": "Miki Tanaka",
         "set": "Genetic Apex  (A1)",
         "id": "166",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Females are more sensitive to smells than males.\nWhile foraging, they’ll use their whiskers to check\nwind direction and stay downwind of predators."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_167_EN.webp",
@@ -4393,7 +4545,8 @@
         "artist": "Kagemaru Himeno",
         "set": "Genetic Apex  (A1)",
         "id": "167",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "The horn on its head has atrophied. It’s thought\nthat this happens so Nidorina’s children won’t get\npoked while their mother is feeding them."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_168_EN.webp",
@@ -4420,7 +4573,8 @@
         "artist": "nagimiso",
         "set": "Genetic Apex  (A1)",
         "id": "168",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "Nidoqueen is better at defense than offense.\nWith scales like armor, this Pokémon will shield\nits children from any kind of attack."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_169_EN.webp",
@@ -4445,7 +4599,8 @@
         "artist": "Naoyo Kimura",
         "set": "Genetic Apex  (A1)",
         "id": "169",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "The horn on a male Nidoran’s forehead contains\na powerful poison. This is a very cautious\nPokémon, always straining its large ears."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_170_EN.webp",
@@ -4471,7 +4626,8 @@
         "artist": "Kouki Saitou",
         "set": "Genetic Apex  (A1)",
         "id": "170",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "With a horn that’s harder than diamond, this\nPokémon goes around shattering boulders as it\nsearches for a moon stone."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_171_EN.webp",
@@ -4498,7 +4654,8 @@
         "artist": "kawayoo",
         "set": "Genetic Apex  (A1)",
         "id": "171",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "When it goes on a rampage, it’s impossible to\ncontrol. But in the presence of a Nidoqueen it’s\nlived with for a long time, Nidoking calms down."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_172_EN.webp",
@@ -4523,7 +4680,8 @@
         "artist": "match",
         "set": "Genetic Apex  (A1)",
         "id": "172",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It emits ultrasonic waves from its mouth to check\nits surroundings. Even in tight caves, Zubat flies\naround with skill."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_173_EN.webp",
@@ -4548,7 +4706,8 @@
         "artist": "Masakazu Fukuda",
         "set": "Genetic Apex  (A1)",
         "id": "173",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "It loves to drink other creatures’ blood. It’s said\nthat if it finds others of its kind going hungry,\nit sometimes shares the blood it’s gathered."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_174_EN.webp",
@@ -4573,7 +4732,8 @@
         "artist": "Pani Kobayashi",
         "set": "Genetic Apex  (A1)",
         "id": "174",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Born from sludge, these Pokémon now gather\nin polluted places and increase the bacteria in\ntheir bodies."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_175_EN.webp",
@@ -4600,7 +4760,8 @@
         "artist": "Hajime Kusajima",
         "set": "Genetic Apex  (A1)",
         "id": "175",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "It’s thickly covered with a filthy, vile\nsludge. It is so toxic, even its footprints\ncontain poison."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_176_EN.webp",
@@ -4625,7 +4786,8 @@
         "artist": "Saya Tsuruta",
         "set": "Genetic Apex  (A1)",
         "id": "176",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Its body is full of poisonous gas. It floats into\ngarbage dumps, seeking out the fumes of raw,\nrotting trash."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_177_EN.webp",
@@ -4650,7 +4812,8 @@
         "artist": "OOYAMA",
         "set": "Genetic Apex  (A1)",
         "id": "177",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "If one of the twin Koffing inflates, the other one\ndeflates. It constantly mixes its poisonous gases."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_178_EN.webp",
@@ -4675,7 +4838,8 @@
         "artist": "Kagemaru Himeno",
         "set": "Genetic Apex  (A1)",
         "id": "178",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It uses its docile-looking face to lull foes into\ncomplacency, then bites with its huge,\nrelentless jaws."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_179_EN.webp",
@@ -4700,7 +4864,8 @@
         "artist": "Kouki Saitou",
         "set": "Genetic Apex  (A1)",
         "id": "179",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Pawniard will fearlessly challenge even powerful\nfoes. In a pinch, it will cling to opponents and\npierce them with the blades all over its body."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_180_EN.webp",
@@ -4726,7 +4891,8 @@
         "artist": "Anesaki Dynamic",
         "set": "Genetic Apex  (A1)",
         "id": "180",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "This Pokémon commands a group of several\nPawniard. Groups that are defeated in territorial\ndisputes are absorbed by the winning side."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_181_EN.webp",
@@ -4751,7 +4917,8 @@
         "artist": "Shin Nagasawa",
         "set": "Genetic Apex  (A1)",
         "id": "181",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It dissolves and eats metal. Circulating liquid\nmetal within its body is how it generates energy."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_182_EN.webp",
@@ -4779,7 +4946,8 @@
         "artist": "Kouki Saitou",
         "set": "Genetic Apex  (A1)",
         "id": "182",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "At the end of its life-span, Melmetal will rust and\nfall apart. The small shards left behind will\neventually be reborn as Meltan."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_183_EN.webp",
@@ -4805,7 +4973,8 @@
         "artist": "Ayaka Yoshida",
         "set": "Genetic Apex  (A1)",
         "id": "183",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It sheds many layers of skin as it grows larger.\nDuring this process, it is protected by a rapid\nwaterfall."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_184_EN.webp",
@@ -4832,7 +5001,8 @@
         "artist": "kirisAki",
         "set": "Genetic Apex  (A1)",
         "id": "184",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "They say that if it emits an aura from its whole\nbody, the weather will begin to change instantly."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_185_EN.webp",
@@ -4860,7 +5030,8 @@
         "artist": "Hiroyuki Yamamoto",
         "set": "Genetic Apex  (A1)",
         "id": "185",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "It is said that somewhere in the ocean lies an\nisland where these gather. Only they live there."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_186_EN.webp",
@@ -4885,7 +5056,8 @@
         "artist": "Scav",
         "set": "Genetic Apex  (A1)",
         "id": "186",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "A common sight in forests and woods. It flaps\nits wings at ground level to kick up blinding sand."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_187_EN.webp",
@@ -4910,7 +5082,8 @@
         "artist": "Scav",
         "set": "Genetic Apex  (A1)",
         "id": "187",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "The claws on its feet are well developed.\nIt can carry prey such as an Exeggcute\nto its nest over 60 miles away."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_188_EN.webp",
@@ -4936,7 +5109,8 @@
         "artist": "Scav",
         "set": "Genetic Apex  (A1)",
         "id": "188",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "When hunting, it skims the surface of water\nat high speed to pick off unwary prey such\nas Magikarp."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_189_EN.webp",
@@ -4961,7 +5135,8 @@
         "artist": "Atsushi Furusawa",
         "set": "Genetic Apex  (A1)",
         "id": "189",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Its incisors grow continuously throughout its life.\nIf its incisors get too long, this Pokémon\nbecomes unable to eat, and it starves to death."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_190_EN.webp",
@@ -4986,7 +5161,8 @@
         "artist": "Shigenori Negishi",
         "set": "Genetic Apex  (A1)",
         "id": "190",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "People say that it fled from its enemies by\nusing its small webbed hind feet to swim\nfrom island to island in Alola."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_191_EN.webp",
@@ -5011,7 +5187,8 @@
         "artist": "Shiburingaru",
         "set": "Genetic Apex  (A1)",
         "id": "191",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Its reckless nature leads it to stand up to\nothers—even large Pokémon—if it has to protect\nits territory."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_192_EN.webp",
@@ -5037,7 +5214,8 @@
         "artist": "Satoshi Shirai",
         "set": "Genetic Apex  (A1)",
         "id": "192",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Carrying food through Fearow’s territory is\ndangerous. It will snatch the food away from\nyou in a flash!"
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_193_EN.webp",
@@ -5063,7 +5241,8 @@
         "artist": "Mizue",
         "set": "Genetic Apex  (A1)",
         "id": "193",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "When its huge eyes waver, it sings a mysteriously\nsoothing melody that lulls its enemies to sleep."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_194_EN.webp",
@@ -5089,7 +5268,8 @@
         "artist": "Atsuko Nishida",
         "set": "Genetic Apex  (A1)",
         "id": "194",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "It has a very fine fur. Take care not to make it\nangry, or it may inflate steadily and hit with a\nbody slam."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_195_EN.webp",
@@ -5141,7 +5321,8 @@
         "artist": "Mitsuhiro Arita",
         "set": "Genetic Apex  (A1)",
         "id": "196",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "All it does is sleep during the daytime. At night,\nit patrols its territory with its eyes aglow."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_197_EN.webp",
@@ -5167,7 +5348,8 @@
         "artist": "nagimiso",
         "set": "Genetic Apex  (A1)",
         "id": "197",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "Although its fur has many admirers, it is tough to\nraise as a pet because of its fickle meanness."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_198_EN.webp",
@@ -5192,7 +5374,8 @@
         "artist": "Miki Tanaka",
         "set": "Genetic Apex  (A1)",
         "id": "198",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "The stalk this Pokémon carries in its wings serves\nas a sword to cut down opponents. In a dire\nsituation, the stalk can also serve as food."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_199_EN.webp",
@@ -5217,7 +5400,8 @@
         "artist": "Yuya Oka",
         "set": "Genetic Apex  (A1)",
         "id": "199",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "A two-headed Pokémon that was discovered as a \nsudden mutation. It runs at a pace of over 60 miles\nper hour."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_200_EN.webp",
@@ -5242,7 +5426,8 @@
         "artist": "Miki Tanaka",
         "set": "Genetic Apex  (A1)",
         "id": "200",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "An enemy that takes its eyes off any of the\nthree heads—even for a second—will get\npecked severely."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_201_EN.webp",
@@ -5269,7 +5454,8 @@
         "artist": "Kagemaru Himeno",
         "set": "Genetic Apex  (A1)",
         "id": "201",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "If this Pokémon’s sticky saliva gets on you and\nyou don’t clean it off, an intense itch will set in.\nThe itch won’t go away, either."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_202_EN.webp",
@@ -5296,7 +5482,8 @@
         "artist": "MAHOU",
         "set": "Genetic Apex  (A1)",
         "id": "202",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "This kindly Pokémon lays highly nutritious eggs\nand shares them with injured Pokémon or people."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_203_EN.webp",
@@ -5321,7 +5508,8 @@
         "artist": "Ken Sugimori",
         "set": "Genetic Apex  (A1)",
         "id": "203",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "Although it’s carrying its baby in a pouch on\nits belly, Kangaskhan is swift on its feet. It\nintimidates its opponents with quick jabs."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_204_EN.webp",
@@ -5347,7 +5535,8 @@
         "artist": "kodama",
         "set": "Genetic Apex  (A1)",
         "id": "204",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "When Tauros begins whipping itself with its tails,\nit’s a warning that the Pokémon is about to\ncharge with astounding speed."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_205_EN.webp",
@@ -5372,7 +5561,8 @@
         "artist": "Miki Tanaka",
         "set": "Genetic Apex  (A1)",
         "id": "205",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "Its transformation ability is perfect. However,\nif made to laugh, it can’t maintain its disguise."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_206_EN.webp",
@@ -5397,7 +5587,8 @@
         "artist": "Atsuko Nishida",
         "set": "Genetic Apex  (A1)",
         "id": "206",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_207_EN.webp",
@@ -5422,7 +5613,8 @@
         "artist": "Hasuno",
         "set": "Genetic Apex  (A1)",
         "id": "207",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_208_EN.webp",
@@ -5447,7 +5639,8 @@
         "artist": "Sekio",
         "set": "Genetic Apex  (A1)",
         "id": "208",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_209_EN.webp",
@@ -5472,7 +5665,8 @@
         "artist": "Ayaka Yoshida",
         "set": "Genetic Apex  (A1)",
         "id": "209",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "State-of-the-art technology was used to create\nPorygon. It was the first artificial Pokémon to be\ncreated via computer programming."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_210_EN.webp",
@@ -5498,7 +5692,8 @@
         "artist": "Naoyo Kimura",
         "set": "Genetic Apex  (A1)",
         "id": "210",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "This is a ferocious Pokémon from ancient times.\nApparently even modern technology is incapable\nof producing a perfectly restored specimen."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_211_EN.webp",
@@ -5526,7 +5721,8 @@
         "artist": "Naoki Saito",
         "set": "Genetic Apex  (A1)",
         "id": "211",
-        "rarity": "◊◊◊"
+        "rarity": "◊◊◊",
+        "description": "It is not satisfied unless it eats over 880 pounds\nof food every day. When it is done eating, it\ngoes promptly to sleep."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_212_EN.webp",
@@ -5551,7 +5747,8 @@
         "artist": "sui",
         "set": "Genetic Apex  (A1)",
         "id": "212",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "The way it brushes away grime with its tail\ncan be helpful when cleaning. But its focus on\nspotlessness can make cleaning more of a hassle."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_213_EN.webp",
@@ -5578,7 +5775,8 @@
         "artist": "0313",
         "set": "Genetic Apex  (A1)",
         "id": "213",
-        "rarity": "◊◊"
+        "rarity": "◊◊",
+        "description": "Its body secretes oil that this Pokémon spreads\nover its nest as a coating to protect it from dust.\nCinccino won’t tolerate even a speck of the stuff."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_214_EN.webp",
@@ -5604,7 +5802,8 @@
         "artist": "Yoriyuki Ikegami",
         "set": "Genetic Apex  (A1)",
         "id": "214",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Its curly fleece is such an effective cushion that\nthis Pokémon could fall off a cliff and stand right\nback up at the bottom, unharmed."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_215_EN.webp",
@@ -5631,7 +5830,8 @@
         "artist": "saino misaki",
         "set": "Genetic Apex  (A1)",
         "id": "215",
-        "rarity": "◊"
+        "rarity": "◊",
+        "description": "Weave a carpet from its springy wool, and you end\nup with something closer to a trampoline. You’ll\nstart to bounce the moment you set foot on it."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_216_EN.webp",
@@ -5778,7 +5978,8 @@
         "artist": "Ryota Murayama",
         "set": "Genetic Apex  (A1)",
         "id": "227",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "There is a plant seed on its back right from the\nday this Pokémon is born. The seed slowly\ngrows larger."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_228_EN.webp",
@@ -5804,7 +6005,8 @@
         "artist": "OKACHEKE",
         "set": "Genetic Apex  (A1)",
         "id": "228",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "Its pistils exude an incredibly foul odor.\nThe horrid stench can cause fainting at a distance\nof 1.25 miles."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_229_EN.webp",
@@ -5830,7 +6032,8 @@
         "artist": "Scav",
         "set": "Genetic Apex  (A1)",
         "id": "229",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "These Pokémon judge one another based on\npincers. Thicker, more impressive pincers make\nfor more popularity with the opposite gender."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_230_EN.webp",
@@ -5855,7 +6058,8 @@
         "artist": "GIDORA",
         "set": "Genetic Apex  (A1)",
         "id": "230",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "It has a preference for hot things. When it rains,\nsteam is said to spout from the tip of its tail."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_231_EN.webp",
@@ -5880,7 +6084,8 @@
         "artist": "Taira Akitsu",
         "set": "Genetic Apex  (A1)",
         "id": "231",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "This Pokémon can be seen galloping through\nfields at speeds of up to 150 mph, its fiery mane\nfluttering in the wind."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_232_EN.webp",
@@ -5905,7 +6110,8 @@
         "artist": "Taira Akitsu",
         "set": "Genetic Apex  (A1)",
         "id": "232",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "When it retracts its long neck into its shell, it\nsquirts out water with vigorous force."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_233_EN.webp",
@@ -5933,7 +6139,8 @@
         "artist": "Nurikabe",
         "set": "Genetic Apex  (A1)",
         "id": "233",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "Once it appears, it goes on a rampage.\nIt remains enraged until it demolishes\neverything around it."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_234_EN.webp",
@@ -5958,7 +6165,8 @@
         "artist": "Haru Akasaka",
         "set": "Genetic Apex  (A1)",
         "id": "234",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "A smart and kindhearted Pokémon,\nit glides across the surface of the sea while\nits beautiful song echoes around it."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_235_EN.webp",
@@ -5984,7 +6192,8 @@
         "artist": "DOM",
         "set": "Genetic Apex  (A1)",
         "id": "235",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "The more energy it charges up, the faster\nit gets. But this also makes it more likely\nto explode."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_236_EN.webp",
@@ -6011,7 +6220,8 @@
         "artist": "AKIRA EGAWA",
         "set": "Genetic Apex  (A1)",
         "id": "236",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "It has an incredibly high level of intelligence.\nSome say that Alakazam remembers everything\nthat ever happens to it, from birth till death."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_237_EN.webp",
@@ -6037,7 +6247,8 @@
         "artist": "Miki Tanaka",
         "set": "Genetic Apex  (A1)",
         "id": "237",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "It is incredibly slow and dopey. It takes five\nseconds for it to feel pain when under attack."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_238_EN.webp",
@@ -6062,7 +6273,8 @@
         "artist": "Shinya Komatsu",
         "set": "Genetic Apex  (A1)",
         "id": "238",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "It lives about one yard underground, where it\nfeeds on plant roots. It sometimes appears\naboveground."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_239_EN.webp",
@@ -6087,7 +6299,8 @@
         "artist": "Teeziro",
         "set": "Genetic Apex  (A1)",
         "id": "239",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "When the memory of its departed mother brings\nit to tears, its cries echo mournfully within the\nskull it wears on its head."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_240_EN.webp",
@@ -6114,7 +6327,8 @@
         "artist": "aoki",
         "set": "Genetic Apex  (A1)",
         "id": "240",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "Nidoqueen is better at defense than offense.\nWith scales like armor, this Pokémon will shield\nits children from any kind of attack."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_241_EN.webp",
@@ -6141,7 +6355,8 @@
         "artist": "nagimiso",
         "set": "Genetic Apex  (A1)",
         "id": "241",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "When it goes on a rampage, it’s impossible to\ncontrol. But in the presence of a Nidoqueen it’s\nlived with for a long time, Nidoking calms down."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_242_EN.webp",
@@ -6166,7 +6381,8 @@
         "artist": "Tomokazu Komiya",
         "set": "Genetic Apex  (A1)",
         "id": "242",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "It loves to drink other creatures’ blood. It’s said\nthat if it finds others of its kind going hungry,\nit sometimes shares the blood it’s gathered."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_243_EN.webp",
@@ -6191,7 +6407,8 @@
         "artist": "KEIICHIRO ITO",
         "set": "Genetic Apex  (A1)",
         "id": "243",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "If one of the twin Koffing inflates, the other one\ndeflates. It constantly mixes its poisonous gases."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_244_EN.webp",
@@ -6219,7 +6436,8 @@
         "artist": "Gemi",
         "set": "Genetic Apex  (A1)",
         "id": "244",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "It is said that somewhere in the ocean lies an\nisland where these gather. Only they live there."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_245_EN.webp",
@@ -6245,7 +6463,8 @@
         "artist": "Anesaki Dynamic",
         "set": "Genetic Apex  (A1)",
         "id": "245",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "When hunting, it skims the surface of water\nat high speed to pick off unwary prey such\nas Magikarp."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_246_EN.webp",
@@ -6270,7 +6489,8 @@
         "artist": "Mina Nakai",
         "set": "Genetic Apex  (A1)",
         "id": "246",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "All it does is sleep during the daytime. At night,\nit patrols its territory with its eyes aglow."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_247_EN.webp",
@@ -6295,7 +6515,8 @@
         "artist": "Jerky",
         "set": "Genetic Apex  (A1)",
         "id": "247",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "Its transformation ability is perfect. However,\nif made to laugh, it can’t maintain its disguise."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_248_EN.webp",
@@ -6320,7 +6541,8 @@
         "artist": "sowsow",
         "set": "Genetic Apex  (A1)",
         "id": "248",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_249_EN.webp",
@@ -6345,7 +6567,8 @@
         "artist": "Akira Komayama",
         "set": "Genetic Apex  (A1)",
         "id": "249",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "State-of-the-art technology was used to create\nPorygon. It was the first artificial Pokémon to be\ncreated via computer programming."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_250_EN.webp",
@@ -6373,7 +6596,8 @@
         "artist": "HYOGONOSUKE",
         "set": "Genetic Apex  (A1)",
         "id": "250",
-        "rarity": "☆"
+        "rarity": "☆",
+        "description": "It is not satisfied unless it eats over 880 pounds\nof food every day. When it is done eating, it\ngoes promptly to sleep."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_251_EN.webp",
@@ -7240,7 +7464,8 @@
         "artist": "Amelicart",
         "set": "Genetic Apex  (A1)",
         "id": "283",
-        "rarity": "☆☆☆"
+        "rarity": "☆☆☆",
+        "description": "Because it can use all kinds of moves, many\nscientists believe Mew to be the ancestor\nof Pokémon."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_284_EN.webp",
