@@ -37,9 +37,9 @@ def scrape_pokemon_fandom(name):
         "weight": htwt[1].text.strip()
     }
 
-set_code = "P-A"
+set_code = "A1a"
 
-with open(f"../backend/data/{set_code}_cards.json", "r") as file:
+with open(f"../backend/data/{set_code}_cards.json", "r", encoding="utf-8") as file:
     card_list = json.load(file)
 
 # Iterate through the JSON array and update with scraped data
@@ -49,5 +49,5 @@ for card in card_list:
         card["info"] = infos
 
 # Save updated JSON back to file
-with open(f"{set_code}_cards.json", "w") as f:
+with open(f"{set_code}_cards.json", "w", encoding="utf-8") as f:
     json.dump(card_list, f, indent=4, ensure_ascii=False)

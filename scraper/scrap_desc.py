@@ -26,7 +26,7 @@ def scrape_pokemon_details(set, pokemon_id, name):
     card_desc = soup.select_one(".card-detail__content .fst-italic")
 
     if not card_desc:
-        print("Card details not found on the page.")
+        print("Card details not found.", url)
         return None
     
     return card_desc.text.strip()
@@ -35,7 +35,7 @@ def scrape_pokemon_details(set, pokemon_id, name):
 
 set_code = "A1a"
 
-with open(f"../backend/data/{set_code}_cards.json", "r") as file:
+with open(f"../backend/data/{set_code}_cards.json", "r", encoding="utf-8") as file:
     card_list = json.load(file)
 
 # Iterate through the JSON array and update with descriptions

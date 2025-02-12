@@ -14,6 +14,8 @@ def scrape_card(set_code, card_number):
     soup = BeautifulSoup(response.text, 'html.parser')
     
     card_data = {}
+
+    print(url)
     
     # Card Image
     img_tag = soup.select_one(".card-image img")
@@ -45,13 +47,25 @@ def scrape_card(set_code, card_number):
         card_data["category"] = parts[0] if parts else ""
         card_data["evolvesfrom"] = parts[1] if len(parts) > 1 else ""
         
+
+        ability_info_title = soup.select_one(".card-text-ability .card-text-ability-info")
+        ability_info_effect = soup.select_one(".card-text-ability .card-text-ability-effect")
+
+        # Ability
+        if ability_info_title and ability_info_effect:
+            ability_data = {
+                "title": ability_info_title.text.replace("Ability:", "").strip(),
+                "effect": ability_info_effect.text.strip(),
+            }
+            card_data["ability"] = ability_data
+
         # Attacks
         attacks = []
         for attack in soup.select(".card-text-attack"):
             attack_info = attack.select_one(".card-text-attack-info")
             attack_effect = attack.select_one(".card-text-attack-effect")
             energy_symbols = attack_info.select_one(".ptcg-symbol")
-            energy_cost = list(energy_symbols.text.strip()) if energy_symbols else []
+            energy_cost = translate_energy_symbols(energy_symbols.text.strip()) if energy_symbols else []
             
             attack_name = ""
             attack_power = ""
@@ -106,7 +120,11 @@ def scrape_card(set_code, card_number):
     # Set Details
     set_info = soup.select_one(".card-prints-current .prints-current-details span.text-lg")
     if set_info:
-        card_data["set"] = set_info.text.strip()
+        set_parts = set_info.text.split("(")
+        card_data["set"] = {
+            "name": set_parts[0].strip(),
+            "code": set_code,
+        }
     
     # Card Number & Rarity
     card_num_tag = soup.select_one(".card-prints-current .prints-current-details span:nth-of-type(2)")
@@ -114,6 +132,7 @@ def scrape_card(set_code, card_number):
         num_parts = card_num_tag.text.strip().split(" · ")
         card_data["id"] = num_parts[0].replace("#", "").strip()
         card_data["rarity"] = num_parts[1].strip() if len(num_parts) > 1 else ""
+        card_data["set"]["pack"] = num_parts[2].replace("pack", "").strip() if len(num_parts) > 2 else ""
     
     return card_data
 
@@ -131,5 +150,22 @@ def scrape_set(set_code, init_card = 1, max_cards=100):
     
     print(f"Scraped {len(all_cards)} cards from set {set_code}.")
 
+
+def translate_energy_symbols(symbols):
+    symbol_dict = {
+        "G": "Grass",
+        "R": "Fire",
+        "W": "Water",
+        "L": "Lightning",
+        "P": "Psychic",
+        "F": "Fighting",
+        "D": "Darkness",
+        "M": "Metal",
+        "Y": "Fairy",
+        "C": "Colorless"
+    }
+    return [symbol_dict.get(symbol, symbol) for symbol in symbols]
+
+
 # Example usage
-scrape_set("P-A", init_card = 1, max_cards=41)
+scrape_set("A1a", init_card=1, max_cards=86)

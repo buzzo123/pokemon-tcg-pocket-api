@@ -10,7 +10,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "C"
+                    "Colorless"
                 ],
                 "name": "Growth Spurt",
                 "attack": "",
@@ -20,7 +20,11 @@
         "weakness": "Fire",
         "retreat": "1",
         "artist": "Yuka Morii",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "1",
         "rarity": "◊",
         "description": "Though it may look like it’s just a bunch of eggs,\nit’s a proper Pokémon. Exeggcute communicates\nwith others of its kind via telepathy, apparently.",
@@ -42,10 +46,10 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "G",
-                    "C",
-                    "C",
-                    "C"
+                    "Grass",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
                 ],
                 "name": "Psychic",
                 "attack": "80+",
@@ -55,7 +59,11 @@
         "weakness": "Fire",
         "retreat": "3",
         "artist": "Masakazu Fukuda",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "2",
         "rarity": "◊◊",
         "description": "Each of Exeggutor’s three heads is thinking\ndifferent thoughts. The three don’t seem to be\nvery interested in one another.",
@@ -77,8 +85,8 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "G",
-                    "C"
+                    "Grass",
+                    "Colorless"
                 ],
                 "name": "Powerful Bloom",
                 "attack": "50x",
@@ -88,7 +96,11 @@
         "weakness": "Fire",
         "retreat": "1",
         "artist": "PLANETA CG Works",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "3",
         "rarity": "◊◊◊◊"
     },
@@ -103,8 +115,8 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "G",
-                    "C"
+                    "Grass",
+                    "Colorless"
                 ],
                 "name": "Vine Whip",
                 "attack": "40",
@@ -114,7 +126,11 @@
         "weakness": "Fire",
         "retreat": "1",
         "artist": "Kagemaru Himeno",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "4",
         "rarity": "◊",
         "description": "Being exposed to sunlight makes its movements\nswifter. It uses vines more adeptly than its hands.",
@@ -136,8 +152,8 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "G",
-                    "C"
+                    "Grass",
+                    "Colorless"
                 ],
                 "name": "Vine Whip",
                 "attack": "50",
@@ -147,7 +163,11 @@
         "weakness": "Fire",
         "retreat": "1",
         "artist": "Shigenori Negishi",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "5",
         "rarity": "◊◊",
         "description": "It moves along the ground as if sliding. Its swift\nmovements befuddle its foes, and it then attacks\nwith a vine whip.",
@@ -166,13 +186,17 @@
         "hp": "110",
         "category": "Stage 2",
         "evolvesfrom": "Servine",
+        "ability": {
+            "title": "Jungle Totem",
+            "effect": "Each [G] Energy attached to your [G] Pokémon provides 2 [G] Energy. This effect doesn't stack."
+        },
         "attacks": [
             {
                 "energy_cost": [
-                    "G",
-                    "C",
-                    "C",
-                    "C"
+                    "Grass",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
                 ],
                 "name": "Solar Beam",
                 "attack": "70",
@@ -182,7 +206,11 @@
         "weakness": "Fire",
         "retreat": "2",
         "artist": "Yoshioka",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "6",
         "rarity": "◊◊◊",
         "description": "It only gives its all against strong opponents who\nare not fazed by the glare from Serperior’s\nnoble eyes.",
@@ -204,7 +232,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "G"
+                    "Grass"
                 ],
                 "name": "Ram",
                 "attack": "20",
@@ -214,7 +242,11 @@
         "weakness": "Fire",
         "retreat": "1",
         "artist": "Saya Tsuruta",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "7",
         "rarity": "◊",
         "description": "Pokémon living in the forest eat the\ndelicious caps on Morelull’s head.\nThe caps regrow overnight.",
@@ -236,8 +268,8 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "G",
-                    "G"
+                    "Grass",
+                    "Grass"
                 ],
                 "name": "Flickering Spores",
                 "attack": "50",
@@ -247,7 +279,11 @@
         "weakness": "Fire",
         "retreat": "2",
         "artist": "Mizue",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "8",
         "rarity": "◊◊",
         "description": "Its flickering spores lure in prey and put them to\nsleep. Once this Pokémon has its prey snoozing,\nit drains their vitality with its fingertips.",
@@ -269,7 +305,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "G"
+                    "Grass"
                 ],
                 "name": "Energy Whip",
                 "attack": "20+",
@@ -279,7 +315,11 @@
         "weakness": "Fire",
         "retreat": "2",
         "artist": "Hasuno",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "9",
         "rarity": "◊◊",
         "description": "After a piece of seaweed merged with debris\nfrom a sunken ship, it was reborn as this\nghost Pokémon.",
@@ -301,7 +341,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "R"
+                    "Fire"
                 ],
                 "name": "Stomp",
                 "attack": "10+",
@@ -311,7 +351,11 @@
         "weakness": "Water",
         "retreat": "1",
         "artist": "Tomokazu Komiya",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "10",
         "rarity": "◊",
         "description": "It can’t run properly when it’s newly born.\nAs it races around with others of its kind,\nits legs grow stronger.",
@@ -333,8 +377,8 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "R",
-                    "C"
+                    "Fire",
+                    "Colorless"
                 ],
                 "name": "Rising Lunge",
                 "attack": "40+",
@@ -344,7 +388,11 @@
         "weakness": "Water",
         "retreat": "1",
         "artist": "AKIRA EGAWA",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "11",
         "rarity": "◊◊",
         "description": "This Pokémon can be seen galloping through\nfields at speeds of up to 150 mph, its fiery mane\nfluttering in the wind.",
@@ -366,8 +414,8 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "R",
-                    "R"
+                    "Fire",
+                    "Fire"
                 ],
                 "name": "Fire Blast",
                 "attack": "80",
@@ -377,7 +425,11 @@
         "weakness": "Water",
         "retreat": "2",
         "artist": "sui",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "12",
         "rarity": "◊◊",
         "description": "Magmar dispatches its prey with fire. But it\nregrets this habit once it realizes that it has\nburned its intended prey to a charred crisp.",
@@ -399,8 +451,8 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "R",
-                    "C"
+                    "Fire",
+                    "Colorless"
                 ],
                 "name": "Combustion",
                 "attack": "30",
@@ -410,7 +462,11 @@
         "weakness": "Water",
         "retreat": "2",
         "artist": "kawayoo",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "13",
         "rarity": "◊",
         "description": "This Pokémon was called the Larva That Stole\nthe Sun. The fire Larvesta spouts from its horns\ncan cut right through a sheet of iron.",
@@ -432,9 +488,9 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "R",
-                    "R",
-                    "C"
+                    "Fire",
+                    "Fire",
+                    "Colorless"
                 ],
                 "name": "Volcanic Ash",
                 "attack": "",
@@ -444,7 +500,11 @@
         "weakness": "Water",
         "retreat": "2",
         "artist": "DOM",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "14",
         "rarity": "◊◊◊",
         "description": "Its burning body causes it to be unpopular in hot\nparts of the world, but in cold ones, Volcarona is\nrevered as an embodiment of the sun.",
@@ -466,7 +526,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "C"
+                    "Colorless"
                 ],
                 "name": "Venoshock",
                 "attack": "10+",
@@ -476,7 +536,11 @@
         "weakness": "Water",
         "retreat": "1",
         "artist": "Naoki Saito",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "15",
         "rarity": "◊",
         "description": "It taunts its prey and lures them into narrow,\nrocky areas where it then sprays them with toxic\ngas to make them dizzy and take them down.",
@@ -498,7 +562,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "R"
+                    "Fire"
                 ],
                 "name": "Poison Claws",
                 "attack": "30",
@@ -508,7 +572,11 @@
         "weakness": "Water",
         "retreat": "1",
         "artist": "Mitsuhiro Arita",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "16",
         "rarity": "◊",
         "description": "Salazzle makes its opponents light-headed with\npoisonous gas, then captivates them with alluring\nmovements to turn them into loyal servants.",
@@ -530,7 +598,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "W"
+                    "Water"
                 ],
                 "name": "Leap Out",
                 "attack": "",
@@ -540,7 +608,11 @@
         "weakness": "Lightning",
         "retreat": "1",
         "artist": "Mitsuhiro Arita",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "17",
         "rarity": "◊",
         "description": "An underpowered, pathetic Pokémon. It may\njump high on rare occasions but never more\nthan seven feet.",
@@ -562,10 +634,10 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "W",
-                    "W",
-                    "W",
-                    "C"
+                    "Water",
+                    "Water",
+                    "Water",
+                    "Colorless"
                 ],
                 "name": "Rampaging Whirlpool",
                 "attack": "140",
@@ -575,7 +647,11 @@
         "weakness": "Lightning",
         "retreat": "3",
         "artist": "PLANETA CG Works",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "18",
         "rarity": "◊◊◊◊"
     },
@@ -587,12 +663,16 @@
         "hp": "120",
         "category": "Stage 1",
         "evolvesfrom": "Eevee",
+        "ability": {
+            "title": "Wash Out",
+            "effect": "As often as you like during your turn, you may move a [W] Energy from 1 of your Benched [W] Pokémon to your Active [W] Pokémon."
+        },
         "attacks": [
             {
                 "energy_cost": [
-                    "W",
-                    "C",
-                    "C"
+                    "Water",
+                    "Colorless",
+                    "Colorless"
                 ],
                 "name": "Wave Splash",
                 "attack": "60",
@@ -602,7 +682,11 @@
         "weakness": "Lightning",
         "retreat": "2",
         "artist": "LINNE",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "19",
         "rarity": "◊◊◊",
         "description": "It lives close to water. Its long tail is ridged with\na fin, which is often mistaken for a mermaid’s.",
@@ -624,7 +708,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "W"
+                    "Water"
                 ],
                 "name": "ater Gun",
                 "attack": "20",
@@ -634,7 +718,11 @@
         "weakness": "Lightning",
         "retreat": "1",
         "artist": "sui",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "20",
         "rarity": "◊",
         "description": "The line running down its side can store sunlight.\nIt shines vividly at night.",
@@ -656,8 +744,8 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "W",
-                    "W"
+                    "Water",
+                    "Water"
                 ],
                 "name": "Aqua Liner",
                 "attack": "",
@@ -667,7 +755,11 @@
         "weakness": "Lightning",
         "retreat": "0",
         "artist": "Sekio",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "21",
         "rarity": "◊◊",
         "description": "With its shining light, it lures its prey close.\nHowever, the light also happens to attract\nferocious fish Pokémon—its natural predators.",
@@ -689,8 +781,8 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "W",
-                    "C"
+                    "Water",
+                    "Colorless"
                 ],
                 "name": "Bite",
                 "attack": "30",
@@ -700,7 +792,11 @@
         "weakness": "Lightning",
         "retreat": "2",
         "artist": "Taiga Kayama",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "22",
         "rarity": "◊",
         "description": "Its large front tooth is still growing in. When the\ntooth itches, this Pokémon will bite another\nChewtle’s horn, and the two Pokémon will tussle.",
@@ -722,9 +818,9 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "W",
-                    "W",
-                    "W"
+                    "Water",
+                    "Water",
+                    "Water"
                 ],
                 "name": "Crunch",
                 "attack": "70",
@@ -734,7 +830,11 @@
         "weakness": "Lightning",
         "retreat": "3",
         "artist": "nisimono",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "23",
         "rarity": "◊◊",
         "description": "Its massive, jagged teeth can crush a\nboulder in a single bite. This Pokémon\nhas an extremely vicious disposition.",
@@ -756,9 +856,9 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "W",
-                    "W",
-                    "C"
+                    "Water",
+                    "Water",
+                    "Colorless"
                 ],
                 "name": "Dive",
                 "attack": "60",
@@ -768,7 +868,11 @@
         "weakness": "Lightning",
         "retreat": "1",
         "artist": "Jerky",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "24",
         "rarity": "◊",
         "description": "It’s so strong that it can knock out some\nopponents in a single hit, but it also may\nforget what it’s battling midfight.",
@@ -790,7 +894,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "L"
+                    "Lightning"
                 ],
                 "name": "Circle Circuit",
                 "attack": "10x",
@@ -800,7 +904,11 @@
         "weakness": "Fighting",
         "retreat": "1",
         "artist": "Naoyo Kimura",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "25",
         "rarity": "◊",
         "description": "When it is angered, it immediately discharges the\nenergy stored in the pouches in its cheeks.",
@@ -822,9 +930,9 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "L",
-                    "L",
-                    "L"
+                    "Lightning",
+                    "Lightning",
+                    "Lightning"
                 ],
                 "name": "Gigashock",
                 "attack": "60",
@@ -834,7 +942,11 @@
         "weakness": "Fighting",
         "retreat": "2",
         "artist": "hncl",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "26",
         "rarity": "◊◊◊",
         "description": "Its tail discharges electricity into the ground,\nprotecting it from getting shocked.",
@@ -856,8 +968,8 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "L",
-                    "L"
+                    "Lightning",
+                    "Lightning"
                 ],
                 "name": "Thunder Spear",
                 "attack": "",
@@ -867,7 +979,11 @@
         "weakness": "Fighting",
         "retreat": "1",
         "artist": "Naoyo Kimura",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "27",
         "rarity": "◊◊",
         "description": "Many power plants keep Ground-type Pokémon\naround as a defense against Electabuzz that\ncome seeking electricity.",
@@ -889,7 +1005,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "L"
+                    "Lightning"
                 ],
                 "name": "Bug Bite",
                 "attack": "30",
@@ -899,7 +1015,11 @@
         "weakness": "Fighting",
         "retreat": "1",
         "artist": "MINAMINAMI Take",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "28",
         "rarity": "◊",
         "description": "Joltik can be found clinging to other Pokémon.\nIt’s soaking up static electricity because it can’t\nproduce a charge on its own.",
@@ -921,8 +1041,8 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "L",
-                    "L"
+                    "Lightning",
+                    "Lightning"
                 ],
                 "name": "Electroweb",
                 "attack": "70",
@@ -932,7 +1052,11 @@
         "weakness": "Fighting",
         "retreat": "1",
         "artist": "Mitsuhiro Arita",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "29",
         "rarity": "◊◊",
         "description": "It launches electrified fur from its abdomen as its\nmeans of attack. Opponents hit by the fur could\nbe in for three full days and nights of paralysis.",
@@ -954,7 +1078,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "L"
+                    "Lightning"
                 ],
                 "name": "Thunder Shock",
                 "attack": "10",
@@ -964,7 +1088,11 @@
         "weakness": "Fighting",
         "retreat": "1",
         "artist": "Taiga Kayama",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "30",
         "rarity": "◊",
         "description": "It’s small and its electricity-generating organ is\nnot fully developed, so it uses its tail to absorb\nelectricity from people’s homes and charge itself.",
@@ -986,7 +1114,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "P"
+                    "Psychic"
                 ],
                 "name": "sy Report",
                 "attack": "20",
@@ -996,7 +1124,11 @@
         "weakness": "Darkness",
         "retreat": "1",
         "artist": "Saya Tsuruta",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "31",
         "rarity": "◊◊◊",
         "description": "Because it can use all kinds of moves, many\nscientists believe Mew to be the ancestor\nof Pokémon.",
@@ -1018,7 +1150,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "P"
+                    "Psychic"
                 ],
                 "name": "syshot",
                 "attack": "20",
@@ -1026,9 +1158,9 @@
             },
             {
                 "energy_cost": [
-                    "C",
-                    "C",
-                    "C"
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
                 ],
                 "name": "Genome Hacking",
                 "attack": "",
@@ -1038,7 +1170,11 @@
         "weakness": "Darkness",
         "retreat": "1",
         "artist": "PLANETA CG Works",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "32",
         "rarity": "◊◊◊◊"
     },
@@ -1053,7 +1189,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "P"
+                    "Psychic"
                 ],
                 "name": "Spike Draw",
                 "attack": "10",
@@ -1063,7 +1199,11 @@
         "weakness": "Darkness",
         "retreat": "1",
         "artist": "Shigenori Negishi",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "33",
         "rarity": "◊◊",
         "description": "Psychic power allows these Pokémon to fly. Some\nsay they were the guardians of an ancient city.\nOthers say they were the guardians’ emissaries.",
@@ -1085,7 +1225,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "P"
+                    "Psychic"
                 ],
                 "name": "Headbutt",
                 "attack": "20",
@@ -1095,7 +1235,11 @@
         "weakness": "Darkness",
         "retreat": "1",
         "artist": "Kouki Saitou",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "34",
         "rarity": "◊",
         "description": "If this Pokémon stands near a TV, strange scenery\nwill appear on the screen. That scenery is said\nto be from its home.",
@@ -1117,7 +1261,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "P"
+                    "Psychic"
                 ],
                 "name": "Mind Jack",
                 "attack": "10+",
@@ -1127,7 +1271,11 @@
         "weakness": "Darkness",
         "retreat": "1",
         "artist": "sowsow",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "35",
         "rarity": "◊◊",
         "description": "Whenever a Beheeyem visits a farm,\na Dubwool mysteriously disappears.",
@@ -1149,7 +1297,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "P"
+                    "Psychic"
                 ],
                 "name": "Hypnotic Gaze",
                 "attack": "",
@@ -1159,7 +1307,11 @@
         "weakness": "Metal",
         "retreat": "1",
         "artist": "Cona Nitanda",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "36",
         "rarity": "◊",
         "description": "This Pokémon can draw forth the power hidden\nwithin blooming wild flowers. It is particularly\nfond of red flowers.",
@@ -1181,7 +1333,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "P"
+                    "Psychic"
                 ],
                 "name": "Leaf Drain",
                 "attack": "40",
@@ -1191,7 +1343,11 @@
         "weakness": "Metal",
         "retreat": "1",
         "artist": "Cona Nitanda",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "37",
         "rarity": "◊",
         "description": "This Pokémon draws forth what power is left in\nwithered flowers to make them healthy again.\nIt holds a red flower.",
@@ -1213,8 +1369,8 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "P",
-                    "P"
+                    "Psychic",
+                    "Psychic"
                 ],
                 "name": "Bloomshine",
                 "attack": "80",
@@ -1224,7 +1380,11 @@
         "weakness": "Metal",
         "retreat": "1",
         "artist": "Cona Nitanda",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "38",
         "rarity": "◊◊",
         "description": "This Pokémon creates an impressive flower\ngarden in its territory. It draws forth the power\nof the red flowers around its neck.",
@@ -1246,7 +1406,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "P"
+                    "Psychic"
                 ],
                 "name": "Fairy Wind",
                 "attack": "20",
@@ -1256,7 +1416,11 @@
         "weakness": "Metal",
         "retreat": "1",
         "artist": "5ban Graphics",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "39",
         "rarity": "◊",
         "description": "It eats its own weight in sugar every day.\nIf it doesn’t get enough sugar, it becomes\nincredibly grumpy.",
@@ -1278,8 +1442,8 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "P",
-                    "C"
+                    "Psychic",
+                    "Colorless"
                 ],
                 "name": "Magical Shot",
                 "attack": "60",
@@ -1289,7 +1453,11 @@
         "weakness": "Metal",
         "retreat": "2",
         "artist": "Kagemaru Himeno",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "40",
         "rarity": "◊",
         "description": "By taking in a person’s scent, it can sniff out their\nmental and physical condition. It’s hoped that\nthis skill will have many medical applications.",
@@ -1311,7 +1479,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "F"
+                    "Fighting"
                 ],
                 "name": "ocus ist",
                 "attack": "50",
@@ -1321,7 +1489,11 @@
         "weakness": "Psychic",
         "retreat": "1",
         "artist": "Akira Komayama",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "41",
         "rarity": "◊",
         "description": "It lives in groups in the treetops. If it loses sight of\nits group, it becomes infuriated by its loneliness.",
@@ -1343,7 +1515,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "F"
+                    "Fighting"
                 ],
                 "name": "Punch",
                 "attack": "50",
@@ -1353,7 +1525,11 @@
         "weakness": "Psychic",
         "retreat": "1",
         "artist": "Taiga Kayama",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "42",
         "rarity": "◊",
         "description": "It becomes wildly furious if it even senses\nsomeone looking at it. It chases anyone\nthat meets its glare.",
@@ -1375,8 +1551,8 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "F",
-                    "C"
+                    "Fighting",
+                    "Colorless"
                 ],
                 "name": "Light Punch",
                 "attack": "30",
@@ -1386,7 +1562,11 @@
         "weakness": "Grass",
         "retreat": "2",
         "artist": "GOSSAN",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "43",
         "rarity": "◊",
         "description": "Geodude that have lived a long life have had all\ntheir edges smoothed out until they’re totally\nround. They also have a calm, quiet disposition.",
@@ -1408,8 +1588,8 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "F",
-                    "C"
+                    "Fighting",
+                    "Colorless"
                 ],
                 "name": "Lunge Out",
                 "attack": "40",
@@ -1419,7 +1599,11 @@
         "weakness": "Grass",
         "retreat": "3",
         "artist": "Ayaka Yoshida",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "44",
         "rarity": "◊◊",
         "description": "It climbs up cliffs as it heads toward the peak\nof a mountain. As soon as it reaches the summit,\nit rolls back down the way it came.",
@@ -1441,10 +1625,10 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "F",
-                    "F",
-                    "F",
-                    "C"
+                    "Fighting",
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
                 ],
                 "name": "Guard Press",
                 "attack": "120",
@@ -1454,7 +1638,11 @@
         "weakness": "Grass",
         "retreat": "3",
         "artist": "Masakazu Fukuda",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "45",
         "rarity": "◊◊◊",
         "description": "When Golem grow old, they stop shedding their\nshells. Those that have lived a long, long time\nhave shells green with moss.",
@@ -1473,11 +1661,15 @@
         "hp": "140",
         "category": "Stage 1",
         "evolvesfrom": "",
+        "ability": {
+            "title": "Primeval Law",
+            "effect": "Your opponent can't play any Pokémon from their hand to evolve their Active Pokémon."
+        },
         "attacks": [
             {
                 "energy_cost": [
-                    "F",
-                    "C"
+                    "Fighting",
+                    "Colorless"
                 ],
                 "name": "Land Crush",
                 "attack": "80",
@@ -1487,7 +1679,11 @@
         "weakness": "Lightning",
         "retreat": "1",
         "artist": "PLANETA CG Works",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "46",
         "rarity": "◊◊◊◊"
     },
@@ -1502,8 +1698,8 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "F",
-                    "C"
+                    "Fighting",
+                    "Colorless"
                 ],
                 "name": "Revenge",
                 "attack": "40+",
@@ -1513,7 +1709,11 @@
         "weakness": "Psychic",
         "retreat": "1",
         "artist": "kantaro",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "47",
         "rarity": "◊◊◊",
         "description": "It slips into the shadows of others and mimics\ntheir powers and movements. As it improves, it\nbecomes stronger than those it’s imitating.",
@@ -1535,9 +1735,9 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "F",
-                    "F",
-                    "F"
+                    "Fighting",
+                    "Fighting",
+                    "Fighting"
                 ],
                 "name": "Mega Kick",
                 "attack": "90",
@@ -1547,7 +1747,11 @@
         "weakness": "Grass",
         "retreat": "3",
         "artist": "Teeziro",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "48",
         "rarity": "◊◊",
         "description": "The elemental composition of the rocks that\nform its body were found to match the bedrock\nof a land far away from this Pokémon’s habitat.",
@@ -1569,7 +1773,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "D"
+                    "Darkness"
                 ],
                 "name": "ivision",
                 "attack": "",
@@ -1579,7 +1783,11 @@
         "weakness": "Fighting",
         "retreat": "2",
         "artist": "Naoyo Kimura",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "49",
         "rarity": "◊",
         "description": "Its body is full of poisonous gas. It floats into\ngarbage dumps, seeking out the fumes of raw,\nrotting trash.",
@@ -1601,8 +1809,8 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "D",
-                    "D"
+                    "Darkness",
+                    "Darkness"
                 ],
                 "name": "Smokescreen",
                 "attack": "50",
@@ -1612,7 +1820,11 @@
         "weakness": "Fighting",
         "retreat": "3",
         "artist": "Mousho",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "50",
         "rarity": "◊◊",
         "description": "If one of the twin Koffing inflates, the other one\ndeflates. It constantly mixes its poisonous gases.",
@@ -1634,7 +1846,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "D"
+                    "Darkness"
                 ],
                 "name": "Scratch",
                 "attack": "20",
@@ -1644,7 +1856,11 @@
         "weakness": "Grass",
         "retreat": "1",
         "artist": "Kagemaru Himeno",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "51",
         "rarity": "◊",
         "description": "It steals things from people just to amuse itself\nwith their frustration. A rivalry exists between\nthis Pokémon and Nickit.",
@@ -1666,7 +1882,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "D"
+                    "Darkness"
                 ],
                 "name": "Slash",
                 "attack": "40",
@@ -1676,7 +1892,11 @@
         "weakness": "Grass",
         "retreat": "1",
         "artist": "GIDORA",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "52",
         "rarity": "◊",
         "description": "Don’t be fooled by its gorgeous fur and elegant\nfigure. This is a moody and vicious Pokémon.",
@@ -1698,7 +1918,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "D"
+                    "Darkness"
                 ],
                 "name": "Ram",
                 "attack": "20",
@@ -1708,7 +1928,11 @@
         "weakness": "Fighting",
         "retreat": "1",
         "artist": "Yukiko Baba",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "53",
         "rarity": "◊",
         "description": "Venipede and Sizzlipede are similar species,\nbut when the two meet, a huge fight ensues.",
@@ -1730,7 +1954,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "D"
+                    "Darkness"
                 ],
                 "name": "Poison Sting",
                 "attack": "20",
@@ -1740,7 +1964,11 @@
         "weakness": "Fighting",
         "retreat": "2",
         "artist": "Shin Nagasawa",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "54",
         "rarity": "◊",
         "description": "This Pokémon spins itself rapidly and charges into\nits opponents. Its top speed is just over 60 mph.",
@@ -1762,8 +1990,8 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "D",
-                    "C"
+                    "Darkness",
+                    "Colorless"
                 ],
                 "name": "Venoshock",
                 "attack": "70+",
@@ -1773,7 +2001,11 @@
         "weakness": "Fighting",
         "retreat": "2",
         "artist": "5ban Graphics",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "55",
         "rarity": "◊◊",
         "description": "Scolipede latches on to its prey with the claws on\nits neck before slamming them into the ground\nand jabbing them with its claws’ toxic spikes.",
@@ -1792,12 +2024,16 @@
         "hp": "100",
         "category": "Basic",
         "evolvesfrom": "",
+        "ability": {
+            "title": "Rough Skin",
+            "effect": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon."
+        },
         "attacks": [
             {
                 "energy_cost": [
-                    "R",
-                    "W",
-                    "C"
+                    "Fire",
+                    "Water",
+                    "Colorless"
                 ],
                 "name": "Dragon Claw",
                 "attack": "90",
@@ -1807,7 +2043,11 @@
         "weakness": "none",
         "retreat": "2",
         "artist": "Ryota Murayama",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "56",
         "rarity": "◊◊",
         "description": "Druddigon lives in caves, but it never skips\nsunbathing—it won’t be able to move if its body\ngets too cold.",
@@ -1829,7 +2069,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "C"
+                    "Colorless"
                 ],
                 "name": "Flap",
                 "attack": "20",
@@ -1839,7 +2079,11 @@
         "weakness": "Lightning",
         "retreat": "1",
         "artist": "Shigenori Negishi",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "57",
         "rarity": "◊",
         "description": "A common sight in forests and woods. It flaps\nits wings at ground level to kick up blinding sand.",
@@ -1861,9 +2105,9 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "C",
-                    "C",
-                    "C"
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
                 ],
                 "name": "Wing Attack",
                 "attack": "50",
@@ -1873,7 +2117,11 @@
         "weakness": "Lightning",
         "retreat": "1",
         "artist": "Taiga Kayama",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "58",
         "rarity": "◊",
         "description": "The claws on its feet are well developed.\nIt can carry prey such as an Exeggcute\nto its nest over 60 miles away.",
@@ -1895,9 +2143,9 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "C",
-                    "C",
-                    "C"
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
                 ],
                 "name": "Scattering Cyclone",
                 "attack": "80+",
@@ -1907,7 +2155,11 @@
         "weakness": "Lightning",
         "retreat": "1",
         "artist": "PLANETA CG Works",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "59",
         "rarity": "◊◊◊◊"
     },
@@ -1922,9 +2174,9 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "C",
-                    "C",
-                    "C"
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
                 ],
                 "name": "Fighting Tackle",
                 "attack": "40+",
@@ -1934,7 +2186,11 @@
         "weakness": "Fighting",
         "retreat": "2",
         "artist": "KEIICHIRO ITO",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "60",
         "rarity": "◊◊◊",
         "description": "When Tauros begins whipping itself with its tails,\nit’s a warning that the Pokémon is about to\ncharge with astounding speed.",
@@ -1956,7 +2212,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "C"
+                    "Colorless"
                 ],
                 "name": "ontinuous Steps",
                 "attack": "20x",
@@ -1966,7 +2222,11 @@
         "weakness": "Fighting",
         "retreat": "1",
         "artist": "Hitoshi Ariga",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "61",
         "rarity": "◊",
         "description": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment.",
@@ -1988,7 +2248,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "C"
+                    "Colorless"
                 ],
                 "name": "Mimic",
                 "attack": "",
@@ -1998,7 +2258,11 @@
         "weakness": "Lightning",
         "retreat": "1",
         "artist": "Masako Tomii",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "62",
         "rarity": "◊",
         "description": "It mimics the cries of other Pokémon to trick them\ninto thinking it’s one of them. This way they won’t\nattack it.",
@@ -2016,7 +2280,11 @@
         "category": "Item",
         "effect": "Play this card as if it were a 40-HP Basic [C] Pokémon.At any time during your turn, you may discard this card from play.This card can't retreat.",
         "artist": "Toyste Beach",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "63",
         "rarity": "◊"
     },
@@ -2027,7 +2295,11 @@
         "category": "Item",
         "effect": "Put a Basic Pokémon from your opponent's discard pile onto their Bench.",
         "artist": "Toyste Beach",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "64",
         "rarity": "◊◊"
     },
@@ -2038,7 +2310,11 @@
         "category": "Item",
         "effect": "Look at the top card of your deck. If that card is a [P] Pokémon, put it into your hand. If it is not a [P] Pokémon, put it on the bottom of your deck.",
         "artist": "AYUMI ODASHIMA",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "65",
         "rarity": "◊◊"
     },
@@ -2049,7 +2325,11 @@
         "category": "Supporter",
         "effect": "Put your Mew ex in the Active Spot into your hand.",
         "artist": "Yuu Nishida",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "66",
         "rarity": "◊◊"
     },
@@ -2060,7 +2340,11 @@
         "category": "Supporter",
         "effect": "During your opponent's next turn, all of your Pokémon take −10 damage from attacks from your opponent's Pokémon.",
         "artist": "Ryuta Fuse",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "67",
         "rarity": "◊◊"
     },
@@ -2071,7 +2355,11 @@
         "category": "Supporter",
         "effect": "During this turn, the Retreat Cost of your Active Pokémon is 2 less.",
         "artist": "En Morikura",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "68",
         "rarity": "◊◊"
     },
@@ -2086,10 +2374,10 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "G",
-                    "C",
-                    "C",
-                    "C"
+                    "Grass",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
                 ],
                 "name": "Psychic",
                 "attack": "80+",
@@ -2099,7 +2387,11 @@
         "weakness": "Fire",
         "retreat": "3",
         "artist": "Gapao",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "69",
         "rarity": "☆",
         "description": "Each of Exeggutor’s three heads is thinking\ndifferent thoughts. The three don’t seem to be\nvery interested in one another.",
@@ -2118,13 +2410,17 @@
         "hp": "110",
         "category": "Stage 2",
         "evolvesfrom": "Servine",
+        "ability": {
+            "title": "Jungle Totem",
+            "effect": "Each [G] Energy attached to your [G] Pokémon provides 2 [G] Energy. This effect doesn't stack."
+        },
         "attacks": [
             {
                 "energy_cost": [
-                    "G",
-                    "C",
-                    "C",
-                    "C"
+                    "Grass",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
                 ],
                 "name": "Solar Beam",
                 "attack": "70",
@@ -2134,7 +2430,11 @@
         "weakness": "Fire",
         "retreat": "2",
         "artist": "rika",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "70",
         "rarity": "☆",
         "description": "It only gives its all against strong opponents who\nare not fazed by the glare from Serperior’s\nnoble eyes.",
@@ -2156,7 +2456,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "C"
+                    "Colorless"
                 ],
                 "name": "Venoshock",
                 "attack": "10+",
@@ -2166,7 +2466,11 @@
         "weakness": "Water",
         "retreat": "1",
         "artist": "Nurikabe",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "71",
         "rarity": "☆",
         "description": "It taunts its prey and lures them into narrow,\nrocky areas where it then sprays them with toxic\ngas to make them dizzy and take them down.",
@@ -2185,12 +2489,16 @@
         "hp": "120",
         "category": "Stage 1",
         "evolvesfrom": "Eevee",
+        "ability": {
+            "title": "Wash Out",
+            "effect": "As often as you like during your turn, you may move a [W] Energy from 1 of your Benched [W] Pokémon to your Active [W] Pokémon."
+        },
         "attacks": [
             {
                 "energy_cost": [
-                    "W",
-                    "C",
-                    "C"
+                    "Water",
+                    "Colorless",
+                    "Colorless"
                 ],
                 "name": "Wave Splash",
                 "attack": "60",
@@ -2200,7 +2508,11 @@
         "weakness": "Lightning",
         "retreat": "2",
         "artist": "aspara",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "72",
         "rarity": "☆",
         "description": "It lives close to water. Its long tail is ridged with\na fin, which is often mistaken for a mermaid’s.",
@@ -2222,7 +2534,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "L"
+                    "Lightning"
                 ],
                 "name": "Thunder Shock",
                 "attack": "10",
@@ -2232,7 +2544,11 @@
         "weakness": "Fighting",
         "retreat": "1",
         "artist": "Yuu Nishida",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "73",
         "rarity": "☆",
         "description": "It’s small and its electricity-generating organ is\nnot fully developed, so it uses its tail to absorb\nelectricity from people’s homes and charge itself.",
@@ -2254,8 +2570,8 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "F",
-                    "C"
+                    "Fighting",
+                    "Colorless"
                 ],
                 "name": "Revenge",
                 "attack": "40+",
@@ -2265,7 +2581,11 @@
         "weakness": "Psychic",
         "retreat": "1",
         "artist": "OKACHEKE",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "74",
         "rarity": "☆",
         "description": "It slips into the shadows of others and mimics\ntheir powers and movements. As it improves, it\nbecomes stronger than those it’s imitating.",
@@ -2287,8 +2607,8 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "G",
-                    "C"
+                    "Grass",
+                    "Colorless"
                 ],
                 "name": "Powerful Bloom",
                 "attack": "50x",
@@ -2298,7 +2618,11 @@
         "weakness": "Fire",
         "retreat": "1",
         "artist": "PLANETA CG Works",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "75",
         "rarity": "☆☆"
     },
@@ -2313,10 +2637,10 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "W",
-                    "W",
-                    "W",
-                    "C"
+                    "Water",
+                    "Water",
+                    "Water",
+                    "Colorless"
                 ],
                 "name": "Rampaging Whirlpool",
                 "attack": "140",
@@ -2326,7 +2650,11 @@
         "weakness": "Lightning",
         "retreat": "3",
         "artist": "PLANETA CG Works",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "76",
         "rarity": "☆☆"
     },
@@ -2341,7 +2669,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "P"
+                    "Psychic"
                 ],
                 "name": "syshot",
                 "attack": "20",
@@ -2349,9 +2677,9 @@
             },
             {
                 "energy_cost": [
-                    "C",
-                    "C",
-                    "C"
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
                 ],
                 "name": "Genome Hacking",
                 "attack": "",
@@ -2361,7 +2689,11 @@
         "weakness": "Darkness",
         "retreat": "1",
         "artist": "PLANETA CG Works",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "77",
         "rarity": "☆☆"
     },
@@ -2373,11 +2705,15 @@
         "hp": "140",
         "category": "Stage 1",
         "evolvesfrom": "",
+        "ability": {
+            "title": "Primeval Law",
+            "effect": "Your opponent can't play any Pokémon from their hand to evolve their Active Pokémon."
+        },
         "attacks": [
             {
                 "energy_cost": [
-                    "F",
-                    "C"
+                    "Fighting",
+                    "Colorless"
                 ],
                 "name": "Land Crush",
                 "attack": "80",
@@ -2387,7 +2723,11 @@
         "weakness": "Lightning",
         "retreat": "1",
         "artist": "PLANETA CG Works",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "78",
         "rarity": "☆☆"
     },
@@ -2402,9 +2742,9 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "C",
-                    "C",
-                    "C"
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
                 ],
                 "name": "Scattering Cyclone",
                 "attack": "80+",
@@ -2414,7 +2754,11 @@
         "weakness": "Lightning",
         "retreat": "1",
         "artist": "PLANETA CG Works",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "79",
         "rarity": "☆☆"
     },
@@ -2425,7 +2769,11 @@
         "category": "Supporter",
         "effect": "Put your Mew ex in the Active Spot into your hand.",
         "artist": "Yuu Nishida",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "80",
         "rarity": "☆☆"
     },
@@ -2436,7 +2784,11 @@
         "category": "Supporter",
         "effect": "During your opponent's next turn, all of your Pokémon take −10 damage from attacks from your opponent's Pokémon.",
         "artist": "Ryuta Fuse",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "81",
         "rarity": "☆☆"
     },
@@ -2447,7 +2799,11 @@
         "category": "Supporter",
         "effect": "During this turn, the Retreat Cost of your Active Pokémon is 2 less.",
         "artist": "En Morikura",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "82",
         "rarity": "☆☆"
     },
@@ -2462,7 +2818,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "P"
+                    "Psychic"
                 ],
                 "name": "syshot",
                 "attack": "20",
@@ -2470,9 +2826,9 @@
             },
             {
                 "energy_cost": [
-                    "C",
-                    "C",
-                    "C"
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
                 ],
                 "name": "Genome Hacking",
                 "attack": "",
@@ -2482,7 +2838,11 @@
         "weakness": "Darkness",
         "retreat": "1",
         "artist": "HYOGONOSUKE",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "83",
         "rarity": "☆☆"
     },
@@ -2494,11 +2854,15 @@
         "hp": "140",
         "category": "Stage 1",
         "evolvesfrom": "",
+        "ability": {
+            "title": "Primeval Law",
+            "effect": "Your opponent can't play any Pokémon from their hand to evolve their Active Pokémon."
+        },
         "attacks": [
             {
                 "energy_cost": [
-                    "F",
-                    "C"
+                    "Fighting",
+                    "Colorless"
                 ],
                 "name": "Land Crush",
                 "attack": "80",
@@ -2508,7 +2872,11 @@
         "weakness": "Lightning",
         "retreat": "1",
         "artist": "danciao",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "84",
         "rarity": "☆☆"
     },
@@ -2523,8 +2891,8 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "G",
-                    "C"
+                    "Grass",
+                    "Colorless"
                 ],
                 "name": "Powerful Bloom",
                 "attack": "50x",
@@ -2534,7 +2902,11 @@
         "weakness": "Fire",
         "retreat": "1",
         "artist": "kantaro",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "85",
         "rarity": "☆☆☆"
     },
@@ -2549,7 +2921,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "P"
+                    "Psychic"
                 ],
                 "name": "syshot",
                 "attack": "20",
@@ -2557,9 +2929,9 @@
             },
             {
                 "energy_cost": [
-                    "C",
-                    "C",
-                    "C"
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
                 ],
                 "name": "Genome Hacking",
                 "attack": "",
@@ -2569,7 +2941,11 @@
         "weakness": "Darkness",
         "retreat": "1",
         "artist": "PLANETA CG Works",
-        "set": "Mythical Island  (A1a)",
+        "set": {
+            "name": "Mythical Island",
+            "code": "A1a",
+            "pack": "Mew"
+        },
         "id": "86",
         "rarity": "Crown Rare"
     }
