@@ -62,15 +62,15 @@ def scrape_card(set_code, card_number):
         # Attacks
         attacks = []
         for attack in soup.select(".card-text-attack"):
-            attack_info = attack.select_one(".card-text-attack-info")
+            attack_info = attack.select_one('.card-text-attack-info').find_all(string=True, recursive=False)
             attack_effect = attack.select_one(".card-text-attack-effect")
-            energy_symbols = attack_info.select_one(".ptcg-symbol")
+            energy_symbols = attack.select_one(".card-text-attack-info .ptcg-symbol")
             energy_cost = translate_energy_symbols(energy_symbols.text.strip()) if energy_symbols else []
-            
+
             attack_name = ""
             attack_power = ""
             if attack_info:
-                attack_text = attack_info.text.strip().replace(energy_symbols.text.strip(), "").strip()
+                attack_text = ''.join(attack_info).strip()
                 match = re.search(r"(.*?)(\d+[+x]*)$", attack_text)
                 if match:
                     attack_name = match.group(1).strip()
@@ -168,4 +168,7 @@ def translate_energy_symbols(symbols):
 
 
 # Example usage
+# A1: 286
+# A2: 207
+# A1a: 86
 scrape_set("A1a", init_card=1, max_cards=86)
