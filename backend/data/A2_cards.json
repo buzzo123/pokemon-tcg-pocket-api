@@ -598,7 +598,7 @@
                 "energy_cost": [
                     "Colorless"
                 ],
-                "name": "all for Family",
+                "name": "Call for Family",
                 "attack": "",
                 "effect": "Put 1 random  from your deck onto your Bench."
             }
@@ -1385,7 +1385,7 @@
                 "energy_cost": [
                     "Water"
                 ],
-                "name": "ater Gun",
+                "name": "Water Gun",
                 "attack": "20",
                 "effect": ""
             }
@@ -1568,7 +1568,7 @@
                 "energy_cost": [
                     "Water"
                 ],
-                "name": "aterfall",
+                "name": "Waterfall",
                 "attack": "50",
                 "effect": ""
             }
@@ -1716,7 +1716,7 @@
                 "energy_cost": [
                     "Water"
                 ],
-                "name": "ave Splash",
+                "name": "Wave Splash",
                 "attack": "30",
                 "effect": ""
             }
@@ -2298,7 +2298,7 @@
                 "energy_cost": [
                     "Psychic"
                 ],
-                "name": "ound",
+                "name": "Pound",
                 "attack": "20",
                 "effect": ""
             }
@@ -2808,7 +2808,7 @@
                 "energy_cost": [
                     "Psychic"
                 ],
-                "name": "sychic Arrow",
+                "name": "Psychic Arrow",
                 "attack": "",
                 "effect": "This attack does 20 damage to 1 of your opponent's Pokémon."
             }
@@ -3593,7 +3593,7 @@
                 "energy_cost": [
                     "Darkness"
                 ],
-                "name": "ouble Scratch",
+                "name": "Double Scratch",
                 "attack": "20x",
                 "effect": "Flip 2 coins. This attack does 20 damage for each heads."
             }
@@ -4062,7 +4062,7 @@
                 "energy_cost": [
                     "Metal"
                 ],
-                "name": "etal Arms",
+                "name": "Metal Arms",
                 "attack": "20+",
                 "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 30 more damage."
             }
@@ -5509,7 +5509,7 @@
                 "energy_cost": [
                     "Colorless"
                 ],
-                "name": "all for Family",
+                "name": "Call for Family",
                 "attack": "",
                 "effect": "Put 1 random  from your deck onto your Bench."
             }

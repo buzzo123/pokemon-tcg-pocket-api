@@ -1935,7 +1935,7 @@
                 "energy_cost": [
                     "Water"
                 ],
-                "name": "ater Gun",
+                "name": "Water Gun",
                 "attack": "20",
                 "effect": ""
             }
@@ -2575,7 +2575,7 @@
                 "energy_cost": [
                     "Water"
                 ],
-                "name": "ater Gun",
+                "name": "Water Gun",
                 "attack": "20",
                 "effect": ""
             }
@@ -2757,7 +2757,7 @@
                 "energy_cost": [
                     "Water"
                 ],
-                "name": "ave Splash",
+                "name": "Wave Splash",
                 "attack": "40",
                 "effect": ""
             }
@@ -2972,7 +2972,7 @@
                 "energy_cost": [
                     "Water"
                 ],
-                "name": "ater Gun",
+                "name": "Water Gun",
                 "attack": "40",
                 "effect": ""
             }
@@ -3562,7 +3562,7 @@
                 "energy_cost": [
                     "Lightning"
                 ],
-                "name": "ightning Ball",
+                "name": "Lightning Ball",
                 "attack": "20",
                 "effect": ""
             }
@@ -7549,7 +7549,7 @@
                 "energy_cost": [
                     "Colorless"
                 ],
-                "name": "opy Anything",
+                "name": "Copy Anything",
                 "attack": "",
                 "effect": "Choose 1 of your opponent's Pokémon's attacks and use it as this attack. If this Pokémon doesn't have the necessary Energy to use that attack, this attack does nothing."
             }
@@ -8306,7 +8306,7 @@
                 "energy_cost": [
                     "Water"
                 ],
-                "name": "ater Gun",
+                "name": "Water Gun",
                 "attack": "20",
                 "effect": ""
             }
@@ -8869,7 +8869,7 @@
                 "energy_cost": [
                     "Colorless"
                 ],
-                "name": "opy Anything",
+                "name": "Copy Anything",
                 "attack": "",
                 "effect": "Choose 1 of your opponent's Pokémon's attacks and use it as this attack. If this Pokémon doesn't have the necessary Energy to use that attack, this attack does nothing."
             }
@@ -9028,7 +9028,6 @@
             },
             {
                 "energy_cost": [
-                    "Grass",
                     "Grass",
                     "Colorless",
                     "Colorless"
@@ -9998,7 +9997,7 @@
                 "energy_cost": [
                     "Psychic"
                 ],
-                "name": "sy Report",
+                "name": "Psy Report",
                 "attack": "20",
                 "effect": "Your opponent reveals their hand."
             }

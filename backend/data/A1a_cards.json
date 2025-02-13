@@ -710,7 +710,7 @@
                 "energy_cost": [
                     "Water"
                 ],
-                "name": "ater Gun",
+                "name": "Water Gun",
                 "attack": "20",
                 "effect": ""
             }
@@ -1116,7 +1116,7 @@
                 "energy_cost": [
                     "Psychic"
                 ],
-                "name": "sy Report",
+                "name": "Psy Report",
                 "attack": "20",
                 "effect": "Your opponent reveals their hand."
             }
@@ -1152,7 +1152,7 @@
                 "energy_cost": [
                     "Psychic"
                 ],
-                "name": "syshot",
+                "name": "Psyshot",
                 "attack": "20",
                 "effect": ""
             },
@@ -1481,7 +1481,7 @@
                 "energy_cost": [
                     "Fighting"
                 ],
-                "name": "ocus ist",
+                "name": "Focus Fist",
                 "attack": "50",
                 "effect": "Flip a coin. If tails, this attack does nothing."
             }
@@ -1775,7 +1775,7 @@
                 "energy_cost": [
                     "Darkness"
                 ],
-                "name": "ivision",
+                "name": "Division",
                 "attack": "",
                 "effect": "Put 1 random Koffing from your deck onto your Bench."
             }
@@ -2214,7 +2214,7 @@
                 "energy_cost": [
                     "Colorless"
                 ],
-                "name": "ontinuous Steps",
+                "name": "Continuous Steps",
                 "attack": "20x",
                 "effect": "Flip a coin until you get tails. This attack does 20 damage for each heads."
             }
@@ -2671,7 +2671,7 @@
                 "energy_cost": [
                     "Psychic"
                 ],
-                "name": "syshot",
+                "name": "Psyshot",
                 "attack": "20",
                 "effect": ""
             },
@@ -2820,7 +2820,7 @@
                 "energy_cost": [
                     "Psychic"
                 ],
-                "name": "syshot",
+                "name": "Psyshot",
                 "attack": "20",
                 "effect": ""
             },
@@ -2923,7 +2923,7 @@
                 "energy_cost": [
                     "Psychic"
                 ],
-                "name": "syshot",
+                "name": "Psyshot",
                 "attack": "20",
                 "effect": ""
             },
