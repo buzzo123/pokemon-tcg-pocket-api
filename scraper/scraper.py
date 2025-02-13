@@ -131,8 +131,11 @@ def scrape_card(set_code, card_number):
     if card_num_tag:
         num_parts = card_num_tag.text.strip().split(" · ")
         card_data["id"] = num_parts[0].replace("#", "").strip()
-        card_data["rarity"] = num_parts[1].strip() if len(num_parts) > 1 else ""
-        card_data["set"]["pack"] = num_parts[2].replace("pack", "").strip() if len(num_parts) > 2 else ""
+        if set_code == "P-A":
+            card_data["set"]["pack"] = num_parts[1].replace("pack", "").strip() if len(num_parts) > 1 else ""
+        else:
+            card_data["rarity"] = num_parts[1].strip() if len(num_parts) > 1 else ""
+            card_data["set"]["pack"] = num_parts[2].replace("pack", "").strip() if len(num_parts) > 2 else ""
     
     return card_data
 
@@ -171,4 +174,5 @@ def translate_energy_symbols(symbols):
 # A1: 286
 # A2: 207
 # A1a: 86
-scrape_set("A1a", init_card=1, max_cards=86)
+# P-A: 41 (13/02/2025)
+scrape_set("P-A", init_card=1, max_cards=41)

@@ -6,9 +6,12 @@
         "category": "Item",
         "effect": "Heal 20 damage from 1 of your Pokémon.",
         "artist": "5ban Graphics",
-        "set": "Promo-A",
-        "id": "1",
-        "rarity": "Shop"
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Shop"
+        },
+        "id": "1"
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_002_EN.webp",
@@ -17,9 +20,12 @@
         "category": "Item",
         "effect": "During this turn, the Retreat Cost of your Active Pokémon is 1 less.",
         "artist": "Toyste Beach",
-        "set": "Promo-A",
-        "id": "2",
-        "rarity": "Shop"
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Shop"
+        },
+        "id": "2"
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_003_EN.webp",
@@ -28,9 +34,12 @@
         "category": "Item",
         "effect": "Your opponent reveals their hand.",
         "artist": "Toyste Beach",
-        "set": "Promo-A",
-        "id": "3",
-        "rarity": "Shop"
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Shop"
+        },
+        "id": "3"
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_004_EN.webp",
@@ -39,9 +48,12 @@
         "category": "Item",
         "effect": "Look at the top 3 cards of your deck.",
         "artist": "Ryo Ueda",
-        "set": "Promo-A",
-        "id": "4",
-        "rarity": "Shop"
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Shop"
+        },
+        "id": "4"
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_005_EN.webp",
@@ -50,9 +62,12 @@
         "category": "Item",
         "effect": "Put 1 random Basic Pokemon from your deck into your hand.",
         "artist": "Ryo Ueda",
-        "set": "Promo-A",
-        "id": "5",
-        "rarity": "Shop"
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Shop"
+        },
+        "id": "5"
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_006_EN.webp",
@@ -61,9 +76,12 @@
         "category": "Item",
         "effect": "Your opponent shuffles their hand into their deck and draws 3 cards.",
         "artist": "5ban Graphics",
-        "set": "Promo-A",
-        "id": "6",
-        "rarity": "Shop"
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Shop"
+        },
+        "id": "6"
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_007_EN.webp",
@@ -72,9 +90,12 @@
         "category": "Supporter",
         "effect": "Draw 2 cards.",
         "artist": "Naoki Saito",
-        "set": "Promo-A",
-        "id": "7",
-        "rarity": "Shop"
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Shop"
+        },
+        "id": "7"
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_008_EN.webp",
@@ -83,9 +104,12 @@
         "category": "Item",
         "effect": "Look at the top 3 cards of your deck.",
         "artist": "Yuu Nishida",
-        "set": "Promo-A",
-        "id": "8",
-        "rarity": "Campaign"
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Campaign"
+        },
+        "id": "8"
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_009_EN.webp",
@@ -98,7 +122,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "L"
+                    "Lightning"
                 ],
                 "name": "Gnaw",
                 "attack": "20",
@@ -108,9 +132,12 @@
         "weakness": "Fighting",
         "retreat": "1",
         "artist": "Atsushi Furusawa",
-        "set": "Promo-A",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Premium Missions"
+        },
         "id": "9",
-        "rarity": "Premium Missions",
         "description": "When it is angered, it immediately discharges the\nenergy stored in the pouches in its cheeks.",
         "info": {
             "national_pokedex": "0025",
@@ -130,10 +157,10 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "P",
-                    "P",
-                    "C",
-                    "C"
+                    "Psychic",
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
                 ],
                 "name": "Power Blast",
                 "attack": "120",
@@ -143,9 +170,12 @@
         "weakness": "Darkness",
         "retreat": "2",
         "artist": "Krgc",
-        "set": "Promo-A",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Premium Missions"
+        },
         "id": "10",
-        "rarity": "Premium Missions",
         "description": "It was created by a scientist after years of horrific\ngene-splicing and DNA-engineering experiments.",
         "info": {
             "national_pokedex": "0150",
@@ -165,9 +195,9 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "C",
-                    "C",
-                    "C"
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
                 ],
                 "name": "Gentle Slap",
                 "attack": "60",
@@ -177,9 +207,12 @@
         "weakness": "Fighting",
         "retreat": "3",
         "artist": "sowsow",
-        "set": "Promo-A",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Wonder Pick"
+        },
         "id": "11",
-        "rarity": "Wonder Pick",
         "description": "This kindly Pokémon lays highly nutritious eggs\nand shares them with injured Pokémon or people.",
         "info": {
             "national_pokedex": "0113",
@@ -199,7 +232,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "C"
+                    "Colorless"
                 ],
                 "name": "Pay Day",
                 "attack": "10",
@@ -209,9 +242,12 @@
         "weakness": "Fighting",
         "retreat": "1",
         "artist": "Shigenori Negishi",
-        "set": "Promo-A",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Wonder Pick"
+        },
         "id": "12",
-        "rarity": "Wonder Pick",
         "description": "All it does is sleep during the daytime. At night,\nit patrols its territory with its eyes aglow.",
         "info": {
             "national_pokedex": "0052",
@@ -228,12 +264,16 @@
         "hp": "120",
         "category": "Stage 2",
         "evolvesfrom": "Metapod",
+        "ability": {
+            "title": "Powder Heal",
+            "effect": "Once during your turn, you may heal 20 damage from each of your Pokémon."
+        },
         "attacks": [
             {
                 "energy_cost": [
-                    "G",
-                    "C",
-                    "C"
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
                 ],
                 "name": "Gust",
                 "attack": "60",
@@ -243,9 +283,12 @@
         "weakness": "Fire",
         "retreat": "1",
         "artist": "miki kudo",
-        "set": "Promo-A",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
         "id": "13",
-        "rarity": "Promo pack",
         "description": "In battle, it flaps its wings at great speed to\nrelease highly toxic dust into the air.",
         "info": {
             "national_pokedex": "0012",
@@ -265,9 +308,9 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "W",
-                    "W",
-                    "C"
+                    "Water",
+                    "Water",
+                    "Colorless"
                 ],
                 "name": "Bubble Drain",
                 "attack": "80",
@@ -277,9 +320,12 @@
         "weakness": "Lightning",
         "retreat": "3",
         "artist": "PLANETA CG Works",
-        "set": "Promo-A",
-        "id": "14",
-        "rarity": "Promo pack"
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
+        "id": "14"
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_015_EN.webp",
@@ -292,7 +338,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "L"
+                    "Lightning"
                 ],
                 "name": "Gnaw",
                 "attack": "20",
@@ -302,9 +348,12 @@
         "weakness": "Fighting",
         "retreat": "1",
         "artist": "Kouki Saitou",
-        "set": "Promo-A",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
         "id": "15",
-        "rarity": "Promo pack",
         "description": "When it is angered, it immediately discharges the\nenergy stored in the pouches in its cheeks.",
         "info": {
             "national_pokedex": "0025",
@@ -324,7 +373,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "P"
+                    "Psychic"
                 ],
                 "name": "Slap",
                 "attack": "20",
@@ -334,9 +383,12 @@
         "weakness": "Metal",
         "retreat": "1",
         "artist": "Shibuzoh.",
-        "set": "Promo-A",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
         "id": "16",
-        "rarity": "Promo pack",
         "description": "It is said that happiness will come to those who\nsee a gathering of Clefairy dancing under a\nfull moon.",
         "info": {
             "national_pokedex": "0035",
@@ -356,7 +408,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "F"
+                    "Fighting"
                 ],
                 "name": "Reckless Charge",
                 "attack": "30",
@@ -366,9 +418,12 @@
         "weakness": "Psychic",
         "retreat": "1",
         "artist": "Souichirou Gunjima",
-        "set": "Promo-A",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
         "id": "17",
-        "rarity": "Promo pack",
         "description": "It lives in groups in the treetops. If it loses sight of\nits group, it becomes infuriated by its loneliness.",
         "info": {
             "national_pokedex": "0056",
@@ -388,10 +443,10 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "G",
-                    "G",
-                    "C",
-                    "C"
+                    "Grass",
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
                 ],
                 "name": "Mega Drain",
                 "attack": "80",
@@ -401,9 +456,12 @@
         "weakness": "Fire",
         "retreat": "3",
         "artist": "Kuroimori",
-        "set": "Promo-A",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
         "id": "18",
-        "rarity": "Promo pack",
         "description": "Its plant blooms when it is absorbing solar\nenergy. It stays on the move to seek sunlight.",
         "info": {
             "national_pokedex": "0003",
@@ -420,11 +478,15 @@
         "hp": "120",
         "category": "Stage 2",
         "evolvesfrom": "Frogadier",
+        "ability": {
+            "title": "Water Shuriken",
+            "effect": "Once during your turn, you may do 20 damage to 1 of your opponent's Pokémon."
+        },
         "attacks": [
             {
                 "energy_cost": [
-                    "W",
-                    "C"
+                    "Water",
+                    "Colorless"
                 ],
                 "name": "Mist Slash",
                 "attack": "60",
@@ -434,9 +496,12 @@
         "weakness": "Lightning",
         "retreat": "1",
         "artist": "Sanosuke Sakuma",
-        "set": "Promo-A",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
         "id": "19",
-        "rarity": "Promo pack",
         "description": "It creates throwing stars out of compressed water. \nWhen it spins them and throws them at high speed, \nthese stars can split metal in two.",
         "info": {
             "national_pokedex": "0658",
@@ -456,7 +521,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "P"
+                    "Psychic"
                 ],
                 "name": "Surprise Attack",
                 "attack": "50",
@@ -466,9 +531,12 @@
         "weakness": "Darkness",
         "retreat": "1",
         "artist": "Mékayu",
-        "set": "Promo-A",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
         "id": "20",
-        "rarity": "Promo pack",
         "description": "It likes to lurk in the dark and tap shoulders\nwith a gaseous hand. Its touch causes endless\nshuddering.",
         "info": {
             "national_pokedex": "0093",
@@ -488,9 +556,9 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "F",
-                    "F",
-                    "F"
+                    "Fighting",
+                    "Fighting",
+                    "Fighting"
                 ],
                 "name": "Land Crush",
                 "attack": "70",
@@ -500,9 +568,12 @@
         "weakness": "Grass",
         "retreat": "4",
         "artist": "Tomokazu Komiya",
-        "set": "Promo-A",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
         "id": "21",
-        "rarity": "Promo pack",
         "description": "As it digs through the ground, it absorbs many\nhard objects. This is what makes its body so solid.",
         "info": {
             "national_pokedex": "0095",
@@ -522,7 +593,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "C"
+                    "Colorless"
                 ],
                 "name": "Sing",
                 "attack": "",
@@ -532,9 +603,12 @@
         "weakness": "Fighting",
         "retreat": "1",
         "artist": "Kurata So",
-        "set": "Promo-A",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
         "id": "22",
-        "rarity": "Promo pack",
         "description": "When its huge eyes waver, it sings a mysteriously\nsoothing melody that lulls its enemies to sleep.",
         "info": {
             "national_pokedex": "0039",
@@ -554,8 +628,8 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "G",
-                    "C"
+                    "Grass",
+                    "Colorless"
                 ],
                 "name": "Vine Whip",
                 "attack": "40",
@@ -565,9 +639,12 @@
         "weakness": "Fire",
         "retreat": "1",
         "artist": "Kouki Saitou",
-        "set": "Promo-A",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Wonder Pick"
+        },
         "id": "23",
-        "rarity": "Wonder Pick",
         "description": "There is a plant seed on its back right from the\nday this Pokémon is born. The seed slowly\ngrows larger.",
         "info": {
             "national_pokedex": "0001",
@@ -587,9 +664,9 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "L"
+                    "Lightning"
                 ],
-                "name": "ightning Ball",
+                "name": "Lightning Ball",
                 "attack": "20",
                 "effect": ""
             }
@@ -597,9 +674,12 @@
         "weakness": "Fighting",
         "retreat": "1",
         "artist": "Miki Tanaka",
-        "set": "Promo-A",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Wonder Pick"
+        },
         "id": "24",
-        "rarity": "Wonder Pick",
         "description": "The electromagnetic waves emitted by the units\nat the sides of its head expel antigravity, which\nallows it to float.",
         "info": {
             "national_pokedex": "0081",
@@ -619,7 +699,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "R"
+                    "Fire"
                 ],
                 "name": "Inferno Dance",
                 "attack": "",
@@ -627,9 +707,9 @@
             },
             {
                 "energy_cost": [
-                    "R",
-                    "C",
-                    "C"
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
                 ],
                 "name": "Heat Blast",
                 "attack": "70",
@@ -639,9 +719,12 @@
         "weakness": "Lightning",
         "retreat": "2",
         "artist": "PLANETA Igarashi",
-        "set": "Promo-A",
-        "id": "25",
-        "rarity": "Premium Missions"
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Premium Missions"
+        },
+        "id": "25"
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_026_EN.webp",
@@ -654,7 +737,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "L"
+                    "Lightning"
                 ],
                 "name": "Gnaw",
                 "attack": "20",
@@ -664,9 +747,12 @@
         "weakness": "Fighting",
         "retreat": "1",
         "artist": "Kouki Saitou",
-        "set": "Promo-A",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Campaign"
+        },
         "id": "26",
-        "rarity": "Campaign",
         "description": "When it is angered, it immediately discharges the\nenergy stored in the pouches in its cheeks.",
         "info": {
             "national_pokedex": "0025",
@@ -686,7 +772,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "G"
+                    "Grass"
                 ],
                 "name": "Tackle",
                 "attack": "20",
@@ -696,9 +782,12 @@
         "weakness": "Fire",
         "retreat": "1",
         "artist": "Yoriyuki Ikegami",
-        "set": "Promo-A",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
         "id": "27",
-        "rarity": "Promo pack",
         "description": "Being exposed to sunlight makes its movements\nswifter. It uses vines more adeptly than its hands.",
         "info": {
             "national_pokedex": "0495",
@@ -718,9 +807,9 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "R",
-                    "R",
-                    "C"
+                    "Fire",
+                    "Fire",
+                    "Colorless"
                 ],
                 "name": "Volcanic Ash",
                 "attack": "",
@@ -730,9 +819,12 @@
         "weakness": "Water",
         "retreat": "2",
         "artist": "Shin Nagasawa",
-        "set": "Promo-A",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
         "id": "28",
-        "rarity": "Promo pack",
         "description": "Its burning body causes it to be unpopular in hot\nparts of the world, but in cold ones, Volcarona is\nrevered as an embodiment of the sun.",
         "info": {
             "national_pokedex": "0637",
@@ -752,9 +844,9 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "W",
-                    "W",
-                    "C"
+                    "Water",
+                    "Water",
+                    "Colorless"
                 ],
                 "name": "Hydro Pump",
                 "attack": "80+",
@@ -764,9 +856,12 @@
         "weakness": "Lightning",
         "retreat": "3",
         "artist": "danciao",
-        "set": "Promo-A",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
         "id": "29",
-        "rarity": "Promo pack",
         "description": "It crushes its foe under its heavy body to cause\nfainting. In a pinch, it will withdraw inside its shell.",
         "info": {
             "national_pokedex": "0009",
@@ -786,7 +881,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "C"
+                    "Colorless"
                 ],
                 "name": "Growl",
                 "attack": "",
@@ -796,9 +891,12 @@
         "weakness": "Fighting",
         "retreat": "1",
         "artist": "En Morikura",
-        "set": "Promo-A",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
         "id": "30",
-        "rarity": "Promo pack",
         "description": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment.",
         "info": {
             "national_pokedex": "0133",
@@ -818,9 +916,9 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "C",
-                    "C",
-                    "C"
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
                 ],
                 "name": "Do the Wave",
                 "attack": "30x",
@@ -830,9 +928,12 @@
         "weakness": "Fighting",
         "retreat": "1",
         "artist": "MAHOU",
-        "set": "Promo-A",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
         "id": "31",
-        "rarity": "Promo pack",
         "description": "Its body secretes oil that this Pokémon spreads\nover its nest as a coating to protect it from dust.\nCinccino won’t tolerate even a speck of the stuff.",
         "info": {
             "national_pokedex": "0573",
@@ -852,7 +953,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "R"
+                    "Fire"
                 ],
                 "name": "Ember",
                 "attack": "30",
@@ -862,9 +963,12 @@
         "weakness": "Water",
         "retreat": "1",
         "artist": "Naoyo Kimura",
-        "set": "Promo-A",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Wonder Pick"
+        },
         "id": "32",
-        "rarity": "Wonder Pick",
         "description": "It has a preference for hot things. When it rains,\nsteam is said to spout from the tip of its tail.",
         "info": {
             "national_pokedex": "0004",
@@ -884,9 +988,9 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "W"
+                    "Water"
                 ],
-                "name": "ater Gun",
+                "name": "Water Gun",
                 "attack": "20",
                 "effect": ""
             }
@@ -894,9 +998,12 @@
         "weakness": "Lightning",
         "retreat": "1",
         "artist": "Kanako Eo",
-        "set": "Promo-A",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Wonder Pick"
+        },
         "id": "33",
-        "rarity": "Wonder Pick",
         "description": "When it retracts its long neck into its shell, it\nsquirts out water with vigorous force.",
         "info": {
             "national_pokedex": "0007",
@@ -916,7 +1023,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "C"
+                    "Colorless"
                 ],
                 "name": "Nap",
                 "attack": "",
@@ -926,9 +1033,12 @@
         "weakness": "Lightning",
         "retreat": "1",
         "artist": "Kariya",
-        "set": "Promo-A",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Premium Missions"
+        },
         "id": "34",
-        "rarity": "Premium Missions",
         "description": "It doesn’t like to be taken care of. It’s difficult to\nbond with since it won’t listen to its Trainer.",
         "info": {
             "national_pokedex": "0393",
@@ -948,8 +1058,8 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "G",
-                    "C"
+                    "Grass",
+                    "Colorless"
                 ],
                 "name": "Bite",
                 "attack": "30",
@@ -959,9 +1069,12 @@
         "weakness": "Fire",
         "retreat": "2",
         "artist": "Atsuko Nishida",
-        "set": "Promo-A",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
         "id": "35",
-        "rarity": "Promo pack",
         "description": "It uses its whole body to photosynthesize when\nexposed to sunlight. Its shell is made from\nhardened soil.",
         "info": {
             "national_pokedex": "0387",
@@ -981,8 +1094,8 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "L",
-                    "L"
+                    "Lightning",
+                    "Lightning"
                 ],
                 "name": "Exciting Voltage",
                 "attack": "40+",
@@ -992,9 +1105,12 @@
         "weakness": "Fighting",
         "retreat": "3",
         "artist": "Sumiyoshi Kizuki",
-        "set": "Promo-A",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
         "id": "36",
-        "rarity": "Promo pack",
         "description": "The amount of electrical energy this Pokémon\nproduces is proportional to the rate of its pulse.\nThe voltage jumps while Electivire is battling.",
         "info": {
             "national_pokedex": "0466",
@@ -1011,12 +1127,16 @@
         "hp": "140",
         "category": "Basic",
         "evolvesfrom": "",
+        "ability": {
+            "title": "Lunar Plumage",
+            "effect": "Whenever you attach a [P] Energy from your Energy Zone to this Pokémon, heal 20 damage from this Pokémon."
+        },
         "attacks": [
             {
                 "energy_cost": [
-                    "P",
-                    "P",
-                    "C"
+                    "Psychic",
+                    "Psychic",
+                    "Colorless"
                 ],
                 "name": "Psychic Flash",
                 "attack": "80",
@@ -1026,9 +1146,12 @@
         "weakness": "Darkness",
         "retreat": "2",
         "artist": "PLANETA Mochizuki",
-        "set": "Promo-A",
-        "id": "37",
-        "rarity": "Promo pack"
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
+        "id": "37"
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_038_EN.webp",
@@ -1041,7 +1164,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "P"
+                    "Psychic"
                 ],
                 "name": "Confuse Ray",
                 "attack": "",
@@ -1051,9 +1174,12 @@
         "weakness": "Darkness",
         "retreat": "1",
         "artist": "Miki Tanaka",
-        "set": "Promo-A",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
         "id": "38",
-        "rarity": "Promo pack",
         "description": "This Pokémon startles people in the middle of\nthe night. It gathers fear as its energy.",
         "info": {
             "national_pokedex": "0200",
@@ -1073,9 +1199,9 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "M"
+                    "Metal"
                 ],
-                "name": "etal Arms",
+                "name": "Metal Arms",
                 "attack": "20+",
                 "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 30 more damage."
             }
@@ -1083,9 +1209,12 @@
         "weakness": "Lightning",
         "retreat": "1",
         "artist": "Anesaki Dynamic",
-        "set": "Promo-A",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
         "id": "39",
-        "rarity": "Promo pack",
         "description": "People fashion swords from Skarmory’s shed\nfeathers, so this Pokémon is a popular element\nin heraldic designs.",
         "info": {
             "national_pokedex": "0227",
@@ -1105,7 +1234,7 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "R"
+                    "Fire"
                 ],
                 "name": "Scratch",
                 "attack": "20",
@@ -1115,9 +1244,12 @@
         "weakness": "Water",
         "retreat": "1",
         "artist": "sui",
-        "set": "Promo-A",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Wonder Pick"
+        },
         "id": "40",
-        "rarity": "Wonder Pick",
         "description": "Its fiery rear end is fueled by gas made in its belly.\nEven rain can’t extinguish the fire.",
         "info": {
             "national_pokedex": "0390",
@@ -1137,9 +1269,9 @@
         "attacks": [
             {
                 "energy_cost": [
-                    "P"
+                    "Psychic"
                 ],
-                "name": "ound",
+                "name": "Pound",
                 "attack": "20",
                 "effect": ""
             }
@@ -1147,9 +1279,12 @@
         "weakness": "Metal",
         "retreat": "1",
         "artist": "Naoyo Kimura",
-        "set": "Promo-A",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Wonder Pick"
+        },
         "id": "41",
-        "rarity": "Wonder Pick",
         "description": "The shell seems to be filled with joy. It is said\nthat it will share good luck when treated kindly.",
         "info": {
             "national_pokedex": "0175",
