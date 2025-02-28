@@ -33,7 +33,7 @@ def scrape_pokemon_details(set, pokemon_id, name):
 
 
 
-set_code = "A1a"
+set_code = "A2a"
 
 with open(f"../backend/data/{set_code}_cards.json", "r", encoding="utf-8") as file:
     card_list = json.load(file)

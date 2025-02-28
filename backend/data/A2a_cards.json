@@ -1,0 +1,3378 @@
+[
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_001_EN.webp",
+        "type": "Pokémon",
+        "name": "Heracross",
+        "energy": "Grass",
+        "hp": "100",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Single-Horn Throw",
+                "attack": "50+",
+                "effect": "Flip 2 coins. If both of them are heads, this attack does 70 more damage."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "2",
+        "artist": "Satoshi Shirai",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "1",
+        "rarity": "◊◊",
+        "description": "It loves sweet nectar. To keep all the nectar to\nitself, it hurls rivals away with its prized horn.",
+        "info": {
+            "national_pokedex": "0214",
+            "species": "Single Horn Pokémon",
+            "height": "1.5 m / 4'11\"",
+            "weight": "54.0 kg / 119.0 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_002_EN.webp",
+        "type": "Pokémon",
+        "name": "Burmy",
+        "energy": "Grass",
+        "hp": "50",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Grass"
+                ],
+                "name": "Ram",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "miki kudo",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "2",
+        "rarity": "◊",
+        "description": "To shelter itself from cold, wintry winds, it covers\nitself with a cloak made of twigs and leaves.",
+        "info": {
+            "national_pokedex": "0412",
+            "species": "Bagworm Pokémon",
+            "height": "0.2 m / 0'08\"",
+            "weight": "3.4 kg / 7.5 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_003_EN.webp",
+        "type": "Pokémon",
+        "name": "Mothim",
+        "energy": "Grass",
+        "hp": "90",
+        "category": "Stage 1",
+        "evolvesfrom": "Burmy",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Gust",
+                "attack": "50",
+                "effect": ""
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "0",
+        "artist": "MAHOU",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "3",
+        "rarity": "◊◊",
+        "description": "It loves the honey of flowers and steals honey\ncollected by Combee.",
+        "info": {
+            "national_pokedex": "0414",
+            "species": "Moth Pokémon",
+            "height": "0.9 m / 2'11\"",
+            "weight": "23.3 kg / 51.4 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_004_EN.webp",
+        "type": "Pokémon",
+        "name": "Combee",
+        "energy": "Grass",
+        "hp": "50",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Grass"
+                ],
+                "name": "Bug Bite",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "Akira Komayama",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "4",
+        "rarity": "◊",
+        "description": "At night, Combee sleep in a group of about a\nhundred, packed closely together in a lump.",
+        "info": {
+            "national_pokedex": "0415",
+            "species": "Tiny Bee Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "5.5 kg / 12.1 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_005_EN.webp",
+        "type": "Pokémon",
+        "name": "Vespiquen",
+        "energy": "Grass",
+        "hp": "100",
+        "category": "Stage 1",
+        "evolvesfrom": "Combee",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Grass",
+                    "Grass",
+                    "Grass"
+                ],
+                "name": "Reckless Charge",
+                "attack": "120",
+                "effect": "This Pokémon also does 30 damage to itself."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "2",
+        "artist": "kawayoo",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "5",
+        "rarity": "◊◊",
+        "description": "It houses its colony in cells in its body and\nreleases various pheromones to make those\ngrubs do its bidding.",
+        "info": {
+            "national_pokedex": "0416",
+            "species": "Beehive Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "38.5 kg / 84.9 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_006_EN.webp",
+        "type": "Pokémon",
+        "name": "Cherubi",
+        "energy": "Grass",
+        "hp": "50",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Grass"
+                ],
+                "name": "Leafage",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "Atsuko Nishida",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "6",
+        "rarity": "◊",
+        "description": "It nimbly dashes about to avoid getting pecked\nby bird Pokémon that would love to make off\nwith its small, nutrient-rich storage ball.",
+        "info": {
+            "national_pokedex": "0420",
+            "species": "Cherry Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "3.3 kg / 7.3 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_007_EN.webp",
+        "type": "Pokémon",
+        "name": "Cherrim",
+        "energy": "Grass",
+        "hp": "80",
+        "category": "Stage 1",
+        "evolvesfrom": "Cherubi",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Grass"
+                ],
+                "name": "Worry Seed",
+                "attack": "40",
+                "effect": "Your opponent's Active Pokémon is now Confused."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "Midori Harada",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "7",
+        "rarity": "◊◊",
+        "description": "As a bud, it barely moves. It sits still, placidly\nwaiting for sunlight to appear.",
+        "info": {
+            "national_pokedex": "0421",
+            "species": "Blossom Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "9.3 kg / 20.5 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_008_EN.webp",
+        "type": "Pokémon",
+        "name": "Cherrim",
+        "energy": "Grass",
+        "hp": "80",
+        "category": "Stage 1",
+        "evolvesfrom": "Cherubi",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Grass",
+                    "Grass"
+                ],
+                "name": "Leech Seed",
+                "attack": "60",
+                "effect": "Heal 20 damage from this Pokémon."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "Kagemaru Himeno",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "8",
+        "rarity": "◊◊",
+        "description": "After absorbing plenty of sunlight, Cherrim takes\nthis form. It’s full of energy while it’s like this,\nand its liveliness will go on until sundown.",
+        "info": {
+            "national_pokedex": "0421",
+            "species": "Blossom Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "9.3 kg / 20.5 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_009_EN.webp",
+        "type": "Pokémon",
+        "name": "Carnivine",
+        "energy": "Grass",
+        "hp": "80",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "ability": {
+            "title": "Power Link",
+            "effect": "If you have Arceus or Arceus ex in play, attacks used by this Pokémon do +30 damage to your opponent's Active Pokémon."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Grass"
+                ],
+                "name": "Vine Whip",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "Shiburingaru",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "9",
+        "rarity": "◊◊◊",
+        "description": "It attracts prey with its sweet-smelling saliva, then\nchomps down. It takes a whole day to eat prey.",
+        "info": {
+            "national_pokedex": "0455",
+            "species": "Bug Catcher Pokémon",
+            "height": "1.4 m / 4'07\"",
+            "weight": "27.0 kg / 59.5 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_010_EN.webp",
+        "type": "Pokémon",
+        "name": "Leafeon ex",
+        "energy": "Grass",
+        "hp": "140",
+        "category": "Stage 1",
+        "evolvesfrom": "Eevee",
+        "ability": {
+            "title": "Forest Breath",
+            "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may take a [G] Energy from your Energy Zone and attach it to 1 of your [G] Pokémon."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Solar Beam",
+                "attack": "70",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "PLANETA CG Works",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "10",
+        "rarity": "◊◊◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_011_EN.webp",
+        "type": "Pokémon",
+        "name": "Houndour",
+        "energy": "Fire",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fire"
+                ],
+                "name": "Flare",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Water",
+        "retreat": "1",
+        "artist": "Kouki Saitou",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "11",
+        "rarity": "◊",
+        "description": "It is smart enough to hunt in packs. It uses a\nvariety of cries for communicating with others.",
+        "info": {
+            "national_pokedex": "0228",
+            "species": "Dark Pokémon",
+            "height": "0.6 m / 2'00\"",
+            "weight": "10.8 kg / 23.8 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_012_EN.webp",
+        "type": "Pokémon",
+        "name": "Houndoom",
+        "energy": "Fire",
+        "hp": "100",
+        "category": "Stage 1",
+        "evolvesfrom": "Houndour",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Corner",
+                "attack": "60",
+                "effect": "During your opponent's next turn, the Defending Pokémon can't retreat."
+            }
+        ],
+        "weakness": "Water",
+        "retreat": "2",
+        "artist": "Hajime Kusajima",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "12",
+        "rarity": "◊◊",
+        "description": "If you are burned by the flames it shoots from its\nmouth, the pain will never go away.",
+        "info": {
+            "national_pokedex": "0229",
+            "species": "Dark Pokémon",
+            "height": "1.4 m / 4'07\"",
+            "weight": "35.0 kg / 77.2 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_013_EN.webp",
+        "type": "Pokémon",
+        "name": "Heatran",
+        "energy": "Fire",
+        "hp": "110",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "ability": {
+            "title": "Speed Link",
+            "effect": "If you have Arceus or Arceus ex in play, this Pokémon has no Retreat Cost."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fire",
+                    "Fire"
+                ],
+                "name": "Ragin’ Mad Strike",
+                "attack": "40+",
+                "effect": "If this Pokémon has damage on it, this attack does 40 more damage."
+            }
+        ],
+        "weakness": "Water",
+        "retreat": "3",
+        "artist": "Kazumasa Yasukuni",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "13",
+        "rarity": "◊◊◊",
+        "description": "It dwells in volcanic caves. It digs in with its\ncross-shaped feet to crawl on ceilings and walls.",
+        "info": {
+            "national_pokedex": "0485",
+            "species": "Lava Dome Pokémon",
+            "height": "1.7 m / 5'07\"",
+            "weight": "430.0 kg / 948.0 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_014_EN.webp",
+        "type": "Pokémon",
+        "name": "Marill",
+        "energy": "Water",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water"
+                ],
+                "name": "Water Gun",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "Tika Matsuno",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "14",
+        "rarity": "◊",
+        "description": "The fur on its body naturally repels water. It can\nstay dry even when it plays in the water.",
+        "info": {
+            "national_pokedex": "0183",
+            "species": "Aqua Mouse Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "8.5 kg / 18.7 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_015_EN.webp",
+        "type": "Pokémon",
+        "name": "Azumarill",
+        "energy": "Water",
+        "hp": "100",
+        "category": "Stage 1",
+        "evolvesfrom": "Marill",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Waterfall",
+                "attack": "60",
+                "effect": ""
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "2",
+        "artist": "miki kudo",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "15",
+        "rarity": "◊",
+        "description": "Its long ears are superb sensors. It can distinguish\nthe movements of things in water and tell what\nthey are.",
+        "info": {
+            "national_pokedex": "0184",
+            "species": "Aqua Rabbit Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "28.5 kg / 62.8 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_016_EN.webp",
+        "type": "Pokémon",
+        "name": "Barboach",
+        "energy": "Water",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Mud-Slap",
+                "attack": "30",
+                "effect": ""
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "sui",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "16",
+        "rarity": "◊",
+        "description": "Its two whiskers provide a sensitive radar. Even in\nmuddy waters, it can detect its prey’s location.",
+        "info": {
+            "national_pokedex": "0339",
+            "species": "Whiskers Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "1.9 kg / 4.2 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_017_EN.webp",
+        "type": "Pokémon",
+        "name": "Whiscash",
+        "energy": "Water",
+        "hp": "120",
+        "category": "Stage 1",
+        "evolvesfrom": "Barboach",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water",
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Thrash",
+                "attack": "80+",
+                "effect": "Flip a coin. If heads, this attack does 60 more damage. If tails, this Pokémon also does 20 damage to itself."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "3",
+        "artist": "Shinya Komatsu",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "17",
+        "rarity": "◊◊",
+        "description": "It is extremely protective of its territory. If any\nfoe approaches, it attacks using vicious tremors.",
+        "info": {
+            "national_pokedex": "0340",
+            "species": "Whiskers Pokémon",
+            "height": "0.9 m / 2'11\"",
+            "weight": "23.6 kg / 52.0 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_018_EN.webp",
+        "type": "Pokémon",
+        "name": "Snorunt",
+        "energy": "Water",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water"
+                ],
+                "name": "Icicle",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Metal",
+        "retreat": "1",
+        "artist": "sowsow",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "18",
+        "rarity": "◊",
+        "description": "It is said that several Snorunt gather under giant\nleaves and live together in harmony.",
+        "info": {
+            "national_pokedex": "0361",
+            "species": "Snow Hat Pokémon",
+            "height": "0.7 m / 2'04\"",
+            "weight": "16.8 kg / 37.0 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_019_EN.webp",
+        "type": "Pokémon",
+        "name": "Froslass",
+        "energy": "Water",
+        "hp": "90",
+        "category": "Stage 1",
+        "evolvesfrom": "Snorunt",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Blizzard",
+                "attack": "40",
+                "effect": "This attack also does 10 damage to each of your opponent's Benched Pokémon."
+            }
+        ],
+        "weakness": "Metal",
+        "retreat": "1",
+        "artist": "Mizue",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "19",
+        "rarity": "◊◊",
+        "description": "When it finds humans or Pokémon it likes,\nit freezes them and takes them to its chilly\nden, where they become decorations.",
+        "info": {
+            "national_pokedex": "0478",
+            "species": "Snow Land Pokémon",
+            "height": "1.3 m / 4'03\"",
+            "weight": "26.6 kg / 58.6 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_020_EN.webp",
+        "type": "Pokémon",
+        "name": "Snover",
+        "energy": "Water",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Corkscrew Punch",
+                "attack": "30",
+                "effect": ""
+            }
+        ],
+        "weakness": "Metal",
+        "retreat": "2",
+        "artist": "otumami",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "20",
+        "rarity": "◊",
+        "description": "During cold seasons, it migrates to the\nmountain’s lower reaches. It returns to the\nsnow-covered summit in the spring.",
+        "info": {
+            "national_pokedex": "0459",
+            "species": "Frost Tree Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "50.5 kg / 111.3 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_021_EN.webp",
+        "type": "Pokémon",
+        "name": "Abomasnow",
+        "energy": "Water",
+        "hp": "120",
+        "category": "Stage 1",
+        "evolvesfrom": "Snover",
+        "ability": {
+            "title": "Vigor Link",
+            "effect": "If you have Arceus or Arceus ex in play, attacks used by this Pokémon cost 1 less [C] Energy."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Mega Punch",
+                "attack": "80",
+                "effect": ""
+            }
+        ],
+        "weakness": "Metal",
+        "retreat": "3",
+        "artist": "nagimiso",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "21",
+        "rarity": "◊◊◊",
+        "description": "It lives a quiet life on mountains that are\nperpetually covered in snow. It hides itself\nby whipping up blizzards.",
+        "info": {
+            "national_pokedex": "0460",
+            "species": "Frost Tree Pokémon",
+            "height": "2.2 m / 7'03\"",
+            "weight": "135.5 kg / 298.7 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_022_EN.webp",
+        "type": "Pokémon",
+        "name": "Glaceon ex",
+        "energy": "Water",
+        "hp": "140",
+        "category": "Stage 1",
+        "evolvesfrom": "Eevee",
+        "ability": {
+            "title": "Snowy Terrain",
+            "effect": "During Pokémon Checkup, if this Pokémon is in the Active Spot, do 10 damage to your opponent's Active Pokémon."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Freezing Wind",
+                "attack": "90",
+                "effect": ""
+            }
+        ],
+        "weakness": "Metal",
+        "retreat": "1",
+        "artist": "PLANETA CG Works",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "22",
+        "rarity": "◊◊◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_023_EN.webp",
+        "type": "Pokémon",
+        "name": "Palkia",
+        "energy": "Water",
+        "hp": "120",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
+                "name": "Zone Smash",
+                "attack": "60+",
+                "effect": "Flip a coin. If heads, this attack does 60 more damage."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "2",
+        "artist": "toriyufu",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "23",
+        "rarity": "◊◊◊",
+        "description": "It soars across the sky in a form that greatly resembles the\ncreator of all things. Perhaps this imitation of appearance is\nPalkia’s strategy for gaining Arceus’s powers.",
+        "info": {
+            "national_pokedex": "0484",
+            "species": "Spatial Pokémon",
+            "height": "4.2 m / 13'09\"",
+            "weight": "336.0 kg / 740.8 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_024_EN.webp",
+        "type": "Pokémon",
+        "name": "Phione",
+        "energy": "Water",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water",
+                    "Water"
+                ],
+                "name": "Water Pulse",
+                "attack": "40",
+                "effect": "Your opponent's Active Pokémon is now Asleep."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "AKIRA EGAWA",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "24",
+        "rarity": "◊◊",
+        "description": "When the water warms, they inflate the flotation sac\non their heads and drift languidly on the sea\nin packs.",
+        "info": {
+            "national_pokedex": "0489",
+            "species": "Sea Drifter Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "3.1 kg / 6.8 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_025_EN.webp",
+        "type": "Pokémon",
+        "name": "Pikachu",
+        "energy": "Lightning",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Lightning"
+                ],
+                "name": "Spark",
+                "attack": "10",
+                "effect": "This attack also does 10 damage to 1 of your opponent's Benched Pokémon."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "MAHOU",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "25",
+        "rarity": "◊",
+        "description": "When it is angered, it immediately discharges the\nenergy stored in the pouches in its cheeks.",
+        "info": {
+            "national_pokedex": "0025",
+            "species": "Mouse Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "6.0 kg / 13.2 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_026_EN.webp",
+        "type": "Pokémon",
+        "name": "Raichu",
+        "energy": "Lightning",
+        "hp": "90",
+        "category": "Stage 1",
+        "evolvesfrom": "Pikachu",
+        "ability": {
+            "title": "Resilience Link",
+            "effect": "If you have Arceus or Arceus ex in play, this Pokémon takes −30 damage from attacks."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Lightning",
+                    "Lightning"
+                ],
+                "name": "Spark",
+                "attack": "40",
+                "effect": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Nisota Niso",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "26",
+        "rarity": "◊◊◊",
+        "description": "Its tail discharges electricity into the ground,\nprotecting it from getting shocked.",
+        "info": {
+            "national_pokedex": "0026",
+            "species": "Mouse Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "30.0 kg / 66.1 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_027_EN.webp",
+        "type": "Pokémon",
+        "name": "Electrike",
+        "energy": "Lightning",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Lightning"
+                ],
+                "name": "Zap Kick",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Shin Nagasawa",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "27",
+        "rarity": "◊",
+        "description": "It stores static electricity in its fur for discharging.\nIt gives off sparks if a storm approaches.",
+        "info": {
+            "national_pokedex": "0309",
+            "species": "Lightning Pokémon",
+            "height": "0.6 m / 2'00\"",
+            "weight": "15.2 kg / 33.5 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_028_EN.webp",
+        "type": "Pokémon",
+        "name": "Manectric",
+        "energy": "Lightning",
+        "hp": "90",
+        "category": "Stage 1",
+        "evolvesfrom": "Electrike",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Lightning"
+                ],
+                "name": "Flash",
+                "attack": "40",
+                "effect": "During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "match",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "28",
+        "rarity": "◊◊",
+        "description": "It stimulates its own muscles with electricity, so\nit can move quickly. It eases its soreness with\nelectricity, too, so it can recover quickly as well.",
+        "info": {
+            "national_pokedex": "0310",
+            "species": "Discharge Pokémon",
+            "height": "1.5 m / 4'11\"",
+            "weight": "40.2 kg / 88.6 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_029_EN.webp",
+        "type": "Pokémon",
+        "name": "Clefairy",
+        "energy": "Psychic",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Smack",
+                "attack": "30",
+                "effect": ""
+            }
+        ],
+        "weakness": "Metal",
+        "retreat": "1",
+        "artist": "rika",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "29",
+        "rarity": "◊",
+        "description": "It is said that happiness will come to those who\nsee a gathering of Clefairy dancing under a\nfull moon.",
+        "info": {
+            "national_pokedex": "0035",
+            "species": "Fairy Pokémon",
+            "height": "0.6 m / 2'00\"",
+            "weight": "7.5 kg / 16.5 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_030_EN.webp",
+        "type": "Pokémon",
+        "name": "Clefable",
+        "energy": "Psychic",
+        "hp": "100",
+        "category": "Stage 1",
+        "evolvesfrom": "Clefairy",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Moonblast",
+                "attack": "60",
+                "effect": "During your opponent's next turn, attacks used by the Defending Pokémon do −30 damage."
+            }
+        ],
+        "weakness": "Metal",
+        "retreat": "2",
+        "artist": "sui",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "30",
+        "rarity": "◊◊",
+        "description": "A timid fairy Pokémon that is rarely seen, it will\nrun and hide the moment it senses people.",
+        "info": {
+            "national_pokedex": "0036",
+            "species": "Fairy Pokémon",
+            "height": "1.3 m / 4'03\"",
+            "weight": "40.0 kg / 88.2 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_031_EN.webp",
+        "type": "Pokémon",
+        "name": "Gastly",
+        "energy": "Psychic",
+        "hp": "50",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Astonish",
+                "attack": "",
+                "effect": "Flip a coin. If heads, your opponent reveals a random card from their hand and shuffles it into their deck."
+            }
+        ],
+        "weakness": "Darkness",
+        "retreat": "1",
+        "artist": "Yuu Nishida",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "31",
+        "rarity": "◊",
+        "description": "It wraps its opponent in its gas-like body,\nslowly weakening its prey by poisoning it\nthrough the skin.",
+        "info": {
+            "national_pokedex": "0092",
+            "species": "Gas Pokémon",
+            "height": "1.3 m / 4'03\"",
+            "weight": "0.1 kg / 0.2 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_032_EN.webp",
+        "type": "Pokémon",
+        "name": "Haunter",
+        "energy": "Psychic",
+        "hp": "80",
+        "category": "Stage 1",
+        "evolvesfrom": "Gastly",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Psychic",
+                    "Psychic"
+                ],
+                "name": "Mumble",
+                "attack": "40",
+                "effect": ""
+            }
+        ],
+        "weakness": "Darkness",
+        "retreat": "1",
+        "artist": "Eri Yamaki",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "32",
+        "rarity": "◊",
+        "description": "It likes to lurk in the dark and tap shoulders\nwith a gaseous hand. Its touch causes endless\nshuddering.",
+        "info": {
+            "national_pokedex": "0093",
+            "species": "Gas Pokémon",
+            "height": "1.6 m / 5'03\"",
+            "weight": "0.1 kg / 0.2 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_033_EN.webp",
+        "type": "Pokémon",
+        "name": "Gengar",
+        "energy": "Psychic",
+        "hp": "140",
+        "category": "Stage 2",
+        "evolvesfrom": "Haunter",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Psychic",
+                    "Psychic"
+                ],
+                "name": "Hypnoblast",
+                "attack": "70",
+                "effect": "Your opponent's Active Pokémon is now Asleep."
+            }
+        ],
+        "weakness": "Darkness",
+        "retreat": "1",
+        "artist": "Midori Harada",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "33",
+        "rarity": "◊◊",
+        "description": "To steal the life of its target, it slips into\nthe prey’s shadow and silently waits for\nan opportunity.",
+        "info": {
+            "national_pokedex": "0094",
+            "species": "Shadow Pokémon",
+            "height": "1.5 m / 4'11\"",
+            "weight": "40.5 kg / 89.3 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_034_EN.webp",
+        "type": "Pokémon",
+        "name": "Unown",
+        "energy": "Psychic",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "ability": {
+            "title": "CHECK",
+            "effect": "Once during your turn, you may choose either player. Look at the top card of that player's deck."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Hidden Power",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Darkness",
+        "retreat": "1",
+        "artist": "Tetsu Kayama",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "34",
+        "rarity": "◊◊",
+        "description": "Its flat, thin body is always stuck on walls. Its shape\nappears to have some meaning.",
+        "info": {
+            "national_pokedex": "0201",
+            "species": "Symbol Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "5.0 kg / 11.0 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_035_EN.webp",
+        "type": "Pokémon",
+        "name": "Rotom",
+        "energy": "Psychic",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "ability": {
+            "title": "Speed Link",
+            "effect": "If you have Arceus or Arceus ex in play, this Pokémon has no Retreat Cost."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Dash Attack",
+                "attack": "",
+                "effect": "This attack does 20 damage to 1 of your opponent's Benched Pokémon."
+            }
+        ],
+        "weakness": "Darkness",
+        "retreat": "1",
+        "artist": "Anesaki Dynamic",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "35",
+        "rarity": "◊◊◊",
+        "description": "Its electricity-like body can enter some kinds\nof machines and take control in order to make\nmischief.",
+        "info": {
+            "national_pokedex": "0479",
+            "species": "Plasma Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "0.3 kg / 0.7 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_036_EN.webp",
+        "type": "Pokémon",
+        "name": "Sudowoodo",
+        "energy": "Fighting",
+        "hp": "80",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fighting"
+                ],
+                "name": "Fighting Headbutt",
+                "attack": "20+",
+                "effect": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 30 more damage."
+            }
+        ],
+        "weakness": "Grass",
+        "retreat": "2",
+        "artist": "Tomokazu Komiya",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "36",
+        "rarity": "◊◊",
+        "description": "Although it always pretends to be a tree,\nits composition appears more similar to\nrock than to vegetation.",
+        "info": {
+            "national_pokedex": "0185",
+            "species": "Imitation Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "38.0 kg / 83.8 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_037_EN.webp",
+        "type": "Pokémon",
+        "name": "Phanpy",
+        "energy": "Fighting",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fighting"
+                ],
+                "name": "Rollout",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Grass",
+        "retreat": "2",
+        "artist": "Asako Ito",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "37",
+        "rarity": "◊",
+        "description": "This Pokémon lives and nests on a riverbank.\nAfter playing in the mud, it won’t be able to\nsettle down unless it washes its body.",
+        "info": {
+            "national_pokedex": "0231",
+            "species": "Long Nose Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "33.5 kg / 73.9 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_038_EN.webp",
+        "type": "Pokémon",
+        "name": "Donphan",
+        "energy": "Fighting",
+        "hp": "120",
+        "category": "Stage 1",
+        "evolvesfrom": "Phanpy",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Rolling Spin",
+                "attack": "60",
+                "effect": "During your next turn, this Pokémon's Rolling Spin attack does +60 damage."
+            }
+        ],
+        "weakness": "Grass",
+        "retreat": "3",
+        "artist": "Shin Nagasawa",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "38",
+        "rarity": "◊◊",
+        "description": "Donphan is covered in tough hide, so even being\nhit by a car won’t faze this Pokémon. However, it\nis extremely susceptible to rain.",
+        "info": {
+            "national_pokedex": "0232",
+            "species": "Armor Pokémon",
+            "height": "1.1 m / 3'07\"",
+            "weight": "120.0 kg / 264.6 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_039_EN.webp",
+        "type": "Pokémon",
+        "name": "Larvitar",
+        "energy": "Fighting",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "name": "Corkscrew Punch",
+                "attack": "30",
+                "effect": ""
+            }
+        ],
+        "weakness": "Grass",
+        "retreat": "1",
+        "artist": "Yukiko Baba",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "39",
+        "rarity": "◊",
+        "description": "Born deep underground, this Pokémon becomes\na pupa after eating enough dirt to make a\nmountain.",
+        "info": {
+            "national_pokedex": "0246",
+            "species": "Rock Skin Pokémon",
+            "height": "0.6 m / 2'00\"",
+            "weight": "72.0 kg / 158.7 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_040_EN.webp",
+        "type": "Pokémon",
+        "name": "Pupitar",
+        "energy": "Fighting",
+        "hp": "80",
+        "category": "Stage 1",
+        "evolvesfrom": "Larvitar",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Speed Attack",
+                "attack": "50",
+                "effect": ""
+            }
+        ],
+        "weakness": "Grass",
+        "retreat": "1",
+        "artist": "match",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "40",
+        "rarity": "◊◊",
+        "description": "Its shell is as hard as bedrock, and it is also very\nstrong. Its thrashing can topple a mountain.",
+        "info": {
+            "national_pokedex": "0247",
+            "species": "Hard Shell Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "152.0 kg / 335.1 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_041_EN.webp",
+        "type": "Pokémon",
+        "name": "Tyranitar",
+        "energy": "Fighting",
+        "hp": "160",
+        "category": "Stage 2",
+        "evolvesfrom": "Pupitar",
+        "ability": {
+            "title": "Power Link",
+            "effect": "If you have Arceus or Arceus ex in play, attacks used by this Pokémon do +30 damage to your opponent's Active Pokémon."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "name": "Land Crush",
+                "attack": "130",
+                "effect": ""
+            }
+        ],
+        "weakness": "Grass",
+        "retreat": "4",
+        "artist": "kawayoo",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "41",
+        "rarity": "◊◊◊",
+        "description": "Extremely strong, it can change the landscape.\nIt is so insolent that it doesn’t care about others.",
+        "info": {
+            "national_pokedex": "0248",
+            "species": "Armor Pokémon",
+            "height": "2.0 m / 6'07\"",
+            "weight": "202.0 kg / 445.3 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_042_EN.webp",
+        "type": "Pokémon",
+        "name": "Nosepass",
+        "energy": "Fighting",
+        "hp": "80",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Tackle",
+                "attack": "10",
+                "effect": ""
+            }
+        ],
+        "weakness": "Grass",
+        "retreat": "3",
+        "artist": "Satoshi Shirai",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "42",
+        "rarity": "◊",
+        "description": "It moves less than an inch a year, but when\nit’s in a jam, it will spin and drill down into the\nground in a split second.",
+        "info": {
+            "national_pokedex": "0299",
+            "species": "Compass Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "97.0 kg / 213.8 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_043_EN.webp",
+        "type": "Pokémon",
+        "name": "Meditite",
+        "energy": "Fighting",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fighting"
+                ],
+                "name": "Kick",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Psychic",
+        "retreat": "1",
+        "artist": "Mina Nakai",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "43",
+        "rarity": "◊",
+        "description": "It never skips its daily yoga training. It heightens\nits inner strength through meditation.",
+        "info": {
+            "national_pokedex": "0307",
+            "species": "Meditate Pokémon",
+            "height": "0.6 m / 2'00\"",
+            "weight": "11.2 kg / 24.7 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_044_EN.webp",
+        "type": "Pokémon",
+        "name": "Medicham",
+        "energy": "Fighting",
+        "hp": "100",
+        "category": "Stage 1",
+        "evolvesfrom": "Meditite",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fighting"
+                ],
+                "name": "Kick Shot",
+                "attack": "80",
+                "effect": "Flip a coin. If tails, this attack does nothing."
+            }
+        ],
+        "weakness": "Psychic",
+        "retreat": "1",
+        "artist": "Tetsu Kayama",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "44",
+        "rarity": "◊◊",
+        "description": "Through yoga training, it gained the psychic\npower to predict its foe’s next move.",
+        "info": {
+            "national_pokedex": "0308",
+            "species": "Meditate Pokémon",
+            "height": "1.3 m / 4'03\"",
+            "weight": "31.5 kg / 69.4 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_045_EN.webp",
+        "type": "Pokémon",
+        "name": "Gible",
+        "energy": "Fighting",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fighting"
+                ],
+                "name": "Tackle",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Grass",
+        "retreat": "1",
+        "artist": "Kyoko Umemoto",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "45",
+        "rarity": "◊",
+        "description": "It skulks in caves, and when prey or an enemy\npasses by, it leaps out and chomps them.\nThe force of its attack sometimes chips its teeth.",
+        "info": {
+            "national_pokedex": "0443",
+            "species": "Land Shark Pokémon",
+            "height": "0.7 m / 2'04\"",
+            "weight": "20.5 kg / 45.2 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_046_EN.webp",
+        "type": "Pokémon",
+        "name": "Gabite",
+        "energy": "Fighting",
+        "hp": "80",
+        "category": "Stage 1",
+        "evolvesfrom": "Gible",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fighting"
+                ],
+                "name": "Sharp Scythe",
+                "attack": "30",
+                "effect": ""
+            }
+        ],
+        "weakness": "Grass",
+        "retreat": "1",
+        "artist": "Sumiyoshi Kizuki",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "46",
+        "rarity": "◊",
+        "description": "In rare cases, it molts and sheds its scales.\nMedicine containing its scales as an ingredient\nwill make a weary body feel invigorated.",
+        "info": {
+            "national_pokedex": "0444",
+            "species": "Cave Pokémon",
+            "height": "1.4 m / 4'07\"",
+            "weight": "56.0 kg / 123.5 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_047_EN.webp",
+        "type": "Pokémon",
+        "name": "Garchomp ex",
+        "energy": "Fighting",
+        "hp": "170",
+        "category": "Stage 2",
+        "evolvesfrom": "Gabite",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fighting"
+                ],
+                "name": "Linear Attack",
+                "attack": "",
+                "effect": "This attack does 50 damage to 1 of your opponent's Pokémon."
+            },
+            {
+                "energy_cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "name": "Dragon Claw",
+                "attack": "100",
+                "effect": ""
+            }
+        ],
+        "weakness": "Grass",
+        "retreat": "1",
+        "artist": "PLANETA CG Works",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "47",
+        "rarity": "◊◊◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_048_EN.webp",
+        "type": "Pokémon",
+        "name": "Zubat",
+        "energy": "Darkness",
+        "hp": "50",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Darkness"
+                ],
+                "name": "Bite",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Sekio",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "48",
+        "rarity": "◊",
+        "description": "It emits ultrasonic waves from its mouth to check\nits surroundings. Even in tight caves, Zubat flies\naround with skill.",
+        "info": {
+            "national_pokedex": "0041",
+            "species": "Bat Pokémon",
+            "height": "0.6 m / 2'07\"",
+            "weight": "7.5 kg / 16.5 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_049_EN.webp",
+        "type": "Pokémon",
+        "name": "Golbat",
+        "energy": "Darkness",
+        "hp": "80",
+        "category": "Stage 1",
+        "evolvesfrom": "Zubat",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Darkness"
+                ],
+                "name": "Bite",
+                "attack": "30",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Kyoko Umemoto",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "49",
+        "rarity": "◊",
+        "description": "It loves to drink other creatures’ blood. It’s said\nthat if it finds others of its kind going hungry,\nit sometimes shares the blood it’s gathered.",
+        "info": {
+            "national_pokedex": "0042",
+            "species": "Bat Pokémon",
+            "height": "1.6 m / 5'03\"",
+            "weight": "55.0 kg / 121.3 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_050_EN.webp",
+        "type": "Pokémon",
+        "name": "Crobat",
+        "energy": "Darkness",
+        "hp": "110",
+        "category": "Stage 2",
+        "evolvesfrom": "Golbat",
+        "ability": {
+            "title": "Cunning Link",
+            "effect": "Once during your turn, if you have Arceus or Arceus ex in play, you may do 30 damage to your opponent's Active Pokémon."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Darkness"
+                ],
+                "name": "Darkness Fang",
+                "attack": "50",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "0",
+        "artist": "AKIRA EGAWA",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "50",
+        "rarity": "◊◊◊",
+        "description": "Both of its legs have turned into wings. Without a\nsound, Crobat flies swiftly toward its prey and\nsinks its fangs into the nape of its target’s neck.",
+        "info": {
+            "national_pokedex": "0169",
+            "species": "Bat Pokémon",
+            "height": "1.8 m / 5'11\"",
+            "weight": "75.0 kg / 165.3 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_051_EN.webp",
+        "type": "Pokémon",
+        "name": "Croagunk",
+        "energy": "Darkness",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Darkness"
+                ],
+                "name": "Beat",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "SATOSHI NAKAI",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "51",
+        "rarity": "◊",
+        "description": "Inflating its poison sacs, it fills the area with an\nodd sound and hits flinching opponents with a\npoison jab.",
+        "info": {
+            "national_pokedex": "0453",
+            "species": "Toxic Mouth Pokémon",
+            "height": "0.7 m / 2'04\"",
+            "weight": "23.0 kg / 50.7 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_052_EN.webp",
+        "type": "Pokémon",
+        "name": "Toxicroak",
+        "energy": "Darkness",
+        "hp": "100",
+        "category": "Stage 1",
+        "evolvesfrom": "Croagunk",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Darkness"
+                ],
+                "name": "Toxic",
+                "attack": "",
+                "effect": "Your opponent's Active Pokémon is now Poisoned. Do 20 damage to this Pokémon instead of the usual amount for this Special Condition."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Souichirou Gunjima",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "52",
+        "rarity": "◊◊",
+        "description": "Swaying and dodging the attacks of its foes, it\nweaves its flexible body in close, then lunges\nout with its poisonous claws.",
+        "info": {
+            "national_pokedex": "0454",
+            "species": "Toxic Mouth Pokémon",
+            "height": "1.3 m / 4'03\"",
+            "weight": "44.4 kg / 97.9 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_053_EN.webp",
+        "type": "Pokémon",
+        "name": "Magnemite",
+        "energy": "Metal",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Metal"
+                ],
+                "name": "Tackle",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "OKACHEKE",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "53",
+        "rarity": "◊",
+        "description": "The electromagnetic waves emitted by the units\nat the sides of its head expel antigravity, which\nallows it to float.",
+        "info": {
+            "national_pokedex": "0081",
+            "species": "Magnet Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "6.0 kg / 13.2 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_054_EN.webp",
+        "type": "Pokémon",
+        "name": "Magneton",
+        "energy": "Metal",
+        "hp": "90",
+        "category": "Stage 1",
+        "evolvesfrom": "Magnemite",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Rolling Attack",
+                "attack": "30",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "2",
+        "artist": "Souichirou Gunjima",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "54",
+        "rarity": "◊",
+        "description": "Three Magnemite are linked by a strong magnetic\nforce. Earaches will occur if you get too close.",
+        "info": {
+            "national_pokedex": "0082",
+            "species": "Magnet Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "60.0 kg / 132.3 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_055_EN.webp",
+        "type": "Pokémon",
+        "name": "Magnezone",
+        "energy": "Metal",
+        "hp": "140",
+        "category": "Stage 2",
+        "evolvesfrom": "Magneton",
+        "ability": {
+            "title": "Resilience Link",
+            "effect": "If you have Arceus or Arceus ex in play, this Pokémon takes −30 damage from attacks."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Metal",
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Power Beam",
+                "attack": "80",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "2",
+        "artist": "toriyufu",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "55",
+        "rarity": "◊◊◊",
+        "description": "As it zooms through the sky, this Pokémon seems\nto be receiving signals of unknown origin while\ntransmitting signals of unknown purpose.",
+        "info": {
+            "national_pokedex": "0462",
+            "species": "Magnet Area Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "180.0 kg / 396.8 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_056_EN.webp",
+        "type": "Pokémon",
+        "name": "Mawile",
+        "energy": "Metal",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Iron Beam Breaker",
+                "attack": "20+",
+                "effect": "If your opponent's Active Pokémon is a [M] Pokémon, this attack does 30 more damage."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "tetsuya koizumi",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "56",
+        "rarity": "◊",
+        "description": "It uses its docile-looking face to lull foes into\ncomplacency, then bites with its huge,\nrelentless jaws.",
+        "info": {
+            "national_pokedex": "0303",
+            "species": "Deceiver Pokémon",
+            "height": "0.6 m / 2'00\"",
+            "weight": "11.5 kg / 25.4 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_057_EN.webp",
+        "type": "Pokémon",
+        "name": "Probopass ex",
+        "energy": "Metal",
+        "hp": "160",
+        "category": "Stage 1",
+        "evolvesfrom": "Nosepass",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Metal",
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Defensive Unit",
+                "attack": "90",
+                "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "3",
+        "artist": "PLANETA Tsuji",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "57",
+        "rarity": "◊◊◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_058_EN.webp",
+        "type": "Pokémon",
+        "name": "Bronzor",
+        "energy": "Metal",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Ram",
+                "attack": "10",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "Akira Komayama",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "58",
+        "rarity": "◊",
+        "description": "Ancient people believed that the pattern on\nBronzor’s back contained a mysterious power.",
+        "info": {
+            "national_pokedex": "0436",
+            "species": "Bronze Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "60.5 kg / 133.4 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_059_EN.webp",
+        "type": "Pokémon",
+        "name": "Bronzong",
+        "energy": "Metal",
+        "hp": "120",
+        "category": "Stage 1",
+        "evolvesfrom": "Bronzor",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Psychic",
+                "attack": "50+",
+                "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "3",
+        "artist": "Naoki Saito",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "59",
+        "rarity": "◊◊",
+        "description": "In ages past, this Pokémon was revered as a\nbringer of rain. It was found buried in the ground.",
+        "info": {
+            "national_pokedex": "0437",
+            "species": "Bronze Bell Pokémon",
+            "height": "1.3 m / 4'03\"",
+            "weight": "187.0 kg / 412.3 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_060_EN.webp",
+        "type": "Pokémon",
+        "name": "Dialga",
+        "energy": "Metal",
+        "hp": "120",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Metal",
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Time Mash",
+                "attack": "100",
+                "effect": "Flip a coin. If tails, during your next turn, this Pokémon can't attack."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "2",
+        "artist": "akagi",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "60",
+        "rarity": "◊◊◊",
+        "description": "Radiant light caused Dialga to take on a form bearing a striking\nresemblance to the creator Pokémon. Dialga now wields such\ncolossal strength that one must conclude this is its true form.",
+        "info": {
+            "national_pokedex": "0483",
+            "species": "Temporal Pokémon",
+            "height": "5.4 m / 17'09\"",
+            "weight": "683.0 kg / 1505.8 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_061_EN.webp",
+        "type": "Pokémon",
+        "name": "Giratina",
+        "energy": "Dragon",
+        "hp": "120",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Grass",
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Crisis Dive",
+                "attack": "120",
+                "effect": "Discard 2 random Energy from this Pokémon."
+            }
+        ],
+        "weakness": "none",
+        "retreat": "3",
+        "artist": "Shin Nagasawa",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "61",
+        "rarity": "◊◊◊",
+        "description": "This Pokémon is said to live in a world on the\nreverse side of ours, where common knowledge is\ndistorted and strange.",
+        "info": {
+            "national_pokedex": "0487",
+            "species": "Renegade Pokémon",
+            "height": "4.5 m / 14'09\"",
+            "weight": "750.0 kg / 1653.5 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_062_EN.webp",
+        "type": "Pokémon",
+        "name": "Eevee",
+        "energy": "Colorless",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Tail Whap",
+                "attack": "30",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Naoyo Kimura",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "62",
+        "rarity": "◊",
+        "description": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment.",
+        "info": {
+            "national_pokedex": "0133",
+            "species": "Evolution Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "6.5 kg / 14.3 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_063_EN.webp",
+        "type": "Pokémon",
+        "name": "Snorlax",
+        "energy": "Colorless",
+        "hp": "140",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Collapse",
+                "attack": "100",
+                "effect": "This Pokémon is now Asleep."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "4",
+        "artist": "burari",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "63",
+        "rarity": "◊◊",
+        "description": "It is not satisfied unless it eats over 880 pounds\nof food every day. When it is done eating, it\ngoes promptly to sleep.",
+        "info": {
+            "national_pokedex": "0143",
+            "species": "Sleeping Pokémon",
+            "height": "2.11 m / 6'11\"",
+            "weight": "460.0 kg / 1014.1 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_064_EN.webp",
+        "type": "Pokémon",
+        "name": "Hoothoot",
+        "energy": "Colorless",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Peck",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "Sumiyoshi Kizuki",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "64",
+        "rarity": "◊",
+        "description": "It always stands on one foot. It changes feet so\nfast, the movement can rarely be seen.",
+        "info": {
+            "national_pokedex": "0163",
+            "species": "Owl Pokémon",
+            "height": "0.7 m / 2'04\"",
+            "weight": "21.2 kg / 46.7 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_065_EN.webp",
+        "type": "Pokémon",
+        "name": "Noctowl",
+        "energy": "Colorless",
+        "hp": "100",
+        "category": "Stage 1",
+        "evolvesfrom": "Hoothoot",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Silent Wing",
+                "attack": "50",
+                "effect": "Your opponent reveals their hand."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "DOM",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "65",
+        "rarity": "◊◊",
+        "description": "Its eyes are specially developed to enable it to\nsee clearly even in murky darkness and minimal light.",
+        "info": {
+            "national_pokedex": "0164",
+            "species": "Owl Pokémon",
+            "height": "1.6 m / 5'03\"",
+            "weight": "40.8 kg / 89.9 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_066_EN.webp",
+        "type": "Pokémon",
+        "name": "Starly",
+        "energy": "Colorless",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Glide",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "Apios",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "66",
+        "rarity": "◊",
+        "description": "They flock around mountains and fields, chasing\nafter bug Pokémon. Their singing is noisy and\nannoying.",
+        "info": {
+            "national_pokedex": "0396",
+            "species": "Starling Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "2.0 kg / 4.4 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_067_EN.webp",
+        "type": "Pokémon",
+        "name": "Staravia",
+        "energy": "Colorless",
+        "hp": "80",
+        "category": "Stage 1",
+        "evolvesfrom": "Starly",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Wing Attack",
+                "attack": "30",
+                "effect": ""
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "Masakazu Fukuda",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "67",
+        "rarity": "◊",
+        "description": "Recognizing their own weakness, they always live\nin a group. When alone, a Staravia cries noisily.",
+        "info": {
+            "national_pokedex": "0397",
+            "species": "Starling Pokémon",
+            "height": "0.6 m / 2'00\"",
+            "weight": "15.5 kg / 34.2 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_068_EN.webp",
+        "type": "Pokémon",
+        "name": "Staraptor",
+        "energy": "Colorless",
+        "hp": "150",
+        "category": "Stage 2",
+        "evolvesfrom": "Staravia",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Brave Bird",
+                "attack": "130",
+                "effect": "This Pokémon also does 20 damage to itself."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "2",
+        "artist": "Minahamu",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "68",
+        "rarity": "◊◊",
+        "description": "When Staravia evolve into Staraptor, they leave\nthe flock to live alone. They have sturdy wings.",
+        "info": {
+            "national_pokedex": "0398",
+            "species": "Predator Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "24.9 kg / 54.9 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_069_EN.webp",
+        "type": "Pokémon",
+        "name": "Shaymin",
+        "energy": "Colorless",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "ability": {
+            "title": "Sky Support",
+            "effect": "As long as this Pokémon is on your Bench, your Active Basic Pokemon's Retreat Cost is 1 less."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Flap",
+                "attack": "30",
+                "effect": ""
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "Mizue",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "69",
+        "rarity": "◊◊◊",
+        "description": "It can dissolve toxins in the air to instantly\ntransform ruined land into a lush field of flowers.",
+        "info": {
+            "national_pokedex": "0492",
+            "species": "Gratitude Pokémon",
+            "height": "0.2 m / 0'08\"",
+            "weight": "2.1 kg / 4.6 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_070_EN.webp",
+        "type": "Pokémon",
+        "name": "Arceus",
+        "energy": "Colorless",
+        "hp": "120",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Power Blast",
+                "attack": "100",
+                "effect": "Discard a random Energy from this Pokémon."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "2",
+        "artist": "Nurikabe",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "70",
+        "rarity": "◊◊◊",
+        "description": "According to the legends of Sinnoh, this Pokémon\nemerged from an egg and shaped all there is in\nthis world.",
+        "info": {
+            "national_pokedex": "0493",
+            "species": "Alpha Pokémon",
+            "height": "3.2 m / 10'06\"",
+            "weight": "320.0 kg / 705.5 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_071_EN.webp",
+        "type": "Pokémon",
+        "name": "Arceus ex",
+        "energy": "Colorless",
+        "hp": "140",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "ability": {
+            "title": "Fabled Luster",
+            "effect": "This Pokémon can't be affected by any Special Conditions."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Ultimate Force",
+                "attack": "70+",
+                "effect": "This attack does 20 more damage for each of your Benched Pokémon."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "2",
+        "artist": "PLANETA CG Works",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "71",
+        "rarity": "◊◊◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_072_EN.webp",
+        "type": "Trainer",
+        "name": "Irida",
+        "category": "Supporter",
+        "effect": "Heal 40 damage from each of your Pokémon that has any [W] Energy attached.",
+        "artist": "Atsushi Furusawa",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "72",
+        "rarity": "◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_073_EN.webp",
+        "type": "Trainer",
+        "name": "Celestic Town Elder",
+        "category": "Supporter",
+        "effect": "Put 1 random Basic Pokemon from your discard pile into your hand.",
+        "artist": "Yuu Nishida",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "73",
+        "rarity": "◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_074_EN.webp",
+        "type": "Trainer",
+        "name": "Barry",
+        "category": "Supporter",
+        "effect": "During this turn, attacks used by your Snorlax, Heracross, and Staraptor cost 2 less [C] Energy.",
+        "artist": "Hideki Ishikawa",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "74",
+        "rarity": "◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_075_EN.webp",
+        "type": "Trainer",
+        "name": "Adaman",
+        "category": "Supporter",
+        "effect": "During your opponent's next turn, all of your [M] Pokémon take −20 damage from attacks from your opponent's Pokémon.",
+        "artist": "akagi",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "75",
+        "rarity": "◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_076_EN.webp",
+        "type": "Pokémon",
+        "name": "Houndoom",
+        "energy": "Fire",
+        "hp": "100",
+        "category": "Stage 1",
+        "evolvesfrom": "Houndour",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Corner",
+                "attack": "60",
+                "effect": "During your opponent's next turn, the Defending Pokémon can't retreat."
+            }
+        ],
+        "weakness": "Water",
+        "retreat": "2",
+        "artist": "matazo",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "76",
+        "rarity": "☆",
+        "description": "If you are burned by the flames it shoots from its\nmouth, the pain will never go away.",
+        "info": {
+            "national_pokedex": "0229",
+            "species": "Dark Pokémon",
+            "height": "1.4 m / 4'07\"",
+            "weight": "35.0 kg / 77.2 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_077_EN.webp",
+        "type": "Pokémon",
+        "name": "Marill",
+        "energy": "Water",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water"
+                ],
+                "name": "Water Gun",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "Taiga Kayama",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "77",
+        "rarity": "☆",
+        "description": "The fur on its body naturally repels water. It can\nstay dry even when it plays in the water.",
+        "info": {
+            "national_pokedex": "0183",
+            "species": "Aqua Mouse Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "8.5 kg / 18.7 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_078_EN.webp",
+        "type": "Pokémon",
+        "name": "Unown",
+        "energy": "Psychic",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "ability": {
+            "title": "CHECK",
+            "effect": "Once during your turn, you may choose either player. Look at the top card of that player's deck."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Hidden Power",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Darkness",
+        "retreat": "1",
+        "artist": "IKEDA Saki",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "78",
+        "rarity": "☆",
+        "description": "Its flat, thin body is always stuck on walls. Its shape\nappears to have some meaning.",
+        "info": {
+            "national_pokedex": "0201",
+            "species": "Symbol Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "5.0 kg / 11.0 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_079_EN.webp",
+        "type": "Pokémon",
+        "name": "Sudowoodo",
+        "energy": "Fighting",
+        "hp": "80",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fighting"
+                ],
+                "name": "Fighting Headbutt",
+                "attack": "20+",
+                "effect": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 30 more damage."
+            }
+        ],
+        "weakness": "Grass",
+        "retreat": "2",
+        "artist": "Yuriko Akase",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "79",
+        "rarity": "☆",
+        "description": "Although it always pretends to be a tree,\nits composition appears more similar to\nrock than to vegetation.",
+        "info": {
+            "national_pokedex": "0185",
+            "species": "Imitation Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "38.0 kg / 83.8 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_080_EN.webp",
+        "type": "Pokémon",
+        "name": "Magnemite",
+        "energy": "Metal",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Metal"
+                ],
+                "name": "Tackle",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "Yukihiro Tada",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "80",
+        "rarity": "☆",
+        "description": "The electromagnetic waves emitted by the units\nat the sides of its head expel antigravity, which\nallows it to float.",
+        "info": {
+            "national_pokedex": "0081",
+            "species": "Magnet Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "6.0 kg / 13.2 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_081_EN.webp",
+        "type": "Pokémon",
+        "name": "Shaymin",
+        "energy": "Colorless",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "ability": {
+            "title": "Sky Support",
+            "effect": "As long as this Pokémon is on your Bench, your Active Basic Pokemon's Retreat Cost is 1 less."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Flap",
+                "attack": "30",
+                "effect": ""
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "MINAMINAMI Take",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "81",
+        "rarity": "☆",
+        "description": "It can dissolve toxins in the air to instantly\ntransform ruined land into a lush field of flowers.",
+        "info": {
+            "national_pokedex": "0492",
+            "species": "Gratitude Pokémon",
+            "height": "0.2 m / 0'08\"",
+            "weight": "2.1 kg / 4.6 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_082_EN.webp",
+        "type": "Pokémon",
+        "name": "Leafeon ex",
+        "energy": "Grass",
+        "hp": "140",
+        "category": "Stage 1",
+        "evolvesfrom": "Eevee",
+        "ability": {
+            "title": "Forest Breath",
+            "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may take a [G] Energy from your Energy Zone and attach it to 1 of your [G] Pokémon."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Solar Beam",
+                "attack": "70",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "PLANETA CG Works",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "82",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_083_EN.webp",
+        "type": "Pokémon",
+        "name": "Glaceon ex",
+        "energy": "Water",
+        "hp": "140",
+        "category": "Stage 1",
+        "evolvesfrom": "Eevee",
+        "ability": {
+            "title": "Snowy Terrain",
+            "effect": "During Pokémon Checkup, if this Pokémon is in the Active Spot, do 10 damage to your opponent's Active Pokémon."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Freezing Wind",
+                "attack": "90",
+                "effect": ""
+            }
+        ],
+        "weakness": "Metal",
+        "retreat": "1",
+        "artist": "PLANETA CG Works",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "83",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_084_EN.webp",
+        "type": "Pokémon",
+        "name": "Garchomp ex",
+        "energy": "Fighting",
+        "hp": "170",
+        "category": "Stage 2",
+        "evolvesfrom": "Gabite",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fighting"
+                ],
+                "name": "Linear Attack",
+                "attack": "",
+                "effect": "This attack does 50 damage to 1 of your opponent's Pokémon."
+            },
+            {
+                "energy_cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "name": "Dragon Claw",
+                "attack": "100",
+                "effect": ""
+            }
+        ],
+        "weakness": "Grass",
+        "retreat": "1",
+        "artist": "PLANETA CG Works",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "84",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_085_EN.webp",
+        "type": "Pokémon",
+        "name": "Probopass ex",
+        "energy": "Metal",
+        "hp": "160",
+        "category": "Stage 1",
+        "evolvesfrom": "Nosepass",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Metal",
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Defensive Unit",
+                "attack": "90",
+                "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "3",
+        "artist": "PLANETA Tsuji",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "85",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_086_EN.webp",
+        "type": "Pokémon",
+        "name": "Arceus ex",
+        "energy": "Colorless",
+        "hp": "140",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "ability": {
+            "title": "Fabled Luster",
+            "effect": "This Pokémon can't be affected by any Special Conditions."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Ultimate Force",
+                "attack": "70+",
+                "effect": "This attack does 20 more damage for each of your Benched Pokémon."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "2",
+        "artist": "PLANETA CG Works",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "86",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_087_EN.webp",
+        "type": "Trainer",
+        "name": "Irida",
+        "category": "Supporter",
+        "effect": "Heal 40 damage from each of your Pokémon that has any [W] Energy attached.",
+        "artist": "Atsushi Furusawa",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "87",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_088_EN.webp",
+        "type": "Trainer",
+        "name": "Celestic Town Elder",
+        "category": "Supporter",
+        "effect": "Put 1 random Basic Pokemon from your discard pile into your hand.",
+        "artist": "Yuu Nishida",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "88",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_089_EN.webp",
+        "type": "Trainer",
+        "name": "Barry",
+        "category": "Supporter",
+        "effect": "During this turn, attacks used by your Snorlax, Heracross, and Staraptor cost 2 less [C] Energy.",
+        "artist": "Hideki Ishikawa",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "89",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_090_EN.webp",
+        "type": "Trainer",
+        "name": "Adaman",
+        "category": "Supporter",
+        "effect": "During your opponent's next turn, all of your [M] Pokémon take −20 damage from attacks from your opponent's Pokémon.",
+        "artist": "akagi",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "90",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_091_EN.webp",
+        "type": "Pokémon",
+        "name": "Leafeon ex",
+        "energy": "Grass",
+        "hp": "140",
+        "category": "Stage 1",
+        "evolvesfrom": "Eevee",
+        "ability": {
+            "title": "Forest Breath",
+            "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may take a [G] Energy from your Energy Zone and attach it to 1 of your [G] Pokémon."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Solar Beam",
+                "attack": "70",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "saino misaki",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "91",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_092_EN.webp",
+        "type": "Pokémon",
+        "name": "Glaceon ex",
+        "energy": "Water",
+        "hp": "140",
+        "category": "Stage 1",
+        "evolvesfrom": "Eevee",
+        "ability": {
+            "title": "Snowy Terrain",
+            "effect": "During Pokémon Checkup, if this Pokémon is in the Active Spot, do 10 damage to your opponent's Active Pokémon."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Freezing Wind",
+                "attack": "90",
+                "effect": ""
+            }
+        ],
+        "weakness": "Metal",
+        "retreat": "1",
+        "artist": "rika",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "92",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_093_EN.webp",
+        "type": "Pokémon",
+        "name": "Garchomp ex",
+        "energy": "Fighting",
+        "hp": "170",
+        "category": "Stage 2",
+        "evolvesfrom": "Gabite",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fighting"
+                ],
+                "name": "Linear Attack",
+                "attack": "",
+                "effect": "This attack does 50 damage to 1 of your opponent's Pokémon."
+            },
+            {
+                "energy_cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "name": "Dragon Claw",
+                "attack": "100",
+                "effect": ""
+            }
+        ],
+        "weakness": "Grass",
+        "retreat": "1",
+        "artist": "toriyufu",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "93",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_094_EN.webp",
+        "type": "Pokémon",
+        "name": "Probopass ex",
+        "energy": "Metal",
+        "hp": "160",
+        "category": "Stage 1",
+        "evolvesfrom": "Nosepass",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Metal",
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Defensive Unit",
+                "attack": "90",
+                "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "3",
+        "artist": "Masa",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "94",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_095_EN.webp",
+        "type": "Pokémon",
+        "name": "Arceus ex",
+        "energy": "Colorless",
+        "hp": "140",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "ability": {
+            "title": "Fabled Luster",
+            "effect": "This Pokémon can't be affected by any Special Conditions."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Ultimate Force",
+                "attack": "70+",
+                "effect": "This attack does 20 more damage for each of your Benched Pokémon."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "2",
+        "artist": "Takumi Wada",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "95",
+        "rarity": "☆☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_096_EN.webp",
+        "type": "Pokémon",
+        "name": "Arceus ex",
+        "energy": "Colorless",
+        "hp": "140",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "ability": {
+            "title": "Fabled Luster",
+            "effect": "This Pokémon can't be affected by any Special Conditions."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Ultimate Force",
+                "attack": "70+",
+                "effect": "This attack does 20 more damage for each of your Benched Pokémon."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "2",
+        "artist": "PLANETA CG Works",
+        "set": {
+            "name": "Triumphant Light",
+            "code": "A2a",
+            "pack": "Arceus"
+        },
+        "id": "96",
+        "rarity": "Crown Rare"
+    }
+]
