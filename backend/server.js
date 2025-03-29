@@ -17,11 +17,13 @@ const loadJSON = (filename) => {
 const A1 = loadJSON('A1_cards.json');
 const A1a = loadJSON('A1a_cards.json');
 const A2 = loadJSON('A2_cards.json');
+const A2a = loadJSON('A2a_cards.json');
+const A2b = loadJSON('A2b_cards.json');
 const P_A = loadJSON('P-A_cards.json');
 
 
 // Combine all data
-const allCards = [...A1, ...A1a, ...A2, ...P_A];
+const allCards = [...A1, ...A1a, ...A2, ...A2a, ...A2b, ...P_A];
 
 // Routes
 app.get('/', (req, res) => {
@@ -34,29 +36,6 @@ app.get('/type/:type', (req, res) => {
     res.json(filteredCards);
 });
 
-app.get('/set/:set', (req, res) => {
-    const { set } = req.params;
-    let filteredCards = [];
-    
-    switch (set.toUpperCase()) {
-        case 'A1':
-            filteredCards = A1;
-            break;
-        case 'A1A':
-            filteredCards = A1a;
-            break;
-        case 'A2':
-            filteredCards = A2;
-            break;
-        case 'P-A':
-            filteredCards = P_A;
-            break;
-        default:
-            return res.status(404).json({ error: 'Set not found' });
-    }
-
-    res.json(filteredCards);
-});
 
 app.get('/set/:set', (req, res) => {
     const { set } = req.params;
@@ -97,6 +76,10 @@ const _getSet = (set) => {
             return A1a;
         case 'A2':
             return A2;
+        case 'A2A':
+            return A2a;
+        case 'A2B':
+            return A2b;
         case 'P-A':
             return P_A;
             
