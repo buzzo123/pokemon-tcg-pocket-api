@@ -1,0 +1,3794 @@
+[
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_001_EN.webp",
+        "type": "Pokémon",
+        "name": "Weedle",
+        "energy": "Grass",
+        "hp": "50",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Grass"
+                ],
+                "name": "Multiply",
+                "attack": "",
+                "effect": "Put 1 random Weedle from your deck onto your Bench."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "Akira Komayama",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "1",
+        "rarity": "◊",
+        "description": "Often found in forests and grasslands.\nIt has a sharp, toxic barb of around two inches\non top of its head.",
+        "info": {
+            "national_pokedex": "0013",
+            "species": "Hairy Bug Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "3.2 kg / 7.1 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_002_EN.webp",
+        "type": "Pokémon",
+        "name": "Kakuna",
+        "energy": "Grass",
+        "hp": "80",
+        "category": "Stage 1",
+        "evolvesfrom": "Weedle",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Grass"
+                ],
+                "name": "String Shot",
+                "attack": "20",
+                "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "2",
+        "artist": "Yuka Morii",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "2",
+        "rarity": "◊◊",
+        "description": "Almost incapable of moving, this Pokémon can only\nharden its shell to protect itself when it is\nin danger.",
+        "info": {
+            "national_pokedex": "0014",
+            "species": "Cocoon Pokémon",
+            "height": "0.6 m / 2'00\"",
+            "weight": "10.0 kg / 22.0 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_003_EN.webp",
+        "type": "Pokémon",
+        "name": "Beedrill ex",
+        "energy": "Grass",
+        "hp": "170",
+        "category": "Stage 2",
+        "evolvesfrom": "Kakuna",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Grass",
+                    "Grass"
+                ],
+                "name": "Crushing Spear",
+                "attack": "80",
+                "effect": "Discard a random Energy from your opponent's Active Pokémon."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "PLANETA Igarashi",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "3",
+        "rarity": "◊◊◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_004_EN.webp",
+        "type": "Pokémon",
+        "name": "Pinsir",
+        "energy": "Grass",
+        "hp": "90",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Guillotine Rush",
+                "attack": "50+",
+                "effect": "Flip a coin until you get tails. This attack does 40 more damage for each heads."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "2",
+        "artist": "Satoshi Shirai",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "4",
+        "rarity": "◊",
+        "description": "These Pokémon judge one another based on\npincers. Thicker, more impressive pincers make\nfor more popularity with the opposite gender.",
+        "info": {
+            "national_pokedex": "0127",
+            "species": "Stag Beetle Pokémon",
+            "height": "1.5 m / 4'11\"",
+            "weight": "55.0 kg / 121.3 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_005_EN.webp",
+        "type": "Pokémon",
+        "name": "Sprigatito",
+        "energy": "Grass",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Grass"
+                ],
+                "name": "Cry for Help",
+                "attack": "",
+                "effect": "Put 1 random [G] Pokémon from your deck into your hand."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "mashu",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "5",
+        "rarity": "◊",
+        "description": "Its fluffy fur is similar in composition to plants.\nThis Pokémon frequently washes its face to keep\nit from drying out.",
+        "info": {
+            "national_pokedex": "0906",
+            "species": "Grass Cat Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "4.1 kg / 9.0 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_006_EN.webp",
+        "type": "Pokémon",
+        "name": "Floragato",
+        "energy": "Grass",
+        "hp": "90",
+        "category": "Stage 1",
+        "evolvesfrom": "Sprigatito",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Grass",
+                    "Grass"
+                ],
+                "name": "Slash",
+                "attack": "40",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "mashu",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "6",
+        "rarity": "◊◊",
+        "description": "Floragato deftly wields the vine hidden beneath\nits long fur, slamming the hard flower bud against\nits opponents.",
+        "info": {
+            "national_pokedex": "0907",
+            "species": "Grass Cat Pokémon",
+            "height": "0.9 m / 2'11\"",
+            "weight": "12.2 kg / 26.9 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_007_EN.webp",
+        "type": "Pokémon",
+        "name": "Meowscarada",
+        "energy": "Grass",
+        "hp": "140",
+        "category": "Stage 2",
+        "evolvesfrom": "Floragato",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Grass",
+                    "Grass"
+                ],
+                "name": "Fighting Claws",
+                "attack": "60+",
+                "effect": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "mashu",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "7",
+        "rarity": "◊◊◊",
+        "description": "This Pokémon uses the reflective fur lining its\ncape to camouflage the stem of its flower,\ncreating the illusion that the flower is floating.",
+        "info": {
+            "national_pokedex": "0908",
+            "species": "Magician Pokémon",
+            "height": "1.5 m / 4'11\"",
+            "weight": "31.2 kg / 68.8 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_008_EN.webp",
+        "type": "Pokémon",
+        "name": "Charmander",
+        "energy": "Fire",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fire"
+                ],
+                "name": "Combustion",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Water",
+        "retreat": "1",
+        "artist": "Megumi Mizutani",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "8",
+        "rarity": "◊",
+        "description": "It has a preference for hot things. When it rains,\nsteam is said to spout from the tip of its tail.",
+        "info": {
+            "national_pokedex": "0004",
+            "species": "Lizard Pokémon",
+            "height": "0.61 m / 2'00\"",
+            "weight": "8.5 kg / 18.7 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_009_EN.webp",
+        "type": "Pokémon",
+        "name": "Charmeleon",
+        "energy": "Fire",
+        "hp": "90",
+        "category": "Stage 1",
+        "evolvesfrom": "Charmander",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fire",
+                    "Fire"
+                ],
+                "name": "Combustion",
+                "attack": "40",
+                "effect": ""
+            }
+        ],
+        "weakness": "Water",
+        "retreat": "2",
+        "artist": "kodama",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "9",
+        "rarity": "◊◊",
+        "description": "It has a barbaric nature. In battle, it whips its\nfiery tail around and slashes away with sharp claws.",
+        "info": {
+            "national_pokedex": "0005",
+            "species": "Flame Pokémon",
+            "height": "1.1 m / 3'07\"",
+            "weight": "19.0 kg / 41.9 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_010_EN.webp",
+        "type": "Pokémon",
+        "name": "Charizard ex",
+        "energy": "Fire",
+        "hp": "180",
+        "category": "Stage 2",
+        "evolvesfrom": "Charmeleon",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fire"
+                ],
+                "name": "Stoke",
+                "attack": "",
+                "effect": "Take 3 [R] Energy from your Energy Zone and attach it to this Pokémon."
+            },
+            {
+                "energy_cost": [
+                    "Fire",
+                    "Fire",
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Steam Artillery",
+                "attack": "150",
+                "effect": ""
+            }
+        ],
+        "weakness": "Water",
+        "retreat": "3",
+        "artist": "PLANETA Igarashi",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "10",
+        "rarity": "◊◊◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_011_EN.webp",
+        "type": "Pokémon",
+        "name": "Magmar",
+        "energy": "Fire",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fire"
+                ],
+                "name": "Flare",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Water",
+        "retreat": "1",
+        "artist": "Miki Tanaka",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "11",
+        "rarity": "◊",
+        "description": "Magmar dispatches its prey with fire. But it\nregrets this habit once it realizes that it has\nburned its intended prey to a charred crisp.",
+        "info": {
+            "national_pokedex": "0126",
+            "species": "Spitfire Pokémon",
+            "height": "1.3 m / 4'03\"",
+            "weight": "44.5 kg / 98.1 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_012_EN.webp",
+        "type": "Pokémon",
+        "name": "Magmortar",
+        "energy": "Fire",
+        "hp": "120",
+        "category": "Stage 1",
+        "evolvesfrom": "Magmar",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Smoke Bomb",
+                "attack": "70",
+                "effect": "During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen."
+            }
+        ],
+        "weakness": "Water",
+        "retreat": "3",
+        "artist": "Miki Tanaka",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "12",
+        "rarity": "◊◊◊",
+        "description": "When Magmortar inhales deeply, the fire burning\nin its belly intensifies, rising in temperature to\nover 3,600 degrees Fahrenheit.",
+        "info": {
+            "national_pokedex": "0467",
+            "species": "Blast Pokémon",
+            "height": "1.6 m / 5'03\"",
+            "weight": "68.0 kg / 149.9 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_013_EN.webp",
+        "type": "Pokémon",
+        "name": "Paldean Tauros",
+        "energy": "Fire",
+        "hp": "110",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Blaze Tackle",
+                "attack": "80",
+                "effect": "This Pokémon also does 10 damage to itself."
+            }
+        ],
+        "weakness": "Water",
+        "retreat": "2",
+        "artist": "Minahamu",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "13",
+        "rarity": "◊◊",
+        "description": "When heated by fire energy, its horns can get\nhotter than 1,800 degrees Fahrenheit. Those\ngored by them will suffer both wounds and burns.",
+        "info": {
+            "national_pokedex": "0128",
+            "species": "Wild Bull Pokémon",
+            "height": "1.4 m / 4'07\"",
+            "weight": "88.4 kg / 194.9 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_014_EN.webp",
+        "type": "Pokémon",
+        "name": "Tentacool",
+        "energy": "Water",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water"
+                ],
+                "name": "Rain Splash",
+                "attack": "10",
+                "effect": ""
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "Shibuzoh.",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "14",
+        "rarity": "◊",
+        "description": "Tentacool is not a particularly strong swimmer.\nIt drifts across the surface of shallow seas as it\nsearches for prey.",
+        "info": {
+            "national_pokedex": "0072",
+            "species": "Jellyfish Pokémon",
+            "height": "0.9 m / 2'11\"",
+            "weight": "45.5 kg / 100.3 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_015_EN.webp",
+        "type": "Pokémon",
+        "name": "Tentacruel",
+        "energy": "Water",
+        "hp": "100",
+        "category": "Stage 1",
+        "evolvesfrom": "Tentacool",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water"
+                ],
+                "name": "Wave Splash",
+                "attack": "40",
+                "effect": ""
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "match",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "15",
+        "rarity": "◊◊",
+        "description": "When the red orbs on Tentacruel’s head glow\nbrightly, watch out. The Pokémon is about to\nfire off a burst of ultrasonic waves.",
+        "info": {
+            "national_pokedex": "0073",
+            "species": "Jellyfish Pokémon",
+            "height": "1.6 m / 5'03\"",
+            "weight": "55.0 kg / 121.3 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_016_EN.webp",
+        "type": "Pokémon",
+        "name": "Buizel",
+        "energy": "Water",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water"
+                ],
+                "name": "Water Gun",
+                "attack": "10",
+                "effect": ""
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "sui",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "16",
+        "rarity": "◊",
+        "description": "It inflates its flotation sac, keeping its face above\nwater in order to watch for prey movement.",
+        "info": {
+            "national_pokedex": "0418",
+            "species": "Sea Weasel Pokémon",
+            "height": "0.7 m / 2'04\"",
+            "weight": "29.5 kg / 65.0 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_017_EN.webp",
+        "type": "Pokémon",
+        "name": "Floatzel",
+        "energy": "Water",
+        "hp": "90",
+        "category": "Stage 1",
+        "evolvesfrom": "Buizel",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water"
+                ],
+                "name": "Water Arrow",
+                "attack": "",
+                "effect": "This attack does 30 damage to 1 of your opponent's Pokémon."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "Kouki Saitou",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "17",
+        "rarity": "◊◊",
+        "description": "With its flotation sac inflated, it can carry people\non its back. It deflates the sac before it dives.",
+        "info": {
+            "national_pokedex": "0419",
+            "species": "Sea Weasel Pokémon",
+            "height": "1.1 m / 3'07\"",
+            "weight": "33.5 kg / 73.9 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_018_EN.webp",
+        "type": "Pokémon",
+        "name": "Wiglett",
+        "energy": "Water",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water"
+                ],
+                "name": "Spring Out",
+                "attack": "",
+                "effect": "1 of your opponent's Pokémon is chosen at random. Do 30 damage to it."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "miki kudo",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "18",
+        "rarity": "◊",
+        "description": "This Pokémon can pick up the scent of a Veluza\njust over 65 feet away and will hide itself in\nthe sand.",
+        "info": {
+            "national_pokedex": "0960",
+            "species": "Garden Eel Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "1.8 kg / 4.0 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_019_EN.webp",
+        "type": "Pokémon",
+        "name": "Wugtrio ex",
+        "energy": "Water",
+        "hp": "140",
+        "category": "Stage 1",
+        "evolvesfrom": "Wiglett",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
+                "name": "Pop Out Throughout",
+                "attack": "",
+                "effect": "1 of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 50 damage to it."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "PLANETA Tsuji",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "19",
+        "rarity": "◊◊◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_020_EN.webp",
+        "type": "Pokémon",
+        "name": "Dondozo",
+        "energy": "Water",
+        "hp": "120",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water",
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Ocean Cyclone",
+                "attack": "80",
+                "effect": "This attack also does 10 damage to each of your opponent's Benched Pokémon."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "3",
+        "artist": "Tomowaka",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "20",
+        "rarity": "◊◊◊",
+        "description": "This Pokémon is a glutton, but it’s bad at getting\nfood. It teams up with a Tatsugiri to catch prey.",
+        "info": {
+            "national_pokedex": "0977",
+            "species": "Big Catfish Pokémon",
+            "height": "12.0 m / 39'04\"",
+            "weight": "220.0 kg / 485.0 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_021_EN.webp",
+        "type": "Pokémon",
+        "name": "Tatsugiri",
+        "energy": "Water",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "ability": {
+            "title": "Retreat Directive",
+            "effect": "Your Active Dondozo has no Retreat Cost."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water"
+                ],
+                "name": "Rain Splash",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "Tomowaka",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "21",
+        "rarity": "◊◊",
+        "description": "This is a small dragon Pokémon. It lives inside the\nmouth of Dondozo to protect itself from enemies\non the outside.",
+        "info": {
+            "national_pokedex": "0978",
+            "species": "Mimicry Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "8.0 kg / 17.6 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_022_EN.webp",
+        "type": "Pokémon",
+        "name": "Pikachu ex",
+        "energy": "Lightning",
+        "hp": "120",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Lightning"
+                ],
+                "name": "Thunderbolt",
+                "attack": "150",
+                "effect": "Discard all Energy from this Pokémon."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "PLANETA Igarashi",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "22",
+        "rarity": "◊◊◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_023_EN.webp",
+        "type": "Pokémon",
+        "name": "Voltorb",
+        "energy": "Lightning",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Lightning"
+                ],
+                "name": "Lightning Ball",
+                "attack": "10",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Masakazu Fukuda",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "23",
+        "rarity": "◊",
+        "description": "It rolls to move. If the ground is uneven, a sudden\njolt from hitting a bump can cause it to explode.",
+        "info": {
+            "national_pokedex": "0100",
+            "species": "Ball Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "10.4 kg / 22.9 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_024_EN.webp",
+        "type": "Pokémon",
+        "name": "Electrode",
+        "energy": "Lightning",
+        "hp": "90",
+        "category": "Stage 1",
+        "evolvesfrom": "Voltorb",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Lightning",
+                    "Lightning"
+                ],
+                "name": "Tumbling Attack",
+                "attack": "50+",
+                "effect": "Flip a coin. If heads, this attack does 30 more damage."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Shigenori Negishi",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "24",
+        "rarity": "◊◊",
+        "description": "The more energy it charges up, the faster\nit gets. But this also makes it more likely\nto explode.",
+        "info": {
+            "national_pokedex": "0101",
+            "species": "Ball Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "66.6 kg / 146.8 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_025_EN.webp",
+        "type": "Pokémon",
+        "name": "Pachirisu",
+        "energy": "Lightning",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Lightning"
+                ],
+                "name": "Plasma",
+                "attack": "10",
+                "effect": "Take a [L] Energy from your Energy Zone and attach it to 1 of your Benched [L] Pokémon."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "imoniii",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "25",
+        "rarity": "◊◊",
+        "description": "It’s one of the kinds of Pokémon with electric\ncheek pouches. It shoots charges from its tail.",
+        "info": {
+            "national_pokedex": "0417",
+            "species": "EleSquirrel Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "3.9 kg / 8.6 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_026_EN.webp",
+        "type": "Pokémon",
+        "name": "Pawmi",
+        "energy": "Lightning",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Lightning"
+                ],
+                "name": "Punch",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Saboteri",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "26",
+        "rarity": "◊",
+        "description": "It has underdeveloped electric sacs on its cheeks.\nThese sacs can produce electricity only if Pawmi\nrubs them furiously with the pads on its forepaws.",
+        "info": {
+            "national_pokedex": "0921",
+            "species": "Mouse Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "2.5 kg / 5.5 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_027_EN.webp",
+        "type": "Pokémon",
+        "name": "Pawmo",
+        "energy": "Lightning",
+        "hp": "90",
+        "category": "Stage 1",
+        "evolvesfrom": "Pawmi",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Lightning",
+                    "Lightning"
+                ],
+                "name": "Punch",
+                "attack": "40",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Saboteri",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "27",
+        "rarity": "◊◊",
+        "description": "When its group is attacked, Pawmo is the first\nto leap into battle, defeating enemies with a\nfighting technique that utilizes electric shocks.",
+        "info": {
+            "national_pokedex": "0922",
+            "species": "Mouse Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "6.5 kg / 14.3 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_028_EN.webp",
+        "type": "Pokémon",
+        "name": "Pawmot",
+        "energy": "Lightning",
+        "hp": "140",
+        "category": "Stage 2",
+        "evolvesfrom": "Pawmo",
+        "ability": {
+            "title": "Counterattack",
+            "effect": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Lightning",
+                    "Lightning"
+                ],
+                "name": "Electric Punch",
+                "attack": "70",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "0",
+        "artist": "Saboteri",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "28",
+        "rarity": "◊◊◊",
+        "description": "This Pokémon normally is slow to react, but once\nit enters battle, it will strike down its enemies\nwith lightning-fast movements.",
+        "info": {
+            "national_pokedex": "0923",
+            "species": "Hands-On Pokémon",
+            "height": "0.9 m / 2'11\"",
+            "weight": "41.0 kg / 90.1 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_029_EN.webp",
+        "type": "Pokémon",
+        "name": "Abra",
+        "energy": "Psychic",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Psychic"
+                ],
+                "name": "Psyshot",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Darkness",
+        "retreat": "1",
+        "artist": "Mousho",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "29",
+        "rarity": "◊",
+        "description": "This Pokémon uses its psychic powers while it\nsleeps. The contents of Abra’s dreams affect the\npowers that the Pokémon wields.",
+        "info": {
+            "national_pokedex": "0063",
+            "species": "Psi Pokémon",
+            "height": "0.9 m / 2'11\"",
+            "weight": "19.5 kg / 43.0 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_030_EN.webp",
+        "type": "Pokémon",
+        "name": "Kadabra",
+        "energy": "Psychic",
+        "hp": "80",
+        "category": "Stage 1",
+        "evolvesfrom": "Abra",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Psychic"
+                ],
+                "name": "Psyshot",
+                "attack": "30",
+                "effect": ""
+            }
+        ],
+        "weakness": "Darkness",
+        "retreat": "1",
+        "artist": "Mousho",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "30",
+        "rarity": "◊◊",
+        "description": "Using its psychic power, Kadabra levitates as it\nsleeps. It uses its springy tail as a pillow.",
+        "info": {
+            "national_pokedex": "0064",
+            "species": "Psi Pokémon",
+            "height": "1.3 m / 4'03\"",
+            "weight": "56.7 kg / 124.6 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_031_EN.webp",
+        "type": "Pokémon",
+        "name": "Alakazam",
+        "energy": "Psychic",
+        "hp": "130",
+        "category": "Stage 2",
+        "evolvesfrom": "Kadabra",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Psychic",
+                    "Psychic"
+                ],
+                "name": "Psychic Suppression",
+                "attack": "80",
+                "effect": "This attack also does 20 damage to each of your opponent's Benched Pokémon that has any Energy attached."
+            }
+        ],
+        "weakness": "Darkness",
+        "retreat": "1",
+        "artist": "Mousho",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "31",
+        "rarity": "◊◊◊",
+        "description": "It has an incredibly high level of intelligence.\nSome say that Alakazam remembers everything\nthat ever happens to it, from birth till death.",
+        "info": {
+            "national_pokedex": "0065",
+            "species": "Psi Pokémon",
+            "height": "1.5 m / 4'11\"",
+            "weight": "48.0 kg / 105.8 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_032_EN.webp",
+        "type": "Pokémon",
+        "name": "Mr. Mime",
+        "energy": "Psychic",
+        "hp": "90",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Juggling",
+                "attack": "20x",
+                "effect": "Flip 4 coins. This attack does 20 damage for each heads."
+            }
+        ],
+        "weakness": "Darkness",
+        "retreat": "1",
+        "artist": "Atsuko Nishida",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "32",
+        "rarity": "◊",
+        "description": "The broadness of its hands may be no\ncoincidence—many scientists believe its palms\nbecame enlarged specifically for pantomiming.",
+        "info": {
+            "national_pokedex": "0122",
+            "species": "Barrier Pokémon",
+            "height": "1.3 m / 4'03\"",
+            "weight": "54.5 kg / 120.2 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_033_EN.webp",
+        "type": "Pokémon",
+        "name": "Drifloon",
+        "energy": "Psychic",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Psychic"
+                ],
+                "name": "Ram",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Darkness",
+        "retreat": "1",
+        "artist": "kodama",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "33",
+        "rarity": "◊",
+        "description": "It is whispered that any child who mistakes\nDrifloon for a balloon and holds on to it could\nwind up missing.",
+        "info": {
+            "national_pokedex": "0425",
+            "species": "Balloon Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "1.2 kg / 2.6 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_034_EN.webp",
+        "type": "Pokémon",
+        "name": "Drifblim",
+        "energy": "Psychic",
+        "hp": "90",
+        "category": "Stage 1",
+        "evolvesfrom": "Drifloon",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Psychic"
+                ],
+                "name": "Gust",
+                "attack": "40",
+                "effect": ""
+            }
+        ],
+        "weakness": "Darkness",
+        "retreat": "0",
+        "artist": "Hajime Kusajima",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "34",
+        "rarity": "◊◊",
+        "description": "It can generate and release gas within its body.\nThat’s how it can control the altitude of its drift.",
+        "info": {
+            "national_pokedex": "0426",
+            "species": "Blimp Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "15.0 kg / 33.1 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_035_EN.webp",
+        "type": "Pokémon",
+        "name": "Giratina ex",
+        "energy": "Psychic",
+        "hp": "150",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "ability": {
+            "title": "Broken-Space Bellow",
+            "effect": "Once during your turn, you may take a [P] Energy from your Energy Zone and attach it to this Pokémon. If you use this Ability, your turn ends."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Chaotic Impact",
+                "attack": "130",
+                "effect": "This Pokémon also does 20 damage to itself."
+            }
+        ],
+        "weakness": "Darkness",
+        "retreat": "2",
+        "artist": "PLANETA Yamashita",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "35",
+        "rarity": "◊◊◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_036_EN.webp",
+        "type": "Pokémon",
+        "name": "Gimmighoul",
+        "energy": "Psychic",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Chest-ouflage",
+                "attack": "",
+                "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+            }
+        ],
+        "weakness": "Darkness",
+        "retreat": "1",
+        "artist": "HYOGONOSUKE",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "36",
+        "rarity": "◊",
+        "description": "This Pokémon was born inside a treasure chest\nabout 1,500 years ago. It sucks the life-force\nout of scoundrels who try to steal the treasure.",
+        "info": {
+            "national_pokedex": "0999",
+            "species": "Coin Chest Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "5.0 kg / 11.0 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_037_EN.webp",
+        "type": "Pokémon",
+        "name": "Machop",
+        "energy": "Fighting",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fighting"
+                ],
+                "name": "Low Kick",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Psychic",
+        "retreat": "1",
+        "artist": "Mina Nakai",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "37",
+        "rarity": "◊",
+        "description": "Its whole body is composed of muscles.\nEven though it’s the size of a human child, it can\nhurl 100 grown-ups.",
+        "info": {
+            "national_pokedex": "0066",
+            "species": "Superpower Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "19.5 kg / 43.0 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_038_EN.webp",
+        "type": "Pokémon",
+        "name": "Machoke",
+        "energy": "Fighting",
+        "hp": "100",
+        "category": "Stage 1",
+        "evolvesfrom": "Machop",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Pummel",
+                "attack": "30+",
+                "effect": "Flip a coin. If heads, this attack does 30 more damage."
+            }
+        ],
+        "weakness": "Psychic",
+        "retreat": "2",
+        "artist": "Kouki Saitou",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "38",
+        "rarity": "◊",
+        "description": "Its muscular body is so powerful, it must wear a\npower-save belt to be able to regulate\nits motions.",
+        "info": {
+            "national_pokedex": "0067",
+            "species": "Superpower Pokémon",
+            "height": "1.5 m / 4'11\"",
+            "weight": "70.3 kg / 155.0 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_039_EN.webp",
+        "type": "Pokémon",
+        "name": "Machamp",
+        "energy": "Fighting",
+        "hp": "150",
+        "category": "Stage 2",
+        "evolvesfrom": "Machoke",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Power Press",
+                "attack": "70+",
+                "effect": "If this Pokémon has at least 2 extra [F] Energy attached, this attack does 50 more damage."
+            }
+        ],
+        "weakness": "Psychic",
+        "retreat": "2",
+        "artist": "Kouki Saitou",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "39",
+        "rarity": "◊◊◊",
+        "description": "It quickly swings its four arms to rock its\nopponents with ceaseless punches and chops\nfrom all angles.",
+        "info": {
+            "national_pokedex": "0068",
+            "species": "Superpower Pokémon",
+            "height": "1.6 m / 5'03\"",
+            "weight": "130.0 kg / 286.6 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_040_EN.webp",
+        "type": "Pokémon",
+        "name": "Hitmonlee",
+        "energy": "Fighting",
+        "hp": "80",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fighting"
+                ],
+                "name": "Kick",
+                "attack": "30",
+                "effect": ""
+            }
+        ],
+        "weakness": "Psychic",
+        "retreat": "1",
+        "artist": "Tomokazu Komiya",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "40",
+        "rarity": "◊",
+        "description": "This amazing Pokémon has an awesome sense of\nbalance. It can kick in succession from any position.",
+        "info": {
+            "national_pokedex": "0106",
+            "species": "Kicking Pokémon",
+            "height": "1.5 m / 4'11\"",
+            "weight": "49.8 kg / 109.8 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_041_EN.webp",
+        "type": "Pokémon",
+        "name": "Hitmonchan",
+        "energy": "Fighting",
+        "hp": "90",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Magnum Punch",
+                "attack": "90",
+                "effect": ""
+            }
+        ],
+        "weakness": "Psychic",
+        "retreat": "1",
+        "artist": "Tomokazu Komiya",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "41",
+        "rarity": "◊",
+        "description": "Its punches slice the air. They are launched at\nsuch high speed, even a slight graze could cause\na burn.",
+        "info": {
+            "national_pokedex": "0107",
+            "species": "Punching Pokémon",
+            "height": "1.4 m / 4'07\"",
+            "weight": "50.2 kg / 110.7 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_042_EN.webp",
+        "type": "Pokémon",
+        "name": "Riolu",
+        "energy": "Fighting",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Punch",
+                "attack": "40",
+                "effect": ""
+            }
+        ],
+        "weakness": "Psychic",
+        "retreat": "1",
+        "artist": "You Iribi",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "42",
+        "rarity": "◊",
+        "description": "They communicate with one another using their\nauras. They are able to run all through the night.",
+        "info": {
+            "national_pokedex": "0447",
+            "species": "Emanation Pokémon",
+            "height": "0.7 m / 2'04\"",
+            "weight": "20.2 kg / 44.5 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_043_EN.webp",
+        "type": "Pokémon",
+        "name": "Lucario ex",
+        "energy": "Fighting",
+        "hp": "150",
+        "category": "Stage 1",
+        "evolvesfrom": "Riolu",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Aura Sphere",
+                "attack": "100",
+                "effect": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon."
+            }
+        ],
+        "weakness": "Psychic",
+        "retreat": "2",
+        "artist": "PLANETA CG Works",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "43",
+        "rarity": "◊◊◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_044_EN.webp",
+        "type": "Pokémon",
+        "name": "Flamigo",
+        "energy": "Fighting",
+        "hp": "80",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Double Kick",
+                "attack": "50x",
+                "effect": "Flip 2 coins. This attack does 50 damage for each heads."
+            }
+        ],
+        "weakness": "Psychic",
+        "retreat": "1",
+        "artist": "REND",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "44",
+        "rarity": "◊◊",
+        "description": "This Pokémon apparently ties the base of its neck\ninto a knot so that energy stored in its belly does\nnot escape from its beak.",
+        "info": {
+            "national_pokedex": "0973",
+            "species": "Synchronize Pokémon",
+            "height": "1.6 m / 5'03\"",
+            "weight": "37.0 kg / 81.6 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_045_EN.webp",
+        "type": "Pokémon",
+        "name": "Ekans",
+        "energy": "Darkness",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Darkness",
+                    "Colorless"
+                ],
+                "name": "Ram",
+                "attack": "30",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Midori Harada",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "45",
+        "rarity": "◊",
+        "description": "By dislocating its jaw, it can swallow prey larger\nthan itself. After a meal, it curls up and rests.",
+        "info": {
+            "national_pokedex": "0023",
+            "species": "Snake Pokémon",
+            "height": "2.0 m / 6'07\"",
+            "weight": "6.9 kg / 15.2 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_046_EN.webp",
+        "type": "Pokémon",
+        "name": "Arbok",
+        "energy": "Darkness",
+        "hp": "110",
+        "category": "Stage 1",
+        "evolvesfrom": "Ekans",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Darkness",
+                    "Darkness",
+                    "Colorless"
+                ],
+                "name": "Venomous Fang",
+                "attack": "70",
+                "effect": "Your opponent's Active Pokémon is now Poisoned."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "2",
+        "artist": "Midori Harada",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "46",
+        "rarity": "◊◊",
+        "description": "After stunning its opponents with the pattern\non its stomach, it quickly wraps them up in its\nbody and waits for them to stop moving.",
+        "info": {
+            "national_pokedex": "0024",
+            "species": "Cobra Pokémon",
+            "height": "3.5 m / 11'06\"",
+            "weight": "65.0 kg / 143.3 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_047_EN.webp",
+        "type": "Pokémon",
+        "name": "Paldean Wooper",
+        "energy": "Darkness",
+        "hp": "50",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Darkness"
+                ],
+                "name": "Poison Jab",
+                "attack": "10",
+                "effect": "Your opponent's Active Pokémon is now Poisoned."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Mori Yuu",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "47",
+        "rarity": "◊",
+        "description": "After losing a territorial struggle, Wooper began\nliving on land. The Pokémon changed over time,\ndeveloping a poisonous film to protect its body.",
+        "info": {
+            "national_pokedex": "0194",
+            "species": "Water Fish Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "8.5 kg / 18.7 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_048_EN.webp",
+        "type": "Pokémon",
+        "name": "Paldean Clodsire ex",
+        "energy": "Darkness",
+        "hp": "160",
+        "category": "Stage 1",
+        "evolvesfrom": "Paldean Wooper",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Darkness",
+                    "Darkness"
+                ],
+                "name": "Venoshock",
+                "attack": "60+",
+                "effect": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "3",
+        "artist": "PLANETA Mochizuki",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "48",
+        "rarity": "◊◊◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_049_EN.webp",
+        "type": "Pokémon",
+        "name": "Spiritomb",
+        "energy": "Darkness",
+        "hp": "80",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Darkness"
+                ],
+                "name": "Confuse Ray",
+                "attack": "20",
+                "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Confused."
+            }
+        ],
+        "weakness": "Grass",
+        "retreat": "1",
+        "artist": "Shin Nagasawa",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "49",
+        "rarity": "◊◊",
+        "description": "Its constant mischief and misdeeds resulted\nin it being bound to an Odd Keystone by a\nmysterious spell.",
+        "info": {
+            "national_pokedex": "0442",
+            "species": "Forbidden Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "108.0 kg / 238.1 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_050_EN.webp",
+        "type": "Pokémon",
+        "name": "Shroodle",
+        "energy": "Darkness",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Darkness"
+                ],
+                "name": "Gnaw",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Krgc",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "50",
+        "rarity": "◊",
+        "description": "Though usually a mellow Pokémon, it will sink its\nsharp, poison-soaked front teeth into any that\nanger it, causing paralysis in the object of its ire.",
+        "info": {
+            "national_pokedex": "0944",
+            "species": "Toxic Mouse Pokémon",
+            "height": "0.2 m / 0'08\"",
+            "weight": "0.7 kg / 1.5 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_051_EN.webp",
+        "type": "Pokémon",
+        "name": "Grafaiai",
+        "energy": "Darkness",
+        "hp": "90",
+        "category": "Stage 1",
+        "evolvesfrom": "Shroodle",
+        "ability": {
+            "title": "Poison Coating",
+            "effect": "Once during your turn, you may flip a coin. If heads, your opponent's Active Pokémon is now Poisoned."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Darkness",
+                    "Darkness"
+                ],
+                "name": "Bite",
+                "attack": "40",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Krgc",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "51",
+        "rarity": "◊◊◊",
+        "description": "The color of the poisonous saliva depends on\nwhat the Pokémon eats. Grafaiai covers its fingers\nin its saliva and draws patterns on trees in forests.",
+        "info": {
+            "national_pokedex": "0945",
+            "species": "Toxic Monkey Pokémon",
+            "height": "0.7 m / 2'04\"",
+            "weight": "27.2 kg / 60.0 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_052_EN.webp",
+        "type": "Pokémon",
+        "name": "Tinkatink",
+        "energy": "Metal",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Metal"
+                ],
+                "name": "Corkscrew Punch",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "miki kudo",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "52",
+        "rarity": "◊",
+        "description": "It swings its handmade hammer around to protect\nitself, but the hammer is often stolen by Pokémon\nthat eat metal.",
+        "info": {
+            "national_pokedex": "0957",
+            "species": "Metalsmith Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "8.9 kg / 19.6 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_053_EN.webp",
+        "type": "Pokémon",
+        "name": "Tinkatuff",
+        "energy": "Metal",
+        "hp": "90",
+        "category": "Stage 1",
+        "evolvesfrom": "Tinkatink",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Metal",
+                    "Metal"
+                ],
+                "name": "Tenacious Hammer",
+                "attack": "30+",
+                "effect": "Flip a coin. If heads, this attack does 30 more damage."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "2",
+        "artist": "miki kudo",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "53",
+        "rarity": "◊◊",
+        "description": "This Pokémon will attack groups of Pawniard and\nBisharp, gathering metal from them in order to\ncreate a large and sturdy hammer.",
+        "info": {
+            "national_pokedex": "0958",
+            "species": "Hammer Pokémon",
+            "height": "0.7 m / 2'04\"",
+            "weight": "59.1 kg / 130.3 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_054_EN.webp",
+        "type": "Pokémon",
+        "name": "Tinkaton ex",
+        "energy": "Metal",
+        "hp": "170",
+        "category": "Stage 2",
+        "evolvesfrom": "Tinkatuff",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Metal",
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Terrific Thumping",
+                "attack": "80+",
+                "effect": "Flip a coin. If heads, this attack does 80 more damage."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "2",
+        "artist": "PLANETA Mochizuki",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "54",
+        "rarity": "◊◊◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_055_EN.webp",
+        "type": "Pokémon",
+        "name": "Varoom",
+        "energy": "Metal",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Metal"
+                ],
+                "name": "Headbutt",
+                "attack": "10",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "Souichirou Gunjima",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "55",
+        "rarity": "◊",
+        "description": "It is said that this Pokémon was born when an\nunknown poison Pokémon entered and inspirited\nan engine left at a scrap-processing factory.",
+        "info": {
+            "national_pokedex": "0965",
+            "species": "Single-Cyl Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "35 kg / 77.2 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_056_EN.webp",
+        "type": "Pokémon",
+        "name": "Revavroom",
+        "energy": "Metal",
+        "hp": "110",
+        "category": "Stage 1",
+        "evolvesfrom": "Varoom",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Metal",
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Spinning Drift",
+                "attack": "70",
+                "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "2",
+        "artist": "Souichirou Gunjima",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "56",
+        "rarity": "◊◊",
+        "description": "It creates a gas out of poison and minerals from\nrocks. It then detonates the gas in its cylinders—\nnow numbering eight—to generate energy.",
+        "info": {
+            "national_pokedex": "0966",
+            "species": "Multi-Cyl Pokémon",
+            "height": "1.8 m / 5'11\"",
+            "weight": "120.0 kg / 264.6 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_057_EN.webp",
+        "type": "Pokémon",
+        "name": "Gholdengo",
+        "energy": "Metal",
+        "hp": "120",
+        "category": "Stage 1",
+        "evolvesfrom": "Gimmighoul",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Metal",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Scintillating Surfing",
+                "attack": "50x",
+                "effect": "Flip a coin for each [M] Energy attached to this Pokémon. This attack does 50 damage for each heads."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "2",
+        "artist": "HYOGONOSUKE",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "57",
+        "rarity": "◊◊◊",
+        "description": "Its body seems to be made up of 1,000 coins.\nThis Pokémon gets along well with others and is\nquick to make friends with anybody.",
+        "info": {
+            "national_pokedex": "1000",
+            "species": "Coin Entity Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "30 kg / 66.1 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_058_EN.webp",
+        "type": "Pokémon",
+        "name": "Rattata",
+        "energy": "Colorless",
+        "hp": "50",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Tackle",
+                "attack": "10",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Eri Yamaki",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "58",
+        "rarity": "◊",
+        "description": "Its incisors grow continuously throughout its life.\nIf its incisors get too long, this Pokémon\nbecomes unable to eat, and it starves to death.",
+        "info": {
+            "national_pokedex": "0019",
+            "species": "Mouse Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "3.5 kg / 7.7 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_059_EN.webp",
+        "type": "Pokémon",
+        "name": "Raticate",
+        "energy": "Colorless",
+        "hp": "90",
+        "category": "Stage 1",
+        "evolvesfrom": "Rattata",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Tackle",
+                "attack": "50",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Kyoko Umemoto",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "59",
+        "rarity": "◊",
+        "description": "People say that it fled from its enemies by\nusing its small webbed hind feet to swim\nfrom island to island in Alola.",
+        "info": {
+            "national_pokedex": "0020",
+            "species": "Mouse Pokémon",
+            "height": "0.7 m / 2'04\"",
+            "weight": "18.5 kg / 40.8 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_060_EN.webp",
+        "type": "Pokémon",
+        "name": "Jigglypuff",
+        "energy": "Colorless",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Rollout",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Kanako Eo",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "60",
+        "rarity": "◊",
+        "description": "It hugely inflates its stomach and sings a\nmysterious melody. If you hear this melody,\nyou’ll become sleepy right away.",
+        "info": {
+            "national_pokedex": "0039",
+            "species": "Balloon Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "5.5 kg / 12.1 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_061_EN.webp",
+        "type": "Pokémon",
+        "name": "Wigglytuff",
+        "energy": "Colorless",
+        "hp": "100",
+        "category": "Stage 1",
+        "evolvesfrom": "Jigglypuff",
+        "ability": {
+            "title": "Comforting Song",
+            "effect": "Once during your turn, you may heal 20 damage from your Active Pokémon."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Gentle Slap",
+                "attack": "50",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "2",
+        "artist": "miki kudo",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "61",
+        "rarity": "◊◊◊",
+        "description": "It has a very fine fur. Take care not to make it\nangry, or it may inflate steadily and hit with a\nbody slam.",
+        "info": {
+            "national_pokedex": "0040",
+            "species": "Balloon Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "12.0 kg / 26.5 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_062_EN.webp",
+        "type": "Pokémon",
+        "name": "Lickitung",
+        "energy": "Colorless",
+        "hp": "80",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Rollout",
+                "attack": "30",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "2",
+        "artist": "Sumiyoshi Kizuki",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "62",
+        "rarity": "◊",
+        "description": "If this Pokémon’s sticky saliva gets on you and\nyou don’t clean it off, an intense itch will set in.\nThe itch won’t go away, either.",
+        "info": {
+            "national_pokedex": "0108",
+            "species": "Licking Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "65.5 kg / 144.4 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_063_EN.webp",
+        "type": "Pokémon",
+        "name": "Lickilicky",
+        "energy": "Colorless",
+        "hp": "130",
+        "category": "Stage 1",
+        "evolvesfrom": "Lickitung",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Rollout",
+                "attack": "70",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "3",
+        "artist": "Suwama Chiaki",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "63",
+        "rarity": "◊",
+        "description": "Lickilicky’s strange tongue can stretch to many\ntimes the length of its body. No one has figured\nout how Lickilicky’s tongue can stretch so far.",
+        "info": {
+            "national_pokedex": "0463",
+            "species": "Licking Pokémon",
+            "height": "1.7 m / 5'07\"",
+            "weight": "140.0 kg / 308.6 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_064_EN.webp",
+        "type": "Pokémon",
+        "name": "Bidoof",
+        "energy": "Colorless",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Headbutt",
+                "attack": "30",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "2",
+        "artist": "Sekio",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "64",
+        "rarity": "◊",
+        "description": "With nerves of steel, nothing can perturb it. It is\nmore agile and active than it appears.",
+        "info": {
+            "national_pokedex": "0399",
+            "species": "Plump Mouse Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "20.0 kg / 44.1 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_065_EN.webp",
+        "type": "Pokémon",
+        "name": "Bibarel ex",
+        "energy": "Colorless",
+        "hp": "160",
+        "category": "Stage 1",
+        "evolvesfrom": "Bidoof",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Carefree Press",
+                "attack": "100",
+                "effect": "Heal 30 damage from this Pokémon."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "3",
+        "artist": "PLANETA CG Works",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "65",
+        "rarity": "◊◊◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_066_EN.webp",
+        "type": "Pokémon",
+        "name": "Buneary",
+        "energy": "Colorless",
+        "hp": "50",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Pound",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Kagemaru Himeno",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "66",
+        "rarity": "◊",
+        "description": "If both of Buneary’s ears are rolled up, something\nis wrong with its body or mind. It’s a sure sign the\nPokémon is in need of care.",
+        "info": {
+            "national_pokedex": "0427",
+            "species": "Rabbit Pokémon",
+            "height": "0.7 m / 1'04\"",
+            "weight": "5.5 kg / 12.1 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_067_EN.webp",
+        "type": "Pokémon",
+        "name": "Lopunny",
+        "energy": "Colorless",
+        "hp": "100",
+        "category": "Stage 1",
+        "evolvesfrom": "Buneary",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Hopping Shot",
+                "attack": "30",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Minahamu",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "67",
+        "rarity": "◊",
+        "description": "Lopunny is constantly monitoring its surroundings.\nIf danger approaches, this Pokémon responds\nwith superdestructive kicks.",
+        "info": {
+            "national_pokedex": "0428",
+            "species": "Rabbit Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "33.3 kg / 73.4 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_068_EN.webp",
+        "type": "Pokémon",
+        "name": "Cyclizar",
+        "energy": "Colorless",
+        "hp": "80",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Overacceleration",
+                "attack": "20",
+                "effect": "During your next turn, this Pokémon's Overacceleration attack does +20 damage."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "HAGIYA Kaoru",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "68",
+        "rarity": "◊◊",
+        "description": "Apparently Cyclizar has been allowing people to\nride on its back since ancient times. Depictions of\nthis have been found in 10,000-year-old murals.",
+        "info": {
+            "national_pokedex": "0967",
+            "species": "Mount Pokémon",
+            "height": "1.6 m / 5'03\"",
+            "weight": "63.0 kg / 138.9 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_069_EN.webp",
+        "type": "Trainer",
+        "name": "Iono",
+        "category": "Supporter",
+        "effect": "Each player shuffles the cards in their hand into their deck, then draws that many cards.",
+        "artist": "saino misaki",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "69",
+        "rarity": "◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_070_EN.webp",
+        "type": "Trainer",
+        "name": "Pokémon Center Lady",
+        "category": "Supporter",
+        "effect": "Heal 30 damage from 1 of your Pokémon, and it recovers from all Special Conditions.",
+        "artist": "Susumu Maeya",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "70",
+        "rarity": "◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_071_EN.webp",
+        "type": "Trainer",
+        "name": "Red",
+        "category": "Supporter",
+        "effect": "During this turn, attacks used by your Pokémon do +20 damage to your opponent's Active Pokémon ex.",
+        "artist": "Teeziro",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "71",
+        "rarity": "◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_072_EN.webp",
+        "type": "Trainer",
+        "name": "Team Rocket Grunt",
+        "category": "Supporter",
+        "effect": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon.",
+        "artist": "kantaro",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "72",
+        "rarity": "◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_073_EN.webp",
+        "type": "Pokémon",
+        "name": "Meowscarada",
+        "energy": "Grass",
+        "hp": "140",
+        "category": "Stage 2",
+        "evolvesfrom": "Floragato",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Grass",
+                    "Grass"
+                ],
+                "name": "Fighting Claws",
+                "attack": "60+",
+                "effect": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "danciao",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "73",
+        "rarity": "☆",
+        "description": "This Pokémon uses the reflective fur lining its\ncape to camouflage the stem of its flower,\ncreating the illusion that the flower is floating.",
+        "info": {
+            "national_pokedex": "0908",
+            "species": "Magician Pokémon",
+            "height": "1.5 m / 4'11\"",
+            "weight": "31.2 kg / 68.8 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_074_EN.webp",
+        "type": "Pokémon",
+        "name": "Buizel",
+        "energy": "Water",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water"
+                ],
+                "name": "Water Gun",
+                "attack": "10",
+                "effect": ""
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "Shimaris Yukichi",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "74",
+        "rarity": "☆",
+        "description": "It inflates its flotation sac, keeping its face above\nwater in order to watch for prey movement.",
+        "info": {
+            "national_pokedex": "0418",
+            "species": "Sea Weasel Pokémon",
+            "height": "0.7 m / 2'04\"",
+            "weight": "29.5 kg / 65.0 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_075_EN.webp",
+        "type": "Pokémon",
+        "name": "Tatsugiri",
+        "energy": "Water",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "ability": {
+            "title": "Retreat Directive",
+            "effect": "Your Active Dondozo has no Retreat Cost."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water"
+                ],
+                "name": "Rain Splash",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "cochi8i",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "75",
+        "rarity": "☆",
+        "description": "This is a small dragon Pokémon. It lives inside the\nmouth of Dondozo to protect itself from enemies\non the outside.",
+        "info": {
+            "national_pokedex": "0978",
+            "species": "Mimicry Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "8.0 kg / 17.6 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_076_EN.webp",
+        "type": "Pokémon",
+        "name": "Grafaiai",
+        "energy": "Darkness",
+        "hp": "90",
+        "category": "Stage 1",
+        "evolvesfrom": "Shroodle",
+        "ability": {
+            "title": "Poison Coating",
+            "effect": "Once during your turn, you may flip a coin. If heads, your opponent's Active Pokémon is now Poisoned."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Darkness",
+                    "Darkness"
+                ],
+                "name": "Bite",
+                "attack": "40",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Teeziro",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "76",
+        "rarity": "☆",
+        "description": "The color of the poisonous saliva depends on\nwhat the Pokémon eats. Grafaiai covers its fingers\nin its saliva and draws patterns on trees in forests.",
+        "info": {
+            "national_pokedex": "0945",
+            "species": "Toxic Monkey Pokémon",
+            "height": "0.7 m / 2'04\"",
+            "weight": "27.2 kg / 60.0 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_077_EN.webp",
+        "type": "Pokémon",
+        "name": "Gholdengo",
+        "energy": "Metal",
+        "hp": "120",
+        "category": "Stage 1",
+        "evolvesfrom": "Gimmighoul",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Metal",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Scintillating Surfing",
+                "attack": "50x",
+                "effect": "Flip a coin for each [M] Energy attached to this Pokémon. This attack does 50 damage for each heads."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "2",
+        "artist": "Jerky",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "77",
+        "rarity": "☆",
+        "description": "Its body seems to be made up of 1,000 coins.\nThis Pokémon gets along well with others and is\nquick to make friends with anybody.",
+        "info": {
+            "national_pokedex": "1000",
+            "species": "Coin Entity Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "30 kg / 66.1 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_078_EN.webp",
+        "type": "Pokémon",
+        "name": "Wigglytuff",
+        "energy": "Colorless",
+        "hp": "100",
+        "category": "Stage 1",
+        "evolvesfrom": "Jigglypuff",
+        "ability": {
+            "title": "Comforting Song",
+            "effect": "Once during your turn, you may heal 20 damage from your Active Pokémon."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Gentle Slap",
+                "attack": "50",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "2",
+        "artist": "5ban Graphics",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "78",
+        "rarity": "☆",
+        "description": "It has a very fine fur. Take care not to make it\nangry, or it may inflate steadily and hit with a\nbody slam.",
+        "info": {
+            "national_pokedex": "0040",
+            "species": "Balloon Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "12.0 kg / 26.5 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_079_EN.webp",
+        "type": "Pokémon",
+        "name": "Beedrill ex",
+        "energy": "Grass",
+        "hp": "170",
+        "category": "Stage 2",
+        "evolvesfrom": "Kakuna",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Grass",
+                    "Grass"
+                ],
+                "name": "Crushing Spear",
+                "attack": "80",
+                "effect": "Discard a random Energy from your opponent's Active Pokémon."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "PLANETA Igarashi",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "79",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_080_EN.webp",
+        "type": "Pokémon",
+        "name": "Charizard ex",
+        "energy": "Fire",
+        "hp": "180",
+        "category": "Stage 2",
+        "evolvesfrom": "Charmeleon",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fire"
+                ],
+                "name": "Stoke",
+                "attack": "",
+                "effect": "Take 3 [R] Energy from your Energy Zone and attach it to this Pokémon."
+            },
+            {
+                "energy_cost": [
+                    "Fire",
+                    "Fire",
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Steam Artillery",
+                "attack": "150",
+                "effect": ""
+            }
+        ],
+        "weakness": "Water",
+        "retreat": "3",
+        "artist": "PLANETA Igarashi",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "80",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_081_EN.webp",
+        "type": "Pokémon",
+        "name": "Wugtrio ex",
+        "energy": "Water",
+        "hp": "140",
+        "category": "Stage 1",
+        "evolvesfrom": "Wiglett",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
+                "name": "Pop Out Throughout",
+                "attack": "",
+                "effect": "1 of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 50 damage to it."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "PLANETA Tsuji",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "81",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_082_EN.webp",
+        "type": "Pokémon",
+        "name": "Pikachu ex",
+        "energy": "Lightning",
+        "hp": "120",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Lightning"
+                ],
+                "name": "Thunderbolt",
+                "attack": "150",
+                "effect": "Discard all Energy from this Pokémon."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "PLANETA Igarashi",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "82",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_083_EN.webp",
+        "type": "Pokémon",
+        "name": "Giratina ex",
+        "energy": "Psychic",
+        "hp": "150",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "ability": {
+            "title": "Broken-Space Bellow",
+            "effect": "Once during your turn, you may take a [P] Energy from your Energy Zone and attach it to this Pokémon. If you use this Ability, your turn ends."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Chaotic Impact",
+                "attack": "130",
+                "effect": "This Pokémon also does 20 damage to itself."
+            }
+        ],
+        "weakness": "Darkness",
+        "retreat": "2",
+        "artist": "PLANETA Yamashita",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "83",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_084_EN.webp",
+        "type": "Pokémon",
+        "name": "Lucario ex",
+        "energy": "Fighting",
+        "hp": "150",
+        "category": "Stage 1",
+        "evolvesfrom": "Riolu",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Aura Sphere",
+                "attack": "100",
+                "effect": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon."
+            }
+        ],
+        "weakness": "Psychic",
+        "retreat": "2",
+        "artist": "PLANETA CG Works",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "84",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_085_EN.webp",
+        "type": "Pokémon",
+        "name": "Paldean Clodsire ex",
+        "energy": "Darkness",
+        "hp": "160",
+        "category": "Stage 1",
+        "evolvesfrom": "Paldean Wooper",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Darkness",
+                    "Darkness"
+                ],
+                "name": "Venoshock",
+                "attack": "60+",
+                "effect": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "3",
+        "artist": "PLANETA Igarashi",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "85",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_086_EN.webp",
+        "type": "Pokémon",
+        "name": "Tinkaton ex",
+        "energy": "Metal",
+        "hp": "170",
+        "category": "Stage 2",
+        "evolvesfrom": "Tinkatuff",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Metal",
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Terrific Thumping",
+                "attack": "80+",
+                "effect": "Flip a coin. If heads, this attack does 80 more damage."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "2",
+        "artist": "PLANETA Igarashi",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "86",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_087_EN.webp",
+        "type": "Pokémon",
+        "name": "Bibarel ex",
+        "energy": "Colorless",
+        "hp": "160",
+        "category": "Stage 1",
+        "evolvesfrom": "Bidoof",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Carefree Press",
+                "attack": "100",
+                "effect": "Heal 30 damage from this Pokémon."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "3",
+        "artist": "PLANETA CG Works",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "87",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_088_EN.webp",
+        "type": "Trainer",
+        "name": "Iono",
+        "category": "Supporter",
+        "effect": "Each player shuffles the cards in their hand into their deck, then draws that many cards.",
+        "artist": "saino misaki",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "88",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_089_EN.webp",
+        "type": "Trainer",
+        "name": "Pokémon Center Lady",
+        "category": "Supporter",
+        "effect": "Heal 30 damage from 1 of your Pokémon, and it recovers from all Special Conditions.",
+        "artist": "Susumu Maeya",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "89",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_090_EN.webp",
+        "type": "Trainer",
+        "name": "Red",
+        "category": "Supporter",
+        "effect": "During this turn, attacks used by your Pokémon do +20 damage to your opponent's Active Pokémon ex.",
+        "artist": "Teeziro",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "90",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_091_EN.webp",
+        "type": "Trainer",
+        "name": "Team Rocket Grunt",
+        "category": "Supporter",
+        "effect": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon.",
+        "artist": "kantaro",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "91",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_092_EN.webp",
+        "type": "Pokémon",
+        "name": "Pikachu ex",
+        "energy": "Lightning",
+        "hp": "120",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Lightning"
+                ],
+                "name": "Thunderbolt",
+                "attack": "150",
+                "effect": "Discard all Energy from this Pokémon."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "You Iribi",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "92",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_093_EN.webp",
+        "type": "Pokémon",
+        "name": "Paldean Clodsire ex",
+        "energy": "Darkness",
+        "hp": "160",
+        "category": "Stage 1",
+        "evolvesfrom": "Paldean Wooper",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Darkness",
+                    "Darkness"
+                ],
+                "name": "Venoshock",
+                "attack": "60+",
+                "effect": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "3",
+        "artist": "REND",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "93",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_094_EN.webp",
+        "type": "Pokémon",
+        "name": "Tinkaton ex",
+        "energy": "Metal",
+        "hp": "170",
+        "category": "Stage 2",
+        "evolvesfrom": "Tinkatuff",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Metal",
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Terrific Thumping",
+                "attack": "80+",
+                "effect": "Flip a coin. If heads, this attack does 80 more damage."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "2",
+        "artist": "kurumitsu",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "94",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_095_EN.webp",
+        "type": "Pokémon",
+        "name": "Bibarel ex",
+        "energy": "Colorless",
+        "hp": "160",
+        "category": "Stage 1",
+        "evolvesfrom": "Bidoof",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Carefree Press",
+                "attack": "100",
+                "effect": "Heal 30 damage from this Pokémon."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "3",
+        "artist": "USGMEN",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "95",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_096_EN.webp",
+        "type": "Pokémon",
+        "name": "Giratina ex",
+        "energy": "Psychic",
+        "hp": "150",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "ability": {
+            "title": "Broken-Space Bellow",
+            "effect": "Once during your turn, you may take a [P] Energy from your Energy Zone and attach it to this Pokémon. If you use this Ability, your turn ends."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Chaotic Impact",
+                "attack": "130",
+                "effect": "This Pokémon also does 20 damage to itself."
+            }
+        ],
+        "weakness": "Darkness",
+        "retreat": "2",
+        "artist": "Shinji Kanda",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "96",
+        "rarity": "☆☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_097_EN.webp",
+        "type": "Pokémon",
+        "name": "Weedle",
+        "energy": "Grass",
+        "hp": "50",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Grass"
+                ],
+                "name": "Multiply",
+                "attack": "",
+                "effect": "Put 1 random Weedle from your deck onto your Bench."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "Sanosuke Sakuma",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "97",
+        "rarity": "☆",
+        "description": "Often found in forests and grasslands.\nIt has a sharp, toxic barb of around two inches\non top of its head.",
+        "info": {
+            "national_pokedex": "0013",
+            "species": "Hairy Bug Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "3.2 kg / 7.1 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_098_EN.webp",
+        "type": "Pokémon",
+        "name": "Kakuna",
+        "energy": "Grass",
+        "hp": "80",
+        "category": "Stage 1",
+        "evolvesfrom": "Weedle",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Grass"
+                ],
+                "name": "String Shot",
+                "attack": "20",
+                "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "2",
+        "artist": "Sanosuke Sakuma",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "98",
+        "rarity": "☆",
+        "description": "Almost incapable of moving, this Pokémon can only\nharden its shell to protect itself when it is\nin danger.",
+        "info": {
+            "national_pokedex": "0014",
+            "species": "Cocoon Pokémon",
+            "height": "0.6 m / 2'00\"",
+            "weight": "10.0 kg / 22.0 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_099_EN.webp",
+        "type": "Pokémon",
+        "name": "Charmander",
+        "energy": "Fire",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fire"
+                ],
+                "name": "Combustion",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Water",
+        "retreat": "1",
+        "artist": "Souichirou Gunjima",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "99",
+        "rarity": "☆",
+        "description": "It has a preference for hot things. When it rains,\nsteam is said to spout from the tip of its tail.",
+        "info": {
+            "national_pokedex": "0004",
+            "species": "Lizard Pokémon",
+            "height": "0.61 m / 2'00\"",
+            "weight": "8.5 kg / 18.7 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_100_EN.webp",
+        "type": "Pokémon",
+        "name": "Charmeleon",
+        "energy": "Fire",
+        "hp": "90",
+        "category": "Stage 1",
+        "evolvesfrom": "Charmander",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fire",
+                    "Fire"
+                ],
+                "name": "Combustion",
+                "attack": "40",
+                "effect": ""
+            }
+        ],
+        "weakness": "Water",
+        "retreat": "2",
+        "artist": "Souichirou Gunjima",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "100",
+        "rarity": "☆",
+        "description": "It has a barbaric nature. In battle, it whips its\nfiery tail around and slashes away with sharp claws.",
+        "info": {
+            "national_pokedex": "0005",
+            "species": "Flame Pokémon",
+            "height": "1.1 m / 3'07\"",
+            "weight": "19.0 kg / 41.9 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_101_EN.webp",
+        "type": "Pokémon",
+        "name": "Wiglett",
+        "energy": "Water",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water"
+                ],
+                "name": "Spring Out",
+                "attack": "",
+                "effect": "1 of your opponent's Pokémon is chosen at random. Do 30 damage to it."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "Souichirou Gunjima",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "101",
+        "rarity": "☆",
+        "description": "This Pokémon can pick up the scent of a Veluza\njust over 65 feet away and will hide itself in\nthe sand.",
+        "info": {
+            "national_pokedex": "0960",
+            "species": "Garden Eel Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "1.8 kg / 4.0 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_102_EN.webp",
+        "type": "Pokémon",
+        "name": "Dondozo",
+        "energy": "Water",
+        "hp": "120",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water",
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Ocean Cyclone",
+                "attack": "80",
+                "effect": "This attack also does 10 damage to each of your opponent's Benched Pokémon."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "3",
+        "artist": "GOSSAN",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "102",
+        "rarity": "☆",
+        "description": "This Pokémon is a glutton, but it’s bad at getting\nfood. It teams up with a Tatsugiri to catch prey.",
+        "info": {
+            "national_pokedex": "0977",
+            "species": "Big Catfish Pokémon",
+            "height": "12.0 m / 39'04\"",
+            "weight": "220.0 kg / 485.0 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_103_EN.webp",
+        "type": "Pokémon",
+        "name": "Pachirisu",
+        "energy": "Lightning",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Lightning"
+                ],
+                "name": "Plasma",
+                "attack": "10",
+                "effect": "Take a [L] Energy from your Energy Zone and attach it to 1 of your Benched [L] Pokémon."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Tomowaka",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "103",
+        "rarity": "☆",
+        "description": "It’s one of the kinds of Pokémon with electric\ncheek pouches. It shoots charges from its tail.",
+        "info": {
+            "national_pokedex": "0417",
+            "species": "EleSquirrel Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "3.9 kg / 8.6 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_104_EN.webp",
+        "type": "Pokémon",
+        "name": "Riolu",
+        "energy": "Fighting",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Punch",
+                "attack": "40",
+                "effect": ""
+            }
+        ],
+        "weakness": "Psychic",
+        "retreat": "1",
+        "artist": "GOSSAN",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "104",
+        "rarity": "☆",
+        "description": "They communicate with one another using their\nauras. They are able to run all through the night.",
+        "info": {
+            "national_pokedex": "0447",
+            "species": "Emanation Pokémon",
+            "height": "0.7 m / 2'04\"",
+            "weight": "20.2 kg / 44.5 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_105_EN.webp",
+        "type": "Pokémon",
+        "name": "Varoom",
+        "energy": "Metal",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Metal"
+                ],
+                "name": "Headbutt",
+                "attack": "10",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "nagimiso",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "105",
+        "rarity": "☆",
+        "description": "It is said that this Pokémon was born when an\nunknown poison Pokémon entered and inspirited\nan engine left at a scrap-processing factory.",
+        "info": {
+            "national_pokedex": "0965",
+            "species": "Single-Cyl Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "35 kg / 77.2 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_106_EN.webp",
+        "type": "Pokémon",
+        "name": "Revavroom",
+        "energy": "Metal",
+        "hp": "110",
+        "category": "Stage 1",
+        "evolvesfrom": "Varoom",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Metal",
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Spinning Drift",
+                "attack": "70",
+                "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "2",
+        "artist": "nagimiso",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "106",
+        "rarity": "☆",
+        "description": "It creates a gas out of poison and minerals from\nrocks. It then detonates the gas in its cylinders—\nnow numbering eight—to generate energy.",
+        "info": {
+            "national_pokedex": "0966",
+            "species": "Multi-Cyl Pokémon",
+            "height": "1.8 m / 5'11\"",
+            "weight": "120.0 kg / 264.6 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_107_EN.webp",
+        "type": "Pokémon",
+        "name": "Beedrill ex",
+        "energy": "Grass",
+        "hp": "170",
+        "category": "Stage 2",
+        "evolvesfrom": "Kakuna",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Grass",
+                    "Grass"
+                ],
+                "name": "Crushing Spear",
+                "attack": "80",
+                "effect": "Discard a random Energy from your opponent's Active Pokémon."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "PLANETA Igarashi",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "107",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_108_EN.webp",
+        "type": "Pokémon",
+        "name": "Charizard ex",
+        "energy": "Fire",
+        "hp": "180",
+        "category": "Stage 2",
+        "evolvesfrom": "Charmeleon",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fire"
+                ],
+                "name": "Stoke",
+                "attack": "",
+                "effect": "Take 3 [R] Energy from your Energy Zone and attach it to this Pokémon."
+            },
+            {
+                "energy_cost": [
+                    "Fire",
+                    "Fire",
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Steam Artillery",
+                "attack": "150",
+                "effect": ""
+            }
+        ],
+        "weakness": "Water",
+        "retreat": "3",
+        "artist": "PLANETA Igarashi",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "108",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_109_EN.webp",
+        "type": "Pokémon",
+        "name": "Wugtrio ex",
+        "energy": "Water",
+        "hp": "140",
+        "category": "Stage 1",
+        "evolvesfrom": "Wiglett",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
+                "name": "Pop Out Throughout",
+                "attack": "",
+                "effect": "1 of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 50 damage to it."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "PLANETA Tsuji",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "109",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_110_EN.webp",
+        "type": "Pokémon",
+        "name": "Lucario ex",
+        "energy": "Fighting",
+        "hp": "150",
+        "category": "Stage 1",
+        "evolvesfrom": "Riolu",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Aura Sphere",
+                "attack": "100",
+                "effect": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon."
+            }
+        ],
+        "weakness": "Psychic",
+        "retreat": "2",
+        "artist": "PLANETA CG Works",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "110",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_111_EN.webp",
+        "type": "Trainer",
+        "name": "Poké Ball",
+        "category": "Item",
+        "effect": "Put 1 random Basic Pokemon from your deck into your hand.",
+        "artist": "Toyste Beach",
+        "set": {
+            "name": "Shining Revelry",
+            "code": "A2b",
+            "pack": ""
+        },
+        "id": "111",
+        "rarity": "Crown Rare"
+    }
+]

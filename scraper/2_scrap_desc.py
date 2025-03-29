@@ -33,14 +33,16 @@ def scrape_pokemon_details(set, pokemon_id, name):
 
 
 
-set_code = "A2a"
+set_code = "A2b"
+set_name = "A2b"
+# set_name= "Promo-A"
 
 with open(f"../backend/data/{set_code}_cards.json", "r", encoding="utf-8") as file:
     card_list = json.load(file)
 
 # Iterate through the JSON array and update with descriptions
 for card in card_list:
-    details = scrape_pokemon_details(set_code, card["id"], card["name"])
+    details = scrape_pokemon_details(set_name, card["id"], card["name"])
     if details:
         # print(f"{pokemon['name'].title()} details: {details}\n")
         card["description"] = details
