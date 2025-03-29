@@ -402,7 +402,7 @@
         "type": "Pokémon",
         "name": "Mankey",
         "energy": "Fighting",
-        "hp": "60",
+        "hp": "50",
         "category": "Basic",
         "evolvesfrom": "",
         "attacks": [
@@ -1291,6 +1291,664 @@
             "species": "Spike Ball Pokémon",
             "height": "0.3 m / 1'00\"",
             "weight": "1.5 kg / 3.3 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_042_EN.webp",
+        "type": "Pokémon",
+        "name": "Darkrai ex",
+        "energy": "Darkness",
+        "hp": "140",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "ability": {
+            "title": "Nightmare Aura",
+            "effect": "Whenever you attach a [D] Energy from your Energy Zone to this Pokémon, do 20 damage to your opponent's Active Pokémon."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Darkness",
+                    "Darkness",
+                    "Colorless"
+                ],
+                "name": "Dark Prism",
+                "attack": "80",
+                "effect": ""
+            }
+        ],
+        "weakness": "Grass",
+        "retreat": "2",
+        "artist": "PLANETA Mochizuki",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Premium Missions"
+        },
+        "id": "42"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_043_EN.webp",
+        "type": "Pokémon",
+        "name": "Cherrim",
+        "energy": "Grass",
+        "hp": "80",
+        "category": "Stage 1",
+        "evolvesfrom": "Cherubi",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Grass",
+                    "Grass"
+                ],
+                "name": "Leech Seed",
+                "attack": "60",
+                "effect": "Heal 20 damage from this Pokémon."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "MAHOU",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
+        "id": "43",
+        "description": "After absorbing plenty of sunlight, Cherrim takes\nthis form. It’s full of energy while it’s like this,\nand its liveliness will go on until sundown.",
+        "info": {
+            "national_pokedex": "0421",
+            "species": "Blossom Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "9.3 kg / 20.5 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_044_EN.webp",
+        "type": "Pokémon",
+        "name": "Raichu",
+        "energy": "Lightning",
+        "hp": "90",
+        "category": "Stage 1",
+        "evolvesfrom": "Pikachu",
+        "ability": {
+            "title": "Resilience Link",
+            "effect": "If you have Arceus or Arceus ex in play, this Pokémon takes −30 damage from attacks."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Lightning",
+                    "Lightning"
+                ],
+                "name": "Spark",
+                "attack": "40",
+                "effect": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Kazumasa Yasukuni",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
+        "id": "44",
+        "description": "Its tail discharges electricity into the ground,\nprotecting it from getting shocked.",
+        "info": {
+            "national_pokedex": "0026",
+            "species": "Mouse Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "30.0 kg / 66.1 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_045_EN.webp",
+        "type": "Pokémon",
+        "name": "Nosepass",
+        "energy": "Fighting",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Iron Defense",
+                "attack": "",
+                "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokémon by attacks."
+            }
+        ],
+        "weakness": "Grass",
+        "retreat": "1",
+        "artist": "Tomokazu Komiya",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
+        "id": "45",
+        "description": "It moves less than an inch a year, but when\nit’s in a jam, it will spin and drill down into the\nground in a split second.",
+        "info": {
+            "national_pokedex": "0299",
+            "species": "Compass Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "97.0 kg / 213.8 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_046_EN.webp",
+        "type": "Pokémon",
+        "name": "Gible",
+        "energy": "Fighting",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fighting"
+                ],
+                "name": "Tackle",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Grass",
+        "retreat": "1",
+        "artist": "Uninori",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
+        "id": "46",
+        "description": "It skulks in caves, and when prey or an enemy\npasses by, it leaps out and chomps them.\nThe force of its attack sometimes chips its teeth.",
+        "info": {
+            "national_pokedex": "0443",
+            "species": "Land Shark Pokémon",
+            "height": "0.7 m / 2'04\"",
+            "weight": "20.5 kg / 45.2 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_047_EN.webp",
+        "type": "Pokémon",
+        "name": "Staraptor",
+        "energy": "Colorless",
+        "hp": "140",
+        "category": "Stage 2",
+        "evolvesfrom": "Staravia",
+        "ability": {
+            "title": "Defensive Whirlwind",
+            "effect": "This Pokémon takes −30 damage from attacks from [F] Pokémon."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Wing Attack",
+                "attack": "90",
+                "effect": ""
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "Hasuno",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
+        "id": "47",
+        "description": "When Staravia evolve into Staraptor, they leave\nthe flock to live alone. They have sturdy wings.",
+        "info": {
+            "national_pokedex": "0398",
+            "species": "Predator Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "24.9 kg / 54.9 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_048_EN.webp",
+        "type": "Pokémon",
+        "name": "Manaphy",
+        "energy": "Water",
+        "hp": "50",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water"
+                ],
+                "name": "Oceanic Gift",
+                "attack": "",
+                "effect": "Choose 2 of your Benched Pokémon. For each of those Pokémon, take a [W] Energy from your Energy Zone and attach it to that Pokémon."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "sui",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Wonder Pick"
+        },
+        "id": "48",
+        "description": "It is born with a wondrous power that lets it bond\nwith any kind of Pokémon.",
+        "info": {
+            "national_pokedex": "0490",
+            "species": "Seafaring Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "1.4 kg / 3.1 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_049_EN.webp",
+        "type": "Pokémon",
+        "name": "Snorlax",
+        "energy": "Colorless",
+        "hp": "140",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Collapse",
+                "attack": "100",
+                "effect": "This Pokémon is now Asleep."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "4",
+        "artist": "okayamatakatoshi",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Wonder Pick"
+        },
+        "id": "49",
+        "description": "It is not satisfied unless it eats over 880 pounds\nof food every day. When it is done eating, it\ngoes promptly to sleep.",
+        "info": {
+            "national_pokedex": "0143",
+            "species": "Sleeping Pokémon",
+            "height": "2.11 m / 6'11\"",
+            "weight": "460.0 kg / 1014.1 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_050_EN.webp",
+        "type": "Pokémon",
+        "name": "Mewtwo ex",
+        "energy": "Psychic",
+        "hp": "150",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Psychic Sphere",
+                "attack": "50",
+                "effect": ""
+            },
+            {
+                "energy_cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Psydrive",
+                "attack": "150",
+                "effect": "Discard 2 [P] Energy from this Pokémon."
+            }
+        ],
+        "weakness": "Darkness",
+        "retreat": "2",
+        "artist": "PLANETA Mochizuki",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": ""
+        },
+        "id": "50"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_051_EN.webp",
+        "type": "Pokémon",
+        "name": "Cyclizar",
+        "energy": "Colorless",
+        "hp": "80",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Overacceleration",
+                "attack": "20",
+                "effect": "During your next turn, this Pokémon's Overacceleration attack does +20 damage."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Shigenori Negishi",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Missions"
+        },
+        "id": "51",
+        "description": "Apparently Cyclizar has been allowing people to\nride on its back since ancient times. Depictions of\nthis have been found in 10,000-year-old murals.",
+        "info": {
+            "national_pokedex": "0967",
+            "species": "Mount Pokémon",
+            "height": "1.6 m / 5'03\"",
+            "weight": "63.0 kg / 138.9 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_052_EN.webp",
+        "type": "Pokémon",
+        "name": "Sprigatito",
+        "energy": "Grass",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Grass"
+                ],
+                "name": "Cry for Help",
+                "attack": "",
+                "effect": "Put 1 random [G] Pokémon from your deck into your hand."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "MINAMINAMI Take",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Premium Missions"
+        },
+        "id": "52",
+        "description": "Its fluffy fur is similar in composition to plants.\nThis Pokémon frequently washes its face to keep\nit from drying out.",
+        "info": {
+            "national_pokedex": "0906",
+            "species": "Grass Cat Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "4.1 kg / 9.0 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_053_EN.webp",
+        "type": "Pokémon",
+        "name": "Floatzel",
+        "energy": "Water",
+        "hp": "100",
+        "category": "Stage 1",
+        "evolvesfrom": "Buizel",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water"
+                ],
+                "name": "Attack the Wound",
+                "attack": "10+",
+                "effect": "If your opponent's Active Pokémon has damage on it, this attack does 60 more damage."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "Shin Nagasawa",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
+        "id": "53",
+        "description": "With its flotation sac inflated, it can carry people\non its back. It deflates the sac before it dives.",
+        "info": {
+            "national_pokedex": "0419",
+            "species": "Sea Weasel Pokémon",
+            "height": "1.1 m / 3'07\"",
+            "weight": "33.5 kg / 73.9 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_054_EN.webp",
+        "type": "Pokémon",
+        "name": "Pawmot",
+        "energy": "Lightning",
+        "hp": "140",
+        "category": "Stage 2",
+        "evolvesfrom": "Pawmo",
+        "ability": {
+            "title": "Counterattack",
+            "effect": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Lightning",
+                    "Lightning"
+                ],
+                "name": "Electric Punch",
+                "attack": "70",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "0",
+        "artist": "REND",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
+        "id": "54",
+        "description": "This Pokémon normally is slow to react, but once\nit enters battle, it will strike down its enemies\nwith lightning-fast movements.",
+        "info": {
+            "national_pokedex": "0923",
+            "species": "Hands-On Pokémon",
+            "height": "0.9 m / 2'11\"",
+            "weight": "41.0 kg / 90.1 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_055_EN.webp",
+        "type": "Pokémon",
+        "name": "Machamp",
+        "energy": "Fighting",
+        "hp": "150",
+        "category": "Stage 2",
+        "evolvesfrom": "Machoke",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Power Press",
+                "attack": "70+",
+                "effect": "If this Pokémon has at least 2 extra [F] Energy attached, this attack does 50 more damage."
+            }
+        ],
+        "weakness": "Psychic",
+        "retreat": "2",
+        "artist": "Masakazu Fukuda",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
+        "id": "55",
+        "description": "It quickly swings its four arms to rock its\nopponents with ceaseless punches and chops\nfrom all angles.",
+        "info": {
+            "national_pokedex": "0068",
+            "species": "Superpower Pokémon",
+            "height": "1.6 m / 5'03\"",
+            "weight": "130.0 kg / 286.6 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_056_EN.webp",
+        "type": "Pokémon",
+        "name": "Ekans",
+        "energy": "Darkness",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Darkness"
+                ],
+                "name": "Poison Sting",
+                "attack": "",
+                "effect": "Your opponent's Active Pokémon is now Poisoned."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Krgc",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
+        "id": "56",
+        "description": "By dislocating its jaw, it can swallow prey larger\nthan itself. After a meal, it curls up and rests.",
+        "info": {
+            "national_pokedex": "0023",
+            "species": "Snake Pokémon",
+            "height": "2.0 m / 6'07\"",
+            "weight": "6.9 kg / 15.2 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_057_EN.webp",
+        "type": "Pokémon",
+        "name": "Bidoof",
+        "energy": "Colorless",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Headbutt",
+                "attack": "30",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "2",
+        "artist": "Kouki Saitou",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
+        "id": "57",
+        "description": "With nerves of steel, nothing can perturb it. It is\nmore agile and active than it appears.",
+        "info": {
+            "national_pokedex": "0399",
+            "species": "Plump Mouse Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "20.0 kg / 44.1 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_058_EN.webp",
+        "type": "Pokémon",
+        "name": "Pachirisu",
+        "energy": "Lightning",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Lightning"
+                ],
+                "name": "Plasma",
+                "attack": "10",
+                "effect": "Take a [L] Energy from your Energy Zone and attach it to 1 of your Benched [L] Pokémon."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "OOYAMA",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Wonder Pick"
+        },
+        "id": "58",
+        "description": "It’s one of the kinds of Pokémon with electric\ncheek pouches. It shoots charges from its tail.",
+        "info": {
+            "national_pokedex": "0417",
+            "species": "EleSquirrel Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "3.9 kg / 8.6 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_059_EN.webp",
+        "type": "Pokémon",
+        "name": "Riolu",
+        "energy": "Fighting",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Punch",
+                "attack": "40",
+                "effect": ""
+            }
+        ],
+        "weakness": "Psychic",
+        "retreat": "1",
+        "artist": "Akira Komayama",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Wonder Pick"
+        },
+        "id": "59",
+        "description": "They communicate with one another using their\nauras. They are able to run all through the night.",
+        "info": {
+            "national_pokedex": "0447",
+            "species": "Emanation Pokémon",
+            "height": "0.7 m / 2'04\"",
+            "weight": "20.2 kg / 44.5 lbs."
         }
     }
 ]
