@@ -1950,5 +1950,498 @@
             "height": "0.7 m / 2'04\"",
             "weight": "20.2 kg / 44.5 lbs."
         }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_060_EN.webp",
+        "type": "Pokémon",
+        "name": "Exeggcute",
+        "energy": "Grass",
+        "hp": "50",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Growth Spurt",
+                "attack": "",
+                "effect": "Take a [G] Energy from your Energy Zone and attach it to this Pokémon."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "0313",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
+        "id": "60",
+        "description": "Though it may look like it’s just a bunch of eggs,\nit’s a proper Pokémon. Exeggcute communicates\nwith others of its kind via telepathy, apparently.",
+        "info": {
+            "national_pokedex": "0102",
+            "species": "Egg Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "2.5 kg / 5.5 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_061_EN.webp",
+        "type": "Pokémon",
+        "name": "Froakie",
+        "energy": "Water",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Flop",
+                "attack": "10",
+                "effect": ""
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "Sanosuke Sakuma",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
+        "id": "61",
+        "description": "It secretes flexible bubbles from its chest and back.\nThe bubbles reduce the damage it would otherwise\ntake when attacked.",
+        "info": {
+            "national_pokedex": "0656",
+            "species": "Bubble Frog Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "7.0 kg / 15.4 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_062_EN.webp",
+        "type": "Pokémon",
+        "name": "Farfetch'd",
+        "energy": "Colorless",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Leek Slap",
+                "attack": "40",
+                "effect": ""
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "Eri Yamaki",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
+        "id": "62",
+        "description": "The stalk this Pokémon carries in its wings serves\nas a sword to cut down opponents. In a dire\nsituation, the stalk can also serve as food.",
+        "info": {
+            "national_pokedex": "0083",
+            "species": "Wild Duck Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "15.0 kg / 33.1 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_063_EN.webp",
+        "type": "Pokémon",
+        "name": "Rayquaza",
+        "energy": "Colorless",
+        "hp": "100",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Spiral Rush",
+                "attack": "70+",
+                "effect": "Flip a coin until you get tails. This attack does 30 more damage for each heads."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "Yoshinobu Saito",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
+        "id": "63",
+        "description": "It lives in the ozone layer far above the clouds and\ncannot be seen from the ground.",
+        "info": {
+            "national_pokedex": "0384",
+            "species": "Sky High Pokémon",
+            "height": "7.0 m / 23'00\"",
+            "weight": "206.5 kg / 455.2 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_064_EN.webp",
+        "type": "Pokémon",
+        "name": "Rayquaza ex",
+        "energy": "Colorless",
+        "hp": "140",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Draco Meteor",
+                "attack": "",
+                "effect": "1 of your opponent's Pokémon is chosen at random 4 times. For each time a Pokémon was chosen, do 40 damage to it."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "2",
+        "artist": "PLANETA CG Works",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
+        "id": "64"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_065_EN.webp",
+        "type": "Pokémon",
+        "name": "Rayquaza ex",
+        "energy": "Colorless",
+        "hp": "140",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Draco Meteor",
+                "attack": "",
+                "effect": "1 of your opponent's Pokémon is chosen at random 4 times. For each time a Pokémon was chosen, do 40 damage to it."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "2",
+        "artist": "PLANETA CG Works",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Missions"
+        },
+        "id": "65"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_066_EN.webp",
+        "type": "Pokémon",
+        "name": "Mimikyu",
+        "energy": "Psychic",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Shadow Hit",
+                "attack": "60",
+                "effect": "This attack also does 20 damage to 1 of your Pokémon."
+            }
+        ],
+        "weakness": "Darkness",
+        "retreat": "1",
+        "artist": "Amelicart",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Premium Missions"
+        },
+        "id": "66",
+        "description": "This Pokémon lives in dark places untouched by\nsunlight. When it appears before humans, it hides\nitself under a cloth that resembles a Pikachu.",
+        "info": {
+            "national_pokedex": "0778",
+            "species": "Disguise Pokémon",
+            "height": "0.2 m / 0'08\"",
+            "weight": "0.7 kg / 1.5 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_067_EN.webp",
+        "type": "Pokémon",
+        "name": "Cosmog",
+        "energy": "Psychic",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Teleport",
+                "attack": "",
+                "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
+            }
+        ],
+        "weakness": "Darkness",
+        "retreat": "1",
+        "artist": "Mizue",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
+        "id": "67",
+        "description": "Even though its helpless, gaseous body can be blown\naway by the slightest breeze, it doesn’t seem to care.",
+        "info": {
+            "national_pokedex": "0789",
+            "species": "Nebula Pokémon",
+            "height": "0.2 m / 0'08\"",
+            "weight": "0.1 kg / 0.2 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_068_EN.webp",
+        "type": "Pokémon",
+        "name": "Lycanroc",
+        "energy": "Fighting",
+        "hp": "100",
+        "category": "Stage 1",
+        "evolvesfrom": "Rockruff",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "name": "Crunch",
+                "attack": "80",
+                "effect": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon."
+            }
+        ],
+        "weakness": "Grass",
+        "retreat": "1",
+        "artist": "Ryuta Fuse",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
+        "id": "68",
+        "description": "Lycanroc attacks its prey with its\nsharp claws and fangs. It loyally obeys\nthe instructions of a Trainer it trusts.",
+        "info": {
+            "national_pokedex": "0745",
+            "species": "Wolf Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "25.0 kg / 55.1 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_069_EN.webp",
+        "type": "Pokémon",
+        "name": "Alolan Exeggutor",
+        "energy": "Grass",
+        "hp": "150",
+        "category": "Stage 1",
+        "evolvesfrom": "Exeggcute",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Tropical Hammer",
+                "attack": "150",
+                "effect": "Flip a coin. If tails, this attack does nothing."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "4",
+        "artist": "Satoshi Shirai",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
+        "id": "69",
+        "description": "Blazing sunlight has brought out the true\nform and powers of this Pokémon.",
+        "info": {
+            "national_pokedex": "0103",
+            "species": "Coconut Pokémon",
+            "height": "2.0 m / 6'07\"",
+            "weight": "120.0 kg / 264.6 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_070_EN.webp",
+        "type": "Pokémon",
+        "name": "Alolan Ninetales",
+        "energy": "Water",
+        "hp": "110",
+        "category": "Stage 1",
+        "evolvesfrom": "Alolan Vulpix",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
+                "name": "Blizzard",
+                "attack": "60",
+                "effect": "This attack also does 20 damage to each of your opponent's Benched Pokémon."
+            }
+        ],
+        "weakness": "Metal",
+        "retreat": "1",
+        "artist": "tono",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
+        "id": "70",
+        "description": "A deity resides in the snowy mountains\nwhere this Pokémon lives. In ancient times,\nit was worshiped as that deity’s incarnation.",
+        "info": {
+            "national_pokedex": "0038",
+            "species": "Fox Pokémon",
+            "height": "1.1 m / 3'07\"",
+            "weight": "19.9 kg / 43.9 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_071_EN.webp",
+        "type": "Pokémon",
+        "name": "Crabrawler",
+        "energy": "Fighting",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Punch",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Psychic",
+        "retreat": "2",
+        "artist": "Miki Tanaka",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Promo"
+        },
+        "id": "71",
+        "description": "This Pokémon punches trees and eats\nthe berries that drop down, training itself\nand getting food at the same time.",
+        "info": {
+            "national_pokedex": "0739",
+            "species": "Boxing Pokémon",
+            "height": "0.6 m / 2'00\"",
+            "weight": "7.0 kg / 15.4 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_072_EN.webp",
+        "type": "Pokémon",
+        "name": "Alolan Grimer",
+        "energy": "Darkness",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Darkness"
+                ],
+                "name": "Poison Gas",
+                "attack": "",
+                "effect": "Your opponent's Active Pokémon is now Poisoned."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "2",
+        "artist": "Naoki Saito",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Wonder Pick"
+        },
+        "id": "72",
+        "description": "There are a hundred or so of them living in\nAlola’s waste-disposal site. They’re all hard\nworkers who eat a lot of trash.",
+        "info": {
+            "national_pokedex": "0088",
+            "species": "Sludge Pokémon",
+            "height": "0.9 m / 2'11\"",
+            "weight": "30.0 kg / 66.1 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_073_EN.webp",
+        "type": "Pokémon",
+        "name": "Toucannon",
+        "energy": "Colorless",
+        "hp": "140",
+        "category": "Stage 2",
+        "evolvesfrom": "Trumbeak",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Beak Blast",
+                "attack": "80",
+                "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Burned."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "2",
+        "artist": "Sekio",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "Wonder Pick"
+        },
+        "id": "73",
+        "description": "They smack beaks with others of their kind to communicate.\nThe strength and number of hits tell each other how they feel.",
+        "info": {
+            "national_pokedex": "0733",
+            "species": "Cannon Pokémon",
+            "height": "1.1 m / 3'07\"",
+            "weight": "26.0 kg / 57.3 lbs."
+        }
     }
 ]
