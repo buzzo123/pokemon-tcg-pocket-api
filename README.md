@@ -5,7 +5,7 @@ This is an Express.js-based API that serves Pokémon Pocket card data from JSON 
 ## Features
 - Retrieve all Pokémon Pocket cards
 - Filter cards by type (Pokémon or Trainer)
-- Retrieve cards by set (A1, A1A, A2, A2a, A2b, P-A)
+- Retrieve cards by set (A1, A1A, A2, A2a, A2b, A3, P-A)
 - Retrieve a specific card by its number
 
 ## Installation
