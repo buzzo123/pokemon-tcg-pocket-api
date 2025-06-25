@@ -138,13 +138,7 @@
             "pack": "Premium Missions"
         },
         "id": "9",
-        "description": "When it is angered, it immediately discharges the\nenergy stored in the pouches in its cheeks.",
-        "info": {
-            "national_pokedex": "0025",
-            "species": "Mouse Pokémon",
-            "height": "0.4 m / 1'04\"",
-            "weight": "6.0 kg / 13.2 lbs."
-        }
+        "description": "When it is angered, it immediately discharges the\nenergy stored in the pouches in its cheeks."
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_010_EN.webp",
@@ -2442,6 +2436,385 @@
             "species": "Cannon Pokémon",
             "height": "1.1 m / 3'07\"",
             "weight": "26.0 kg / 57.3 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_074_EN.webp",
+        "type": "Pokémon",
+        "name": "Zeraora",
+        "energy": "Lightning",
+        "hp": "90",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "ability": {
+            "title": "Thunderclap Flash",
+            "effect": "At the end of your first turn, take a [L] Energy from your Energy Zone and attach it to this Pokémon."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Lightning",
+                    "Lightning"
+                ],
+                "name": "Lightning Claw",
+                "attack": "50",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "GIDORA",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "☆"
+        },
+        "id": "74",
+        "description": "It electrifies its claws and tears its opponents\napart with them. Even if they dodge its attack,\nthey’ll be electrocuted by the flying sparks.",
+        "info": {
+            "national_pokedex": "0807",
+            "species": "Thunderclap Pokémon",
+            "height": "1.5 m / 4'11\"",
+            "weight": "44.5 kg / 98.1 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_075_EN.webp",
+        "type": "Pokémon",
+        "name": "Kartana",
+        "energy": "Grass",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Grass"
+                ],
+                "name": "Thrash Metal",
+                "attack": "40",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "Hasuno",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "◊"
+        },
+        "id": "75",
+        "ultra_beast": true,
+        "description": "This Ultra Beast’s body, which is as thin\nas paper, is like a sharpened sword.",
+        "info": {
+            "national_pokedex": "0798",
+            "species": "Drawn Sword Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "0.1 kg / 0.2 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_076_EN.webp",
+        "type": "Pokémon",
+        "name": "Blacephalon",
+        "energy": "Fire",
+        "hp": "100",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Beat Punk",
+                "attack": "130",
+                "effect": "This Pokémon also does 70 damage to itself."
+            }
+        ],
+        "weakness": "Water",
+        "retreat": "2",
+        "artist": "Hasuno",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "◊"
+        },
+        "id": "76",
+        "ultra_beast": true,
+        "description": "It slithers toward people. Then, without warning, it triggers the\nexplosion of its own head. It’s apparently one kind of Ultra Beast.",
+        "info": {
+            "national_pokedex": "0806",
+            "species": "Fireworks Pokémon",
+            "height": "1.8 m / 5'11\"",
+            "weight": "130.2 kg / 28.7 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_077_EN.webp",
+        "type": "Pokémon",
+        "name": "Xurkitree",
+        "energy": "Lightning",
+        "hp": "100",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Lightning",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Electronica",
+                "attack": "60",
+                "effect": "Your opponent's Active Pokémon is now Confused."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "2",
+        "artist": "Shin Nagasawa",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "◊"
+        },
+        "id": "77",
+        "ultra_beast": true,
+        "description": "Although it’s alien to this world and a danger here, it’s apparently\na common organism in the world where it normally lives.",
+        "info": {
+            "national_pokedex": "0796",
+            "species": "Glowing Pokémon",
+            "height": "3.8 m / 12'06\"",
+            "weight": "100.0 kg / 220.5 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_078_EN.webp",
+        "type": "Pokémon",
+        "name": "Dawn Wings Necrozma",
+        "energy": "Psychic",
+        "hp": "110",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Psychobilly",
+                "attack": "100",
+                "effect": "This Pokémon also does 30 damage to itself."
+            }
+        ],
+        "weakness": "Darkness",
+        "retreat": "2",
+        "artist": "nagimiso",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "◊◊◊"
+        },
+        "id": "78",
+        "ultra_beast": true,
+        "description": "Lunala no longer has a will of its own. Now under the\ncontrol of Necrozma, it continuously expels all of its energy.",
+        "info": {
+            "national_pokedex": "0800",
+            "species": "Prism Pokémon",
+            "height": "2.4 m / 7'10\"",
+            "weight": "230.0 kg / 507.1 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_079_EN.webp",
+        "type": "Pokémon",
+        "name": "Dusk Mane Necrozma",
+        "energy": "Metal",
+        "hp": "110",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Metal",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Black Metal",
+                "attack": "100",
+                "effect": "Discard a [M] Energy from this Pokémon."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "2",
+        "artist": "nagimiso",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "◊◊◊"
+        },
+        "id": "79",
+        "ultra_beast": true,
+        "description": "This is its form while it is devouring the light of\nSolgaleo. It pounces on foes and then slashes\nthem with the claws on its four limbs and back.",
+        "info": {
+            "national_pokedex": "0800",
+            "species": "Prism Pokémon",
+            "height": "2.4 m / 7'10\"",
+            "weight": "230.0 kg / 507.1 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_080_EN.webp",
+        "type": "Pokémon",
+        "name": "Stakataka",
+        "energy": "Metal",
+        "hp": "110",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Brass Rock",
+                "attack": "40",
+                "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "3",
+        "artist": "Shin Nagasawa",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "◊"
+        },
+        "id": "80",
+        "ultra_beast": true,
+        "description": "It appeared from an Ultra Wormhole. Each one\nappears to be made up of many life-forms\nstacked one on top of each other.",
+        "info": {
+            "national_pokedex": "0805",
+            "species": "Rampart Pokémon",
+            "height": "5.5 m / 18'01\"",
+            "weight": "820.0 kg / 1807.8 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_081_EN.webp",
+        "type": "Pokémon",
+        "name": "Ultra Necrozma ex",
+        "energy": "Dragon",
+        "hp": "150",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Photon Claw",
+                "attack": "60",
+                "effect": ""
+            },
+            {
+                "energy_cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Metal",
+                    "Metal"
+                ],
+                "name": "Shoegaze",
+                "attack": "120",
+                "effect": "Discard the top 5 cards of each player's deck."
+            }
+        ],
+        "weakness": "none",
+        "retreat": "2",
+        "artist": "PLANETA Tsuji",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "◊◊◊◊"
+        },
+        "id": "81",
+        "ultra_beast": true
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_082_EN.webp",
+        "type": "Pokémon",
+        "name": "Poipole",
+        "energy": "Darkness",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Darkness"
+                ],
+                "name": "2-Step",
+                "attack": "20x",
+                "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Megumi Mizutani",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "◊◊◊"
+        },
+        "id": "82",
+        "ultra_beast": true,
+        "description": "This Ultra Beast is well enough liked to be\nchosen as a first partner in its own world.",
+        "info": {
+            "national_pokedex": "0803",
+            "species": "Poison Pin Pokémon",
+            "height": "0.6 m / 2'00\"",
+            "weight": "1.8 kg / 4.0 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_083_EN.webp",
+        "type": "Pokémon",
+        "name": "Stufful",
+        "energy": "Colorless",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Ram",
+                "attack": "40",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "2",
+        "artist": "Kanako Eo",
+        "set": {
+            "name": "Promo-A",
+            "code": "P-A",
+            "pack": "◊◊◊"
+        },
+        "id": "83",
+        "description": "Its fluffy fur is a delight to pet, but carelessly reaching out\nto touch this Pokémon could result in painful retaliation.",
+        "info": {
+            "national_pokedex": "0759",
+            "species": "Flailing Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "6.8 kg / 15.0 lbs."
         }
     }
 ]

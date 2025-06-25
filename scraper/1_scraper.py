@@ -174,9 +174,9 @@ def translate_energy_symbols(symbols):
 # A1: 286
 # A2: 207
 # A1a: 86
-# P-A: 73 (11/05/2025)
+# P-A: 83 (25/06/2025)
 # A2a: 96
 # A2b: 111
 # A3: 239
 # A3a: 103
-scrape_set("A3a", init_card=1, max_cards=103)
+scrape_set("P-A", init_card=1, max_cards=83)
