@@ -37,7 +37,8 @@ def scrape_pokemon_fandom(name):
         "weight": htwt[1].text.strip()
     }
 
-set_code = "P-A"
+#set_code = "P-A"
+set_code = "A3a"
 
 with open(f"../backend/data/{set_code}_cards.json", "r", encoding="utf-8") as file:
     card_list = json.load(file)

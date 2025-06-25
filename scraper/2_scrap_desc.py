@@ -25,17 +25,38 @@ def scrape_pokemon_details(set, pokemon_id, name):
     
     card_desc = soup.select_one(".card-detail__content .fst-italic")
 
+    stats = soup.select_one(".card-detail__header .fw-bold")
+
+    ultra_beast_found = False
+    if stats:
+        stats_text = stats.text.strip()
+        if "|" in stats_text:
+            # Split by pipe and trim each part
+            stats_parts = [part.strip() for part in stats_text.split("|")]
+            # Check if "Ultra Beast" is in the array
+            if "Ultra Beast" in stats_parts:
+                ultra_beast_found = True
+        else:
+            # Check if the single stat contains "Ultra Beast"
+            if "Ultra Beast" in stats_text:
+                ultra_beast_found = True
+    else:
+        print("Stats not found")
+
     if not card_desc:
         print("Card details not found.", url)
         return None
     
-    return card_desc.text.strip()
+    description = card_desc.text.strip()
+    
+    return {"ultra_beast": ultra_beast_found, "description": description}
 
 
+#set_code = "P-A"
+#set_name= "Promo-A"
 
-set_code = "P-A"
-#set_name = "A3"
-set_name= "Promo-A"
+set_code = "A3a"
+set_name = "A3a"
 
 with open(f"../backend/data/{set_code}_cards.json", "r", encoding="utf-8") as file:
     card_list = json.load(file)
@@ -44,8 +65,15 @@ with open(f"../backend/data/{set_code}_cards.json", "r", encoding="utf-8") as fi
 for card in card_list:
     details = scrape_pokemon_details(set_name, card["id"], card["name"])
     if details:
-        # print(f"{pokemon['name'].title()} details: {details}\n")
-        card["description"] = details
+        if isinstance(details, dict):
+            # Ultra Beast found - add both ultra_beast status and description
+            if details["ultra_beast"]:
+                card["ultra_beast"] = True
+                
+            card["description"] = details["description"]
+        else:
+            # Regular description only
+            card["description"] = details
 
 with open(f"../{set_code}_cards.json", "w", encoding="utf-8") as f:
     json.dump(card_list, f, indent=4, ensure_ascii=False)
