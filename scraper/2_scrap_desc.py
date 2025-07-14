@@ -52,11 +52,11 @@ def scrape_pokemon_details(set, pokemon_id, name):
     return {"ultra_beast": ultra_beast_found, "description": description}
 
 
-set_code = "P-A"
-set_name= "Promo-A"
+#set_code = "P-A"
+#set_name= "Promo-A"
 
-#set_code = "A3a"
-#set_name = "A3a"
+set_code = "A3b"
+set_name = "A3b"
 
 with open(f"../backend/data/{set_code}_cards.json", "r", encoding="utf-8") as file:
     card_list = json.load(file)

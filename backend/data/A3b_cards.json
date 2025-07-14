@@ -1,0 +1,3743 @@
+[
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_001_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Tropius",
+        "energy": "Grass",
+        "hp": "100",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Cutting Wind",
+                "attack": "60",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "2",
+        "artist": "Oswaldo KATO",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "1",
+        "rarity": "◊◊",
+        "description": "It lives in tropical jungles. The bunch of fruit\naround its neck is delicious. The fruit grows\ntwice a year.",
+        "info": {
+            "national_pokedex": "0357",
+            "species": "Fruit Pokémon",
+            "height": "2.0 m / 6'07\"",
+            "weight": "100.0 kg / 220.5 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_002_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Leafeon",
+        "energy": "Grass",
+        "hp": "90",
+        "category": "Stage 1",
+        "evolvesfrom": "Eevee",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Leaf Blast",
+                "attack": "10+",
+                "effect": "This attack does 20 more damage for each [G] Energy attached to this Pokémon."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "chibi",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "2",
+        "rarity": "◊◊◊",
+        "description": "When you see Leafeon asleep in a patch of\nsunshine, you’ll know it is using photosynthesis\nto produce clean air.",
+        "info": {
+            "national_pokedex": "0470",
+            "species": "Verdant Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "25.5 kg / 56.2 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_003_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Bounsweet",
+        "energy": "Grass",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Flop",
+                "attack": "10",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "Yuka Morii",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "3",
+        "rarity": "◊",
+        "description": "Its sweat is sweet, like syrup made from boiled-down\nfruit. Because of this, Bounsweet was highly valued in\nthe past, when sweeteners were scarce.",
+        "info": {
+            "national_pokedex": "0761",
+            "species": "Fruit Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "3.2 kg / 7.1 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_004_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Steenee",
+        "energy": "Grass",
+        "hp": "80",
+        "category": "Stage 1",
+        "evolvesfrom": "Bounsweet",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Grass"
+                ],
+                "name": "Leaf Step",
+                "attack": "40",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "2",
+        "artist": "Tomokazu Komiya",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "4",
+        "rarity": "◊",
+        "description": "Steenee spreads a sweet scent that\nmakes others feel invigorated. This same\nscent is popular for antiperspirants.",
+        "info": {
+            "national_pokedex": "0762",
+            "species": "Fruit Pokémon",
+            "height": "0.7 m / 2'04\"",
+            "weight": "8.2 kg / 18.1 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_005_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Tsareena",
+        "energy": "Grass",
+        "hp": "140",
+        "category": "Stage 2",
+        "evolvesfrom": "Steenee",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Grass"
+                ],
+                "name": "Kick Down",
+                "attack": "50",
+                "effect": "Your opponent reveals a random card from their hand and shuffles it into their deck."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "2",
+        "artist": "Naoki Saito",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "5",
+        "rarity": "◊◊",
+        "description": "This Pokémon is proud and aggressive. However, it is\nsaid that a Tsareena will instantly become calm if\nsomeone touches the crown on its calyx.",
+        "info": {
+            "national_pokedex": "0763",
+            "species": "Fruit Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "21.4 kg / 47.2 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_006_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Applin",
+        "energy": "Grass",
+        "hp": "40",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Grass"
+                ],
+                "name": "Ram",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "Kagemaru Himeno",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "6",
+        "rarity": "◊",
+        "description": "It grows by eating the flesh of an apple.\nApplin uses its own body fluid to strengthen\nthe apple’s skin and prevent it from rotting.",
+        "info": {
+            "national_pokedex": "0840",
+            "species": "Apple Core Pokémon",
+            "height": "0.2 m / 0'08\"",
+            "weight": "0.5 kg / 1.1 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_007_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Appletun",
+        "energy": "Grass",
+        "hp": "90",
+        "category": "Stage 1",
+        "evolvesfrom": "Applin",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Grass"
+                ],
+                "name": "Sweets Relay",
+                "attack": "40+",
+                "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 30 more damage."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "3",
+        "artist": "Akira Komayama",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "7",
+        "rarity": "◊◊",
+        "description": "It feeds mainly on sweet apples. It will also eat\nsmall bug Pokémon that are attracted by its\nsweet nectar.",
+        "info": {
+            "national_pokedex": "0842",
+            "species": "Apple Nectar Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "13.0 kg / 28.7 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_008_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Flareon",
+        "energy": "Fire",
+        "hp": "110",
+        "category": "Stage 1",
+        "evolvesfrom": "Eevee",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Assisting Heater",
+                "attack": "40",
+                "effect": "Take a [R] Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
+            }
+        ],
+        "weakness": "Water",
+        "retreat": "2",
+        "artist": "Eri Yamaki",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "8",
+        "rarity": "◊◊◊",
+        "description": "Inhaled air is carried to its flame sac, heated, and\nexhaled as fire that reaches over 3,000 degrees\nFahrenheit.",
+        "info": {
+            "national_pokedex": "0136",
+            "species": "Flame Pokémon",
+            "height": "0.9 m / 2'11\"",
+            "weight": "25.0 kg / 55.1 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_009_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Flareon ex",
+        "energy": "Fire",
+        "hp": "150",
+        "category": "Stage 1",
+        "evolvesfrom": "Eevee",
+        "ability": {
+            "title": "Ability Combust",
+            "effect": "Once during your turn, you may attach a [R] Energy from your discard pile to this Pokémon. If you do, do 20 damage to this Pokémon."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Fire Spin",
+                "attack": "130",
+                "effect": "Discard 2 [R] Energy from this Pokémon."
+            }
+        ],
+        "weakness": "Water",
+        "retreat": "2",
+        "artist": "PLANETA CG Works",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "9",
+        "rarity": "◊◊◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_010_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Torkoal",
+        "energy": "Fire",
+        "hp": "100",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fire",
+                    "Fire"
+                ],
+                "name": "Flamethrower",
+                "attack": "70",
+                "effect": "Discard a [R] Energy from this Pokémon."
+            }
+        ],
+        "weakness": "Water",
+        "retreat": "2",
+        "artist": "sui",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "10",
+        "rarity": "◊",
+        "description": "It burns coal inside its shell for energy. It blows\nout black soot if it is endangered.",
+        "info": {
+            "national_pokedex": "0324",
+            "species": "Coal Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "80.4 kg / 177.2 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_011_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Litten",
+        "energy": "Fire",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Flare",
+                "attack": "40",
+                "effect": ""
+            }
+        ],
+        "weakness": "Water",
+        "retreat": "1",
+        "artist": "0313",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "11",
+        "rarity": "◊",
+        "description": "If you try too hard to get close to it, it won’t\nopen up to you. Even if you do grow close,\ngiving it too much affection is still a no-no.",
+        "info": {
+            "national_pokedex": "0725",
+            "species": "Fire Cat Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "4.3 kg / 9.5 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_012_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Torracat",
+        "energy": "Fire",
+        "hp": "80",
+        "category": "Stage 1",
+        "evolvesfrom": "Litten",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Claw Slash",
+                "attack": "50",
+                "effect": ""
+            }
+        ],
+        "weakness": "Water",
+        "retreat": "1",
+        "artist": "Shin Nagasawa",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "12",
+        "rarity": "◊",
+        "description": "Torracat will let its Trainer coddle it once they’ve\ngrown close, but it’s a powerful, sharp-clawed\nPokémon, so its Trainer gets covered in scratches.",
+        "info": {
+            "national_pokedex": "0726",
+            "species": "Fire Cat Pokémon",
+            "height": "0.71 m / 2'04\"",
+            "weight": "25.0 kg / 55.1 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_013_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Incineroar",
+        "energy": "Fire",
+        "hp": "150",
+        "category": "Stage 2",
+        "evolvesfrom": "Torracat",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Darkest Lariat",
+                "attack": "100x",
+                "effect": "Flip 2 coins. This attack does 100 damage for each heads."
+            }
+        ],
+        "weakness": "Water",
+        "retreat": "3",
+        "artist": "Hitoshi Ariga",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "13",
+        "rarity": "◊◊",
+        "description": "Although it’s rough mannered and egotistical, it\nfinds beating down unworthy opponents boring.\nIt gets motivated for stronger opponents.",
+        "info": {
+            "national_pokedex": "0727",
+            "species": "Heel Pokémon",
+            "height": "1.8 m / 5'11\"",
+            "weight": "83.0 kg / 183.0 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_014_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Salandit",
+        "energy": "Fire",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fire"
+                ],
+                "name": "Ember",
+                "attack": "30",
+                "effect": "Discard a [R] Energy from this Pokémon."
+            }
+        ],
+        "weakness": "Water",
+        "retreat": "1",
+        "artist": "tetsuya koizumi",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "14",
+        "rarity": "◊",
+        "description": "It taunts its prey and lures them into narrow,\nrocky areas where it then sprays them with toxic\ngas to make them dizzy and take them down.",
+        "info": {
+            "national_pokedex": "0757",
+            "species": "Toxic Lizard Pokémon",
+            "height": "0.6 m / 2'00\"",
+            "weight": "4.8 kg / 10.6 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_015_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Salazzle",
+        "energy": "Fire",
+        "hp": "90",
+        "category": "Stage 1",
+        "evolvesfrom": "Salandit",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fire"
+                ],
+                "name": "Combustion",
+                "attack": "40",
+                "effect": ""
+            }
+        ],
+        "weakness": "Water",
+        "retreat": "0",
+        "artist": "Shibuzoh.",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "15",
+        "rarity": "◊◊",
+        "description": "Salazzle makes its opponents light-headed with\npoisonous gas, then captivates them with alluring\nmovements to turn them into loyal servants.",
+        "info": {
+            "national_pokedex": "0758",
+            "species": "Toxic Lizard Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "22.2 kg / 48.9 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_016_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Vaporeon",
+        "energy": "Water",
+        "hp": "120",
+        "category": "Stage 1",
+        "evolvesfrom": "Eevee",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Hyper Whirlpool",
+                "attack": "70",
+                "effect": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "2",
+        "artist": "sui",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "16",
+        "rarity": "◊◊◊",
+        "description": "It lives close to water. Its long tail is ridged with\na fin, which is often mistaken for a mermaid’s.",
+        "info": {
+            "national_pokedex": "0134",
+            "species": "Bubble Jet Pokémon",
+            "height": "1 m / 3'03\"",
+            "weight": "29 kg / 63.9 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_017_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Glaceon",
+        "energy": "Water",
+        "hp": "100",
+        "category": "Stage 1",
+        "evolvesfrom": "Eevee",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water",
+                    "Water"
+                ],
+                "name": "Ice Blade",
+                "attack": "",
+                "effect": "This attack does 50 damage to 1 of your opponent's Pokémon."
+            }
+        ],
+        "weakness": "Metal",
+        "retreat": "2",
+        "artist": "Mizue",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "17",
+        "rarity": "◊◊◊",
+        "description": "It can control its body temperature at will.\nThis enables it to freeze the moisture in the\natmosphere, creating flurries of diamond dust.",
+        "info": {
+            "national_pokedex": "0471",
+            "species": "Fresh Snow Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "25.9 kg / 57.1 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_018_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Vanillite",
+        "energy": "Water",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water"
+                ],
+                "name": "Sweets Relay",
+                "attack": "10+",
+                "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage."
+            }
+        ],
+        "weakness": "Metal",
+        "retreat": "1",
+        "artist": "MAHOU",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "18",
+        "rarity": "◊",
+        "description": "Unable to survive in hot areas, it makes itself\ncomfortable by breathing out air cold enough to\ncause snow. It burrows into the snow to sleep.",
+        "info": {
+            "national_pokedex": "0582",
+            "species": "Fresh Snow Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "5.7 kg / 12.6 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_019_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Vanillish",
+        "energy": "Water",
+        "hp": "80",
+        "category": "Stage 1",
+        "evolvesfrom": "Vanillite",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water"
+                ],
+                "name": "Sweets Relay",
+                "attack": "30+",
+                "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage."
+            }
+        ],
+        "weakness": "Metal",
+        "retreat": "2",
+        "artist": "Shin Nagasawa",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "19",
+        "rarity": "◊",
+        "description": "By drinking pure water, it grows its icy body.\nThis Pokémon can be hard to find on days with\nwarm, sunny weather.",
+        "info": {
+            "national_pokedex": "0583",
+            "species": "Icy Snow Pokémon",
+            "height": "1.1 m / 3'07\"",
+            "weight": "41.0 kg / 90.4 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_020_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Vanilluxe",
+        "energy": "Water",
+        "hp": "140",
+        "category": "Stage 2",
+        "evolvesfrom": "Vanillish",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Double Spin",
+                "attack": "80x",
+                "effect": "Flip 2 coins. This attack does 80 damage for each heads."
+            }
+        ],
+        "weakness": "Metal",
+        "retreat": "2",
+        "artist": "Ayaka Yoshida",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "20",
+        "rarity": "◊◊",
+        "description": "When its anger reaches a breaking point, this\nPokémon unleashes a fierce blizzard that freezes\nevery creature around it, be they friend or foe.",
+        "info": {
+            "national_pokedex": "0584",
+            "species": "Snowstorm Pokémon",
+            "height": "1.5 m / 4'03\"",
+            "weight": "57.5 kg / 126.8 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_021_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Alomomola",
+        "energy": "Water",
+        "hp": "110",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Water Pulse",
+                "attack": "50",
+                "effect": "Your opponent's Active Pokémon is now Asleep."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "2",
+        "artist": "Miki Tanaka",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "21",
+        "rarity": "◊",
+        "description": "It gently holds injured and weak Pokémon in its\nfins. Its special membrane heals their wounds.",
+        "info": {
+            "national_pokedex": "0594",
+            "species": "Caring Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "31.6 kg / 69.7 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_022_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Popplio",
+        "energy": "Water",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Watering",
+                "attack": "30",
+                "effect": ""
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "match",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "22",
+        "rarity": "◊",
+        "description": "The balloons it inflates with its nose grow\nlarger and larger as it practices day by day.",
+        "info": {
+            "national_pokedex": "0728",
+            "species": "Sea Lion Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "7.5 kg / 16.5 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_023_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Brionne",
+        "energy": "Water",
+        "hp": "90",
+        "category": "Stage 1",
+        "evolvesfrom": "Popplio",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Water Gun",
+                "attack": "40",
+                "effect": ""
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "2",
+        "artist": "Atsuko Nishida",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "23",
+        "rarity": "◊",
+        "description": "It gets excited when it sees a dance it\ndoesn’t know. This hard worker practices\ndiligently until it can learn that dance.",
+        "info": {
+            "national_pokedex": "0729",
+            "species": "Pop Star Pokémon",
+            "height": "0.6 m / 2'00\"",
+            "weight": "17.5 kg / 38.6 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_024_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Primarina ex",
+        "energy": "Water",
+        "hp": "180",
+        "category": "Stage 2",
+        "evolvesfrom": "Brionne",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water"
+                ],
+                "name": "Hydro Pump",
+                "attack": "40+",
+                "effect": "If this Pokémon has at least 1 extra [W] Energy attached, this attack does 40 more damage."
+            },
+            {
+                "energy_cost": [
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
+                "name": "Sparkling Aria",
+                "attack": "100",
+                "effect": "Heal 20 damage from this Pokémon."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "2",
+        "artist": "PLANETA CG Works",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "24",
+        "rarity": "◊◊◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_025_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Jolteon",
+        "energy": "Lightning",
+        "hp": "90",
+        "category": "Stage 1",
+        "evolvesfrom": "Eevee",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Lightning"
+                ],
+                "name": "Beginning Bolt",
+                "attack": "40+",
+                "effect": "If this Pokémon evolved during this turn, this attack does 20 more damage."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Sanosuke Sakuma",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "25",
+        "rarity": "◊◊◊",
+        "description": "It concentrates the weak electric charges emitted\nby its cells and launches wicked lightning bolts.",
+        "info": {
+            "national_pokedex": "0135",
+            "species": "Lightning Pokémon",
+            "height": "0.79 m / 2'07\"",
+            "weight": "24.5 kg / 54.0 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_026_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Joltik",
+        "energy": "Lightning",
+        "hp": "40",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Lightning"
+                ],
+                "name": "Jolt",
+                "attack": "10",
+                "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Kouki Saitou",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "26",
+        "rarity": "◊",
+        "description": "Joltik can be found clinging to other Pokémon.\nIt’s soaking up static electricity because it can’t\nproduce a charge on its own.",
+        "info": {
+            "national_pokedex": "0595",
+            "species": "Attaching Pokémon",
+            "height": "0.1 m / 0'04\"",
+            "weight": "0.6 kg / 1.3 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_027_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Galvantula",
+        "energy": "Lightning",
+        "hp": "80",
+        "category": "Stage 1",
+        "evolvesfrom": "Joltik",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Lightning",
+                    "Lightning"
+                ],
+                "name": "Electric Shock",
+                "attack": "70",
+                "effect": "Discard all Energy attached to this Pokémon. Your opponent's Active Pokémon is now Paralyzed."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "0",
+        "artist": "otumami",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "27",
+        "rarity": "◊◊",
+        "description": "It launches electrified fur from its abdomen as its\nmeans of attack. Opponents hit by the fur could\nbe in for three full days and nights of paralysis.",
+        "info": {
+            "national_pokedex": "0596",
+            "species": "EleSpider Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "14.3 kg / 31.5 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_028_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Espeon",
+        "energy": "Psychic",
+        "hp": "100",
+        "category": "Stage 1",
+        "evolvesfrom": "Eevee",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Psychic"
+                ],
+                "name": "Energy Crush",
+                "attack": "20x",
+                "effect": "This attack does 20 damage for each Energy attached to all of your opponent's Pokémon."
+            }
+        ],
+        "weakness": "Darkness",
+        "retreat": "1",
+        "artist": "Ryota Murayama",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "28",
+        "rarity": "◊◊◊",
+        "description": "The tip of its forked tail quivers when it is\npredicting its opponent’s next move.",
+        "info": {
+            "national_pokedex": "0196",
+            "species": "Sun Pokémon",
+            "height": "0.9 m / 2'11\"",
+            "weight": "26.5 kg / 58.4 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_029_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Woobat",
+        "energy": "Psychic",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Psychic"
+                ],
+                "name": "Gust",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Darkness",
+        "retreat": "1",
+        "artist": "match",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "29",
+        "rarity": "◊",
+        "description": "While inside a cave, if you look up and see lots\nof heart-shaped marks lining the walls, it’s\nevidence that Woobat live there.",
+        "info": {
+            "national_pokedex": "0527",
+            "species": "Bat Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "2.1 kg / 4.6 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_030_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Swoobat",
+        "energy": "Psychic",
+        "hp": "100",
+        "category": "Stage 1",
+        "evolvesfrom": "Woobat",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Psychic"
+                ],
+                "name": "Psyshot",
+                "attack": "40",
+                "effect": ""
+            }
+        ],
+        "weakness": "Darkness",
+        "retreat": "1",
+        "artist": "Shigenori Negishi",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "30",
+        "rarity": "◊◊",
+        "description": "Emitting powerful sound waves tires it out.\nAfterward, it won’t be able to fly for a\nlittle while.",
+        "info": {
+            "national_pokedex": "0528",
+            "species": "Courting Pokémon",
+            "height": "0.9 m / 2'11\"",
+            "weight": "10.5 kg / 23.1 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_031_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Swirlix",
+        "energy": "Psychic",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Sweets Relay",
+                "attack": "10+",
+                "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage."
+            }
+        ],
+        "weakness": "Metal",
+        "retreat": "1",
+        "artist": "MAHOU",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "31",
+        "rarity": "◊",
+        "description": "It eats its own weight in sugar every day.\nIf it doesn’t get enough sugar, it becomes\nincredibly grumpy.",
+        "info": {
+            "national_pokedex": "0684",
+            "species": "Cotton Candy Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "3.5 kg / 7.7 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_032_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Slurpuff",
+        "energy": "Psychic",
+        "hp": "120",
+        "category": "Stage 1",
+        "evolvesfrom": "Swirlix",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Sweets Relay",
+                "attack": "30+",
+                "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 60 more damage."
+            }
+        ],
+        "weakness": "Metal",
+        "retreat": "3",
+        "artist": "Kyoko Umemoto",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "32",
+        "rarity": "◊◊",
+        "description": "By taking in a person’s scent, it can sniff out their\nmental and physical condition. It’s hoped that\nthis skill will have many medical applications.",
+        "info": {
+            "national_pokedex": "0685",
+            "species": "Meringue Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "5.0 kg / 11.0 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_033_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Sylveon",
+        "energy": "Psychic",
+        "hp": "90",
+        "category": "Stage 1",
+        "evolvesfrom": "Eevee",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Evoharmony",
+                "attack": "40+",
+                "effect": "This attack does 30 more damage for each Evolution Pokémon on your Bench."
+            }
+        ],
+        "weakness": "Metal",
+        "retreat": "1",
+        "artist": "Naoyo Kimura",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "33",
+        "rarity": "◊◊◊",
+        "description": "This Pokémon uses its ribbonlike feelers to send\na soothing aura into its opponents, erasing\ntheir hostility.",
+        "info": {
+            "national_pokedex": "0700",
+            "species": "Intertwining Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "23.5 kg / 51.8 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_034_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Sylveon ex",
+        "energy": "Psychic",
+        "hp": "140",
+        "category": "Stage 1",
+        "evolvesfrom": "Eevee",
+        "ability": {
+            "title": "Ability Happy Ribbon",
+            "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may draw 2 cards."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Fairy Wind",
+                "attack": "70",
+                "effect": ""
+            }
+        ],
+        "weakness": "Metal",
+        "retreat": "1",
+        "artist": "PLANETA CG Works",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "34",
+        "rarity": "◊◊◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_035_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Mimikyu",
+        "energy": "Psychic",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Psychic",
+                    "Psychic"
+                ],
+                "name": "Try to Imitate",
+                "attack": "",
+                "effect": "Flip a coin. If heads, choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
+            }
+        ],
+        "weakness": "Metal",
+        "retreat": "1",
+        "artist": "Eri Yamaki",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "35",
+        "rarity": "◊◊",
+        "description": "This Pokémon lives in dark places untouched by\nsunlight. When it appears before humans, it hides\nitself under a cloth that resembles a Pikachu.",
+        "info": {
+            "national_pokedex": "0778",
+            "species": "Disguise Pokémon",
+            "height": "0.2 m / 0'08\"",
+            "weight": "0.7 kg / 1.5 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_036_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Milcery",
+        "energy": "Psychic",
+        "hp": "50",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Sweets Relay",
+                "attack": "10+",
+                "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage."
+            }
+        ],
+        "weakness": "Metal",
+        "retreat": "1",
+        "artist": "Mina Nakai",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "36",
+        "rarity": "◊",
+        "description": "This Pokémon was born from sweet-smelling\nparticles in the air. Its body is made of cream.",
+        "info": {
+            "national_pokedex": "0868",
+            "species": "Cream Pokémon",
+            "height": "0.2 m / 0'08\"",
+            "weight": "0.3 kg / 0.7 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_037_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Alcremie",
+        "energy": "Psychic",
+        "hp": "80",
+        "category": "Stage 1",
+        "evolvesfrom": "Milcery",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Sweets Overload",
+                "attack": "40x",
+                "effect": "This attack does 40 damage for each time your Pokémon used Sweets Relay during this game."
+            }
+        ],
+        "weakness": "Metal",
+        "retreat": "1",
+        "artist": "Mizue",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "37",
+        "rarity": "◊◊",
+        "description": "When it trusts a Trainer, it will treat them\nto berries it’s decorated with cream.",
+        "info": {
+            "national_pokedex": "0869",
+            "species": "Cream Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "0.5 kg / 1.1 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_038_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Barboach",
+        "energy": "Fighting",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "name": "Mud Shot",
+                "attack": "30",
+                "effect": ""
+            }
+        ],
+        "weakness": "Grass",
+        "retreat": "2",
+        "artist": "Tomokazu Komiya",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "38",
+        "rarity": "◊",
+        "description": "Its two whiskers provide a sensitive radar. Even in\nmuddy waters, it can detect its prey’s location.",
+        "info": {
+            "national_pokedex": "0339",
+            "species": "Whiskers Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "1.9 kg / 4.2 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_039_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Whiscash",
+        "energy": "Fighting",
+        "hp": "130",
+        "category": "Stage 1",
+        "evolvesfrom": "Barboach",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Earthquake",
+                "attack": "130",
+                "effect": "This attack also does 10 damage to each of your Benched Pokémon."
+            }
+        ],
+        "weakness": "Grass",
+        "retreat": "3",
+        "artist": "Shinji Kanda",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "39",
+        "rarity": "◊◊",
+        "description": "It is extremely protective of its territory. If any\nfoe approaches, it attacks using vicious tremors.",
+        "info": {
+            "national_pokedex": "0340",
+            "species": "Whiskers Pokémon",
+            "height": "0.9 m / 2'11\"",
+            "weight": "23.6 kg / 52.0 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_040_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Mienfoo",
+        "energy": "Fighting",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fighting"
+                ],
+                "name": "Kick Shot",
+                "attack": "40",
+                "effect": "Flip a coin. If tails, this attack does nothing."
+            }
+        ],
+        "weakness": "Psychic",
+        "retreat": "1",
+        "artist": "Shigenori Negishi",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "40",
+        "rarity": "◊",
+        "description": "In one minute, a well-trained Mienfoo can chop\nwith its arms more than 100 times.",
+        "info": {
+            "national_pokedex": "0619",
+            "species": "Martial Arts Pokémon",
+            "height": "0.9 m / 2'11\"",
+            "weight": "20.0 kg / 44.1 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_041_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Mienshao",
+        "energy": "Fighting",
+        "hp": "90",
+        "category": "Stage 1",
+        "evolvesfrom": "Mienfoo",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Low Kick",
+                "attack": "70",
+                "effect": ""
+            }
+        ],
+        "weakness": "Psychic",
+        "retreat": "1",
+        "artist": "Shibuzoh.",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "41",
+        "rarity": "◊◊",
+        "description": "When Mienshao comes across a truly challenging\nopponent, it will lighten itself by biting off the\nfur on its arms.",
+        "info": {
+            "national_pokedex": "0620",
+            "species": "Martial Arts Pokémon",
+            "height": "1.4 m / 4'07\"",
+            "weight": "35.5 kg / 78.3 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_042_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Carbink",
+        "energy": "Fighting",
+        "hp": "80",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "name": "Hard Roll",
+                "attack": "30",
+                "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+            }
+        ],
+        "weakness": "Grass",
+        "retreat": "1",
+        "artist": "5ban Graphics",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "42",
+        "rarity": "◊",
+        "description": "When beset by attackers, Carbink wipes them all\nout by firing high-energy beams from the gems\nembedded in its body.",
+        "info": {
+            "national_pokedex": "0703",
+            "species": "Jewel Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "5.7 kg / 12.6 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_043_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Umbreon",
+        "energy": "Darkness",
+        "hp": "100",
+        "category": "Stage 1",
+        "evolvesfrom": "Eevee",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Darkness"
+                ],
+                "name": "Dark Binding",
+                "attack": "40",
+                "effect": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn."
+            }
+        ],
+        "weakness": "Grass",
+        "retreat": "2",
+        "artist": "Ryota Murayama",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "43",
+        "rarity": "◊◊◊",
+        "description": "When exposed to the moon’s aura, the rings on its\nbody glow faintly and it gains a mysterious power.",
+        "info": {
+            "national_pokedex": "0197",
+            "species": "Moonlight Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "27.0 kg / 59.5 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_044_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Sableye",
+        "energy": "Darkness",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Darkness"
+                ],
+                "name": "Scratch",
+                "attack": "30",
+                "effect": ""
+            }
+        ],
+        "weakness": "Grass",
+        "retreat": "1",
+        "artist": "Yukiko Baba",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "44",
+        "rarity": "◊",
+        "description": "Materials from gems it has eaten float to the\nsurface of its body and can form an infinite\nnumber of patterns among individuals.",
+        "info": {
+            "national_pokedex": "0302",
+            "species": "Darkness Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "11.0 kg / 24.3 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_045_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Purrloin",
+        "energy": "Darkness",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Darkness"
+                ],
+                "name": "Playful Knockdown",
+                "attack": "",
+                "effect": "Discard all Pokémon Tools from your opponent's Active Pokémon."
+            }
+        ],
+        "weakness": "Grass",
+        "retreat": "1",
+        "artist": "Kouki Saitou",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "45",
+        "rarity": "◊",
+        "description": "Opponents that get drawn in by its adorable\nbehavior come away with stinging scratches from\nits claws and stinging pride from its laughter.",
+        "info": {
+            "national_pokedex": "0509",
+            "species": "Devious Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "10.1 kg / 22.3 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_046_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Liepard",
+        "energy": "Darkness",
+        "hp": "90",
+        "category": "Stage 1",
+        "evolvesfrom": "Purrloin",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Darkness",
+                    "Darkness"
+                ],
+                "name": "Slashing Claw",
+                "attack": "70",
+                "effect": ""
+            }
+        ],
+        "weakness": "Grass",
+        "retreat": "1",
+        "artist": "kawayoo",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "46",
+        "rarity": "◊◊",
+        "description": "Don’t be fooled by its gorgeous fur and elegant\nfigure. This is a moody and vicious Pokémon.",
+        "info": {
+            "national_pokedex": "0510",
+            "species": "Cruel Pokémon",
+            "height": "1.1 m / 3'07\"",
+            "weight": "37.5 kg / 82.7 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_047_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Mawile",
+        "energy": "Metal",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Powerful Vise",
+                "attack": "30",
+                "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "AKIRA EGAWA",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "47",
+        "rarity": "◊",
+        "description": "It uses its docile-looking face to lull foes into\ncomplacency, then bites with its huge,\nrelentless jaws.",
+        "info": {
+            "national_pokedex": "0303",
+            "species": "Deceiver Pokémon",
+            "height": "0.6 m / 2'00\"",
+            "weight": "11.5 kg / 25.4 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_048_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Togedemaru",
+        "energy": "Metal",
+        "hp": "80",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Metal",
+                    "Metal"
+                ],
+                "name": "Bristling Spikes",
+                "attack": "30",
+                "effect": "During your opponent's next turn, if this Pokémon is damaged by an attack, do 30 damage to the Attacking Pokémon."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "Oswaldo KATO",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "48",
+        "rarity": "◊",
+        "description": "With the long hairs on its back, this Pokémon\ntakes in electricity from other electric Pokémon.\nIt stores what it absorbs in an electric sac.",
+        "info": {
+            "national_pokedex": "0777",
+            "species": "Roly-Poly Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "3.3 kg / 7.3 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_049_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Meltan",
+        "energy": "Metal",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Metal"
+                ],
+                "name": "Headbutt",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "HYOGONOSUKE",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "49",
+        "rarity": "◊",
+        "description": "It dissolves and eats metal. Circulating liquid\nmetal within its body is how it generates energy.",
+        "info": {
+            "national_pokedex": "0808",
+            "species": "Hex Nut Pokémon",
+            "height": "0.2 m / 0'08\"",
+            "weight": "8.0 kg / 17.6 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_050_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Melmetal",
+        "energy": "Metal",
+        "hp": "140",
+        "category": "Stage 1",
+        "evolvesfrom": "Meltan",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Metal",
+                    "Metal",
+                    "Metal"
+                ],
+                "name": "Mega Punch",
+                "attack": "90",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "4",
+        "artist": "NC Empire",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "50",
+        "rarity": "◊◊",
+        "description": "At the end of its life-span, Melmetal will rust and\nfall apart. The small shards left behind will\neventually be reborn as Meltan.",
+        "info": {
+            "national_pokedex": "0809",
+            "species": "Hex Nut Pokémon",
+            "height": "2.5 m / 8'02\"",
+            "weight": "800.0 kg / 1763.7 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_051_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Dratini",
+        "energy": "Dragon",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Beat",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "none",
+        "retreat": "1",
+        "artist": "Naoyo Kimura",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "51",
+        "rarity": "◊",
+        "description": "It sheds many layers of skin as it grows larger.\nDuring this process, it is protected by a rapid\nwaterfall.",
+        "info": {
+            "national_pokedex": "0147",
+            "species": "Dragon Pokémon",
+            "height": "1.8 m / 5'11\"",
+            "weight": "3.3 kg / 7.28 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_052_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Dragonair",
+        "energy": "Dragon",
+        "hp": "90",
+        "category": "Stage 1",
+        "evolvesfrom": "Dratini",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water",
+                    "Lightning"
+                ],
+                "name": "Waterfall",
+                "attack": "60",
+                "effect": ""
+            }
+        ],
+        "weakness": "none",
+        "retreat": "1",
+        "artist": "sui",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "52",
+        "rarity": "◊",
+        "description": "They say that if it emits an aura from its whole\nbody, the weather will begin to change instantly.",
+        "info": {
+            "national_pokedex": "0148",
+            "species": "Dragon Pokémon",
+            "height": "4.0 m / 13'01\"",
+            "weight": "16.5 kg / 36.68 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_053_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Dragonite ex",
+        "energy": "Dragon",
+        "hp": "180",
+        "category": "Stage 2",
+        "evolvesfrom": "Dragonair",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "name": "Giga Impact",
+                "attack": "180",
+                "effect": "During your next turn, this Pokémon can't attack."
+            }
+        ],
+        "weakness": "none",
+        "retreat": "2",
+        "artist": "PLANETA Igarashi",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "53",
+        "rarity": "◊◊◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_054_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Drampa",
+        "energy": "Dragon",
+        "hp": "100",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Dragon Breath",
+                "attack": "70",
+                "effect": "Flip a coin. If tails, this attack does nothing. If heads, your opponent's Active Pokémon is now Paralyzed."
+            }
+        ],
+        "weakness": "none",
+        "retreat": "2",
+        "artist": "Sanosuke Sakuma",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "54",
+        "rarity": "◊◊",
+        "description": "The mountains it calls home are nearly two miles\nin height. On rare occasions, it descends to play\nwith the children living in the towns below.",
+        "info": {
+            "national_pokedex": "0780",
+            "species": "Placid Pokémon",
+            "height": "3.0 m / 9'10\"",
+            "weight": "185.0 kg / 407.9 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_055_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Eevee",
+        "energy": "Colorless",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Collect",
+                "attack": "",
+                "effect": "Draw a card."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Naoki Saito",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "55",
+        "rarity": "◊",
+        "description": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment.",
+        "info": {
+            "national_pokedex": "0133",
+            "species": "Evolution Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "6.5 kg / 14.3 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_056_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Eevee ex",
+        "energy": "Colorless",
+        "hp": "90",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "ability": {
+            "title": "Ability Veevee ’volve",
+            "effect": "This Pokémon can evolve into any Pokémon that evolves from Eevee if you play it from your hand onto this Pokémon. (This Pokémon can't evolve during your first turn or the turn you play it.)"
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Bite",
+                "attack": "30",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "PLANETA CG Works",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "56",
+        "rarity": "◊◊◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_057_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Snorlax ex",
+        "energy": "Colorless",
+        "hp": "160",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "ability": {
+            "title": "Ability Full-Mouth Manner",
+            "effect": "At the end of your turn, if this Pokémon is in the Active Spot, heal 20 damage from it."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Flop-Down Punch",
+                "attack": "130",
+                "effect": "This Pokémon is now Asleep."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "4",
+        "artist": "PLANETA Tsuji",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "57",
+        "rarity": "◊◊◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_058_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Aipom",
+        "energy": "Colorless",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Double Hit",
+                "attack": "20x",
+                "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Shibuzoh.",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "58",
+        "rarity": "◊",
+        "description": "As it did more and more with its tail, its hands\nbecame clumsy. It makes its nest high in\nthe treetops.",
+        "info": {
+            "national_pokedex": "0190",
+            "species": "Long Tail Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "11.5 kg / 25.4 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_059_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Ambipom",
+        "energy": "Colorless",
+        "hp": "90",
+        "category": "Stage 1",
+        "evolvesfrom": "Aipom",
+        "ability": {
+            "title": "Ability Catching Tail",
+            "effect": "Once during your turn, you may put a random Pokémon Tool card from your deck into your hand."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Corkscrew Punch",
+                "attack": "50",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Sumiyoshi Kizuki",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "59",
+        "rarity": "◊◊",
+        "description": "It uses its tails for everything. If it wraps both\nof its tails around you and gives you a squeeze,\nthat’s proof it really likes you.",
+        "info": {
+            "national_pokedex": "0424",
+            "species": "Long Tail Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "20.3 kg / 44.8 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_060_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Chatot",
+        "energy": "Colorless",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Tone-Deaf",
+                "attack": "10",
+                "effect": "Your opponent's Active Pokémon is now Confused."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "Akira Komayama",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "60",
+        "rarity": "◊",
+        "description": "It mimics the cries of other Pokémon to trick them\ninto thinking it’s one of them. This way they won’t\nattack it.",
+        "info": {
+            "national_pokedex": "0441",
+            "species": "Music Note Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "1.9 kg / 4.2 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_061_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Audino",
+        "energy": "Colorless",
+        "hp": "90",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Do the Wave",
+                "attack": "20x",
+                "effect": "This attack does 20 damage for each of your Benched Pokémon."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "2",
+        "artist": "sui",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "61",
+        "rarity": "◊",
+        "description": "This Pokémon has a kind heart. By touching with its feelers,\nAudino can gauge other creatures’ feelings and physical conditions.",
+        "info": {
+            "national_pokedex": "0531",
+            "species": "Hearing Pokémon",
+            "height": "1.1 m / 3'07\"",
+            "weight": "31.0 kg / 68.3 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_062_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Minccino",
+        "energy": "Colorless",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Pound",
+                "attack": "10",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Sekio",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "62",
+        "rarity": "◊",
+        "description": "The way it brushes away grime with its tail\ncan be helpful when cleaning. But its focus on\nspotlessness can make cleaning more of a hassle.",
+        "info": {
+            "national_pokedex": "0572",
+            "species": "Chinchilla Pokémon",
+            "height": "0.4 m / 1'04”",
+            "weight": "5.8 kg / 12.8 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_063_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Cinccino",
+        "energy": "Colorless",
+        "hp": "90",
+        "category": "Stage 1",
+        "evolvesfrom": "Minccino",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Slap",
+                "attack": "40",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Mizue",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "63",
+        "rarity": "◊◊",
+        "description": "Its body secretes oil that this Pokémon spreads\nover its nest as a coating to protect it from dust.\nCinccino won’t tolerate even a speck of the stuff.",
+        "info": {
+            "national_pokedex": "0573",
+            "species": "Scarf Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "7.5 kg / 16.5 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_064_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Skwovet",
+        "energy": "Colorless",
+        "hp": "70",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Bite",
+                "attack": "30",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Akira Komayama",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "64",
+        "rarity": "◊",
+        "description": "It stores berries in its cheeks. When there are no\nberries to be found, Skwovet will stuff pebbles\ninto its cheeks to stave off its cravings.",
+        "info": {
+            "national_pokedex": "0819",
+            "species": "Cheeky Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "2.5 kg / 5.5 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_065_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Greedent",
+        "energy": "Colorless",
+        "hp": "120",
+        "category": "Stage 1",
+        "evolvesfrom": "Skwovet",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Enhanced Fang",
+                "attack": "50+",
+                "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 50 more damage."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "2",
+        "artist": "kirisAki",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "65",
+        "rarity": "◊◊",
+        "description": "This Pokémon makes off with heaps of fallen berries by wrapping\nthem in its tail, which is roughly twice the length of its body.",
+        "info": {
+            "national_pokedex": "0820",
+            "species": "Greedy Pokémon",
+            "height": "0.6 m / 2'00\"",
+            "weight": "6.0 kg / 13.2 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_066_EN_SM.webp",
+        "type": "Trainer",
+        "name": "Eevee Bag",
+        "category": "Item",
+        "effect": "Choose 1:① During this turn, attacks used by your Pokémon that evolve from Eevee do +10 damage to your opponent's Active Pokémon.② Heal 20 damage from each of your Pokémon that evolves from Eevee.",
+        "artist": "AYUMI ODASHIMA",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "66",
+        "rarity": "◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_067_EN_SM.webp",
+        "type": "Trainer",
+        "name": "Leftovers",
+        "category": "Tool",
+        "effect": "At the end of your turn, if the Pokémon this card is attached to is in the Active Spot, heal 10 damage from that Pokémon.",
+        "artist": "Studio Bora Inc.",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "67",
+        "rarity": "◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_068_EN_SM.webp",
+        "type": "Trainer",
+        "name": "Hau",
+        "category": "Supporter",
+        "effect": "During this turn, attacks used by your Decidueye ex, Incineroar ex, or Primarina ex do +30 damage to your opponent's Active Pokémon.",
+        "artist": "Yuu Nishida",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "68",
+        "rarity": "◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_069_EN_SM.webp",
+        "type": "Trainer",
+        "name": "Penny",
+        "category": "Supporter",
+        "effect": "Look at a random Supporter card that's not Penny from your opponent's deck and shuffle it back into their deck. Use the effect of that card as the effect of this card.",
+        "artist": "Susumu Maeya",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "69",
+        "rarity": "◊◊"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_070_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Leafeon",
+        "energy": "Grass",
+        "hp": "90",
+        "category": "Stage 1",
+        "evolvesfrom": "Eevee",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Leaf Blast",
+                "attack": "10+",
+                "effect": "This attack does 20 more damage for each [G] Energy attached to this Pokémon."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "1",
+        "artist": "Ryota Murayama",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "70",
+        "rarity": "☆",
+        "description": "When you see Leafeon asleep in a patch of\nsunshine, you’ll know it is using photosynthesis\nto produce clean air.",
+        "info": {
+            "national_pokedex": "0470",
+            "species": "Verdant Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "25.5 kg / 56.2 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_071_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Flareon",
+        "energy": "Fire",
+        "hp": "110",
+        "category": "Stage 1",
+        "evolvesfrom": "Eevee",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Assisting Heater",
+                "attack": "40",
+                "effect": "Take a [R] Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
+            }
+        ],
+        "weakness": "Water",
+        "retreat": "2",
+        "artist": "Teeziro",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "71",
+        "rarity": "☆",
+        "description": "Inhaled air is carried to its flame sac, heated, and\nexhaled as fire that reaches over 3,000 degrees\nFahrenheit.",
+        "info": {
+            "national_pokedex": "0136",
+            "species": "Flame Pokémon",
+            "height": "0.9 m / 2'11\"",
+            "weight": "25.0 kg / 55.1 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_072_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Vaporeon",
+        "energy": "Water",
+        "hp": "120",
+        "category": "Stage 1",
+        "evolvesfrom": "Eevee",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Hyper Whirlpool",
+                "attack": "70",
+                "effect": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "2",
+        "artist": "chibi",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "72",
+        "rarity": "☆",
+        "description": "It lives close to water. Its long tail is ridged with\na fin, which is often mistaken for a mermaid’s.",
+        "info": {
+            "national_pokedex": "0134",
+            "species": "Bubble Jet Pokémon",
+            "height": "1 m / 3'03\"",
+            "weight": "29 kg / 63.9 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_073_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Glaceon",
+        "energy": "Water",
+        "hp": "100",
+        "category": "Stage 1",
+        "evolvesfrom": "Eevee",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water",
+                    "Water"
+                ],
+                "name": "Ice Blade",
+                "attack": "",
+                "effect": "This attack does 50 damage to 1 of your opponent's Pokémon."
+            }
+        ],
+        "weakness": "Metal",
+        "retreat": "2",
+        "artist": "Fujimoto Gold",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "73",
+        "rarity": "☆",
+        "description": "It can control its body temperature at will.\nThis enables it to freeze the moisture in the\natmosphere, creating flurries of diamond dust.",
+        "info": {
+            "national_pokedex": "0471",
+            "species": "Fresh Snow Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "25.9 kg / 57.1 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_074_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Jolteon",
+        "energy": "Lightning",
+        "hp": "90",
+        "category": "Stage 1",
+        "evolvesfrom": "Eevee",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Lightning"
+                ],
+                "name": "Beginning Bolt",
+                "attack": "40+",
+                "effect": "If this Pokémon evolved during this turn, this attack does 20 more damage."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Nisota Niso",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "74",
+        "rarity": "☆",
+        "description": "It concentrates the weak electric charges emitted\nby its cells and launches wicked lightning bolts.",
+        "info": {
+            "national_pokedex": "0135",
+            "species": "Lightning Pokémon",
+            "height": "0.79 m / 2'07\"",
+            "weight": "24.5 kg / 54.0 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_075_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Espeon",
+        "energy": "Psychic",
+        "hp": "100",
+        "category": "Stage 1",
+        "evolvesfrom": "Eevee",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Psychic"
+                ],
+                "name": "Energy Crush",
+                "attack": "20x",
+                "effect": "This attack does 20 damage for each Energy attached to all of your opponent's Pokémon."
+            }
+        ],
+        "weakness": "Darkness",
+        "retreat": "1",
+        "artist": "rika",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "75",
+        "rarity": "☆",
+        "description": "The tip of its forked tail quivers when it is\npredicting its opponent’s next move.",
+        "info": {
+            "national_pokedex": "0196",
+            "species": "Sun Pokémon",
+            "height": "0.9 m / 2'11\"",
+            "weight": "26.5 kg / 58.4 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_076_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Sylveon",
+        "energy": "Psychic",
+        "hp": "90",
+        "category": "Stage 1",
+        "evolvesfrom": "Eevee",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Evoharmony",
+                "attack": "40+",
+                "effect": "This attack does 30 more damage for each Evolution Pokémon on your Bench."
+            }
+        ],
+        "weakness": "Metal",
+        "retreat": "1",
+        "artist": "saino misaki",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "76",
+        "rarity": "☆",
+        "description": "This Pokémon uses its ribbonlike feelers to send\na soothing aura into its opponents, erasing\ntheir hostility.",
+        "info": {
+            "national_pokedex": "0700",
+            "species": "Intertwining Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "23.5 kg / 51.8 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_077_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Umbreon",
+        "energy": "Darkness",
+        "hp": "100",
+        "category": "Stage 1",
+        "evolvesfrom": "Eevee",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Darkness"
+                ],
+                "name": "Dark Binding",
+                "attack": "40",
+                "effect": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn."
+            }
+        ],
+        "weakness": "Grass",
+        "retreat": "2",
+        "artist": "kawayoo",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "77",
+        "rarity": "☆",
+        "description": "When exposed to the moon’s aura, the rings on its\nbody glow faintly and it gains a mysterious power.",
+        "info": {
+            "national_pokedex": "0197",
+            "species": "Moonlight Pokémon",
+            "height": "1.0 m / 3'03\"",
+            "weight": "27.0 kg / 59.5 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_078_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Eevee",
+        "energy": "Colorless",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Collect",
+                "attack": "",
+                "effect": "Draw a card."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Narumi Sato",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "78",
+        "rarity": "☆",
+        "description": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment.",
+        "info": {
+            "national_pokedex": "0133",
+            "species": "Evolution Pokémon",
+            "height": "0.3 m / 1'00\"",
+            "weight": "6.5 kg / 14.3 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_079_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Flareon ex",
+        "energy": "Fire",
+        "hp": "150",
+        "category": "Stage 1",
+        "evolvesfrom": "Eevee",
+        "ability": {
+            "title": "Ability Combust",
+            "effect": "Once during your turn, you may attach a [R] Energy from your discard pile to this Pokémon. If you do, do 20 damage to this Pokémon."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Fire Spin",
+                "attack": "130",
+                "effect": "Discard 2 [R] Energy from this Pokémon."
+            }
+        ],
+        "weakness": "Water",
+        "retreat": "2",
+        "artist": "PLANETA CG Works",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "79",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_080_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Primarina ex",
+        "energy": "Water",
+        "hp": "180",
+        "category": "Stage 2",
+        "evolvesfrom": "Brionne",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water"
+                ],
+                "name": "Hydro Pump",
+                "attack": "40+",
+                "effect": "If this Pokémon has at least 1 extra [W] Energy attached, this attack does 40 more damage."
+            },
+            {
+                "energy_cost": [
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
+                "name": "Sparkling Aria",
+                "attack": "100",
+                "effect": "Heal 20 damage from this Pokémon."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "2",
+        "artist": "PLANETA CG Works",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "80",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_081_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Sylveon ex",
+        "energy": "Psychic",
+        "hp": "140",
+        "category": "Stage 1",
+        "evolvesfrom": "Eevee",
+        "ability": {
+            "title": "Ability Happy Ribbon",
+            "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may draw 2 cards."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Fairy Wind",
+                "attack": "70",
+                "effect": ""
+            }
+        ],
+        "weakness": "Metal",
+        "retreat": "1",
+        "artist": "PLANETA CG Works",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "81",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_082_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Dragonite ex",
+        "energy": "Dragon",
+        "hp": "180",
+        "category": "Stage 2",
+        "evolvesfrom": "Dragonair",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "name": "Giga Impact",
+                "attack": "180",
+                "effect": "During your next turn, this Pokémon can't attack."
+            }
+        ],
+        "weakness": "none",
+        "retreat": "2",
+        "artist": "PLANETA Mochizuki",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "82",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_083_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Eevee ex",
+        "energy": "Colorless",
+        "hp": "90",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "ability": {
+            "title": "Ability Veevee ’volve",
+            "effect": "This Pokémon can evolve into any Pokémon that evolves from Eevee if you play it from your hand onto this Pokémon. (This Pokémon can't evolve during your first turn or the turn you play it.)"
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Bite",
+                "attack": "30",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "PLANETA CG Works",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "83",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_084_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Snorlax ex",
+        "energy": "Colorless",
+        "hp": "160",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "ability": {
+            "title": "Ability Full-Mouth Manner",
+            "effect": "At the end of your turn, if this Pokémon is in the Active Spot, heal 20 damage from it."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Flop-Down Punch",
+                "attack": "130",
+                "effect": "This Pokémon is now Asleep."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "4",
+        "artist": "PLANETA CG Works",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "84",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_085_EN_SM.webp",
+        "type": "Trainer",
+        "name": "Hau",
+        "category": "Supporter",
+        "effect": "During this turn, attacks used by your Decidueye ex, Incineroar ex, or Primarina ex do +30 damage to your opponent's Active Pokémon.",
+        "artist": "Yuu Nishida",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "85",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_086_EN_SM.webp",
+        "type": "Trainer",
+        "name": "Penny",
+        "category": "Supporter",
+        "effect": "Look at a random Supporter card that's not Penny from your opponent's deck and shuffle it back into their deck. Use the effect of that card as the effect of this card.",
+        "artist": "Susumu Maeya",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "86",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_087_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Flareon ex",
+        "energy": "Fire",
+        "hp": "150",
+        "category": "Stage 1",
+        "evolvesfrom": "Eevee",
+        "ability": {
+            "title": "Ability Combust",
+            "effect": "Once during your turn, you may attach a [R] Energy from your discard pile to this Pokémon. If you do, do 20 damage to this Pokémon."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Fire Spin",
+                "attack": "130",
+                "effect": "Discard 2 [R] Energy from this Pokémon."
+            }
+        ],
+        "weakness": "Water",
+        "retreat": "2",
+        "artist": "Kuroimori",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "87",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_088_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Primarina ex",
+        "energy": "Water",
+        "hp": "180",
+        "category": "Stage 2",
+        "evolvesfrom": "Brionne",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water"
+                ],
+                "name": "Hydro Pump",
+                "attack": "40+",
+                "effect": "If this Pokémon has at least 1 extra [W] Energy attached, this attack does 40 more damage."
+            },
+            {
+                "energy_cost": [
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
+                "name": "Sparkling Aria",
+                "attack": "100",
+                "effect": "Heal 20 damage from this Pokémon."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "2",
+        "artist": "DOM",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "88",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_089_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Sylveon ex",
+        "energy": "Psychic",
+        "hp": "140",
+        "category": "Stage 1",
+        "evolvesfrom": "Eevee",
+        "ability": {
+            "title": "Ability Happy Ribbon",
+            "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may draw 2 cards."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Fairy Wind",
+                "attack": "70",
+                "effect": ""
+            }
+        ],
+        "weakness": "Metal",
+        "retreat": "1",
+        "artist": "Yuu Nishida",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "89",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_090_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Dragonite ex",
+        "energy": "Dragon",
+        "hp": "180",
+        "category": "Stage 2",
+        "evolvesfrom": "Dragonair",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "name": "Giga Impact",
+                "attack": "180",
+                "effect": "During your next turn, this Pokémon can't attack."
+            }
+        ],
+        "weakness": "none",
+        "retreat": "2",
+        "artist": "Mori Yuu",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "90",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_091_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Snorlax ex",
+        "energy": "Colorless",
+        "hp": "160",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "ability": {
+            "title": "Ability Full-Mouth Manner",
+            "effect": "At the end of your turn, if this Pokémon is in the Active Spot, heal 20 damage from it."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Flop-Down Punch",
+                "attack": "130",
+                "effect": "This Pokémon is now Asleep."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "4",
+        "artist": "Mékayu",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "91",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_092_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Eevee ex",
+        "energy": "Colorless",
+        "hp": "90",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "ability": {
+            "title": "Ability Veevee ’volve",
+            "effect": "This Pokémon can evolve into any Pokémon that evolves from Eevee if you play it from your hand onto this Pokémon. (This Pokémon can't evolve during your first turn or the turn you play it.)"
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Bite",
+                "attack": "30",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "kurumitsu",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "92",
+        "rarity": "☆☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_093_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Pinsir",
+        "energy": "Grass",
+        "hp": "90",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Guillotine Rush",
+                "attack": "50+",
+                "effect": "Flip a coin until you get tails. This attack does 40 more damage for each heads."
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": "2",
+        "artist": "Masakazu Fukuda",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "93",
+        "rarity": "☆",
+        "description": "These Pokémon judge one another based on\npincers. Thicker, more impressive pincers make\nfor more popularity with the opposite gender.",
+        "info": {
+            "national_pokedex": "0127",
+            "species": "Stag Beetle Pokémon",
+            "height": "1.5 m / 4'11\"",
+            "weight": "55.0 kg / 121.3 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_094_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Lapras",
+        "energy": "Water",
+        "hp": "100",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water"
+                ],
+                "name": "Hydro Pump",
+                "attack": "20+",
+                "effect": "If this Pokémon has at least 3 extra [W] Energy attached, this attack does 70 more damage."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "2",
+        "artist": "Nelnal",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "94",
+        "rarity": "☆",
+        "description": "A smart and kindhearted Pokémon,\nit glides across the surface of the sea while\nits beautiful song echoes around it.",
+        "info": {
+            "national_pokedex": "0131",
+            "species": "Transport Pokémon",
+            "height": "2.5 m / 8'02\"",
+            "weight": "220.5 kg / 485.0 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_095_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Voltorb",
+        "energy": "Lightning",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Lightning"
+                ],
+                "name": "Big Explosion",
+                "attack": "30",
+                "effect": "This Pokémon also does 10 damage to itself."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Scav",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "95",
+        "rarity": "☆",
+        "description": "It rolls to move. If the ground is uneven, a sudden\njolt from hitting a bump can cause it to explode.",
+        "info": {
+            "national_pokedex": "0100",
+            "species": "Ball Pokémon",
+            "height": "0.5 m / 1'08\"",
+            "weight": "10.4 kg / 22.9 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_096_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Electrode",
+        "energy": "Lightning",
+        "hp": "80",
+        "category": "Stage 1",
+        "evolvesfrom": "Voltorb",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Lightning"
+                ],
+                "name": "Rolling Attack",
+                "attack": "50",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "Scav",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "96",
+        "rarity": "☆",
+        "description": "The more energy it charges up, the faster\nit gets. But this also makes it more likely\nto explode.",
+        "info": {
+            "national_pokedex": "0101",
+            "species": "Ball Pokémon",
+            "height": "1.2 m / 3'11\"",
+            "weight": "66.6 kg / 146.8 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_097_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Ralts",
+        "energy": "Psychic",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Teleport",
+                "attack": "",
+                "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
+            }
+        ],
+        "weakness": "Darkness",
+        "retreat": "1",
+        "artist": "Sanosuke Sakuma",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "97",
+        "rarity": "☆",
+        "description": "The horns on its head provide a strong power\nthat enables it to sense people’s emotions.",
+        "info": {
+            "national_pokedex": "0280",
+            "species": "Feeling Pokémon",
+            "height": "0.4 m / 1'04\"",
+            "weight": "6.6 kg / 14.6 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_098_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Kirlia",
+        "energy": "Psychic",
+        "hp": "80",
+        "category": "Stage 1",
+        "evolvesfrom": "Ralts",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Slap",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Darkness",
+        "retreat": "1",
+        "artist": "Sanosuke Sakuma",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "98",
+        "rarity": "☆",
+        "description": "It has a psychic power that enables it to distort\nthe space around it and see into the future.",
+        "info": {
+            "national_pokedex": "0281",
+            "species": "Emotion Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "20.2 kg / 44.5 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_099_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Gardevoir",
+        "energy": "Psychic",
+        "hp": "110",
+        "category": "Stage 2",
+        "evolvesfrom": "Kirlia",
+        "ability": {
+            "title": "Ability Psy Shadow",
+            "effect": "Once during your turn, you may take a [P] Energy from your Energy Zone and attach it to the [P] Pokémon in the Active Spot."
+        },
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Psyshot",
+                "attack": "60",
+                "effect": ""
+            }
+        ],
+        "weakness": "Darkness",
+        "retreat": "2",
+        "artist": "Sanosuke Sakuma",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "99",
+        "rarity": "☆",
+        "description": "To protect its Trainer, it will expend all its psychic\npower to create a small black hole.",
+        "info": {
+            "national_pokedex": "0282",
+            "species": "Embrace Pokémon",
+            "height": "1.6 m / 5'03\"",
+            "weight": "48.4 kg / 106.7 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_100_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Ekans",
+        "energy": "Darkness",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Darkness"
+                ],
+                "name": "Bite",
+                "attack": "20",
+                "effect": ""
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "1",
+        "artist": "SATOSHI NAKAI",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "100",
+        "rarity": "☆",
+        "description": "By dislocating its jaw, it can swallow prey larger\nthan itself. After a meal, it curls up and rests.",
+        "info": {
+            "national_pokedex": "0023",
+            "species": "Snake Pokémon",
+            "height": "2.0 m / 6'07\"",
+            "weight": "6.9 kg / 15.2 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_101_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Arbok",
+        "energy": "Darkness",
+        "hp": "100",
+        "category": "Stage 1",
+        "evolvesfrom": "Ekans",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Darkness",
+                    "Colorless"
+                ],
+                "name": "Corner",
+                "attack": "60",
+                "effect": "During your opponent's next turn, the Defending Pokémon can't retreat."
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": "2",
+        "artist": "SATOSHI NAKAI",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "101",
+        "rarity": "☆",
+        "description": "The latest research has determined that there\nare over 20 possible arrangements of the\npatterns on its stomach.",
+        "info": {
+            "national_pokedex": "0024",
+            "species": "Cobra Pokémon",
+            "height": "3.5 m / 11'06\"",
+            "weight": "65.0 kg / 143.3 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_102_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Farfetch'd",
+        "energy": "Colorless",
+        "hp": "60",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Colorless"
+                ],
+                "name": "Leek Slap",
+                "attack": "40",
+                "effect": ""
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "MAHOU",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "102",
+        "rarity": "☆",
+        "description": "The stalk this Pokémon carries in its wings serves\nas a sword to cut down opponents. In a dire\nsituation, the stalk can also serve as food.",
+        "info": {
+            "national_pokedex": "0083",
+            "species": "Wild Duck Pokémon",
+            "height": "0.8 m / 2'07\"",
+            "weight": "15.0 kg / 33.1 lbs."
+        }
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_103_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Moltres ex",
+        "energy": "Fire",
+        "hp": "140",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fire"
+                ],
+                "name": "Inferno Dance",
+                "attack": "",
+                "effect": "Flip 3 coins. Take an amount of [R] Energy from your Energy Zone equal to the number of heads and attach it to your Benched [R] Pokémon in any way you like."
+            },
+            {
+                "energy_cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Heat Blast",
+                "attack": "70",
+                "effect": ""
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "2",
+        "artist": "PLANETA Saito",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "103",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_104_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Articuno ex",
+        "energy": "Water",
+        "hp": "140",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Ice Wing",
+                "attack": "40",
+                "effect": ""
+            },
+            {
+                "energy_cost": [
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
+                "name": "Blizzard",
+                "attack": "80",
+                "effect": "This attack also does 10 damage to each of your opponent's Benched Pokémon."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "2",
+        "artist": "PLANETA Saito",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "104",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_105_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Zapdos ex",
+        "energy": "Lightning",
+        "hp": "130",
+        "category": "Basic",
+        "evolvesfrom": "",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Lightning"
+                ],
+                "name": "Peck",
+                "attack": "20",
+                "effect": ""
+            },
+            {
+                "energy_cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Lightning"
+                ],
+                "name": "Thundering Hurricane",
+                "attack": "50x",
+                "effect": "Flip 4 coins. This attack does 50 damage for each heads."
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": "1",
+        "artist": "PLANETA Saito",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "105",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_106_EN_SM.webp",
+        "type": "Pokémon",
+        "name": "Gallade ex",
+        "energy": "Fighting",
+        "hp": "170",
+        "category": "Stage 2",
+        "evolvesfrom": "Kirlia",
+        "attacks": [
+            {
+                "energy_cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Energized Blade",
+                "attack": "70+",
+                "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+            }
+        ],
+        "weakness": "Psychic",
+        "retreat": "1",
+        "artist": "PLANETA CG Works",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "106",
+        "rarity": "☆☆"
+    },
+    {
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_107_EN_SM.webp",
+        "type": "Trainer",
+        "name": "Eevee Bag",
+        "category": "Item",
+        "effect": "Choose 1:① During this turn, attacks used by your Pokémon that evolve from Eevee do +10 damage to your opponent's Active Pokémon.② Heal 20 damage from each of your Pokémon that evolves from Eevee.",
+        "artist": "AYUMI ODASHIMA",
+        "set": {
+            "name": "Eevee Grove",
+            "code": "A3b",
+            "pack": ""
+        },
+        "id": "107",
+        "rarity": "Crown Rare"
+    }
+]
