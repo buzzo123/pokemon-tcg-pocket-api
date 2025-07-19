@@ -62,6 +62,70 @@ GET /set/A2/100
 ```
 Returns the card from A2 set with ID 100.
 
+## Data Structure
+
+Each card in the JSON files contains the following basic structure:
+
+```json
+{
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_001_EN.webp",
+  "type": "Pokémon",
+  "name": "Bulbasaur",
+  "energy": "Grass",
+  "hp": "70",
+  "category": "Basic",
+  "evolvesfrom": "",
+  "attacks": [
+    {
+      "energy_cost": ["Grass", "Colorless"],
+      "name": "Vine Whip",
+      "attack": "40",
+      "effect": ""
+    }
+  ],
+  "weakness": "Fire",
+  "retreat": "1",
+  "artist": "Narumi Sato",
+  "set": {
+    "name": "Genetic Apex",
+    "code": "A1",
+    "pack": "Mewtwo"
+  },
+  "id": "1",
+  "rarity": {
+    "symbol": "◊",
+    "text": "Common"
+  },
+  "description": "There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.",
+  "info": {
+    "national_pokedex": "0001",
+    "species": "Seed Pokémon",
+    "height": "0.7 m / 2'04\"",
+    "weight": "6.9 kg / 15.2 lbs."
+  }
+}
+```
+
+### Field Descriptions:
+- **image**: URL to the card image
+- **type**: Card type (Pokémon or Trainer)
+- **name**: Pokémon or Trainer card name
+- **energy**: Energy type of the Pokémon
+- **hp**: Hit Points of the Pokémon
+- **category**: Evolution stage (Basic, Stage 1, Stage 2, etc.)
+- **evolvesfrom**: Name of the Pokémon this evolves from (if applicable)
+- **attacks**: Array of attack objects with energy cost, name, damage, and effects
+- **weakness**: Type weakness of the Pokémon
+- **retreat**: Retreat cost (number of energy required to retreat)
+- **artist**: Card artist name
+- **set**: Object containing set information (name, code, pack)
+- **id**: Unique card identifier within the set
+- **rarity**: Object containing rarity symbol and text
+- **description**: Card description text
+- **info**: Object containing Pokémon information (Pokedex number, species, height, weight)
+
+All JSON data files are located in the `backend/data/` folder.
+
 ## Data Source
 
 The card data and images were scraped from:
