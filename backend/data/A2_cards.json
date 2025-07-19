@@ -26,7 +26,10 @@
             "pack": ""
         },
         "id": "1",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "If exposed to moonlight, it starts to move.\nIt roams far and wide at night to scatter its seeds.",
         "info": {
             "national_pokedex": "0043",
@@ -62,7 +65,10 @@
             "pack": ""
         },
         "id": "2",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Its pistils exude an incredibly foul odor.\nThe horrid stench can cause fainting at a distance\nof 1.25 miles.",
         "info": {
             "national_pokedex": "0044",
@@ -99,7 +105,10 @@
             "pack": ""
         },
         "id": "3",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Plentiful in the tropics. When it dances, its petals\nrub together and make a pleasant ringing sound.",
         "info": {
             "national_pokedex": "0182",
@@ -136,7 +145,10 @@
             "pack": "Dialga"
         },
         "id": "4",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Hidden beneath a tangle of vines that grows\nnonstop even if the vines are torn off, this\nPokémon’s true appearance remains a mystery.",
         "info": {
             "national_pokedex": "0114",
@@ -175,7 +187,10 @@
             "pack": "Dialga"
         },
         "id": "5",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Tangrowth has two arms that it can extend as it\npleases. Recent research has shown that these\narms are, in fact, bundles of vines.",
         "info": {
             "national_pokedex": "0465",
@@ -211,7 +226,10 @@
             "pack": "Dialga"
         },
         "id": "6",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Its eyes can see 360 degrees without moving its\nhead. It won’t miss prey—even those behind it.",
         "info": {
             "national_pokedex": "0193",
@@ -249,7 +267,10 @@
             "pack": "Dialga"
         },
         "id": "7",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_008_EN.webp",
@@ -278,7 +299,10 @@
             "pack": ""
         },
         "id": "8",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Its flowers give off a relaxing fragrance.\nThe stronger its aroma, the healthier\nthe Roselia is.",
         "info": {
             "national_pokedex": "0315",
@@ -315,7 +339,10 @@
             "pack": ""
         },
         "id": "9",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "After captivating opponents with its sweet scent,\nit lashes them with its thorny whips.",
         "info": {
             "national_pokedex": "0407",
@@ -352,7 +379,10 @@
             "pack": "Palkia"
         },
         "id": "10",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It uses its whole body to photosynthesize when\nexposed to sunlight. Its shell is made from\nhardened soil.",
         "info": {
             "national_pokedex": "0387",
@@ -390,7 +420,10 @@
             "pack": "Palkia"
         },
         "id": "11",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It lives along water in forests. In the daytime,\nit leaves the forest to sunbathe its treed shell.",
         "info": {
             "national_pokedex": "0388",
@@ -429,7 +462,10 @@
             "pack": "Palkia"
         },
         "id": "12",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "Ancient people imagined that beneath the\nground dwelt a gigantic Torterra.",
         "info": {
             "national_pokedex": "0389",
@@ -465,7 +501,10 @@
             "pack": "Palkia"
         },
         "id": "13",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Its legs are short. Whenever it stumbles, its stiff\nantennae clack with a xylophone-like sound.",
         "info": {
             "national_pokedex": "0401",
@@ -502,7 +541,10 @@
             "pack": "Palkia"
         },
         "id": "14",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "By allowing its cry to resonate in the hollow of its\nbelly, it produces a captivating sound.",
         "info": {
             "national_pokedex": "0402",
@@ -538,7 +580,10 @@
             "pack": ""
         },
         "id": "15",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "To shelter itself from cold, wintry winds, it covers\nitself with a cloak made of twigs and leaves.",
         "info": {
             "national_pokedex": "0412",
@@ -576,7 +621,10 @@
             "pack": ""
         },
         "id": "16",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Its appearance changes depending on where it\nevolved. The materials on hand become a part of\nits body.",
         "info": {
             "national_pokedex": "0413",
@@ -612,7 +660,10 @@
             "pack": "Dialga"
         },
         "id": "17",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "At night, Combee sleep in a group of about a\nhundred, packed closely together in a lump.",
         "info": {
             "national_pokedex": "0415",
@@ -649,7 +700,10 @@
             "pack": "Dialga"
         },
         "id": "18",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It houses its colony in cells in its body and\nreleases various pheromones to make those\ngrubs do its bidding.",
         "info": {
             "national_pokedex": "0416",
@@ -687,7 +741,10 @@
             "pack": "Palkia"
         },
         "id": "19",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It attracts prey with its sweet-smelling saliva, then\nchomps down. It takes a whole day to eat prey.",
         "info": {
             "national_pokedex": "0455",
@@ -724,7 +781,10 @@
             "pack": "Dialga"
         },
         "id": "20",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "When you see Leafeon asleep in a patch of\nsunshine, you’ll know it is using photosynthesis\nto produce clean air.",
         "info": {
             "national_pokedex": "0470",
@@ -761,7 +821,10 @@
             "pack": ""
         },
         "id": "21",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "The lawn mower is one of the household\nappliances that led to the development of\nthe Rotom Dex.",
         "info": {
             "national_pokedex": "0479",
@@ -802,7 +865,10 @@
             "pack": "Dialga"
         },
         "id": "22",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It can dissolve toxins in the air to instantly\ntransform ruined land into a lush field of flowers.",
         "info": {
             "national_pokedex": "0492",
@@ -838,7 +904,10 @@
             "pack": "Palkia"
         },
         "id": "23",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Magmar dispatches its prey with fire. But it\nregrets this habit once it realizes that it has\nburned its intended prey to a charred crisp.",
         "info": {
             "national_pokedex": "0126",
@@ -877,7 +946,10 @@
             "pack": "Palkia"
         },
         "id": "24",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "When Magmortar inhales deeply, the fire burning\nin its belly intensifies, rising in temperature to\nover 3,600 degrees Fahrenheit.",
         "info": {
             "national_pokedex": "0467",
@@ -913,7 +985,10 @@
             "pack": ""
         },
         "id": "25",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "A common sight in volcanic areas, it slowly slithers\naround in a constant search for warm places.",
         "info": {
             "national_pokedex": "0218",
@@ -950,7 +1025,10 @@
             "pack": ""
         },
         "id": "26",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Its brittle shell occasionally spouts intense flames\nthat circulate throughout its body.",
         "info": {
             "national_pokedex": "0219",
@@ -986,7 +1064,10 @@
             "pack": "Palkia"
         },
         "id": "27",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Its fiery rear end is fueled by gas made in its belly.\nEven rain can’t extinguish the fire.",
         "info": {
             "national_pokedex": "0390",
@@ -1022,7 +1103,10 @@
             "pack": "Palkia"
         },
         "id": "28",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It skillfully controls the intensity of the fire on its\ntail to keep its foes at an ideal distance.",
         "info": {
             "national_pokedex": "0391",
@@ -1059,7 +1143,10 @@
             "pack": "Palkia"
         },
         "id": "29",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_030_EN.webp",
@@ -1089,7 +1176,10 @@
             "pack": ""
         },
         "id": "30",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "If the convection microwave oven is not working\nproperly, then the Rotom inhabiting it will\nbecome lethargic.",
         "info": {
             "national_pokedex": "0479",
@@ -1126,7 +1216,10 @@
             "pack": "Dialga"
         },
         "id": "31",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It rubs its snout on the ground to find and dig up\nfood. It sometimes discovers hot springs.",
         "info": {
             "national_pokedex": "0220",
@@ -1168,7 +1261,10 @@
             "pack": "Dialga"
         },
         "id": "32",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "If it charges at an enemy, the hairs on its back\nstand up straight. It is very sensitive to sound.",
         "info": {
             "national_pokedex": "0221",
@@ -1211,7 +1307,10 @@
             "pack": "Dialga"
         },
         "id": "33",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "This Pokémon can be spotted in wall paintings\nfrom as far back as 10,000 years ago. For a\nwhile, it was thought to have gone extinct.",
         "info": {
             "national_pokedex": "0473",
@@ -1252,7 +1351,10 @@
             "pack": "Palkia"
         },
         "id": "34",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "With cold air that can reach temperatures as low\nas −328 degrees Fahrenheit, Regice instantly\nfreezes any creature that approaches it.",
         "info": {
             "national_pokedex": "0378",
@@ -1288,7 +1390,10 @@
             "pack": "Palkia"
         },
         "id": "35",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It doesn’t like to be taken care of. It’s difficult to\nbond with since it won’t listen to its Trainer.",
         "info": {
             "national_pokedex": "0393",
@@ -1325,7 +1430,10 @@
             "pack": "Palkia"
         },
         "id": "36",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It lives alone, away from others. Apparently, every\none of them believes it is the most important.",
         "info": {
             "national_pokedex": "0394",
@@ -1363,7 +1471,10 @@
             "pack": "Palkia"
         },
         "id": "37",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It swims as fast as a jet boat. The edges of its\nwings are sharp and can slice apart drifting ice.",
         "info": {
             "national_pokedex": "0395",
@@ -1399,7 +1510,10 @@
             "pack": ""
         },
         "id": "38",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It spins its two tails like a screw to propel itself\nthrough water. The tails also slice clinging\nseaweed.",
         "info": {
             "national_pokedex": "0418",
@@ -1435,7 +1549,10 @@
             "pack": ""
         },
         "id": "39",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "With its flotation sac inflated, it can carry people\non its back. It deflates the sac before it dives.",
         "info": {
             "national_pokedex": "0419",
@@ -1472,7 +1589,10 @@
             "pack": "Palkia"
         },
         "id": "40",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It used to have a shell on its back long ago.\nThis species is closely related to Pokémon\nlike Shellder.",
         "info": {
             "national_pokedex": "0422",
@@ -1510,7 +1630,10 @@
             "pack": "Palkia"
         },
         "id": "41",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "They normally inhabit rocky seashores, but in\ntimes of continuous rain, they can sometimes be\nfound in the mountains, far from the sea.",
         "info": {
             "national_pokedex": "0423",
@@ -1546,7 +1669,10 @@
             "pack": ""
         },
         "id": "42",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "The line running down its side can store sunlight.\nIt shines vividly at night.",
         "info": {
             "national_pokedex": "0456",
@@ -1582,7 +1708,10 @@
             "pack": ""
         },
         "id": "43",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "With its shining light, it lures its prey close.\nHowever, the light also happens to attract\nferocious fish Pokémon—its natural predators.",
         "info": {
             "national_pokedex": "0457",
@@ -1618,7 +1747,10 @@
             "pack": ""
         },
         "id": "44",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "During cold seasons, it migrates to the\nmountain’s lower reaches. It returns to the\nsnow-covered summit in the spring.",
         "info": {
             "national_pokedex": "0459",
@@ -1657,7 +1789,10 @@
             "pack": ""
         },
         "id": "45",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It lives a quiet life on mountains that are\nperpetually covered in snow. It hides itself\nby whipping up blizzards.",
         "info": {
             "national_pokedex": "0460",
@@ -1694,7 +1829,10 @@
             "pack": "Palkia"
         },
         "id": "46",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It can control its body temperature at will.\nThis enables it to freeze the moisture in the\natmosphere, creating flurries of diamond dust.",
         "info": {
             "national_pokedex": "0471",
@@ -1730,7 +1868,10 @@
             "pack": ""
         },
         "id": "47",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "This Rotom has entered a washing machine.\nIt nods with satisfaction after it floods the\nsurrounding area.",
         "info": {
             "national_pokedex": "0479",
@@ -1767,7 +1908,10 @@
             "pack": ""
         },
         "id": "48",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "This Rotom has entered a refrigerator. It leaps\naround gleefully after it uses cold air to freeze\nthe area around it.",
         "info": {
             "national_pokedex": "0479",
@@ -1814,7 +1958,10 @@
             "pack": "Palkia"
         },
         "id": "49",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_050_EN.webp",
@@ -1843,7 +1990,10 @@
             "pack": "Palkia"
         },
         "id": "50",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It is born with a wondrous power that lets it bond\nwith any kind of Pokémon.",
         "info": {
             "national_pokedex": "0490",
@@ -1879,7 +2029,10 @@
             "pack": ""
         },
         "id": "51",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "The electromagnetic waves emitted by the units\nat the sides of its head expel antigravity, which\nallows it to float.",
         "info": {
             "national_pokedex": "0081",
@@ -1916,7 +2069,10 @@
             "pack": ""
         },
         "id": "52",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Three Magnemite are linked by a strong magnetic\nforce. Earaches will occur if you get too close.",
         "info": {
             "national_pokedex": "0082",
@@ -1954,7 +2110,10 @@
             "pack": ""
         },
         "id": "53",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "As it zooms through the sky, this Pokémon seems\nto be receiving signals of unknown origin while\ntransmitting signals of unknown purpose.",
         "info": {
             "national_pokedex": "0462",
@@ -1990,7 +2149,10 @@
             "pack": ""
         },
         "id": "54",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It rolls to move. If the ground is uneven, a sudden\njolt from hitting a bump can cause it to explode.",
         "info": {
             "national_pokedex": "0100",
@@ -2026,7 +2188,10 @@
             "pack": ""
         },
         "id": "55",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "The more energy it charges up, the faster\nit gets. But this also makes it more likely\nto explode.",
         "info": {
             "national_pokedex": "0101",
@@ -2062,7 +2227,10 @@
             "pack": "Dialga"
         },
         "id": "56",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Many power plants keep Ground-type Pokémon\naround as a defense against Electabuzz that\ncome seeking electricity.",
         "info": {
             "national_pokedex": "0125",
@@ -2099,7 +2267,10 @@
             "pack": "Dialga"
         },
         "id": "57",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "The amount of electrical energy this Pokémon\nproduces is proportional to the rate of its pulse.\nThe voltage jumps while Electivire is battling.",
         "info": {
             "national_pokedex": "0466",
@@ -2135,7 +2306,10 @@
             "pack": "Dialga"
         },
         "id": "58",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "The extension and contraction of its muscles\ngenerates electricity. It glows when in trouble.",
         "info": {
             "national_pokedex": "0403",
@@ -2172,7 +2346,10 @@
             "pack": "Dialga"
         },
         "id": "59",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Strong electricity courses through the tips of\nits sharp claws. A light scratch causes fainting\nin foes.",
         "info": {
             "national_pokedex": "0404",
@@ -2210,7 +2387,10 @@
             "pack": "Dialga"
         },
         "id": "60",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It can see clearly through walls to track down its\nprey and seek its lost young.",
         "info": {
             "national_pokedex": "0405",
@@ -2247,7 +2427,10 @@
             "pack": "Dialga"
         },
         "id": "61",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_062_EN.webp",
@@ -2276,7 +2459,10 @@
             "pack": "Palkia"
         },
         "id": "62",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Its electricity-like body can enter some kinds\nof machines and take control in order to make\nmischief.",
         "info": {
             "national_pokedex": "0479",
@@ -2312,7 +2498,10 @@
             "pack": ""
         },
         "id": "63",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "The shell seems to be filled with joy. It is said\nthat it will share good luck when treated kindly.",
         "info": {
             "national_pokedex": "0175",
@@ -2348,7 +2537,10 @@
             "pack": ""
         },
         "id": "64",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "They say that it will appear before kindhearted,\ncaring people and shower them with happiness.",
         "info": {
             "national_pokedex": "0176",
@@ -2385,7 +2577,10 @@
             "pack": ""
         },
         "id": "65",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "These Pokémon are never seen anywhere near\nconflict or turmoil. In recent times, they’ve hardly\nbeen seen at all.",
         "info": {
             "national_pokedex": "0468",
@@ -2421,7 +2616,10 @@
             "pack": "Palkia"
         },
         "id": "66",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "This Pokémon startles people in the middle of\nthe night. It gathers fear as its energy.",
         "info": {
             "national_pokedex": "0200",
@@ -2458,7 +2656,10 @@
             "pack": "Palkia"
         },
         "id": "67",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_068_EN.webp",
@@ -2487,7 +2688,10 @@
             "pack": "Dialga"
         },
         "id": "68",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "The horns on its head provide a strong power\nthat enables it to sense people’s emotions.",
         "info": {
             "national_pokedex": "0280",
@@ -2523,7 +2727,10 @@
             "pack": "Dialga"
         },
         "id": "69",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It has a psychic power that enables it to distort\nthe space around it and see into the future.",
         "info": {
             "national_pokedex": "0281",
@@ -2559,7 +2766,10 @@
             "pack": "Dialga"
         },
         "id": "70",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "If it finds bad children who won’t listen to their\nparents, it will spirit them away—or so it’s said.",
         "info": {
             "national_pokedex": "0355",
@@ -2597,7 +2807,10 @@
             "pack": "Dialga"
         },
         "id": "71",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It seeks drifting will-o’-the-wisps and sucks them\ninto its empty body. What happens inside is\na mystery.",
         "info": {
             "national_pokedex": "0356",
@@ -2639,7 +2852,10 @@
             "pack": "Dialga"
         },
         "id": "72",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "At the bidding of transmissions from the spirit\nworld, it steals people and Pokémon away.\nNo one knows whether it has a will of its own.",
         "info": {
             "national_pokedex": "0477",
@@ -2675,7 +2891,10 @@
             "pack": "Dialga"
         },
         "id": "73",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It is whispered that any child who mistakes\nDrifloon for a balloon and holds on to it could\nwind up missing.",
         "info": {
             "national_pokedex": "0425",
@@ -2712,7 +2931,10 @@
             "pack": "Dialga"
         },
         "id": "74",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Some say this Pokémon is a collection of souls\nburdened with regrets, silently drifting through\nthe dusk.",
         "info": {
             "national_pokedex": "0426",
@@ -2748,7 +2970,10 @@
             "pack": ""
         },
         "id": "75",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Known as “The Being of Knowledge.” It is said\nthat it can wipe out the memory of those who see\nits eyes.",
         "info": {
             "national_pokedex": "0480",
@@ -2786,7 +3011,10 @@
             "pack": ""
         },
         "id": "76",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "Known as “The Being of Emotion.” It taught\nhumans the nobility of sorrow, pain, and joy.",
         "info": {
             "national_pokedex": "0481",
@@ -2822,7 +3050,10 @@
             "pack": ""
         },
         "id": "77",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Known as “The Being of Willpower.” It sleeps at the\nbottom of a lake to keep the world in balance.",
         "info": {
             "national_pokedex": "0482",
@@ -2864,7 +3095,10 @@
             "pack": "Palkia"
         },
         "id": "78",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "This Pokémon is said to live in a world on the\nreverse side of ours, where common knowledge is\ndistorted and strange.",
         "info": {
             "national_pokedex": "0487",
@@ -2901,7 +3135,10 @@
             "pack": "Palkia"
         },
         "id": "79",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "Shiny particles are released from its wings like a\nveil. It is said to represent the crescent moon.",
         "info": {
             "national_pokedex": "0488",
@@ -2938,7 +3175,10 @@
             "pack": "Palkia"
         },
         "id": "80",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Strong, but not too bright, this Pokémon can\nshatter even a skyscraper with its charging tackles.",
         "info": {
             "national_pokedex": "0111",
@@ -2976,7 +3216,10 @@
             "pack": "Palkia"
         },
         "id": "81",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It begins walking on its hind legs after evolution.\nIt can punch holes through boulders with its horn.",
         "info": {
             "national_pokedex": "0112",
@@ -3015,7 +3258,10 @@
             "pack": "Palkia"
         },
         "id": "82",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It can load up to three projectiles per arm into\nthe holes in its hands. What launches out of those\nholes could be either rocks or Roggenrola.",
         "info": {
             "national_pokedex": "0464",
@@ -3051,7 +3297,10 @@
             "pack": "Dialga"
         },
         "id": "83",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It usually clings to cliffs. When it spots its prey,\nit spreads its wings and glides down to attack.",
         "info": {
             "national_pokedex": "0207",
@@ -3087,7 +3336,10 @@
             "pack": "Dialga"
         },
         "id": "84",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It observes prey while hanging inverted from\nbranches. When the chance presents itself,\nit swoops!",
         "info": {
             "national_pokedex": "0472",
@@ -3124,7 +3376,10 @@
             "pack": "Dialga"
         },
         "id": "85",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It launches kicks while spinning. If it spins at high\nspeed, it may bore its way into the ground.",
         "info": {
             "national_pokedex": "0237",
@@ -3161,7 +3416,10 @@
             "pack": ""
         },
         "id": "86",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It moves less than an inch a year, but when\nit’s in a jam, it will spin and drill down into the\nground in a split second.",
         "info": {
             "national_pokedex": "0299",
@@ -3204,7 +3462,10 @@
             "pack": ""
         },
         "id": "87",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Every bit of Regirock’s body is made of stone.\nAs parts of its body erode, this Pokémon sticks\nrocks to itself to repair what’s been lost.",
         "info": {
             "national_pokedex": "0377",
@@ -3240,7 +3501,10 @@
             "pack": "Dialga"
         },
         "id": "88",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "A primeval Pokémon, it possesses a hard and\nsturdy skull, lacking any intelligence within.",
         "info": {
             "national_pokedex": "0408",
@@ -3276,7 +3540,10 @@
             "pack": "Dialga"
         },
         "id": "89",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "In ancient times, people would dig up fossils of\nthis Pokémon and use its skull, which is harder\nthan steel, to make helmets.",
         "info": {
             "national_pokedex": "0409",
@@ -3314,7 +3581,10 @@
             "pack": "Dialga"
         },
         "id": "90",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Its appearance changes depending on where it\nevolved. The materials on hand become a part of\nits body.",
         "info": {
             "national_pokedex": "0413",
@@ -3350,7 +3620,10 @@
             "pack": "Dialga"
         },
         "id": "91",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "They communicate with one another using their\nauras. They are able to run all through the night.",
         "info": {
             "national_pokedex": "0447",
@@ -3391,7 +3664,10 @@
             "pack": "Dialga"
         },
         "id": "92",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It’s said that no foe can remain invisible to\nLucario, since it can detect auras—even those\nof foes it could not otherwise see.",
         "info": {
             "national_pokedex": "0448",
@@ -3429,7 +3705,10 @@
             "pack": "Palkia"
         },
         "id": "93",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It shuts its nostrils tight, then travels through sand\nas if walking. They form colonies of around 10.",
         "info": {
             "national_pokedex": "0449",
@@ -3468,7 +3747,10 @@
             "pack": "Palkia"
         },
         "id": "94",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It is surprisingly quick to anger. It holds its mouth\nagape as a display of its strength.",
         "info": {
             "national_pokedex": "0450",
@@ -3505,7 +3787,10 @@
             "pack": "Dialga"
         },
         "id": "95",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_096_EN.webp",
@@ -3534,7 +3819,10 @@
             "pack": "Dialga"
         },
         "id": "96",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Feared and loathed by many, it is believed to\nbring misfortune to all those who see it at night.",
         "info": {
             "national_pokedex": "0198",
@@ -3571,7 +3859,10 @@
             "pack": "Dialga"
         },
         "id": "97",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It is merciless by nature. It is said that it never\nforgives the mistakes of its Murkrow followers.",
         "info": {
             "national_pokedex": "0430",
@@ -3607,7 +3898,10 @@
             "pack": "Palkia"
         },
         "id": "98",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "This cunning Pokémon hides under the cover of\ndarkness, waiting to attack its prey.",
         "info": {
             "national_pokedex": "0215",
@@ -3643,7 +3937,10 @@
             "pack": "Palkia"
         },
         "id": "99",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_100_EN.webp",
@@ -3672,7 +3969,10 @@
             "pack": ""
         },
         "id": "100",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "A Pokémon with a persistent nature, it chases its\nchosen prey until the prey becomes exhausted.",
         "info": {
             "national_pokedex": "0261",
@@ -3709,7 +4009,10 @@
             "pack": ""
         },
         "id": "101",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It will always obey the commands of a skilled\nTrainer. Its behavior arises from its living in packs\nin ancient times.",
         "info": {
             "national_pokedex": "0262",
@@ -3745,7 +4048,10 @@
             "pack": "Dialga"
         },
         "id": "102",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It sprays a foul fluid from its rear. Its stench\nspreads over a mile radius, driving Pokémon\naway.",
         "info": {
             "national_pokedex": "0434",
@@ -3782,7 +4088,10 @@
             "pack": "Dialga"
         },
         "id": "103",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It attacks by spraying a horribly smelly fluid from\nthe tip of its tail. Attacks from above confound it.",
         "info": {
             "national_pokedex": "0435",
@@ -3818,7 +4127,10 @@
             "pack": "Palkia"
         },
         "id": "104",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Its constant mischief and misdeeds resulted\nin it being bound to an Odd Keystone by a\nmysterious spell.",
         "info": {
             "national_pokedex": "0442",
@@ -3855,7 +4167,10 @@
             "pack": ""
         },
         "id": "105",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "After burrowing into the sand, it waits patiently\nfor prey to come near. This Pokémon and\nSizzlipede share common descent.",
         "info": {
             "national_pokedex": "0451",
@@ -3893,7 +4208,10 @@
             "pack": ""
         },
         "id": "106",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Its poison is potent, but it rarely sees use. This\nPokémon prefers to use physical force instead,\ngoing on rampages with its car-crushing strength.",
         "info": {
             "national_pokedex": "0452",
@@ -3930,7 +4248,10 @@
             "pack": "Dialga"
         },
         "id": "107",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Inflating its poison sacs, it fills the area with an\nodd sound and hits flinching opponents with a\npoison jab.",
         "info": {
             "national_pokedex": "0453",
@@ -3967,7 +4288,10 @@
             "pack": "Dialga"
         },
         "id": "108",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Swaying and dodging the attacks of its foes, it\nweaves its flexible body in close, then lunges\nout with its poisonous claws.",
         "info": {
             "national_pokedex": "0454",
@@ -4005,7 +4329,10 @@
             "pack": "Dialga"
         },
         "id": "109",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It chases people and Pokémon from its territory by\ncausing them to experience deep,\nnightmarish slumbers.",
         "info": {
             "national_pokedex": "0491",
@@ -4047,7 +4374,10 @@
             "pack": "Dialga"
         },
         "id": "110",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_111_EN.webp",
@@ -4076,7 +4406,10 @@
             "pack": ""
         },
         "id": "111",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "People fashion swords from Skarmory’s shed\nfeathers, so this Pokémon is a popular element\nin heraldic designs.",
         "info": {
             "national_pokedex": "0227",
@@ -4114,7 +4447,10 @@
             "pack": "Dialga"
         },
         "id": "112",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Registeel’s body is made of a strange material\nthat is flexible enough to stretch and shrink but\nalso more durable than any metal.",
         "info": {
             "national_pokedex": "0379",
@@ -4151,7 +4487,10 @@
             "pack": "Palkia"
         },
         "id": "113",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "A mild-mannered, herbivorous Pokémon, it used\nits face to dig up tree roots to eat. The skin on\nits face was plenty tough.",
         "info": {
             "national_pokedex": "0410",
@@ -4193,7 +4532,10 @@
             "pack": "Palkia"
         },
         "id": "114",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "The bones of its face are huge and hard, so\nthey were mistaken for its spine until after this\nPokémon was successfully restored.",
         "info": {
             "national_pokedex": "0411",
@@ -4230,7 +4572,10 @@
             "pack": "Palkia"
         },
         "id": "115",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Its appearance changes depending on where it\nevolved. The materials on hand become a part of\nits body.",
         "info": {
             "national_pokedex": "0413",
@@ -4267,7 +4612,10 @@
             "pack": "Dialga"
         },
         "id": "116",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Ancient people believed that the pattern on\nBronzor’s back contained a mysterious power.",
         "info": {
             "national_pokedex": "0436",
@@ -4305,7 +4653,10 @@
             "pack": "Dialga"
         },
         "id": "117",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "In ages past, this Pokémon was revered as a\nbringer of rain. It was found buried in the ground.",
         "info": {
             "national_pokedex": "0437",
@@ -4344,7 +4695,10 @@
             "pack": ""
         },
         "id": "118",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Although it can control its units known as\nMini-Noses, they sometimes get lost and don’t\ncome back.",
         "info": {
             "national_pokedex": "0476",
@@ -4392,7 +4746,10 @@
             "pack": "Dialga"
         },
         "id": "119",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_120_EN.webp",
@@ -4423,7 +4780,10 @@
             "pack": "Dialga"
         },
         "id": "120",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It dwells in volcanic caves. It digs in with its\ncross-shaped feet to crawl on ceilings and walls.",
         "info": {
             "national_pokedex": "0485",
@@ -4459,7 +4819,10 @@
             "pack": "Palkia"
         },
         "id": "121",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It skulks in caves, and when prey or an enemy\npasses by, it leaps out and chomps them.\nThe force of its attack sometimes chips its teeth.",
         "info": {
             "national_pokedex": "0443",
@@ -4496,7 +4859,10 @@
             "pack": "Palkia"
         },
         "id": "122",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "In rare cases, it molts and sheds its scales.\nMedicine containing its scales as an ingredient\nwill make a weary body feel invigorated.",
         "info": {
             "national_pokedex": "0444",
@@ -4537,7 +4903,10 @@
             "pack": "Palkia"
         },
         "id": "123",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It is said that when one runs at high speed,\nits wings create blades of wind that can fell\nnearby trees.",
         "info": {
             "national_pokedex": "0445",
@@ -4575,7 +4944,10 @@
             "pack": "Palkia"
         },
         "id": "124",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "If this Pokémon’s sticky saliva gets on you and\nyou don’t clean it off, an intense itch will set in.\nThe itch won’t go away, either.",
         "info": {
             "national_pokedex": "0108",
@@ -4614,7 +4986,10 @@
             "pack": "Palkia"
         },
         "id": "125",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_126_EN.webp",
@@ -4643,7 +5018,10 @@
             "pack": ""
         },
         "id": "126",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment.",
         "info": {
             "national_pokedex": "0133",
@@ -4679,7 +5057,10 @@
             "pack": "Palkia"
         },
         "id": "127",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "State-of-the-art technology was used to create\nPorygon. It was the first artificial Pokémon to be\ncreated via computer programming.",
         "info": {
             "national_pokedex": "0137",
@@ -4715,7 +5096,10 @@
             "pack": "Palkia"
         },
         "id": "128",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "This is a Porygon that was updated with special\ndata. Porygon2 develops itself by learning about\nmany different subjects all on its own.",
         "info": {
             "national_pokedex": "0233",
@@ -4753,7 +5137,10 @@
             "pack": "Palkia"
         },
         "id": "129",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "Porygon-Z had a program installed to allow it to\nmove between dimensions, but the program also\ncaused instability in Porygon-Z’s behavior.",
         "info": {
             "national_pokedex": "0474",
@@ -4789,7 +5176,10 @@
             "pack": ""
         },
         "id": "130",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "As it did more and more with its tail, its hands\nbecame clumsy. It makes its nest high in\nthe treetops.",
         "info": {
             "national_pokedex": "0190",
@@ -4825,7 +5215,10 @@
             "pack": ""
         },
         "id": "131",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It uses its tails for everything. If it wraps both\nof its tails around you and gives you a squeeze,\nthat’s proof it really likes you.",
         "info": {
             "national_pokedex": "0424",
@@ -4861,7 +5254,10 @@
             "pack": "Palkia"
         },
         "id": "132",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "They flock around mountains and fields, chasing\nafter bug Pokémon. Their singing is noisy and\nannoying.",
         "info": {
             "national_pokedex": "0396",
@@ -4898,7 +5294,10 @@
             "pack": "Palkia"
         },
         "id": "133",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Recognizing their own weakness, they always live\nin a group. When alone, a Staravia cries noisily.",
         "info": {
             "national_pokedex": "0397",
@@ -4936,7 +5335,10 @@
             "pack": "Palkia"
         },
         "id": "134",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "When Staravia evolve into Staraptor, they leave\nthe flock to live alone. They have sturdy wings.",
         "info": {
             "national_pokedex": "0398",
@@ -4973,7 +5375,10 @@
             "pack": "Dialga"
         },
         "id": "135",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "With nerves of steel, nothing can perturb it. It is\nmore agile and active than it appears.",
         "info": {
             "national_pokedex": "0399",
@@ -5010,7 +5415,10 @@
             "pack": "Dialga"
         },
         "id": "136",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It busily makes its nest with stacks of branches and\nroots it has cut up with its sharp incisors.",
         "info": {
             "national_pokedex": "0400",
@@ -5046,7 +5454,10 @@
             "pack": "Dialga"
         },
         "id": "137",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "If both of Buneary’s ears are rolled up, something\nis wrong with its body or mind. It’s a sure sign the\nPokémon is in need of care.",
         "info": {
             "national_pokedex": "0427",
@@ -5082,7 +5493,10 @@
             "pack": "Dialga"
         },
         "id": "138",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Lopunny is constantly monitoring its surroundings.\nIf danger approaches, this Pokémon responds\nwith superdestructive kicks.",
         "info": {
             "national_pokedex": "0428",
@@ -5118,7 +5532,10 @@
             "pack": "Palkia"
         },
         "id": "139",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It claws if displeased and purrs when affectionate.\nIts fickleness is very popular among some.",
         "info": {
             "national_pokedex": "0431",
@@ -5156,7 +5573,10 @@
             "pack": "Palkia"
         },
         "id": "140",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It would claim another Pokémon’s nest as its own\nif it finds a nest sufficiently comfortable.",
         "info": {
             "national_pokedex": "0432",
@@ -5192,7 +5612,10 @@
             "pack": "Palkia"
         },
         "id": "141",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It mimics the cries of other Pokémon to trick them\ninto thinking it’s one of them. This way they won’t\nattack it.",
         "info": {
             "national_pokedex": "0441",
@@ -5229,7 +5652,10 @@
             "pack": ""
         },
         "id": "142",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "This Rotom has entered an electric fan. It smirks\nwith satisfaction over a prank well pulled after it\nblows away everything around it.",
         "info": {
             "national_pokedex": "0479",
@@ -5268,7 +5694,10 @@
             "pack": ""
         },
         "id": "143",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It is said to have made Pokémon that look like\nitself from a special ice mountain, rocks,\nand magma.",
         "info": {
             "national_pokedex": "0486",
@@ -5290,7 +5719,10 @@
             "pack": "Dialga"
         },
         "id": "144",
-        "rarity": "◊"
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_145_EN.webp",
@@ -5305,7 +5737,10 @@
             "pack": "Palkia"
         },
         "id": "145",
-        "rarity": "◊"
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_146_EN.webp",
@@ -5320,7 +5755,10 @@
             "pack": "Dialga"
         },
         "id": "146",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_147_EN.webp",
@@ -5335,7 +5773,10 @@
             "pack": "Dialga"
         },
         "id": "147",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_148_EN.webp",
@@ -5350,7 +5791,10 @@
             "pack": "Palkia"
         },
         "id": "148",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_149_EN.webp",
@@ -5365,7 +5809,10 @@
             "pack": "Palkia"
         },
         "id": "149",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_150_EN.webp",
@@ -5380,7 +5827,10 @@
             "pack": "Palkia"
         },
         "id": "150",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_151_EN.webp",
@@ -5395,7 +5845,10 @@
             "pack": "Dialga"
         },
         "id": "151",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_152_EN.webp",
@@ -5410,7 +5863,10 @@
             "pack": "Palkia"
         },
         "id": "152",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_153_EN.webp",
@@ -5425,7 +5881,10 @@
             "pack": "Dialga"
         },
         "id": "153",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_154_EN.webp",
@@ -5440,7 +5899,10 @@
             "pack": "Dialga"
         },
         "id": "154",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_155_EN.webp",
@@ -5455,7 +5917,10 @@
             "pack": "Palkia"
         },
         "id": "155",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_156_EN.webp",
@@ -5487,7 +5952,10 @@
             "pack": "Dialga"
         },
         "id": "156",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "Tangrowth has two arms that it can extend as it\npleases. Recent research has shown that these\narms are, in fact, bundles of vines.",
         "info": {
             "national_pokedex": "0465",
@@ -5523,7 +5991,10 @@
             "pack": "Dialga"
         },
         "id": "157",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "At night, Combee sleep in a group of about a\nhundred, packed closely together in a lump.",
         "info": {
             "national_pokedex": "0415",
@@ -5561,7 +6032,10 @@
             "pack": "Palkia"
         },
         "id": "158",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "It attracts prey with its sweet-smelling saliva, then\nchomps down. It takes a whole day to eat prey.",
         "info": {
             "national_pokedex": "0455",
@@ -5602,7 +6076,10 @@
             "pack": "Dialga"
         },
         "id": "159",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "It can dissolve toxins in the air to instantly\ntransform ruined land into a lush field of flowers.",
         "info": {
             "national_pokedex": "0492",
@@ -5645,7 +6122,10 @@
             "pack": "Dialga"
         },
         "id": "160",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "This Pokémon can be spotted in wall paintings\nfrom as far back as 10,000 years ago. For a\nwhile, it was thought to have gone extinct.",
         "info": {
             "national_pokedex": "0473",
@@ -5683,7 +6163,10 @@
             "pack": "Palkia"
         },
         "id": "161",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "They normally inhabit rocky seashores, but in\ntimes of continuous rain, they can sometimes be\nfound in the mountains, far from the sea.",
         "info": {
             "national_pokedex": "0423",
@@ -5719,7 +6202,10 @@
             "pack": "Palkia"
         },
         "id": "162",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "It is born with a wondrous power that lets it bond\nwith any kind of Pokémon.",
         "info": {
             "national_pokedex": "0490",
@@ -5755,7 +6241,10 @@
             "pack": "Dialga"
         },
         "id": "163",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "The extension and contraction of its muscles\ngenerates electricity. It glows when in trouble.",
         "info": {
             "national_pokedex": "0403",
@@ -5791,7 +6280,10 @@
             "pack": "Palkia"
         },
         "id": "164",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "Its electricity-like body can enter some kinds\nof machines and take control in order to make\nmischief.",
         "info": {
             "national_pokedex": "0479",
@@ -5827,7 +6319,10 @@
             "pack": "Dialga"
         },
         "id": "165",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "It is whispered that any child who mistakes\nDrifloon for a balloon and holds on to it could\nwind up missing.",
         "info": {
             "national_pokedex": "0425",
@@ -5865,7 +6360,10 @@
             "pack": "Dialga"
         },
         "id": "166",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "Known as “The Being of Emotion.” It taught\nhumans the nobility of sorrow, pain, and joy.",
         "info": {
             "national_pokedex": "0481",
@@ -5907,7 +6405,10 @@
             "pack": "Palkia"
         },
         "id": "167",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "This Pokémon is said to live in a world on the\nreverse side of ours, where common knowledge is\ndistorted and strange.",
         "info": {
             "national_pokedex": "0487",
@@ -5944,7 +6445,10 @@
             "pack": "Palkia"
         },
         "id": "168",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "Shiny particles are released from its wings like a\nveil. It is said to represent the crescent moon.",
         "info": {
             "national_pokedex": "0488",
@@ -5983,7 +6487,10 @@
             "pack": "Palkia"
         },
         "id": "169",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "It can load up to three projectiles per arm into\nthe holes in its hands. What launches out of those\nholes could be either rocks or Roggenrola.",
         "info": {
             "national_pokedex": "0464",
@@ -6024,7 +6531,10 @@
             "pack": "Dialga"
         },
         "id": "170",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "It’s said that no foe can remain invisible to\nLucario, since it can detect auras—even those\nof foes it could not otherwise see.",
         "info": {
             "national_pokedex": "0448",
@@ -6062,7 +6572,10 @@
             "pack": "Palkia"
         },
         "id": "171",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "It shuts its nostrils tight, then travels through sand\nas if walking. They form colonies of around 10.",
         "info": {
             "national_pokedex": "0449",
@@ -6098,7 +6611,10 @@
             "pack": "Palkia"
         },
         "id": "172",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "Its constant mischief and misdeeds resulted\nin it being bound to an Odd Keystone by a\nmysterious spell.",
         "info": {
             "national_pokedex": "0442",
@@ -6135,7 +6651,10 @@
             "pack": "Dialga"
         },
         "id": "173",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "Inflating its poison sacs, it fills the area with an\nodd sound and hits flinching opponents with a\npoison jab.",
         "info": {
             "national_pokedex": "0453",
@@ -6173,7 +6692,10 @@
             "pack": "Dialga"
         },
         "id": "174",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "It dwells in volcanic caves. It digs in with its\ncross-shaped feet to crawl on ceilings and walls.",
         "info": {
             "national_pokedex": "0485",
@@ -6214,7 +6736,10 @@
             "pack": "Palkia"
         },
         "id": "175",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "It is said that when one runs at high speed,\nits wings create blades of wind that can fell\nnearby trees.",
         "info": {
             "national_pokedex": "0445",
@@ -6252,7 +6777,10 @@
             "pack": "Palkia"
         },
         "id": "176",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "When Staravia evolve into Staraptor, they leave\nthe flock to live alone. They have sturdy wings.",
         "info": {
             "national_pokedex": "0398",
@@ -6289,7 +6817,10 @@
             "pack": "Dialga"
         },
         "id": "177",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "With nerves of steel, nothing can perturb it. It is\nmore agile and active than it appears.",
         "info": {
             "national_pokedex": "0399",
@@ -6325,7 +6856,10 @@
             "pack": "Palkia"
         },
         "id": "178",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "It claws if displeased and purrs when affectionate.\nIts fickleness is very popular among some.",
         "info": {
             "national_pokedex": "0431",
@@ -6364,7 +6898,10 @@
             "pack": "Dialga"
         },
         "id": "179",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "It is said to have made Pokémon that look like\nitself from a special ice mountain, rocks,\nand magma.",
         "info": {
             "national_pokedex": "0486",
@@ -6402,7 +6939,10 @@
             "pack": "Dialga"
         },
         "id": "180",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_181_EN.webp",
@@ -6432,7 +6972,10 @@
             "pack": "Palkia"
         },
         "id": "181",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_182_EN.webp",
@@ -6472,7 +7015,10 @@
             "pack": "Palkia"
         },
         "id": "182",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_183_EN.webp",
@@ -6502,7 +7048,10 @@
             "pack": "Dialga"
         },
         "id": "183",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_184_EN.webp",
@@ -6532,7 +7081,10 @@
             "pack": "Palkia"
         },
         "id": "184",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_185_EN.webp",
@@ -6562,7 +7114,10 @@
             "pack": "Dialga"
         },
         "id": "185",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_186_EN.webp",
@@ -6591,7 +7146,10 @@
             "pack": "Palkia"
         },
         "id": "186",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_187_EN.webp",
@@ -6626,7 +7184,10 @@
             "pack": "Dialga"
         },
         "id": "187",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_188_EN.webp",
@@ -6667,7 +7228,10 @@
             "pack": "Dialga"
         },
         "id": "188",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_189_EN.webp",
@@ -6699,7 +7263,10 @@
             "pack": "Palkia"
         },
         "id": "189",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_190_EN.webp",
@@ -6714,7 +7281,10 @@
             "pack": "Palkia"
         },
         "id": "190",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_191_EN.webp",
@@ -6729,7 +7299,10 @@
             "pack": "Dialga"
         },
         "id": "191",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_192_EN.webp",
@@ -6744,7 +7317,10 @@
             "pack": "Palkia"
         },
         "id": "192",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_193_EN.webp",
@@ -6759,7 +7335,10 @@
             "pack": "Dialga"
         },
         "id": "193",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_194_EN.webp",
@@ -6774,7 +7353,10 @@
             "pack": "Dialga"
         },
         "id": "194",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_195_EN.webp",
@@ -6789,7 +7371,10 @@
             "pack": "Palkia"
         },
         "id": "195",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_196_EN.webp",
@@ -6820,7 +7405,10 @@
             "pack": "Dialga"
         },
         "id": "196",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Special Art Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_197_EN.webp",
@@ -6850,7 +7438,10 @@
             "pack": "Palkia"
         },
         "id": "197",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Special Art Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_198_EN.webp",
@@ -6880,7 +7471,10 @@
             "pack": "Dialga"
         },
         "id": "198",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Special Art Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_199_EN.webp",
@@ -6910,7 +7504,10 @@
             "pack": "Palkia"
         },
         "id": "199",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Special Art Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_200_EN.webp",
@@ -6940,7 +7537,10 @@
             "pack": "Dialga"
         },
         "id": "200",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Special Art Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_201_EN.webp",
@@ -6969,7 +7569,10 @@
             "pack": "Palkia"
         },
         "id": "201",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Special Art Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_202_EN.webp",
@@ -7004,7 +7607,10 @@
             "pack": "Dialga"
         },
         "id": "202",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Special Art Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_203_EN.webp",
@@ -7036,7 +7642,10 @@
             "pack": "Palkia"
         },
         "id": "203",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Special Art Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_204_EN.webp",
@@ -7076,7 +7685,10 @@
             "pack": "Palkia"
         },
         "id": "204",
-        "rarity": "☆☆☆"
+        "rarity": {
+            "symbol": "☆☆☆",
+            "text": "Immersive Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_205_EN.webp",
@@ -7117,7 +7729,10 @@
             "pack": "Dialga"
         },
         "id": "205",
-        "rarity": "☆☆☆"
+        "rarity": {
+            "symbol": "☆☆☆",
+            "text": "Immersive Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_206_EN.webp",
@@ -7157,7 +7772,10 @@
             "pack": ""
         },
         "id": "206",
-        "rarity": "Crown Rare"
+        "rarity": {
+            "symbol": "♔",
+            "text": "Crown Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_207_EN.webp",
@@ -7198,6 +7816,9 @@
             "pack": ""
         },
         "id": "207",
-        "rarity": "Crown Rare"
+        "rarity": {
+            "symbol": "♔",
+            "text": "Crown Rare"
+        }
     }
 ]

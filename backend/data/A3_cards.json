@@ -27,7 +27,10 @@
             "pack": "Lunala"
         },
         "id": "1",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Though it may look like it’s just a bunch of eggs,\nit’s a proper Pokémon. Exeggcute communicates\nwith others of its kind via telepathy, apparently.",
         "info": {
             "national_pokedex": "0102",
@@ -65,7 +68,10 @@
             "pack": "Lunala"
         },
         "id": "2",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "Blazing sunlight has brought out the true\nform and powers of this Pokémon.",
         "info": {
             "national_pokedex": "0103",
@@ -101,7 +107,10 @@
             "pack": ""
         },
         "id": "3",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "They usually live on ponds, but after an evening\nshower, they may appear on puddles in towns.",
         "info": {
             "national_pokedex": "0283",
@@ -137,7 +146,10 @@
             "pack": ""
         },
         "id": "4",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It flaps its four wings to hover and fly freely in\nany direction—to and fro and sideways.",
         "info": {
             "national_pokedex": "0284",
@@ -174,7 +186,10 @@
             "pack": "Lunala"
         },
         "id": "5",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "With noises that could be mistaken for the rattles\nof maracas, it creates an upbeat rhythm, startling\nbird Pokémon and making them fly off in a hurry.",
         "info": {
             "national_pokedex": "0556",
@@ -210,7 +225,10 @@
             "pack": ""
         },
         "id": "6",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Its strange physiology reacts to electrical energy in interesting ways.\nThe presence of a Shelmet will cause this Pokémon to evolve.",
         "info": {
             "national_pokedex": "0588",
@@ -246,7 +264,10 @@
             "pack": "Solgaleo"
         },
         "id": "7",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "After a lost child perished in the forest,\ntheir spirit possessed a tree stump, causing\nthe spirit’s rebirth as this Pokémon.",
         "info": {
             "national_pokedex": "0708",
@@ -284,7 +305,10 @@
             "pack": "Solgaleo"
         },
         "id": "8",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "People fear it due to a belief that it devours any\nwho try to cut down trees in its forest, but to the\nPokémon it shares its woods with, it’s kind.",
         "info": {
             "national_pokedex": "0709",
@@ -320,7 +344,10 @@
             "pack": "Solgaleo"
         },
         "id": "9",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It sends its feathers, which are as sharp\nas blades, flying in attack. Its legs are strong,\nso its kicks are also formidable.",
         "info": {
             "national_pokedex": "0722",
@@ -356,7 +383,10 @@
             "pack": "Lunala"
         },
         "id": "10",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It sends its feathers, which are as sharp\nas blades, flying in attack. Its legs are strong,\nso its kicks are also formidable.",
         "info": {
             "national_pokedex": "0722",
@@ -392,7 +422,10 @@
             "pack": "Lunala"
         },
         "id": "11",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "This narcissistic Pokémon is a clean freak. If you\ndon’t groom it diligently, it may stop listening to you.",
         "info": {
             "national_pokedex": "0723",
@@ -438,7 +471,10 @@
             "pack": "Lunala"
         },
         "id": "12",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_013_EN.webp",
@@ -467,7 +503,10 @@
             "pack": "Lunala"
         },
         "id": "13",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Its natural enemies, like Rookidee, may flee rather than risk getting\ncaught in its large mandibles that can snap thick tree branches.",
         "info": {
             "national_pokedex": "0736",
@@ -503,7 +542,10 @@
             "pack": ""
         },
         "id": "14",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Fomantis hates having its naps interrupted.\nIt fires off beams using energy it gathers by\nbathing in the sun.",
         "info": {
             "national_pokedex": "0753",
@@ -539,7 +581,10 @@
             "pack": ""
         },
         "id": "15",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "By masquerading as a bug Pokémon, it lowers the\nguard of actual bug Pokémon lured in by a scent of\nsweet flowers. Its sickles bring them down.",
         "info": {
             "national_pokedex": "0754",
@@ -575,7 +620,10 @@
             "pack": "Lunala"
         },
         "id": "16",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Pokémon living in the forest eat the\ndelicious caps on Morelull’s head.\nThe caps regrow overnight.",
         "info": {
             "national_pokedex": "0755",
@@ -612,7 +660,10 @@
             "pack": "Lunala"
         },
         "id": "17",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Its flickering spores lure in prey and put them to\nsleep. Once this Pokémon has its prey snoozing,\nit drains their vitality with its fingertips.",
         "info": {
             "national_pokedex": "0756",
@@ -648,7 +699,10 @@
             "pack": "Solgaleo"
         },
         "id": "18",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Its sweat is sweet, like syrup made from boiled-down\nfruit. Because of this, Bounsweet was highly valued in\nthe past, when sweeteners were scarce.",
         "info": {
             "national_pokedex": "0761",
@@ -684,7 +738,10 @@
             "pack": "Solgaleo"
         },
         "id": "19",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Steenee spreads a sweet scent that\nmakes others feel invigorated. This same\nscent is popular for antiperspirants.",
         "info": {
             "national_pokedex": "0762",
@@ -720,7 +777,10 @@
             "pack": "Solgaleo"
         },
         "id": "20",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "This Pokémon is proud and aggressive. However, it is\nsaid that a Tsareena will instantly become calm if\nsomeone touches the crown on its calyx.",
         "info": {
             "national_pokedex": "0763",
@@ -762,7 +822,10 @@
             "pack": "Solgaleo"
         },
         "id": "21",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It’s nature’s cleaner—it eats anything and everything, \nincluding garbage and rotten things. The ground near \nits nest is always clean.",
         "info": {
             "national_pokedex": "0767",
@@ -800,7 +863,10 @@
             "pack": "Solgaleo"
         },
         "id": "22",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It will do anything to win, taking advantage\nof every opening and finishing opponents\noff with the small claws on its front legs.",
         "info": {
             "national_pokedex": "0768",
@@ -838,7 +904,10 @@
             "pack": "Solgaleo"
         },
         "id": "23",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_024_EN.webp",
@@ -869,7 +938,10 @@
             "pack": "Solgaleo"
         },
         "id": "24",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "Although it’s called a guardian deity, it’s violent\nenough to crush anyone it sees as an enemy.",
         "info": {
             "national_pokedex": "0787",
@@ -906,7 +978,10 @@
             "pack": ""
         },
         "id": "25",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It has a brave and trustworthy nature. It fearlessly\nstands up to bigger and stronger foes.",
         "info": {
             "national_pokedex": "0058",
@@ -944,7 +1019,10 @@
             "pack": ""
         },
         "id": "26",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "An ancient picture scroll shows that people\nwere captivated by its movement as it ran\nthrough prairies.",
         "info": {
             "national_pokedex": "0059",
@@ -982,7 +1060,10 @@
             "pack": "Lunala"
         },
         "id": "27",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "This Pokémon sets the bone it holds\non fire and dances through the night\nas a way to mourn its fallen allies.",
         "info": {
             "national_pokedex": "0105",
@@ -1018,7 +1099,10 @@
             "pack": "Solgaleo"
         },
         "id": "28",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Fletchinder scatters embers in tall grass\nwhere bug Pokémon might be hiding and\nthen catches them as they come leaping out.",
         "info": {
             "national_pokedex": "0662",
@@ -1055,7 +1139,10 @@
             "pack": "Solgaleo"
         },
         "id": "29",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It has top-notch flying capabilities. It flies\naround easily, even while carrying prey\nthat weighs more than 220 lbs.",
         "info": {
             "national_pokedex": "0663",
@@ -1091,7 +1178,10 @@
             "pack": "Solgaleo"
         },
         "id": "30",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "If you try too hard to get close to it, it won’t\nopen up to you. Even if you do grow close,\ngiving it too much affection is still a no-no.",
         "info": {
             "national_pokedex": "0725",
@@ -1127,7 +1217,10 @@
             "pack": "Lunala"
         },
         "id": "31",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "If you try too hard to get close to it, it won’t\nopen up to you. Even if you do grow close,\ngiving it too much affection is still a no-no.",
         "info": {
             "national_pokedex": "0725",
@@ -1163,7 +1256,10 @@
             "pack": "Solgaleo"
         },
         "id": "32",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Torracat will let its Trainer coddle it once they’ve\ngrown close, but it’s a powerful, sharp-clawed\nPokémon, so its Trainer gets covered in scratches.",
         "info": {
             "national_pokedex": "0726",
@@ -1209,7 +1305,10 @@
             "pack": "Solgaleo"
         },
         "id": "33",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_034_EN.webp",
@@ -1239,7 +1338,10 @@
             "pack": "Lunala"
         },
         "id": "34",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "This form of Oricorio has sipped red nectar. It whips up\nblazing flames as it moves to the steps of its passionate dance.",
         "info": {
             "national_pokedex": "0741",
@@ -1275,7 +1377,10 @@
             "pack": ""
         },
         "id": "35",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It taunts its prey and lures them into narrow,\nrocky areas where it then sprays them with toxic\ngas to make them dizzy and take them down.",
         "info": {
             "national_pokedex": "0757",
@@ -1312,7 +1417,10 @@
             "pack": ""
         },
         "id": "36",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Salazzle makes its opponents light-headed with\npoisonous gas, then captivates them with alluring\nmovements to turn them into loyal servants.",
         "info": {
             "national_pokedex": "0758",
@@ -1350,7 +1458,10 @@
             "pack": "Lunala"
         },
         "id": "37",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "Explosive substances coat the shell on\nits back. Enemies that dare attack it will\nbe blown away by an immense detonation.",
         "info": {
             "national_pokedex": "0776",
@@ -1386,7 +1497,10 @@
             "pack": ""
         },
         "id": "38",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Life on mountains covered with deep snow has granted\nthis Pokémon a body of ice that’s as hard as steel.",
         "info": {
             "national_pokedex": "0027",
@@ -1422,7 +1536,10 @@
             "pack": ""
         },
         "id": "39",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It uses large, hooked claws to cut a path through\ndeep snow as it runs. On snowy mountains, this\nSandslash is faster than any other Pokémon.",
         "info": {
             "national_pokedex": "0028",
@@ -1458,7 +1575,10 @@
             "pack": "Lunala"
         },
         "id": "40",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "After long years in the ever-snowcapped mountains\nof Alola, this Vulpix has gained power over ice.",
         "info": {
             "national_pokedex": "0037",
@@ -1496,7 +1616,10 @@
             "pack": "Lunala"
         },
         "id": "41",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "A deity resides in the snowy mountains\nwhere this Pokémon lives. In ancient times,\nit was worshiped as that deity’s incarnation.",
         "info": {
             "national_pokedex": "0038",
@@ -1532,7 +1655,10 @@
             "pack": "Solgaleo"
         },
         "id": "42",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It is encased in a shell that is harder than diamond.\nInside, however, it is surprisingly tender.",
         "info": {
             "national_pokedex": "0090",
@@ -1569,7 +1695,10 @@
             "pack": "Solgaleo"
         },
         "id": "43",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Cloyster that live in seas with harsh tidal currents\ngrow large, sharp spikes on their shells.",
         "info": {
             "national_pokedex": "0091",
@@ -1607,7 +1736,10 @@
             "pack": ""
         },
         "id": "44",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "A smart and kindhearted Pokémon,\nit glides across the surface of the sea while\nits beautiful song echoes around it.",
         "info": {
             "national_pokedex": "0131",
@@ -1643,7 +1775,10 @@
             "pack": "Lunala"
         },
         "id": "45",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "The balloons it inflates with its nose grow\nlarger and larger as it practices day by day.",
         "info": {
             "national_pokedex": "0728",
@@ -1679,7 +1814,10 @@
             "pack": "Solgaleo"
         },
         "id": "46",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "The balloons it inflates with its nose grow\nlarger and larger as it practices day by day.",
         "info": {
             "national_pokedex": "0728",
@@ -1715,7 +1853,10 @@
             "pack": "Lunala"
         },
         "id": "47",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It gets excited when it sees a dance it\ndoesn’t know. This hard worker practices\ndiligently until it can learn that dance.",
         "info": {
             "national_pokedex": "0729",
@@ -1756,7 +1897,10 @@
             "pack": "Lunala"
         },
         "id": "48",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "To Primarina, every battle is a stage. It takes\ndown its prey with beautiful singing and dancing.",
         "info": {
             "national_pokedex": "0730",
@@ -1792,7 +1936,10 @@
             "pack": "Solgaleo"
         },
         "id": "49",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_050_EN.webp",
@@ -1821,7 +1968,10 @@
             "pack": "Lunala"
         },
         "id": "50",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Individually, they’re incredibly weak. It’s by gathering\nup into schools that they’re able to confront opponents.",
         "info": {
             "national_pokedex": "0746",
@@ -1859,7 +2009,10 @@
             "pack": "Lunala"
         },
         "id": "51",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_052_EN.webp",
@@ -1889,7 +2042,10 @@
             "pack": "Solgaleo"
         },
         "id": "52",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It forms a water bubble at the rear of its body\nand then covers its head with it. Meeting another\nDewpider means comparing water-bubble sizes.",
         "info": {
             "national_pokedex": "0751",
@@ -1927,7 +2083,10 @@
             "pack": "Solgaleo"
         },
         "id": "53",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It launches water bubbles with its legs, drowning prey within the\nbubbles. This Pokémon can then take its time to savor its meal.",
         "info": {
             "national_pokedex": "0752",
@@ -1967,7 +2126,10 @@
             "pack": "Lunala"
         },
         "id": "54",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It lives in warm, shallow waters. If it encounters a\nfoe, it will spit out its internal organs as a means\nto punch them.",
         "info": {
             "national_pokedex": "0771",
@@ -2004,7 +2166,10 @@
             "pack": ""
         },
         "id": "55",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It grinds its teeth with great force to stimulate\nits brain. It fires the psychic energy created by\nthis process from the protuberance on its head.",
         "info": {
             "national_pokedex": "0779",
@@ -2042,7 +2207,10 @@
             "pack": "Lunala"
         },
         "id": "56",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "This guardian deity of Poni Island manipulates\nwater. Because it lives deep within a thick fog,\nit came to be both feared and revered.",
         "info": {
             "national_pokedex": "0788",
@@ -2079,7 +2247,10 @@
             "pack": "Solgaleo"
         },
         "id": "57",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "When it is angered, it immediately discharges the\nenergy stored in the pouches in its cheeks.",
         "info": {
             "national_pokedex": "0025",
@@ -2117,7 +2288,10 @@
             "pack": "Solgaleo"
         },
         "id": "58",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_059_EN.webp",
@@ -2147,7 +2321,10 @@
             "pack": "Solgaleo"
         },
         "id": "59",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "If you mistake it for a rock and step on it,\nit will headbutt you in anger. In addition to\nthe pain, it will also zap you with a shock.",
         "info": {
             "national_pokedex": "0074",
@@ -2185,7 +2362,10 @@
             "pack": "Solgaleo"
         },
         "id": "60",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "When two Graveler fight each other, it fills the\nsurroundings with flashes of light and sound.\nPeople call it the “fireworks of the earth.”",
         "info": {
             "national_pokedex": "0075",
@@ -2224,7 +2404,10 @@
             "pack": "Solgaleo"
         },
         "id": "61",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It’s grumpy and stubborn. If you upset it,\nit discharges electricity from the surface of\nits body and growls with a voice like thunder.",
         "info": {
             "national_pokedex": "0076",
@@ -2260,7 +2443,10 @@
             "pack": ""
         },
         "id": "62",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "When spread, the frills on its head act like solar\npanels, generating the power behind this\nPokémon’s electric moves.",
         "info": {
             "national_pokedex": "0694",
@@ -2296,7 +2482,10 @@
             "pack": ""
         },
         "id": "63",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "One Heliolisk basking in the sun with its frill\noutspread is all it would take to produce enough\nelectricity to power a city.",
         "info": {
             "national_pokedex": "0695",
@@ -2332,7 +2521,10 @@
             "pack": "Lunala"
         },
         "id": "64",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "While its durable shell protects it from attacks,\nCharjabug strikes at enemies with jolts of\nelectricity discharged from the tips of its jaws.",
         "info": {
             "national_pokedex": "0737",
@@ -2369,7 +2561,10 @@
             "pack": "Lunala"
         },
         "id": "65",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It builds up electricity in its abdomen,\nfocuses it through its jaws, and then fires\nthe electricity off in concentrated beams.",
         "info": {
             "national_pokedex": "0738",
@@ -2410,7 +2605,10 @@
             "pack": "Solgaleo"
         },
         "id": "66",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "This form of Oricorio has sipped yellow nectar.\nIt uses nimble steps to approach opponents,\nthen knocks them out with electric punches.",
         "info": {
             "national_pokedex": "0741",
@@ -2446,7 +2644,10 @@
             "pack": "Lunala"
         },
         "id": "67",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "With the long hairs on its back, this Pokémon\ntakes in electricity from other electric Pokémon.\nIt stores what it absorbs in an electric sac.",
         "info": {
             "national_pokedex": "0777",
@@ -2484,7 +2685,10 @@
             "pack": "Solgaleo"
         },
         "id": "68",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "Although it’s called a guardian deity, if a\nperson or Pokémon puts it in a bad mood,\nit will become a malevolent deity and attack.",
         "info": {
             "national_pokedex": "0785",
@@ -2521,7 +2725,10 @@
             "pack": "Solgaleo"
         },
         "id": "69",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "The broadness of its hands may be no\ncoincidence—many scientists believe its palms\nbecame enlarged specifically for pantomiming.",
         "info": {
             "national_pokedex": "0122",
@@ -2558,7 +2765,10 @@
             "pack": ""
         },
         "id": "70",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It dwells in the darkness of caves. It uses its\nsharp claws to dig up gems to nourish itself.",
         "info": {
             "national_pokedex": "0302",
@@ -2594,7 +2804,10 @@
             "pack": ""
         },
         "id": "71",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Spoink will die if it stops bouncing. The pearl\non its head amplifies its psychic powers.",
         "info": {
             "national_pokedex": "0325",
@@ -2632,7 +2845,10 @@
             "pack": ""
         },
         "id": "72",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It can perform odd dance steps to influence foes.\nIts style of dancing became hugely popular overseas.",
         "info": {
             "national_pokedex": "0326",
@@ -2669,7 +2885,10 @@
             "pack": "Lunala"
         },
         "id": "73",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "The phase of the moon apparently has some effect\non its power. It’s active on the night of a full moon.",
         "info": {
             "national_pokedex": "0337",
@@ -2705,7 +2924,10 @@
             "pack": ""
         },
         "id": "74",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It loves to feed on feelings like envy and malice.\nIts upright horn catches the emotions of people.",
         "info": {
             "national_pokedex": "0353",
@@ -2741,7 +2963,10 @@
             "pack": ""
         },
         "id": "75",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "This Pokémon developed from an abandoned doll\nthat amassed a grudge. It is seen in dark alleys.",
         "info": {
             "national_pokedex": "0354",
@@ -2778,7 +3003,10 @@
             "pack": "Solgaleo"
         },
         "id": "76",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "This form of Oricorio has sipped pink nectar.\nIt elevates its mind with the gentle steps of its\ndance, then unleashes its psychic energy.",
         "info": {
             "national_pokedex": "0741",
@@ -2814,7 +3042,10 @@
             "pack": "Lunala"
         },
         "id": "77",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "This form of Oricorio has sipped purple nectar. It uses\nethereal dance steps to call forth the spirits of the dead.",
         "info": {
             "national_pokedex": "0741",
@@ -2850,7 +3081,10 @@
             "pack": "Solgaleo"
         },
         "id": "78",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Nectar and pollen are its favorite fare.\nIn fields of flowers, it gets into skirmishes\nwith Butterfree over food.",
         "info": {
             "national_pokedex": "0742",
@@ -2886,7 +3120,10 @@
             "pack": "Solgaleo"
         },
         "id": "79",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It makes pollen puffs from pollen and nectar.\nThe puffs’ effects depend on the type of\ningredients and how much of each one is used.",
         "info": {
             "national_pokedex": "0743",
@@ -2927,7 +3164,10 @@
             "pack": "Solgaleo"
         },
         "id": "80",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "Comfey picks flowers with its vine and decorates\nitself with them. For some reason, flowers won’t\nwither once they’re attached to a Comfey.",
         "info": {
             "national_pokedex": "0764",
@@ -2964,7 +3204,10 @@
             "pack": "Solgaleo"
         },
         "id": "81",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "If it loses its shovel, it will stick something\nelse—like a branch—in its head to make\ndo until it finds another shovel.",
         "info": {
             "national_pokedex": "0769",
@@ -3002,7 +3245,10 @@
             "pack": "Solgaleo"
         },
         "id": "82",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "The terrifying Palossand drags smaller Pokémon\ninto its sandy body. Once its victims are trapped,\nit drains them of their vitality whenever it pleases.",
         "info": {
             "national_pokedex": "0770",
@@ -3039,7 +3285,10 @@
             "pack": "Lunala"
         },
         "id": "83",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "There was a scientist who peeked under\nMimikyu’s old rag in the name of research.\nThe scientist died of a mysterious disease.",
         "info": {
             "national_pokedex": "0778",
@@ -3075,7 +3324,10 @@
             "pack": "Lunala"
         },
         "id": "84",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It heals the wounds of people and Pokémon\nby sprinkling them with its sparkling scales.\nThis guardian deity is worshiped on Akala.",
         "info": {
             "national_pokedex": "0786",
@@ -3111,7 +3363,10 @@
             "pack": ""
         },
         "id": "85",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Even though its helpless, gaseous body can be blown\naway by the slightest breeze, it doesn’t seem to care.",
         "info": {
             "national_pokedex": "0789",
@@ -3148,7 +3403,10 @@
             "pack": ""
         },
         "id": "86",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "The king who ruled Alola in times of antiquity called it\nthe “cocoon of the stars” and built an altar to worship it.",
         "info": {
             "national_pokedex": "0790",
@@ -3190,7 +3448,10 @@
             "pack": "Lunala"
         },
         "id": "87",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_088_EN.webp",
@@ -3222,7 +3483,10 @@
             "pack": "Lunala"
         },
         "id": "88",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It looks somehow pained as it rages around\nin search of light, which serves as its energy.\nIt’s apparently from another world.",
         "info": {
             "national_pokedex": "0800",
@@ -3259,7 +3523,10 @@
             "pack": "Lunala"
         },
         "id": "89",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "When the memory of its departed mother brings\nit to tears, its cries echo mournfully within the\nskull it wears on its head.",
         "info": {
             "national_pokedex": "0104",
@@ -3295,7 +3562,10 @@
             "pack": ""
         },
         "id": "90",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It grows stronger by enduring harsh training. It is\na gutsy Pokémon that can withstand any attack.",
         "info": {
             "national_pokedex": "0296",
@@ -3332,7 +3602,10 @@
             "pack": ""
         },
         "id": "91",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It loves challenging others to tests of strength.\nIt has the power to stop a train with a slap.",
         "info": {
             "national_pokedex": "0297",
@@ -3369,7 +3642,10 @@
             "pack": "Solgaleo"
         },
         "id": "92",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "When it rotates itself, it gives off light\nsimilar to the sun, thus blinding its foes.",
         "info": {
             "national_pokedex": "0338",
@@ -3405,7 +3681,10 @@
             "pack": ""
         },
         "id": "93",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It brings its claws together and whirls around\nat high speed before rushing toward its prey.",
         "info": {
             "national_pokedex": "0529",
@@ -3441,7 +3720,10 @@
             "pack": "Lunala"
         },
         "id": "94",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It loves helping out with construction projects.\nIt loves it so much that if rain causes work to\nhalt, it swings its log around and throws a tantrum.",
         "info": {
             "national_pokedex": "0532",
@@ -3478,7 +3760,10 @@
             "pack": "Lunala"
         },
         "id": "95",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It shows off its muscles to Machoke and\nother Gurdurr. If it fails to measure up to the\nother Pokémon, it lies low for a little while.",
         "info": {
             "national_pokedex": "0533",
@@ -3520,7 +3805,10 @@
             "pack": "Lunala"
         },
         "id": "96",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "Concrete mixed by Conkeldurr is much more\ndurable than normal concrete, even when the\ncompositions of the two materials are the same.",
         "info": {
             "national_pokedex": "0534",
@@ -3556,7 +3844,10 @@
             "pack": "Solgaleo"
         },
         "id": "97",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "This Pokémon punches trees and eats\nthe berries that drop down, training itself\nand getting food at the same time.",
         "info": {
             "national_pokedex": "0739",
@@ -3592,7 +3883,10 @@
             "pack": "Lunala"
         },
         "id": "98",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "This Pokémon is very friendly when it’s young.\nIts disposition becomes vicious once it matures,\nbut it never forgets the kindness of its master.",
         "info": {
             "national_pokedex": "0744",
@@ -3628,7 +3922,10 @@
             "pack": "Solgaleo"
         },
         "id": "99",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "This Pokémon is very friendly when it’s young.\nIts disposition becomes vicious once it matures,\nbut it never forgets the kindness of its master.",
         "info": {
             "national_pokedex": "0744",
@@ -3666,7 +3963,10 @@
             "pack": "Solgaleo"
         },
         "id": "100",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "Lycanroc attacks its prey with its\nsharp claws and fangs. It loyally obeys\nthe instructions of a Trainer it trusts.",
         "info": {
             "national_pokedex": "0745",
@@ -3703,7 +4003,10 @@
             "pack": "Lunala"
         },
         "id": "101",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "This Pokémon uses its rocky mane to slash\nany who approach. It will even disobey its\nTrainer if it dislikes the orders it was given.",
         "info": {
             "national_pokedex": "0745",
@@ -3740,7 +4043,10 @@
             "pack": "Solgaleo"
         },
         "id": "102",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "This Pokémon covers itself in mud that it\nhas regurgitated. The mud won’t dry out even\nif it’s exposed to the sun for a long time.",
         "info": {
             "national_pokedex": "0749",
@@ -3779,7 +4085,10 @@
             "pack": "Solgaleo"
         },
         "id": "103",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "This Pokémon has been treasured not just\nfor its physical labor but also because it produces\nhigh-quality mud used for making pottery.",
         "info": {
             "national_pokedex": "0750",
@@ -3820,7 +4129,10 @@
             "pack": "Lunala"
         },
         "id": "104",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_105_EN.webp",
@@ -3850,7 +4162,10 @@
             "pack": "Lunala"
         },
         "id": "105",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Places where Minior fall from the night\nsky are few and far between, with Alola\nbeing one of the precious few.",
         "info": {
             "national_pokedex": "0774",
@@ -3886,7 +4201,10 @@
             "pack": "Lunala"
         },
         "id": "106",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It shows no interest in anything that\nisn’t fresh. If you take it shopping with\nyou, it will help you pick out ingredients.",
         "info": {
             "national_pokedex": "0019",
@@ -3923,7 +4241,10 @@
             "pack": "Lunala"
         },
         "id": "107",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It has an incredibly greedy personality. Its nest\nis filled with so much food gathered by Rattata\nat its direction, it can’t possibly eat it all.",
         "info": {
             "national_pokedex": "0020",
@@ -3959,7 +4280,10 @@
             "pack": "Solgaleo"
         },
         "id": "108",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It’s accustomed to luxury because it\nused to live with Alolan royalty. As a\nresult, it’s very picky about food.",
         "info": {
             "national_pokedex": "0052",
@@ -4000,7 +4324,10 @@
             "pack": "Solgaleo"
         },
         "id": "109",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "The round face of Alolan Persian is considered\nto be a symbol of prosperity in the Alola region,\nso these Pokémon are very well cared for.",
         "info": {
             "national_pokedex": "0053",
@@ -4037,7 +4364,10 @@
             "pack": "Lunala"
         },
         "id": "110",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "There are a hundred or so of them living in\nAlola’s waste-disposal site. They’re all hard\nworkers who eat a lot of trash.",
         "info": {
             "national_pokedex": "0088",
@@ -4075,7 +4405,10 @@
             "pack": "Lunala"
         },
         "id": "111",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_112_EN.webp",
@@ -4105,7 +4438,10 @@
             "pack": "Lunala"
         },
         "id": "112",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "Swift as the wind, Absol races through fields and\nmountains. Its curved, bow-like horn is acutely\nsensitive to the warning signs of natural disasters.",
         "info": {
             "national_pokedex": "0359",
@@ -4141,7 +4477,10 @@
             "pack": ""
         },
         "id": "113",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Its favorite places are unsanitary ones. If you\nleave trash lying around, you could even find\none of these Pokémon living in your room.",
         "info": {
             "national_pokedex": "0568",
@@ -4179,7 +4518,10 @@
             "pack": ""
         },
         "id": "114",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "This Pokémon eats trash, which turns into poison\ninside its body. The main component of the\npoison depends on what sort of trash was eaten.",
         "info": {
             "national_pokedex": "0569",
@@ -4215,7 +4557,10 @@
             "pack": "Lunala"
         },
         "id": "115",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "This Pokémon wanders the seaside looking for\nfood. It often gets electric shocks from broken\nPincurchin spines that it tries to eat.",
         "info": {
             "national_pokedex": "0747",
@@ -4251,7 +4596,10 @@
             "pack": "Lunala"
         },
         "id": "116",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "This Pokémon lives within a dome made by its\nown legs. Toxapex monitors its surroundings by\nsensing the flow of the tide through its spikes.",
         "info": {
             "national_pokedex": "0748",
@@ -4287,7 +4635,10 @@
             "pack": ""
         },
         "id": "117",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "The metal-rich geology of this Pokémon’s habitat\ncaused it to develop steel whiskers on its head.",
         "info": {
             "national_pokedex": "0051",
@@ -4324,7 +4675,10 @@
             "pack": ""
         },
         "id": "118",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Their beautiful, metallic whiskers create a sort of\nprotective helmet on their heads, and they also\nfunction as highly precise sensors.",
         "info": {
             "national_pokedex": "0051",
@@ -4360,7 +4714,10 @@
             "pack": ""
         },
         "id": "119",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It’s not uncommon for tunnels that appear to\nhave formed naturally to actually be a result\nof Excadrill’s rampant digging.",
         "info": {
             "national_pokedex": "0530",
@@ -4396,7 +4753,10 @@
             "pack": ""
         },
         "id": "120",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Wearing the shell covering they stole from Shelmet,\nthey defend themselves and attack with two lances.",
         "info": {
             "national_pokedex": "0589",
@@ -4432,7 +4792,10 @@
             "pack": "Solgaleo"
         },
         "id": "121",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "Once it absorbs a key’s metal ions, it discards the\nkey without a second thought. However, it will\nhang on to keys it favors for decades.",
         "info": {
             "national_pokedex": "0707",
@@ -4473,7 +4836,10 @@
             "pack": "Solgaleo"
         },
         "id": "122",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_123_EN.webp",
@@ -4503,7 +4869,10 @@
             "pack": "Solgaleo"
         },
         "id": "123",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It synchronizes its consciousness with others\nto understand their feelings. This faculty makes\nit useful for taking care of people.",
         "info": {
             "national_pokedex": "0801",
@@ -4540,7 +4909,10 @@
             "pack": "Solgaleo"
         },
         "id": "124",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "The mountains it calls home are nearly two miles\nin height. On rare occasions, it descends to play\nwith the children living in the towns below.",
         "info": {
             "national_pokedex": "0780",
@@ -4576,7 +4948,10 @@
             "pack": "Lunala"
         },
         "id": "125",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "They learn to fight by smashing their head scales together.\nThe dueling strengthens both their skills and their spirits.",
         "info": {
             "national_pokedex": "0782",
@@ -4613,7 +4988,10 @@
             "pack": "Lunala"
         },
         "id": "126",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "The scaleless, scarred parts of its\nbody are signs of its strength. It shows\nthem off to defeated opponents.",
         "info": {
             "national_pokedex": "0783",
@@ -4650,7 +5028,10 @@
             "pack": "Lunala"
         },
         "id": "127",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It clatters its tail scales to unnerve opponents.\nThis Pokémon will battle only those who stand\nsteadfast in the face of this display.",
         "info": {
             "national_pokedex": "0784",
@@ -4688,7 +5069,10 @@
             "pack": ""
         },
         "id": "128",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "When Tauros begins whipping itself with its tails,\nit’s a warning that the Pokémon is about to\ncharge with astounding speed.",
         "info": {
             "national_pokedex": "0128",
@@ -4724,7 +5108,10 @@
             "pack": ""
         },
         "id": "129",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It can’t stop itself from chasing moving things,\nand it runs in a circle, chasing its own tail.",
         "info": {
             "national_pokedex": "0300",
@@ -4760,7 +5147,10 @@
             "pack": ""
         },
         "id": "130",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It dislikes dirty places. It often searches for a\ncomfortable place in which to groom itself.",
         "info": {
             "national_pokedex": "0301",
@@ -4796,7 +5186,10 @@
             "pack": "Solgaleo"
         },
         "id": "131",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "This Pokémon is normally calm, but once it enters battle,\nits hormonal balance changes and it becomes aggressive.",
         "info": {
             "national_pokedex": "0661",
@@ -4832,7 +5225,10 @@
             "pack": "Solgaleo"
         },
         "id": "132",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Its elegant finishing moves—performed by nimbly\nleaping around using its wings—are polished in\nthe forest where it was born and raised.",
         "info": {
             "national_pokedex": "0701",
@@ -4868,7 +5264,10 @@
             "pack": ""
         },
         "id": "133",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It pecks at trees with its hard beak. You can get some\nidea of its mood or condition from the rhythm of its pecking.",
         "info": {
             "national_pokedex": "0731",
@@ -4904,7 +5303,10 @@
             "pack": ""
         },
         "id": "134",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It can bend the tip of its beak to produce\nover a hundred different cries at will.",
         "info": {
             "national_pokedex": "0732",
@@ -4940,7 +5342,10 @@
             "pack": ""
         },
         "id": "135",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "They smack beaks with others of their kind to communicate.\nThe strength and number of hits tell each other how they feel.",
         "info": {
             "national_pokedex": "0733",
@@ -4976,7 +5381,10 @@
             "pack": "Solgaleo"
         },
         "id": "136",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Its stomach fills most of its torso. It wanders the\nsame path every day, searching for fresh food.",
         "info": {
             "national_pokedex": "0734",
@@ -5013,7 +5421,10 @@
             "pack": "Solgaleo"
         },
         "id": "137",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Once it finds signs of prey, it will patiently stake\nout the location, waiting until the sun goes down.",
         "info": {
             "national_pokedex": "0735",
@@ -5051,7 +5462,10 @@
             "pack": "Lunala"
         },
         "id": "138",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Its fluffy fur is a delight to pet, but carelessly reaching out\nto touch this Pokémon could result in painful retaliation.",
         "info": {
             "national_pokedex": "0759",
@@ -5090,7 +5504,10 @@
             "pack": "Lunala"
         },
         "id": "139",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "Once it accepts you as a friend, it tries to show\nits affection with a hug. Letting it do that is\ndangerous—it could easily shatter your bones.",
         "info": {
             "national_pokedex": "0760",
@@ -5127,7 +5544,10 @@
             "pack": "Lunala"
         },
         "id": "140",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "People used to mistake Oranguru for a human\nwhen they saw it issue command after command\nto the other Pokémon of the forest.",
         "info": {
             "national_pokedex": "0765",
@@ -5168,7 +5588,10 @@
             "pack": "Solgaleo"
         },
         "id": "141",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Komala spends its entire life sleeping.\nIt feeds on leaves that contain a potent\npoison only Komala can break down.",
         "info": {
             "national_pokedex": "0775",
@@ -5190,7 +5613,10 @@
             "pack": ""
         },
         "id": "142",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_143_EN.webp",
@@ -5205,7 +5631,10 @@
             "pack": "Lunala"
         },
         "id": "143",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_144_EN.webp",
@@ -5220,7 +5649,10 @@
             "pack": ""
         },
         "id": "144",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_145_EN.webp",
@@ -5235,7 +5667,10 @@
             "pack": "Solgaleo"
         },
         "id": "145",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_146_EN.webp",
@@ -5250,7 +5685,10 @@
             "pack": "Lunala"
         },
         "id": "146",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_147_EN.webp",
@@ -5265,7 +5703,10 @@
             "pack": "Solgaleo"
         },
         "id": "147",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_148_EN.webp",
@@ -5280,7 +5721,10 @@
             "pack": "Lunala"
         },
         "id": "148",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_149_EN.webp",
@@ -5295,7 +5739,10 @@
             "pack": "Lunala"
         },
         "id": "149",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_150_EN.webp",
@@ -5310,7 +5757,10 @@
             "pack": "Lunala"
         },
         "id": "150",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_151_EN.webp",
@@ -5325,7 +5775,10 @@
             "pack": "Lunala"
         },
         "id": "151",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_152_EN.webp",
@@ -5340,7 +5793,10 @@
             "pack": "Solgaleo"
         },
         "id": "152",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_153_EN.webp",
@@ -5355,7 +5811,10 @@
             "pack": "Solgaleo"
         },
         "id": "153",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_154_EN.webp",
@@ -5370,7 +5829,10 @@
             "pack": "Solgaleo"
         },
         "id": "154",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_155_EN.webp",
@@ -5385,7 +5847,10 @@
             "pack": "Solgaleo"
         },
         "id": "155",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_156_EN.webp",
@@ -5416,7 +5881,10 @@
             "pack": "Lunala"
         },
         "id": "156",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "Blazing sunlight has brought out the true\nform and powers of this Pokémon.",
         "info": {
             "national_pokedex": "0103",
@@ -5452,7 +5920,10 @@
             "pack": "Lunala"
         },
         "id": "157",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "Pokémon living in the forest eat the\ndelicious caps on Morelull’s head.\nThe caps regrow overnight.",
         "info": {
             "national_pokedex": "0755",
@@ -5488,7 +5959,10 @@
             "pack": "Solgaleo"
         },
         "id": "158",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "This Pokémon is proud and aggressive. However, it is\nsaid that a Tsareena will instantly become calm if\nsomeone touches the crown on its calyx.",
         "info": {
             "national_pokedex": "0763",
@@ -5526,7 +6000,10 @@
             "pack": "Solgaleo"
         },
         "id": "159",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "Although it’s called a guardian deity, it’s violent\nenough to crush anyone it sees as an enemy.",
         "info": {
             "national_pokedex": "0787",
@@ -5564,7 +6041,10 @@
             "pack": "Lunala"
         },
         "id": "160",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "This Pokémon sets the bone it holds\non fire and dances through the night\nas a way to mourn its fallen allies.",
         "info": {
             "national_pokedex": "0105",
@@ -5602,7 +6082,10 @@
             "pack": "Lunala"
         },
         "id": "161",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "Explosive substances coat the shell on\nits back. Enemies that dare attack it will\nbe blown away by an immense detonation.",
         "info": {
             "national_pokedex": "0776",
@@ -5638,7 +6121,10 @@
             "pack": "Lunala"
         },
         "id": "162",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "After long years in the ever-snowcapped mountains\nof Alola, this Vulpix has gained power over ice.",
         "info": {
             "national_pokedex": "0037",
@@ -5678,7 +6164,10 @@
             "pack": "Lunala"
         },
         "id": "163",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "It lives in warm, shallow waters. If it encounters a\nfoe, it will spit out its internal organs as a means\nto punch them.",
         "info": {
             "national_pokedex": "0771",
@@ -5716,7 +6205,10 @@
             "pack": "Lunala"
         },
         "id": "164",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "This guardian deity of Poni Island manipulates\nwater. Because it lives deep within a thick fog,\nit came to be both feared and revered.",
         "info": {
             "national_pokedex": "0788",
@@ -5757,7 +6249,10 @@
             "pack": "Solgaleo"
         },
         "id": "165",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "This form of Oricorio has sipped yellow nectar.\nIt uses nimble steps to approach opponents,\nthen knocks them out with electric punches.",
         "info": {
             "national_pokedex": "0741",
@@ -5795,7 +6290,10 @@
             "pack": "Solgaleo"
         },
         "id": "166",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "Although it’s called a guardian deity, if a\nperson or Pokémon puts it in a bad mood,\nit will become a malevolent deity and attack.",
         "info": {
             "national_pokedex": "0785",
@@ -5831,7 +6329,10 @@
             "pack": "Solgaleo"
         },
         "id": "167",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "Nectar and pollen are its favorite fare.\nIn fields of flowers, it gets into skirmishes\nwith Butterfree over food.",
         "info": {
             "national_pokedex": "0742",
@@ -5872,7 +6373,10 @@
             "pack": "Solgaleo"
         },
         "id": "168",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "Comfey picks flowers with its vine and decorates\nitself with them. For some reason, flowers won’t\nwither once they’re attached to a Comfey.",
         "info": {
             "national_pokedex": "0764",
@@ -5909,7 +6413,10 @@
             "pack": "Solgaleo"
         },
         "id": "169",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "If it loses its shovel, it will stick something\nelse—like a branch—in its head to make\ndo until it finds another shovel.",
         "info": {
             "national_pokedex": "0769",
@@ -5945,7 +6452,10 @@
             "pack": "Lunala"
         },
         "id": "170",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "It heals the wounds of people and Pokémon\nby sprinkling them with its sparkling scales.\nThis guardian deity is worshiped on Akala.",
         "info": {
             "national_pokedex": "0786",
@@ -5981,7 +6491,10 @@
             "pack": "Lunala"
         },
         "id": "171",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "Even though its helpless, gaseous body can be blown\naway by the slightest breeze, it doesn’t seem to care.",
         "info": {
             "national_pokedex": "0789",
@@ -6017,7 +6530,10 @@
             "pack": "Solgaleo"
         },
         "id": "172",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "This Pokémon is very friendly when it’s young.\nIts disposition becomes vicious once it matures,\nbut it never forgets the kindness of its master.",
         "info": {
             "national_pokedex": "0744",
@@ -6056,7 +6572,10 @@
             "pack": "Solgaleo"
         },
         "id": "173",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "This Pokémon has been treasured not just\nfor its physical labor but also because it produces\nhigh-quality mud used for making pottery.",
         "info": {
             "national_pokedex": "0750",
@@ -6093,7 +6612,10 @@
             "pack": "Lunala"
         },
         "id": "174",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "Places where Minior fall from the night\nsky are few and far between, with Alola\nbeing one of the precious few.",
         "info": {
             "national_pokedex": "0774",
@@ -6130,7 +6652,10 @@
             "pack": "Solgaleo"
         },
         "id": "175",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "It synchronizes its consciousness with others\nto understand their feelings. This faculty makes\nit useful for taking care of people.",
         "info": {
             "national_pokedex": "0801",
@@ -6167,7 +6692,10 @@
             "pack": "Solgaleo"
         },
         "id": "176",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "The mountains it calls home are nearly two miles\nin height. On rare occasions, it descends to play\nwith the children living in the towns below.",
         "info": {
             "national_pokedex": "0780",
@@ -6203,7 +6731,10 @@
             "pack": "Lunala"
         },
         "id": "177",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "It pecks at trees with its hard beak. You can get some\nidea of its mood or condition from the rhythm of its pecking.",
         "info": {
             "national_pokedex": "0731",
@@ -6242,7 +6773,10 @@
             "pack": "Lunala"
         },
         "id": "178",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "Once it accepts you as a friend, it tries to show\nits affection with a hug. Letting it do that is\ndangerous—it could easily shatter your bones.",
         "info": {
             "national_pokedex": "0760",
@@ -6283,7 +6817,10 @@
             "pack": "Solgaleo"
         },
         "id": "179",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "Komala spends its entire life sleeping.\nIt feeds on leaves that contain a potent\npoison only Komala can break down.",
         "info": {
             "national_pokedex": "0775",
@@ -6329,7 +6866,10 @@
             "pack": "Lunala"
         },
         "id": "180",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_181_EN.webp",
@@ -6360,7 +6900,10 @@
             "pack": "Solgaleo"
         },
         "id": "181",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_182_EN.webp",
@@ -6399,7 +6942,10 @@
             "pack": "Solgaleo"
         },
         "id": "182",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_183_EN.webp",
@@ -6428,7 +6974,10 @@
             "pack": "Solgaleo"
         },
         "id": "183",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_184_EN.webp",
@@ -6459,7 +7008,10 @@
             "pack": "Lunala"
         },
         "id": "184",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_185_EN.webp",
@@ -6490,7 +7042,10 @@
             "pack": "Solgaleo"
         },
         "id": "185",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_186_EN.webp",
@@ -6525,7 +7080,10 @@
             "pack": "Lunala"
         },
         "id": "186",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_187_EN.webp",
@@ -6559,7 +7117,10 @@
             "pack": "Lunala"
         },
         "id": "187",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_188_EN.webp",
@@ -6590,7 +7151,10 @@
             "pack": "Lunala"
         },
         "id": "188",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_189_EN.webp",
@@ -6624,7 +7188,10 @@
             "pack": "Solgaleo"
         },
         "id": "189",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_190_EN.webp",
@@ -6639,7 +7206,10 @@
             "pack": "Lunala"
         },
         "id": "190",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_191_EN.webp",
@@ -6654,7 +7224,10 @@
             "pack": "Lunala"
         },
         "id": "191",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_192_EN.webp",
@@ -6669,7 +7242,10 @@
             "pack": "Lunala"
         },
         "id": "192",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_193_EN.webp",
@@ -6684,7 +7260,10 @@
             "pack": "Lunala"
         },
         "id": "193",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_194_EN.webp",
@@ -6699,7 +7278,10 @@
             "pack": "Solgaleo"
         },
         "id": "194",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_195_EN.webp",
@@ -6714,7 +7296,10 @@
             "pack": "Solgaleo"
         },
         "id": "195",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_196_EN.webp",
@@ -6729,7 +7314,10 @@
             "pack": "Solgaleo"
         },
         "id": "196",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_197_EN.webp",
@@ -6744,7 +7332,10 @@
             "pack": "Solgaleo"
         },
         "id": "197",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_198_EN.webp",
@@ -6783,7 +7374,10 @@
             "pack": "Lunala"
         },
         "id": "198",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Special Art Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_199_EN.webp",
@@ -6814,7 +7408,10 @@
             "pack": "Solgaleo"
         },
         "id": "199",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Special Art Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_200_EN.webp",
@@ -6853,7 +7450,10 @@
             "pack": "Solgaleo"
         },
         "id": "200",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Special Art Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_201_EN.webp",
@@ -6882,7 +7482,10 @@
             "pack": "Solgaleo"
         },
         "id": "201",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Special Art Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_202_EN.webp",
@@ -6913,7 +7516,10 @@
             "pack": "Lunala"
         },
         "id": "202",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Special Art Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_203_EN.webp",
@@ -6944,7 +7550,10 @@
             "pack": "Solgaleo"
         },
         "id": "203",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Special Art Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_204_EN.webp",
@@ -6979,7 +7588,10 @@
             "pack": "Lunala"
         },
         "id": "204",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Special Art Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_205_EN.webp",
@@ -7013,7 +7625,10 @@
             "pack": "Lunala"
         },
         "id": "205",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Special Art Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_206_EN.webp",
@@ -7044,7 +7659,10 @@
             "pack": "Lunala"
         },
         "id": "206",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Special Art Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_207_EN.webp",
@@ -7078,7 +7696,10 @@
             "pack": "Solgaleo"
         },
         "id": "207",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Special Art Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_208_EN.webp",
@@ -7093,7 +7714,10 @@
             "pack": "Lunala"
         },
         "id": "208",
-        "rarity": "☆☆☆"
+        "rarity": {
+            "symbol": "☆☆☆",
+            "text": "Immersive Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_209_EN.webp",
@@ -7108,7 +7732,10 @@
             "pack": "Solgaleo"
         },
         "id": "209",
-        "rarity": "☆☆☆"
+        "rarity": {
+            "symbol": "☆☆☆",
+            "text": "Immersive Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_210_EN.webp",
@@ -7138,7 +7765,10 @@
             "pack": "Solgaleo"
         },
         "id": "210",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "✸",
+            "text": "Shiny"
+        },
         "description": "There is a plant seed on its back right from the\nday this Pokémon is born. The seed slowly\ngrows larger.",
         "info": {
             "national_pokedex": "0001",
@@ -7176,7 +7806,10 @@
             "pack": "Solgaleo"
         },
         "id": "211",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "✸",
+            "text": "Shiny"
+        },
         "description": "When the bulb on its back grows large, it\nappears to lose the ability to stand on its\nhind legs."
     },
     {
@@ -7209,7 +7842,10 @@
             "pack": "Solgaleo"
         },
         "id": "212",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "✸",
+            "text": "Shiny"
+        },
         "description": "Its plant blooms when it is absorbing solar\nenergy. It stays on the move to seek sunlight.",
         "info": {
             "national_pokedex": "0003",
@@ -7246,7 +7882,10 @@
             "pack": "Lunala"
         },
         "id": "213",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "✸",
+            "text": "Shiny"
+        },
         "description": "Though it may look like it’s just a bunch of eggs,\nit’s a proper Pokémon. Exeggcute communicates\nwith others of its kind via telepathy, apparently.",
         "info": {
             "national_pokedex": "0102",
@@ -7285,7 +7924,10 @@
             "pack": "Lunala"
         },
         "id": "214",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "✸",
+            "text": "Shiny"
+        },
         "description": "Each of Exeggutor’s three heads is thinking\ndifferent thoughts. The three don’t seem to be\nvery interested in one another.",
         "info": {
             "national_pokedex": "0103",
@@ -7321,7 +7963,10 @@
             "pack": "Lunala"
         },
         "id": "215",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "✸",
+            "text": "Shiny"
+        },
         "description": "When it retracts its long neck into its shell, it\nsquirts out water with vigorous force.",
         "info": {
             "national_pokedex": "0007",
@@ -7358,7 +8003,10 @@
             "pack": "Lunala"
         },
         "id": "216",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "✸",
+            "text": "Shiny"
+        },
         "description": "It is recognized as a symbol of longevity. If its\nshell has algae on it, that Wartortle is very old.",
         "info": {
             "national_pokedex": "0008",
@@ -7396,7 +8044,10 @@
             "pack": "Lunala"
         },
         "id": "217",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "✸",
+            "text": "Shiny"
+        },
         "description": "It crushes its foe under its heavy body to cause\nfainting. In a pinch, it will withdraw inside its shell.",
         "info": {
             "national_pokedex": "0009",
@@ -7432,7 +8083,10 @@
             "pack": "Solgaleo"
         },
         "id": "218",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "✸",
+            "text": "Shiny"
+        },
         "description": "If you visit a beach at the end of summer, you’ll\nbe able to see groups of Staryu lighting up in a\nsteady rhythm.",
         "info": {
             "national_pokedex": "0120",
@@ -7468,7 +8122,10 @@
             "pack": "Solgaleo"
         },
         "id": "219",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "✸",
+            "text": "Shiny"
+        },
         "description": "This Pokémon has an organ known as its core.\nThe organ glows in seven colors when Starmie is\nunleashing its potent psychic powers.",
         "info": {
             "national_pokedex": "0121",
@@ -7504,7 +8161,10 @@
             "pack": "Lunala"
         },
         "id": "220",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "✸",
+            "text": "Shiny"
+        },
         "description": "It wraps its opponent in its gas-like body,\nslowly weakening its prey by poisoning it\nthrough the skin.",
         "info": {
             "national_pokedex": "0092",
@@ -7540,7 +8200,10 @@
             "pack": "Lunala"
         },
         "id": "221",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "✸",
+            "text": "Shiny"
+        },
         "description": "It likes to lurk in the dark and tap shoulders\nwith a gaseous hand. Its touch causes endless\nshuddering.",
         "info": {
             "national_pokedex": "0093",
@@ -7576,7 +8239,10 @@
             "pack": "Lunala"
         },
         "id": "222",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "✸",
+            "text": "Shiny"
+        },
         "description": "To steal the life of its target, it slips into\nthe prey’s shadow and silently waits for\nan opportunity.",
         "info": {
             "national_pokedex": "0094",
@@ -7612,7 +8278,10 @@
             "pack": "Solgaleo"
         },
         "id": "223",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "✸",
+            "text": "Shiny"
+        },
         "description": "Its whole body is composed of muscles.\nEven though it’s the size of a human child, it can\nhurl 100 grown-ups.",
         "info": {
             "national_pokedex": "0066",
@@ -7649,7 +8318,10 @@
             "pack": "Solgaleo"
         },
         "id": "224",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "✸",
+            "text": "Shiny"
+        },
         "description": "Its muscular body is so powerful, it must wear a\npower-save belt to be able to regulate\nits motions.",
         "info": {
             "national_pokedex": "0067",
@@ -7686,7 +8358,10 @@
             "pack": "Solgaleo"
         },
         "id": "225",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "✸",
+            "text": "Shiny"
+        },
         "description": "It quickly swings its four arms to rock its\nopponents with ceaseless punches and chops\nfrom all angles.",
         "info": {
             "national_pokedex": "0068",
@@ -7722,7 +8397,10 @@
             "pack": "Lunala"
         },
         "id": "226",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "✸",
+            "text": "Shiny"
+        },
         "description": "When the memory of its departed mother brings\nit to tears, its cries echo mournfully within the\nskull it wears on its head.",
         "info": {
             "national_pokedex": "0104",
@@ -7758,7 +8436,10 @@
             "pack": "Lunala"
         },
         "id": "227",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "✸",
+            "text": "Shiny"
+        },
         "description": "This Pokémon overcame its sorrow to evolve a\nsturdy new body. Marowak faces its opponents\nbravely, using a bone as a weapon.",
         "info": {
             "national_pokedex": "0105",
@@ -7794,7 +8475,10 @@
             "pack": "Solgaleo"
         },
         "id": "228",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "✸",
+            "text": "Shiny"
+        },
         "description": "When its huge eyes waver, it sings a mysteriously\nsoothing melody that lulls its enemies to sleep.",
         "info": {
             "national_pokedex": "0039",
@@ -7835,7 +8519,10 @@
             "pack": "Solgaleo"
         },
         "id": "229",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "✸",
+            "text": "Shiny"
+        },
         "description": "It has a very fine fur. Take care not to make it\nangry, or it may inflate steadily and hit with a\nbody slam.",
         "info": {
             "national_pokedex": "0040",
@@ -7884,7 +8571,10 @@
             "pack": "Solgaleo"
         },
         "id": "230",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "✸✸",
+            "text": "Shiny Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_231_EN.webp",
@@ -7913,7 +8603,10 @@
             "pack": "Lunala"
         },
         "id": "231",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "✸✸",
+            "text": "Shiny Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_232_EN.webp",
@@ -7953,7 +8646,10 @@
             "pack": "Lunala"
         },
         "id": "232",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "✸✸",
+            "text": "Shiny Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_233_EN.webp",
@@ -7983,7 +8679,10 @@
             "pack": "Solgaleo"
         },
         "id": "233",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "✸✸",
+            "text": "Shiny Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_234_EN.webp",
@@ -8018,7 +8717,10 @@
             "pack": "Lunala"
         },
         "id": "234",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "✸✸",
+            "text": "Shiny Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_235_EN.webp",
@@ -8049,7 +8751,10 @@
             "pack": "Solgaleo"
         },
         "id": "235",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "✸✸",
+            "text": "Shiny Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_236_EN.webp",
@@ -8079,7 +8784,10 @@
             "pack": "Lunala"
         },
         "id": "236",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "✸✸",
+            "text": "Shiny Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_237_EN.webp",
@@ -8110,7 +8818,10 @@
             "pack": "Solgaleo"
         },
         "id": "237",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "✸✸",
+            "text": "Shiny Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_238_EN.webp",
@@ -8145,7 +8856,10 @@
             "pack": ""
         },
         "id": "238",
-        "rarity": "Crown Rare"
+        "rarity": {
+            "symbol": "♔",
+            "text": "Crown Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_239_EN.webp",
@@ -8179,6 +8893,9 @@
             "pack": ""
         },
         "id": "239",
-        "rarity": "Crown Rare"
+        "rarity": {
+            "symbol": "♔",
+            "text": "Crown Rare"
+        }
     }
 ]

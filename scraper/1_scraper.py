@@ -134,7 +134,6 @@ def scrape_card(set_code, card_number):
         if set_code == "P-A":
             card_data["set"]["pack"] = num_parts[1].replace("pack", "").strip() if len(num_parts) > 1 else ""
         else:
-            card_data["rarity"] = num_parts[1].strip() if len(num_parts) > 1 else ""
             card_data["set"]["pack"] = num_parts[2].replace("pack", "").strip() if len(num_parts) > 2 else ""
     
     return card_data

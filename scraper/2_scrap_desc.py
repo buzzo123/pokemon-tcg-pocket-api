@@ -5,6 +5,20 @@ import re
 import unicodedata
 
 
+RARITY_MAP = {
+    "Common": "◊",
+    "Uncommon": "◊◊",
+    "Rare": "◊◊◊",
+    "Double Rare": "◊◊◊◊",
+    "Art Rare": "☆",
+    "Super Rare": "☆☆",
+    "Special Art Rare": "☆☆",
+    "Immersive Rare": "☆☆☆",
+    "Crown Rare": "♔",
+    "Shiny Super Rare": "✸✸",
+    "Shiny": "✸",
+}
+
 def normalize_name(name):
     name = unicodedata.normalize('NFD', name)
     name = ''.join(c for c in name if unicodedata.category(c) != 'Mn')  # Remove accents
@@ -27,6 +41,22 @@ def scrape_pokemon_details(set, pokemon_id, name):
 
     stats = soup.select_one(".card-detail__header .fw-bold")
 
+    rarity = soup.select_one(".card-detail__aside .card-collection-summary__meta")
+    
+    # Extract rarity from the meta div
+    rarity_text = None
+    if rarity:
+        # Get all span elements with class card-collection-summary__meta-item
+        rarity_items = rarity.select(".card-collection-summary__meta-item")
+        if len(rarity_items) >= 2:
+            # The second element should be the rarity
+            rarity_text = rarity_items[1].text.strip()
+    
+    # Map rarity text to rarity code if it exists in RARITY_MAP
+    rarity_code = None
+    if rarity_text and rarity_text in RARITY_MAP:
+        rarity_code = {"symbol": RARITY_MAP[rarity_text], "text": rarity_text}
+
     ultra_beast_found = False
     if stats:
         stats_text = stats.text.strip()
@@ -45,18 +75,22 @@ def scrape_pokemon_details(set, pokemon_id, name):
 
     if not card_desc:
         print("Card details not found.", url)
-        return None
     
-    description = card_desc.text.strip()
+    result = {"ultra_beast": ultra_beast_found}
+
+    if card_desc:
+        result["description"] = card_desc.text.strip()
+    if rarity_code:
+        result["rarity"] = rarity_code
     
-    return {"ultra_beast": ultra_beast_found, "description": description}
+    return result
 
 
 #set_code = "P-A"
 #set_name= "Promo-A"
 
-set_code = "A3b"
-set_name = "A3b"
+set_code = "A1"
+set_name = "a1"
 
 with open(f"../backend/data/{set_code}_cards.json", "r", encoding="utf-8") as file:
     card_list = json.load(file)
@@ -67,13 +101,13 @@ for card in card_list:
     if details:
         if isinstance(details, dict):
             # Ultra Beast found - add both ultra_beast status and description
-            if details["ultra_beast"]:
+            if details.get("ultra_beast"):
                 card["ultra_beast"] = True
+            if details.get("rarity"):
+                card["rarity"] = details["rarity"]
+            if details.get("description"):
+                card["description"] = details["description"]
 
-            card["description"] = details["description"]
-        else:
-            # Regular description only
-            card["description"] = details
 
 with open(f"../{set_code}_cards.json", "w", encoding="utf-8") as f:
     json.dump(card_list, f, indent=4, ensure_ascii=False)

@@ -28,7 +28,10 @@
             "pack": ""
         },
         "id": "1",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It lives in tropical jungles. The bunch of fruit\naround its neck is delicious. The fruit grows\ntwice a year.",
         "info": {
             "national_pokedex": "0357",
@@ -64,7 +67,10 @@
             "pack": ""
         },
         "id": "2",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "When you see Leafeon asleep in a patch of\nsunshine, you’ll know it is using photosynthesis\nto produce clean air.",
         "info": {
             "national_pokedex": "0470",
@@ -100,7 +106,10 @@
             "pack": ""
         },
         "id": "3",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Its sweat is sweet, like syrup made from boiled-down\nfruit. Because of this, Bounsweet was highly valued in\nthe past, when sweeteners were scarce.",
         "info": {
             "national_pokedex": "0761",
@@ -136,7 +145,10 @@
             "pack": ""
         },
         "id": "4",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Steenee spreads a sweet scent that\nmakes others feel invigorated. This same\nscent is popular for antiperspirants.",
         "info": {
             "national_pokedex": "0762",
@@ -172,7 +184,10 @@
             "pack": ""
         },
         "id": "5",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "This Pokémon is proud and aggressive. However, it is\nsaid that a Tsareena will instantly become calm if\nsomeone touches the crown on its calyx.",
         "info": {
             "national_pokedex": "0763",
@@ -208,7 +223,10 @@
             "pack": ""
         },
         "id": "6",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It grows by eating the flesh of an apple.\nApplin uses its own body fluid to strengthen\nthe apple’s skin and prevent it from rotting.",
         "info": {
             "national_pokedex": "0840",
@@ -244,7 +262,10 @@
             "pack": ""
         },
         "id": "7",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It feeds mainly on sweet apples. It will also eat\nsmall bug Pokémon that are attracted by its\nsweet nectar.",
         "info": {
             "national_pokedex": "0842",
@@ -281,7 +302,10 @@
             "pack": ""
         },
         "id": "8",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "Inhaled air is carried to its flame sac, heated, and\nexhaled as fire that reaches over 3,000 degrees\nFahrenheit.",
         "info": {
             "national_pokedex": "0136",
@@ -323,7 +347,10 @@
             "pack": ""
         },
         "id": "9",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_010_EN_SM.webp",
@@ -353,7 +380,10 @@
             "pack": ""
         },
         "id": "10",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It burns coal inside its shell for energy. It blows\nout black soot if it is endangered.",
         "info": {
             "national_pokedex": "0324",
@@ -390,7 +420,10 @@
             "pack": ""
         },
         "id": "11",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "If you try too hard to get close to it, it won’t\nopen up to you. Even if you do grow close,\ngiving it too much affection is still a no-no.",
         "info": {
             "national_pokedex": "0725",
@@ -427,7 +460,10 @@
             "pack": ""
         },
         "id": "12",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Torracat will let its Trainer coddle it once they’ve\ngrown close, but it’s a powerful, sharp-clawed\nPokémon, so its Trainer gets covered in scratches.",
         "info": {
             "national_pokedex": "0726",
@@ -465,7 +501,10 @@
             "pack": ""
         },
         "id": "13",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Although it’s rough mannered and egotistical, it\nfinds beating down unworthy opponents boring.\nIt gets motivated for stronger opponents.",
         "info": {
             "national_pokedex": "0727",
@@ -501,7 +540,10 @@
             "pack": ""
         },
         "id": "14",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It taunts its prey and lures them into narrow,\nrocky areas where it then sprays them with toxic\ngas to make them dizzy and take them down.",
         "info": {
             "national_pokedex": "0757",
@@ -537,7 +579,10 @@
             "pack": ""
         },
         "id": "15",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Salazzle makes its opponents light-headed with\npoisonous gas, then captivates them with alluring\nmovements to turn them into loyal servants.",
         "info": {
             "national_pokedex": "0758",
@@ -575,7 +620,10 @@
             "pack": ""
         },
         "id": "16",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It lives close to water. Its long tail is ridged with\na fin, which is often mistaken for a mermaid’s.",
         "info": {
             "national_pokedex": "0134",
@@ -612,7 +660,10 @@
             "pack": ""
         },
         "id": "17",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It can control its body temperature at will.\nThis enables it to freeze the moisture in the\natmosphere, creating flurries of diamond dust.",
         "info": {
             "national_pokedex": "0471",
@@ -648,7 +699,10 @@
             "pack": ""
         },
         "id": "18",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Unable to survive in hot areas, it makes itself\ncomfortable by breathing out air cold enough to\ncause snow. It burrows into the snow to sleep.",
         "info": {
             "national_pokedex": "0582",
@@ -684,7 +738,10 @@
             "pack": ""
         },
         "id": "19",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "By drinking pure water, it grows its icy body.\nThis Pokémon can be hard to find on days with\nwarm, sunny weather.",
         "info": {
             "national_pokedex": "0583",
@@ -721,7 +778,10 @@
             "pack": ""
         },
         "id": "20",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "When its anger reaches a breaking point, this\nPokémon unleashes a fierce blizzard that freezes\nevery creature around it, be they friend or foe.",
         "info": {
             "national_pokedex": "0584",
@@ -759,7 +819,10 @@
             "pack": ""
         },
         "id": "21",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It gently holds injured and weak Pokémon in its\nfins. Its special membrane heals their wounds.",
         "info": {
             "national_pokedex": "0594",
@@ -796,7 +859,10 @@
             "pack": ""
         },
         "id": "22",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "The balloons it inflates with its nose grow\nlarger and larger as it practices day by day.",
         "info": {
             "national_pokedex": "0728",
@@ -833,7 +899,10 @@
             "pack": ""
         },
         "id": "23",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It gets excited when it sees a dance it\ndoesn’t know. This hard worker practices\ndiligently until it can learn that dance.",
         "info": {
             "national_pokedex": "0729",
@@ -879,7 +948,10 @@
             "pack": ""
         },
         "id": "24",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_025_EN_SM.webp",
@@ -908,7 +980,10 @@
             "pack": ""
         },
         "id": "25",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It concentrates the weak electric charges emitted\nby its cells and launches wicked lightning bolts.",
         "info": {
             "national_pokedex": "0135",
@@ -944,7 +1019,10 @@
             "pack": ""
         },
         "id": "26",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Joltik can be found clinging to other Pokémon.\nIt’s soaking up static electricity because it can’t\nproduce a charge on its own.",
         "info": {
             "national_pokedex": "0595",
@@ -981,7 +1059,10 @@
             "pack": ""
         },
         "id": "27",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It launches electrified fur from its abdomen as its\nmeans of attack. Opponents hit by the fur could\nbe in for three full days and nights of paralysis.",
         "info": {
             "national_pokedex": "0596",
@@ -1017,7 +1098,10 @@
             "pack": ""
         },
         "id": "28",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "The tip of its forked tail quivers when it is\npredicting its opponent’s next move.",
         "info": {
             "national_pokedex": "0196",
@@ -1053,7 +1137,10 @@
             "pack": ""
         },
         "id": "29",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "While inside a cave, if you look up and see lots\nof heart-shaped marks lining the walls, it’s\nevidence that Woobat live there.",
         "info": {
             "national_pokedex": "0527",
@@ -1089,7 +1176,10 @@
             "pack": ""
         },
         "id": "30",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Emitting powerful sound waves tires it out.\nAfterward, it won’t be able to fly for a\nlittle while.",
         "info": {
             "national_pokedex": "0528",
@@ -1125,7 +1215,10 @@
             "pack": ""
         },
         "id": "31",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It eats its own weight in sugar every day.\nIf it doesn’t get enough sugar, it becomes\nincredibly grumpy.",
         "info": {
             "national_pokedex": "0684",
@@ -1162,7 +1255,10 @@
             "pack": ""
         },
         "id": "32",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "By taking in a person’s scent, it can sniff out their\nmental and physical condition. It’s hoped that\nthis skill will have many medical applications.",
         "info": {
             "national_pokedex": "0685",
@@ -1199,7 +1295,10 @@
             "pack": ""
         },
         "id": "33",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "This Pokémon uses its ribbonlike feelers to send\na soothing aura into its opponents, erasing\ntheir hostility.",
         "info": {
             "national_pokedex": "0700",
@@ -1240,7 +1339,10 @@
             "pack": ""
         },
         "id": "34",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_035_EN_SM.webp",
@@ -1270,7 +1372,10 @@
             "pack": ""
         },
         "id": "35",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "This Pokémon lives in dark places untouched by\nsunlight. When it appears before humans, it hides\nitself under a cloth that resembles a Pikachu.",
         "info": {
             "national_pokedex": "0778",
@@ -1306,7 +1411,10 @@
             "pack": ""
         },
         "id": "36",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "This Pokémon was born from sweet-smelling\nparticles in the air. Its body is made of cream.",
         "info": {
             "national_pokedex": "0868",
@@ -1342,7 +1450,10 @@
             "pack": ""
         },
         "id": "37",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "When it trusts a Trainer, it will treat them\nto berries it’s decorated with cream.",
         "info": {
             "national_pokedex": "0869",
@@ -1379,7 +1490,10 @@
             "pack": ""
         },
         "id": "38",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Its two whiskers provide a sensitive radar. Even in\nmuddy waters, it can detect its prey’s location.",
         "info": {
             "national_pokedex": "0339",
@@ -1418,7 +1532,10 @@
             "pack": ""
         },
         "id": "39",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It is extremely protective of its territory. If any\nfoe approaches, it attacks using vicious tremors.",
         "info": {
             "national_pokedex": "0340",
@@ -1454,7 +1571,10 @@
             "pack": ""
         },
         "id": "40",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "In one minute, a well-trained Mienfoo can chop\nwith its arms more than 100 times.",
         "info": {
             "national_pokedex": "0619",
@@ -1491,7 +1611,10 @@
             "pack": ""
         },
         "id": "41",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "When Mienshao comes across a truly challenging\nopponent, it will lighten itself by biting off the\nfur on its arms.",
         "info": {
             "national_pokedex": "0620",
@@ -1528,7 +1651,10 @@
             "pack": ""
         },
         "id": "42",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "When beset by attackers, Carbink wipes them all\nout by firing high-energy beams from the gems\nembedded in its body.",
         "info": {
             "national_pokedex": "0703",
@@ -1564,7 +1690,10 @@
             "pack": ""
         },
         "id": "43",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "When exposed to the moon’s aura, the rings on its\nbody glow faintly and it gains a mysterious power.",
         "info": {
             "national_pokedex": "0197",
@@ -1600,7 +1729,10 @@
             "pack": ""
         },
         "id": "44",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Materials from gems it has eaten float to the\nsurface of its body and can form an infinite\nnumber of patterns among individuals.",
         "info": {
             "national_pokedex": "0302",
@@ -1636,7 +1768,10 @@
             "pack": ""
         },
         "id": "45",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Opponents that get drawn in by its adorable\nbehavior come away with stinging scratches from\nits claws and stinging pride from its laughter.",
         "info": {
             "national_pokedex": "0509",
@@ -1673,7 +1808,10 @@
             "pack": ""
         },
         "id": "46",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Don’t be fooled by its gorgeous fur and elegant\nfigure. This is a moody and vicious Pokémon.",
         "info": {
             "national_pokedex": "0510",
@@ -1710,7 +1848,10 @@
             "pack": ""
         },
         "id": "47",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It uses its docile-looking face to lull foes into\ncomplacency, then bites with its huge,\nrelentless jaws.",
         "info": {
             "national_pokedex": "0303",
@@ -1747,7 +1888,10 @@
             "pack": ""
         },
         "id": "48",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "With the long hairs on its back, this Pokémon\ntakes in electricity from other electric Pokémon.\nIt stores what it absorbs in an electric sac.",
         "info": {
             "national_pokedex": "0777",
@@ -1783,7 +1927,10 @@
             "pack": ""
         },
         "id": "49",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It dissolves and eats metal. Circulating liquid\nmetal within its body is how it generates energy.",
         "info": {
             "national_pokedex": "0808",
@@ -1821,7 +1968,10 @@
             "pack": ""
         },
         "id": "50",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "At the end of its life-span, Melmetal will rust and\nfall apart. The small shards left behind will\neventually be reborn as Meltan.",
         "info": {
             "national_pokedex": "0809",
@@ -1857,7 +2007,10 @@
             "pack": ""
         },
         "id": "51",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It sheds many layers of skin as it grows larger.\nDuring this process, it is protected by a rapid\nwaterfall.",
         "info": {
             "national_pokedex": "0147",
@@ -1894,7 +2047,10 @@
             "pack": ""
         },
         "id": "52",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "They say that if it emits an aura from its whole\nbody, the weather will begin to change instantly.",
         "info": {
             "national_pokedex": "0148",
@@ -1932,7 +2088,10 @@
             "pack": ""
         },
         "id": "53",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_054_EN_SM.webp",
@@ -1962,7 +2121,10 @@
             "pack": ""
         },
         "id": "54",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "The mountains it calls home are nearly two miles\nin height. On rare occasions, it descends to play\nwith the children living in the towns below.",
         "info": {
             "national_pokedex": "0780",
@@ -1998,7 +2160,10 @@
             "pack": ""
         },
         "id": "55",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment.",
         "info": {
             "national_pokedex": "0133",
@@ -2038,7 +2203,10 @@
             "pack": ""
         },
         "id": "56",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_057_EN_SM.webp",
@@ -2074,7 +2242,10 @@
             "pack": ""
         },
         "id": "57",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_058_EN_SM.webp",
@@ -2103,7 +2274,10 @@
             "pack": ""
         },
         "id": "58",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "As it did more and more with its tail, its hands\nbecame clumsy. It makes its nest high in\nthe treetops.",
         "info": {
             "national_pokedex": "0190",
@@ -2144,7 +2318,10 @@
             "pack": ""
         },
         "id": "59",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It uses its tails for everything. If it wraps both\nof its tails around you and gives you a squeeze,\nthat’s proof it really likes you.",
         "info": {
             "national_pokedex": "0424",
@@ -2180,7 +2357,10 @@
             "pack": ""
         },
         "id": "60",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It mimics the cries of other Pokémon to trick them\ninto thinking it’s one of them. This way they won’t\nattack it.",
         "info": {
             "national_pokedex": "0441",
@@ -2217,7 +2397,10 @@
             "pack": ""
         },
         "id": "61",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "This Pokémon has a kind heart. By touching with its feelers,\nAudino can gauge other creatures’ feelings and physical conditions.",
         "info": {
             "national_pokedex": "0531",
@@ -2253,7 +2436,10 @@
             "pack": ""
         },
         "id": "62",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "The way it brushes away grime with its tail\ncan be helpful when cleaning. But its focus on\nspotlessness can make cleaning more of a hassle.",
         "info": {
             "national_pokedex": "0572",
@@ -2289,7 +2475,10 @@
             "pack": ""
         },
         "id": "63",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Its body secretes oil that this Pokémon spreads\nover its nest as a coating to protect it from dust.\nCinccino won’t tolerate even a speck of the stuff.",
         "info": {
             "national_pokedex": "0573",
@@ -2326,7 +2515,10 @@
             "pack": ""
         },
         "id": "64",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It stores berries in its cheeks. When there are no\nberries to be found, Skwovet will stuff pebbles\ninto its cheeks to stave off its cravings.",
         "info": {
             "national_pokedex": "0819",
@@ -2364,7 +2556,10 @@
             "pack": ""
         },
         "id": "65",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "This Pokémon makes off with heaps of fallen berries by wrapping\nthem in its tail, which is roughly twice the length of its body.",
         "info": {
             "national_pokedex": "0820",
@@ -2386,7 +2581,10 @@
             "pack": ""
         },
         "id": "66",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_067_EN_SM.webp",
@@ -2401,7 +2599,10 @@
             "pack": ""
         },
         "id": "67",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_068_EN_SM.webp",
@@ -2416,7 +2617,10 @@
             "pack": ""
         },
         "id": "68",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_069_EN_SM.webp",
@@ -2431,7 +2635,10 @@
             "pack": ""
         },
         "id": "69",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_070_EN_SM.webp",
@@ -2460,7 +2667,10 @@
             "pack": ""
         },
         "id": "70",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "When you see Leafeon asleep in a patch of\nsunshine, you’ll know it is using photosynthesis\nto produce clean air.",
         "info": {
             "national_pokedex": "0470",
@@ -2497,7 +2707,10 @@
             "pack": ""
         },
         "id": "71",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "Inhaled air is carried to its flame sac, heated, and\nexhaled as fire that reaches over 3,000 degrees\nFahrenheit.",
         "info": {
             "national_pokedex": "0136",
@@ -2535,7 +2748,10 @@
             "pack": ""
         },
         "id": "72",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "It lives close to water. Its long tail is ridged with\na fin, which is often mistaken for a mermaid’s.",
         "info": {
             "national_pokedex": "0134",
@@ -2572,7 +2788,10 @@
             "pack": ""
         },
         "id": "73",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "It can control its body temperature at will.\nThis enables it to freeze the moisture in the\natmosphere, creating flurries of diamond dust.",
         "info": {
             "national_pokedex": "0471",
@@ -2608,7 +2827,10 @@
             "pack": ""
         },
         "id": "74",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "It concentrates the weak electric charges emitted\nby its cells and launches wicked lightning bolts.",
         "info": {
             "national_pokedex": "0135",
@@ -2644,7 +2866,10 @@
             "pack": ""
         },
         "id": "75",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "The tip of its forked tail quivers when it is\npredicting its opponent’s next move.",
         "info": {
             "national_pokedex": "0196",
@@ -2681,7 +2906,10 @@
             "pack": ""
         },
         "id": "76",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "This Pokémon uses its ribbonlike feelers to send\na soothing aura into its opponents, erasing\ntheir hostility.",
         "info": {
             "national_pokedex": "0700",
@@ -2717,7 +2945,10 @@
             "pack": ""
         },
         "id": "77",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "When exposed to the moon’s aura, the rings on its\nbody glow faintly and it gains a mysterious power.",
         "info": {
             "national_pokedex": "0197",
@@ -2753,7 +2984,10 @@
             "pack": ""
         },
         "id": "78",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment.",
         "info": {
             "national_pokedex": "0133",
@@ -2795,7 +3029,10 @@
             "pack": ""
         },
         "id": "79",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_080_EN_SM.webp",
@@ -2834,7 +3071,10 @@
             "pack": ""
         },
         "id": "80",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_081_EN_SM.webp",
@@ -2868,7 +3108,10 @@
             "pack": ""
         },
         "id": "81",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_082_EN_SM.webp",
@@ -2899,7 +3142,10 @@
             "pack": ""
         },
         "id": "82",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_083_EN_SM.webp",
@@ -2932,7 +3178,10 @@
             "pack": ""
         },
         "id": "83",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_084_EN_SM.webp",
@@ -2968,7 +3217,10 @@
             "pack": ""
         },
         "id": "84",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_085_EN_SM.webp",
@@ -2983,7 +3235,10 @@
             "pack": ""
         },
         "id": "85",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_086_EN_SM.webp",
@@ -2998,7 +3253,10 @@
             "pack": ""
         },
         "id": "86",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_087_EN_SM.webp",
@@ -3033,7 +3291,10 @@
             "pack": ""
         },
         "id": "87",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Special Art Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_088_EN_SM.webp",
@@ -3072,7 +3333,10 @@
             "pack": ""
         },
         "id": "88",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Special Art Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_089_EN_SM.webp",
@@ -3106,7 +3370,10 @@
             "pack": ""
         },
         "id": "89",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Special Art Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_090_EN_SM.webp",
@@ -3137,7 +3404,10 @@
             "pack": ""
         },
         "id": "90",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Special Art Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_091_EN_SM.webp",
@@ -3173,7 +3443,10 @@
             "pack": ""
         },
         "id": "91",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Special Art Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_092_EN_SM.webp",
@@ -3206,7 +3479,10 @@
             "pack": ""
         },
         "id": "92",
-        "rarity": "☆☆☆"
+        "rarity": {
+            "symbol": "☆☆☆",
+            "text": "Immersive Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_093_EN_SM.webp",
@@ -3237,7 +3513,10 @@
             "pack": ""
         },
         "id": "93",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "✸",
+            "text": "Shiny"
+        },
         "description": "These Pokémon judge one another based on\npincers. Thicker, more impressive pincers make\nfor more popularity with the opposite gender.",
         "info": {
             "national_pokedex": "0127",
@@ -3273,7 +3552,10 @@
             "pack": ""
         },
         "id": "94",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "✸",
+            "text": "Shiny"
+        },
         "description": "A smart and kindhearted Pokémon,\nit glides across the surface of the sea while\nits beautiful song echoes around it.",
         "info": {
             "national_pokedex": "0131",
@@ -3309,7 +3591,10 @@
             "pack": ""
         },
         "id": "95",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "✸",
+            "text": "Shiny"
+        },
         "description": "It rolls to move. If the ground is uneven, a sudden\njolt from hitting a bump can cause it to explode.",
         "info": {
             "national_pokedex": "0100",
@@ -3345,7 +3630,10 @@
             "pack": ""
         },
         "id": "96",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "✸",
+            "text": "Shiny"
+        },
         "description": "The more energy it charges up, the faster\nit gets. But this also makes it more likely\nto explode.",
         "info": {
             "national_pokedex": "0101",
@@ -3381,7 +3669,10 @@
             "pack": ""
         },
         "id": "97",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "✸",
+            "text": "Shiny"
+        },
         "description": "The horns on its head provide a strong power\nthat enables it to sense people’s emotions.",
         "info": {
             "national_pokedex": "0280",
@@ -3417,7 +3708,10 @@
             "pack": ""
         },
         "id": "98",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "✸",
+            "text": "Shiny"
+        },
         "description": "It has a psychic power that enables it to distort\nthe space around it and see into the future.",
         "info": {
             "national_pokedex": "0281",
@@ -3459,7 +3753,10 @@
             "pack": ""
         },
         "id": "99",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "✸",
+            "text": "Shiny"
+        },
         "description": "To protect its Trainer, it will expend all its psychic\npower to create a small black hole.",
         "info": {
             "national_pokedex": "0282",
@@ -3495,7 +3792,10 @@
             "pack": ""
         },
         "id": "100",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "✸",
+            "text": "Shiny"
+        },
         "description": "By dislocating its jaw, it can swallow prey larger\nthan itself. After a meal, it curls up and rests.",
         "info": {
             "national_pokedex": "0023",
@@ -3532,7 +3832,10 @@
             "pack": ""
         },
         "id": "101",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "✸",
+            "text": "Shiny"
+        },
         "description": "The latest research has determined that there\nare over 20 possible arrangements of the\npatterns on its stomach.",
         "info": {
             "national_pokedex": "0024",
@@ -3568,7 +3871,10 @@
             "pack": ""
         },
         "id": "102",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "✸",
+            "text": "Shiny"
+        },
         "description": "The stalk this Pokémon carries in its wings serves\nas a sword to cut down opponents. In a dire\nsituation, the stalk can also serve as food.",
         "info": {
             "national_pokedex": "0083",
@@ -3614,7 +3920,10 @@
             "pack": ""
         },
         "id": "103",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "✸✸",
+            "text": "Shiny Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_104_EN_SM.webp",
@@ -3654,7 +3963,10 @@
             "pack": ""
         },
         "id": "104",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "✸✸",
+            "text": "Shiny Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_105_EN_SM.webp",
@@ -3693,7 +4005,10 @@
             "pack": ""
         },
         "id": "105",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "✸✸",
+            "text": "Shiny Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_106_EN_SM.webp",
@@ -3723,7 +4038,10 @@
             "pack": ""
         },
         "id": "106",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "✸✸",
+            "text": "Shiny Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_107_EN_SM.webp",
@@ -3738,6 +4056,9 @@
             "pack": ""
         },
         "id": "107",
-        "rarity": "Crown Rare"
+        "rarity": {
+            "symbol": "♔",
+            "text": "Crown Rare"
+        }
     }
 ]

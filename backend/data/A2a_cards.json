@@ -28,7 +28,10 @@
             "pack": "Arceus"
         },
         "id": "1",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It loves sweet nectar. To keep all the nectar to\nitself, it hurls rivals away with its prized horn.",
         "info": {
             "national_pokedex": "0214",
@@ -64,7 +67,10 @@
             "pack": "Arceus"
         },
         "id": "2",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "To shelter itself from cold, wintry winds, it covers\nitself with a cloak made of twigs and leaves.",
         "info": {
             "national_pokedex": "0412",
@@ -101,7 +107,10 @@
             "pack": "Arceus"
         },
         "id": "3",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It loves the honey of flowers and steals honey\ncollected by Combee.",
         "info": {
             "national_pokedex": "0414",
@@ -137,7 +146,10 @@
             "pack": "Arceus"
         },
         "id": "4",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "At night, Combee sleep in a group of about a\nhundred, packed closely together in a lump.",
         "info": {
             "national_pokedex": "0415",
@@ -175,7 +187,10 @@
             "pack": "Arceus"
         },
         "id": "5",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It houses its colony in cells in its body and\nreleases various pheromones to make those\ngrubs do its bidding.",
         "info": {
             "national_pokedex": "0416",
@@ -211,7 +226,10 @@
             "pack": "Arceus"
         },
         "id": "6",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It nimbly dashes about to avoid getting pecked\nby bird Pokémon that would love to make off\nwith its small, nutrient-rich storage ball.",
         "info": {
             "national_pokedex": "0420",
@@ -247,7 +265,10 @@
             "pack": "Arceus"
         },
         "id": "7",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "As a bud, it barely moves. It sits still, placidly\nwaiting for sunlight to appear.",
         "info": {
             "national_pokedex": "0421",
@@ -284,7 +305,10 @@
             "pack": "Arceus"
         },
         "id": "8",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "After absorbing plenty of sunlight, Cherrim takes\nthis form. It’s full of energy while it’s like this,\nand its liveliness will go on until sundown.",
         "info": {
             "national_pokedex": "0421",
@@ -324,7 +348,10 @@
             "pack": "Arceus"
         },
         "id": "9",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It attracts prey with its sweet-smelling saliva, then\nchomps down. It takes a whole day to eat prey.",
         "info": {
             "national_pokedex": "0455",
@@ -366,7 +393,10 @@
             "pack": "Arceus"
         },
         "id": "10",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_011_EN.webp",
@@ -395,7 +425,10 @@
             "pack": "Arceus"
         },
         "id": "11",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It is smart enough to hunt in packs. It uses a\nvariety of cries for communicating with others.",
         "info": {
             "national_pokedex": "0228",
@@ -432,7 +465,10 @@
             "pack": "Arceus"
         },
         "id": "12",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "If you are burned by the flames it shoots from its\nmouth, the pain will never go away.",
         "info": {
             "national_pokedex": "0229",
@@ -473,7 +509,10 @@
             "pack": "Arceus"
         },
         "id": "13",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It dwells in volcanic caves. It digs in with its\ncross-shaped feet to crawl on ceilings and walls.",
         "info": {
             "national_pokedex": "0485",
@@ -509,7 +548,10 @@
             "pack": "Arceus"
         },
         "id": "14",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "The fur on its body naturally repels water. It can\nstay dry even when it plays in the water.",
         "info": {
             "national_pokedex": "0183",
@@ -546,7 +588,10 @@
             "pack": "Arceus"
         },
         "id": "15",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Its long ears are superb sensors. It can distinguish\nthe movements of things in water and tell what\nthey are.",
         "info": {
             "national_pokedex": "0184",
@@ -583,7 +628,10 @@
             "pack": "Arceus"
         },
         "id": "16",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Its two whiskers provide a sensitive radar. Even in\nmuddy waters, it can detect its prey’s location.",
         "info": {
             "national_pokedex": "0339",
@@ -622,7 +670,10 @@
             "pack": "Arceus"
         },
         "id": "17",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It is extremely protective of its territory. If any\nfoe approaches, it attacks using vicious tremors.",
         "info": {
             "national_pokedex": "0340",
@@ -658,7 +709,10 @@
             "pack": "Arceus"
         },
         "id": "18",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It is said that several Snorunt gather under giant\nleaves and live together in harmony.",
         "info": {
             "national_pokedex": "0361",
@@ -695,7 +749,10 @@
             "pack": "Arceus"
         },
         "id": "19",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "When it finds humans or Pokémon it likes,\nit freezes them and takes them to its chilly\nden, where they become decorations.",
         "info": {
             "national_pokedex": "0478",
@@ -732,7 +789,10 @@
             "pack": "Arceus"
         },
         "id": "20",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "During cold seasons, it migrates to the\nmountain’s lower reaches. It returns to the\nsnow-covered summit in the spring.",
         "info": {
             "national_pokedex": "0459",
@@ -774,7 +834,10 @@
             "pack": "Arceus"
         },
         "id": "21",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It lives a quiet life on mountains that are\nperpetually covered in snow. It hides itself\nby whipping up blizzards.",
         "info": {
             "national_pokedex": "0460",
@@ -816,7 +879,10 @@
             "pack": "Arceus"
         },
         "id": "22",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_023_EN.webp",
@@ -847,7 +913,10 @@
             "pack": "Arceus"
         },
         "id": "23",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It soars across the sky in a form that greatly resembles the\ncreator of all things. Perhaps this imitation of appearance is\nPalkia’s strategy for gaining Arceus’s powers.",
         "info": {
             "national_pokedex": "0484",
@@ -884,7 +953,10 @@
             "pack": "Arceus"
         },
         "id": "24",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "When the water warms, they inflate the flotation sac\non their heads and drift languidly on the sea\nin packs.",
         "info": {
             "national_pokedex": "0489",
@@ -920,7 +992,10 @@
             "pack": "Arceus"
         },
         "id": "25",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "When it is angered, it immediately discharges the\nenergy stored in the pouches in its cheeks.",
         "info": {
             "national_pokedex": "0025",
@@ -961,7 +1036,10 @@
             "pack": "Arceus"
         },
         "id": "26",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "Its tail discharges electricity into the ground,\nprotecting it from getting shocked.",
         "info": {
             "national_pokedex": "0026",
@@ -997,7 +1075,10 @@
             "pack": "Arceus"
         },
         "id": "27",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It stores static electricity in its fur for discharging.\nIt gives off sparks if a storm approaches.",
         "info": {
             "national_pokedex": "0309",
@@ -1033,7 +1114,10 @@
             "pack": "Arceus"
         },
         "id": "28",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It stimulates its own muscles with electricity, so\nit can move quickly. It eases its soreness with\nelectricity, too, so it can recover quickly as well.",
         "info": {
             "national_pokedex": "0310",
@@ -1070,7 +1154,10 @@
             "pack": "Arceus"
         },
         "id": "29",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It is said that happiness will come to those who\nsee a gathering of Clefairy dancing under a\nfull moon.",
         "info": {
             "national_pokedex": "0035",
@@ -1108,7 +1195,10 @@
             "pack": "Arceus"
         },
         "id": "30",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "A timid fairy Pokémon that is rarely seen, it will\nrun and hide the moment it senses people.",
         "info": {
             "national_pokedex": "0036",
@@ -1144,7 +1234,10 @@
             "pack": "Arceus"
         },
         "id": "31",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It wraps its opponent in its gas-like body,\nslowly weakening its prey by poisoning it\nthrough the skin.",
         "info": {
             "national_pokedex": "0092",
@@ -1181,7 +1274,10 @@
             "pack": "Arceus"
         },
         "id": "32",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It likes to lurk in the dark and tap shoulders\nwith a gaseous hand. Its touch causes endless\nshuddering.",
         "info": {
             "national_pokedex": "0093",
@@ -1218,7 +1314,10 @@
             "pack": "Arceus"
         },
         "id": "33",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "To steal the life of its target, it slips into\nthe prey’s shadow and silently waits for\nan opportunity.",
         "info": {
             "national_pokedex": "0094",
@@ -1258,7 +1357,10 @@
             "pack": "Arceus"
         },
         "id": "34",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Its flat, thin body is always stuck on walls. Its shape\nappears to have some meaning.",
         "info": {
             "national_pokedex": "0201",
@@ -1298,7 +1400,10 @@
             "pack": "Arceus"
         },
         "id": "35",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "Its electricity-like body can enter some kinds\nof machines and take control in order to make\nmischief.",
         "info": {
             "national_pokedex": "0479",
@@ -1334,7 +1439,10 @@
             "pack": "Arceus"
         },
         "id": "36",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Although it always pretends to be a tree,\nits composition appears more similar to\nrock than to vegetation.",
         "info": {
             "national_pokedex": "0185",
@@ -1370,7 +1478,10 @@
             "pack": "Arceus"
         },
         "id": "37",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "This Pokémon lives and nests on a riverbank.\nAfter playing in the mud, it won’t be able to\nsettle down unless it washes its body.",
         "info": {
             "national_pokedex": "0231",
@@ -1408,7 +1519,10 @@
             "pack": "Arceus"
         },
         "id": "38",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Donphan is covered in tough hide, so even being\nhit by a car won’t faze this Pokémon. However, it\nis extremely susceptible to rain.",
         "info": {
             "national_pokedex": "0232",
@@ -1445,7 +1559,10 @@
             "pack": "Arceus"
         },
         "id": "39",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Born deep underground, this Pokémon becomes\na pupa after eating enough dirt to make a\nmountain.",
         "info": {
             "national_pokedex": "0246",
@@ -1483,7 +1600,10 @@
             "pack": "Arceus"
         },
         "id": "40",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Its shell is as hard as bedrock, and it is also very\nstrong. Its thrashing can topple a mountain.",
         "info": {
             "national_pokedex": "0247",
@@ -1526,7 +1646,10 @@
             "pack": "Arceus"
         },
         "id": "41",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "Extremely strong, it can change the landscape.\nIt is so insolent that it doesn’t care about others.",
         "info": {
             "national_pokedex": "0248",
@@ -1562,7 +1685,10 @@
             "pack": "Arceus"
         },
         "id": "42",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It moves less than an inch a year, but when\nit’s in a jam, it will spin and drill down into the\nground in a split second.",
         "info": {
             "national_pokedex": "0299",
@@ -1598,7 +1724,10 @@
             "pack": "Arceus"
         },
         "id": "43",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It never skips its daily yoga training. It heightens\nits inner strength through meditation.",
         "info": {
             "national_pokedex": "0307",
@@ -1634,7 +1763,10 @@
             "pack": "Arceus"
         },
         "id": "44",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Through yoga training, it gained the psychic\npower to predict its foe’s next move.",
         "info": {
             "national_pokedex": "0308",
@@ -1670,7 +1802,10 @@
             "pack": "Arceus"
         },
         "id": "45",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It skulks in caves, and when prey or an enemy\npasses by, it leaps out and chomps them.\nThe force of its attack sometimes chips its teeth.",
         "info": {
             "national_pokedex": "0443",
@@ -1706,7 +1841,10 @@
             "pack": "Arceus"
         },
         "id": "46",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "In rare cases, it molts and sheds its scales.\nMedicine containing its scales as an ingredient\nwill make a weary body feel invigorated.",
         "info": {
             "national_pokedex": "0444",
@@ -1752,7 +1890,10 @@
             "pack": "Arceus"
         },
         "id": "47",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_048_EN.webp",
@@ -1781,7 +1922,10 @@
             "pack": "Arceus"
         },
         "id": "48",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It emits ultrasonic waves from its mouth to check\nits surroundings. Even in tight caves, Zubat flies\naround with skill.",
         "info": {
             "national_pokedex": "0041",
@@ -1817,7 +1961,10 @@
             "pack": "Arceus"
         },
         "id": "49",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It loves to drink other creatures’ blood. It’s said\nthat if it finds others of its kind going hungry,\nit sometimes shares the blood it’s gathered.",
         "info": {
             "national_pokedex": "0042",
@@ -1857,7 +2004,10 @@
             "pack": "Arceus"
         },
         "id": "50",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "Both of its legs have turned into wings. Without a\nsound, Crobat flies swiftly toward its prey and\nsinks its fangs into the nape of its target’s neck.",
         "info": {
             "national_pokedex": "0169",
@@ -1893,7 +2043,10 @@
             "pack": "Arceus"
         },
         "id": "51",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Inflating its poison sacs, it fills the area with an\nodd sound and hits flinching opponents with a\npoison jab.",
         "info": {
             "national_pokedex": "0453",
@@ -1929,7 +2082,10 @@
             "pack": "Arceus"
         },
         "id": "52",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Swaying and dodging the attacks of its foes, it\nweaves its flexible body in close, then lunges\nout with its poisonous claws.",
         "info": {
             "national_pokedex": "0454",
@@ -1965,7 +2121,10 @@
             "pack": "Arceus"
         },
         "id": "53",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "The electromagnetic waves emitted by the units\nat the sides of its head expel antigravity, which\nallows it to float.",
         "info": {
             "national_pokedex": "0081",
@@ -2002,7 +2161,10 @@
             "pack": "Arceus"
         },
         "id": "54",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Three Magnemite are linked by a strong magnetic\nforce. Earaches will occur if you get too close.",
         "info": {
             "national_pokedex": "0082",
@@ -2044,7 +2206,10 @@
             "pack": "Arceus"
         },
         "id": "55",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "As it zooms through the sky, this Pokémon seems\nto be receiving signals of unknown origin while\ntransmitting signals of unknown purpose.",
         "info": {
             "national_pokedex": "0462",
@@ -2080,7 +2245,10 @@
             "pack": "Arceus"
         },
         "id": "56",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It uses its docile-looking face to lull foes into\ncomplacency, then bites with its huge,\nrelentless jaws.",
         "info": {
             "national_pokedex": "0303",
@@ -2118,7 +2286,10 @@
             "pack": "Arceus"
         },
         "id": "57",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_058_EN.webp",
@@ -2147,7 +2318,10 @@
             "pack": "Arceus"
         },
         "id": "58",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Ancient people believed that the pattern on\nBronzor’s back contained a mysterious power.",
         "info": {
             "national_pokedex": "0436",
@@ -2185,7 +2359,10 @@
             "pack": "Arceus"
         },
         "id": "59",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "In ages past, this Pokémon was revered as a\nbringer of rain. It was found buried in the ground.",
         "info": {
             "national_pokedex": "0437",
@@ -2261,7 +2438,10 @@
             "pack": "Arceus"
         },
         "id": "61",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "This Pokémon is said to live in a world on the\nreverse side of ours, where common knowledge is\ndistorted and strange.",
         "info": {
             "national_pokedex": "0487",
@@ -2298,7 +2478,10 @@
             "pack": "Arceus"
         },
         "id": "62",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment.",
         "info": {
             "national_pokedex": "0133",
@@ -2337,7 +2520,10 @@
             "pack": "Arceus"
         },
         "id": "63",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It is not satisfied unless it eats over 880 pounds\nof food every day. When it is done eating, it\ngoes promptly to sleep.",
         "info": {
             "national_pokedex": "0143",
@@ -2373,7 +2559,10 @@
             "pack": "Arceus"
         },
         "id": "64",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It always stands on one foot. It changes feet so\nfast, the movement can rarely be seen.",
         "info": {
             "national_pokedex": "0163",
@@ -2410,7 +2599,10 @@
             "pack": "Arceus"
         },
         "id": "65",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Its eyes are specially developed to enable it to\nsee clearly even in murky darkness and minimal light.",
         "info": {
             "national_pokedex": "0164",
@@ -2446,7 +2638,10 @@
             "pack": "Arceus"
         },
         "id": "66",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "They flock around mountains and fields, chasing\nafter bug Pokémon. Their singing is noisy and\nannoying.",
         "info": {
             "national_pokedex": "0396",
@@ -2482,7 +2677,10 @@
             "pack": "Arceus"
         },
         "id": "67",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Recognizing their own weakness, they always live\nin a group. When alone, a Staravia cries noisily.",
         "info": {
             "national_pokedex": "0397",
@@ -2520,7 +2718,10 @@
             "pack": "Arceus"
         },
         "id": "68",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "When Staravia evolve into Staraptor, they leave\nthe flock to live alone. They have sturdy wings.",
         "info": {
             "national_pokedex": "0398",
@@ -2561,7 +2762,10 @@
             "pack": "Arceus"
         },
         "id": "69",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It can dissolve toxins in the air to instantly\ntransform ruined land into a lush field of flowers.",
         "info": {
             "national_pokedex": "0492",
@@ -2600,7 +2804,10 @@
             "pack": "Arceus"
         },
         "id": "70",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "According to the legends of Sinnoh, this Pokémon\nemerged from an egg and shaped all there is in\nthis world.",
         "info": {
             "national_pokedex": "0493",
@@ -2642,7 +2849,10 @@
             "pack": "Arceus"
         },
         "id": "71",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_072_EN.webp",
@@ -2657,7 +2867,10 @@
             "pack": "Arceus"
         },
         "id": "72",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_073_EN.webp",
@@ -2672,7 +2885,10 @@
             "pack": "Arceus"
         },
         "id": "73",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_074_EN.webp",
@@ -2687,7 +2903,10 @@
             "pack": "Arceus"
         },
         "id": "74",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_075_EN.webp",
@@ -2702,7 +2921,10 @@
             "pack": "Arceus"
         },
         "id": "75",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_076_EN.webp",
@@ -2732,7 +2954,10 @@
             "pack": "Arceus"
         },
         "id": "76",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "If you are burned by the flames it shoots from its\nmouth, the pain will never go away.",
         "info": {
             "national_pokedex": "0229",
@@ -2768,7 +2993,10 @@
             "pack": "Arceus"
         },
         "id": "77",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "The fur on its body naturally repels water. It can\nstay dry even when it plays in the water.",
         "info": {
             "national_pokedex": "0183",
@@ -2808,7 +3036,10 @@
             "pack": "Arceus"
         },
         "id": "78",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "Its flat, thin body is always stuck on walls. Its shape\nappears to have some meaning.",
         "info": {
             "national_pokedex": "0201",
@@ -2844,7 +3075,10 @@
             "pack": "Arceus"
         },
         "id": "79",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "Although it always pretends to be a tree,\nits composition appears more similar to\nrock than to vegetation.",
         "info": {
             "national_pokedex": "0185",
@@ -2880,7 +3114,10 @@
             "pack": "Arceus"
         },
         "id": "80",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "The electromagnetic waves emitted by the units\nat the sides of its head expel antigravity, which\nallows it to float.",
         "info": {
             "national_pokedex": "0081",
@@ -2921,7 +3158,10 @@
             "pack": "Arceus"
         },
         "id": "81",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "It can dissolve toxins in the air to instantly\ntransform ruined land into a lush field of flowers.",
         "info": {
             "national_pokedex": "0492",
@@ -2963,7 +3203,10 @@
             "pack": "Arceus"
         },
         "id": "82",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_083_EN.webp",
@@ -2998,7 +3241,10 @@
             "pack": "Arceus"
         },
         "id": "83",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_084_EN.webp",
@@ -3037,7 +3283,10 @@
             "pack": "Arceus"
         },
         "id": "84",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_085_EN.webp",
@@ -3068,7 +3317,10 @@
             "pack": "Arceus"
         },
         "id": "85",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_086_EN.webp",
@@ -3103,7 +3355,10 @@
             "pack": "Arceus"
         },
         "id": "86",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_087_EN.webp",
@@ -3118,7 +3373,10 @@
             "pack": "Arceus"
         },
         "id": "87",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_088_EN.webp",
@@ -3133,7 +3391,10 @@
             "pack": "Arceus"
         },
         "id": "88",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_089_EN.webp",
@@ -3148,7 +3409,10 @@
             "pack": "Arceus"
         },
         "id": "89",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_090_EN.webp",
@@ -3163,7 +3427,10 @@
             "pack": "Arceus"
         },
         "id": "90",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_091_EN.webp",
@@ -3198,7 +3465,10 @@
             "pack": "Arceus"
         },
         "id": "91",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Special Art Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_092_EN.webp",
@@ -3233,7 +3503,10 @@
             "pack": "Arceus"
         },
         "id": "92",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Special Art Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_093_EN.webp",
@@ -3272,7 +3545,10 @@
             "pack": "Arceus"
         },
         "id": "93",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Special Art Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_094_EN.webp",
@@ -3303,7 +3579,10 @@
             "pack": "Arceus"
         },
         "id": "94",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Special Art Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_095_EN.webp",
@@ -3338,7 +3617,10 @@
             "pack": "Arceus"
         },
         "id": "95",
-        "rarity": "☆☆☆"
+        "rarity": {
+            "symbol": "☆☆☆",
+            "text": "Immersive Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_096_EN.webp",
@@ -3373,6 +3655,9 @@
             "pack": "Arceus"
         },
         "id": "96",
-        "rarity": "Crown Rare"
+        "rarity": {
+            "symbol": "♔",
+            "text": "Crown Rare"
+        }
     }
 ]

@@ -27,7 +27,10 @@
             "pack": "Mewtwo"
         },
         "id": "1",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "There is a plant seed on its back right from the\nday this Pokémon is born. The seed slowly\ngrows larger.",
         "info": {
             "national_pokedex": "0001",
@@ -65,7 +68,10 @@
             "pack": "Mewtwo"
         },
         "id": "2",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "When the bulb on its back grows large, it\nappears to lose the ability to stand on its\nhind legs.",
         "info": {
             "national_pokedex": "0002",
@@ -104,7 +110,10 @@
             "pack": "Mewtwo"
         },
         "id": "3",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "Its plant blooms when it is absorbing solar\nenergy. It stays on the move to seek sunlight.",
         "info": {
             "national_pokedex": "0003",
@@ -153,7 +162,10 @@
             "pack": "Mewtwo"
         },
         "id": "4",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_005_EN.webp",
@@ -182,7 +194,10 @@
             "pack": "Pikachu"
         },
         "id": "5",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "For protection, it releases a horrible stench from\nthe antenna on its head to drive away enemies.",
         "info": {
             "national_pokedex": "0010",
@@ -219,7 +234,10 @@
             "pack": "Pikachu"
         },
         "id": "6",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It is waiting for the moment to evolve. At this\nstage, it can only harden, so it remains\nmotionless to avoid attack.",
         "info": {
             "national_pokedex": "0011",
@@ -261,7 +279,10 @@
             "pack": "Pikachu"
         },
         "id": "7",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "In battle, it flaps its wings at great speed to\nrelease highly toxic dust into the air.",
         "info": {
             "national_pokedex": "0012",
@@ -297,7 +318,10 @@
             "pack": "Mewtwo"
         },
         "id": "8",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Often found in forests and grasslands.\nIt has a sharp, toxic barb of around two inches\non top of its head.",
         "info": {
             "national_pokedex": "0013",
@@ -333,7 +357,10 @@
             "pack": "Mewtwo"
         },
         "id": "9",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Almost incapable of moving, this Pokémon can only\nharden its shell to protect itself when it is\nin danger.",
         "info": {
             "national_pokedex": "0014",
@@ -369,7 +396,10 @@
             "pack": "Mewtwo"
         },
         "id": "10",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It has three poisonous stingers on its forelegs and\nits tail. They are used to jab its enemy repeatedly.",
         "info": {
             "national_pokedex": "0015",
@@ -405,7 +435,10 @@
             "pack": "Charizard"
         },
         "id": "11",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "If exposed to moonlight, it starts to move.\nIt roams far and wide at night to scatter its seeds.",
         "info": {
             "national_pokedex": "0043",
@@ -442,7 +475,10 @@
             "pack": "Charizard"
         },
         "id": "12",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Its pistils exude an incredibly foul odor.\nThe horrid stench can cause fainting at a distance\nof 1.25 miles.",
         "info": {
             "national_pokedex": "0044",
@@ -480,7 +516,10 @@
             "pack": "Charizard"
         },
         "id": "13",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It has the world’s largest petals. With every step,\nthe petals shake out heavy clouds of toxic pollen.",
         "info": {
             "national_pokedex": "0045",
@@ -517,7 +556,10 @@
             "pack": "Pikachu"
         },
         "id": "14",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "The mushrooms, known as tochukaso, are\ncontrolling the bug. Even if the bug bugs the\nmushrooms, they tell it to bug off.",
         "info": {
             "national_pokedex": "0046",
@@ -555,7 +597,10 @@
             "pack": "Pikachu"
         },
         "id": "15",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "The bug is mostly dead, with the mushroom on\nits back having become the main body. If the\nmushroom comes off, the bug stops moving.",
         "info": {
             "national_pokedex": "0047",
@@ -591,7 +636,10 @@
             "pack": "Mewtwo"
         },
         "id": "16",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Poison oozes from all over its body. It catches\nsmall bug Pokémon at night that are attracted\nby light.",
         "info": {
             "national_pokedex": "0048",
@@ -627,7 +675,10 @@
             "pack": "Mewtwo"
         },
         "id": "17",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "The wings are covered with dustlike scales. Every\ntime it flaps its wings, it looses highly toxic dust.",
         "info": {
             "national_pokedex": "0049",
@@ -663,7 +714,10 @@
             "pack": "Charizard"
         },
         "id": "18",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Even though its body is extremely skinny, it is\nblindingly fast when catching its prey.",
         "info": {
             "national_pokedex": "0069",
@@ -700,7 +754,10 @@
             "pack": "Charizard"
         },
         "id": "19",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "The leafy parts act as cutters for slashing foes.\nIt spits a fluid that dissolves everything.",
         "info": {
             "national_pokedex": "0070",
@@ -741,7 +798,10 @@
             "pack": "Charizard"
         },
         "id": "20",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "Said to live in huge colonies deep in jungles,\nalthough no one has ever returned from there.",
         "info": {
             "national_pokedex": "0071",
@@ -777,7 +837,10 @@
             "pack": "Charizard"
         },
         "id": "21",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Though it may look like it’s just a bunch of eggs,\nit’s a proper Pokémon. Exeggcute communicates\nwith others of its kind via telepathy, apparently.",
         "info": {
             "national_pokedex": "0102",
@@ -813,7 +876,10 @@
             "pack": "Charizard"
         },
         "id": "22",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "Each of Exeggutor’s three heads is thinking\ndifferent thoughts. The three don’t seem to be\nvery interested in one another.",
         "info": {
             "national_pokedex": "0103",
@@ -849,7 +915,10 @@
             "pack": "Charizard"
         },
         "id": "23",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_024_EN.webp",
@@ -879,7 +948,10 @@
             "pack": "Charizard"
         },
         "id": "24",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Hidden beneath a tangle of vines that grows\nnonstop even if the vines are torn off, this\nPokémon’s true appearance remains a mystery.",
         "info": {
             "national_pokedex": "0114",
@@ -915,7 +987,10 @@
             "pack": "Mewtwo"
         },
         "id": "25",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It slashes through grass with its sharp\nscythes, moving too fast for the human\neye to track.",
         "info": {
             "national_pokedex": "0123",
@@ -952,7 +1027,10 @@
             "pack": ""
         },
         "id": "26",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "These Pokémon judge one another based on\npincers. Thicker, more impressive pincers make\nfor more popularity with the opposite gender.",
         "info": {
             "national_pokedex": "0127",
@@ -988,7 +1066,10 @@
             "pack": ""
         },
         "id": "27",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It shoots cotton from its body to protect itself.\nIf it gets caught up in hurricane-strength winds,\nit can get sent to the other side of the Earth.",
         "info": {
             "national_pokedex": "0546",
@@ -1024,7 +1105,10 @@
             "pack": ""
         },
         "id": "28",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It scatters cotton all over the place as a prank. If\nit gets wet, it’ll become too heavy to move and\nhave no choice but to answer for its mischief.",
         "info": {
             "national_pokedex": "0547",
@@ -1060,7 +1144,10 @@
             "pack": ""
         },
         "id": "29",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "The leaves on its head grow right back even if\nthey fall out. These bitter leaves refresh those\nwho eat them.",
         "info": {
             "national_pokedex": "0548",
@@ -1097,7 +1184,10 @@
             "pack": ""
         },
         "id": "30",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "The fragrance of the garland on its head has\na relaxing effect, but taking care of it is very\ndifficult.",
         "info": {
             "national_pokedex": "0549",
@@ -1133,7 +1223,10 @@
             "pack": "Charizard"
         },
         "id": "31",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Until recently, people living in the mountains\nwould ride on the backs of these Pokémon to\ntraverse the mountain paths.",
         "info": {
             "national_pokedex": "0672",
@@ -1171,7 +1264,10 @@
             "pack": "Charizard"
         },
         "id": "32",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It can sense the feelings of others by touching\nthem with its horns. This species has assisted\npeople with their work since 5,000 years ago.",
         "info": {
             "national_pokedex": "0673",
@@ -1207,7 +1303,10 @@
             "pack": "Charizard"
         },
         "id": "33",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It has a preference for hot things. When it rains,\nsteam is said to spout from the tip of its tail.",
         "info": {
             "national_pokedex": "0004",
@@ -1245,7 +1344,10 @@
             "pack": "Charizard"
         },
         "id": "34",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It has a barbaric nature. In battle, it whips its\nfiery tail around and slashes away with sharp claws.",
         "info": {
             "national_pokedex": "0005",
@@ -1284,7 +1386,10 @@
             "pack": "Charizard"
         },
         "id": "35",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It spits fire that is hot enough to melt boulders.\nIt may cause forest fires by blowing flames.",
         "info": {
             "national_pokedex": "0006",
@@ -1333,7 +1438,10 @@
             "pack": "Charizard"
         },
         "id": "36",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_037_EN.webp",
@@ -1362,7 +1470,10 @@
             "pack": "Charizard"
         },
         "id": "37",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "While young, it has six gorgeous tails. When it\ngrows, several new tails are sprouted.",
         "info": {
             "national_pokedex": "0037",
@@ -1399,7 +1510,10 @@
             "pack": "Charizard"
         },
         "id": "38",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It is said to live 1,000 years, and each of its tails\nis loaded with supernatural powers.",
         "info": {
             "national_pokedex": "0038",
@@ -1436,7 +1550,10 @@
             "pack": "Pikachu"
         },
         "id": "39",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It has a brave and trustworthy nature. It fearlessly\nstands up to bigger and stronger foes.",
         "info": {
             "national_pokedex": "0058",
@@ -1474,7 +1591,10 @@
             "pack": "Pikachu"
         },
         "id": "40",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "An ancient picture scroll shows that people\nwere captivated by its movement as it ran\nthrough prairies.",
         "info": {
             "national_pokedex": "0059",
@@ -1512,7 +1632,10 @@
             "pack": "Pikachu"
         },
         "id": "41",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_042_EN.webp",
@@ -1541,7 +1664,10 @@
             "pack": ""
         },
         "id": "42",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It can’t run properly when it’s newly born.\nAs it races around with others of its kind,\nits legs grow stronger.",
         "info": {
             "national_pokedex": "0077",
@@ -1577,7 +1703,10 @@
             "pack": ""
         },
         "id": "43",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "This Pokémon can be seen galloping through\nfields at speeds of up to 150 mph, its fiery mane\nfluttering in the wind.",
         "info": {
             "national_pokedex": "0078",
@@ -1614,7 +1743,10 @@
             "pack": "Charizard"
         },
         "id": "44",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Magmar dispatches its prey with fire. But it\nregrets this habit once it realizes that it has\nburned its intended prey to a charred crisp.",
         "info": {
             "national_pokedex": "0126",
@@ -1652,7 +1784,10 @@
             "pack": "Charizard"
         },
         "id": "45",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "Inhaled air is carried to its flame sac, heated, and\nexhaled as fire that reaches over 3,000 degrees\nFahrenheit.",
         "info": {
             "national_pokedex": "0136",
@@ -1690,7 +1825,10 @@
             "pack": "Charizard"
         },
         "id": "46",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It’s one of the legendary bird Pokémon. When\nMoltres flaps its flaming wings, they glimmer with\na dazzling red glow.",
         "info": {
             "national_pokedex": "0146",
@@ -1736,7 +1874,10 @@
             "pack": "Charizard"
         },
         "id": "47",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_048_EN.webp",
@@ -1765,7 +1906,10 @@
             "pack": ""
         },
         "id": "48",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "There’s a hole in its tail that allows it to draw in\nthe air it needs to keep its fire burning. If the\nhole gets blocked, this Pokémon will fall ill.",
         "info": {
             "national_pokedex": "0631",
@@ -1801,7 +1945,10 @@
             "pack": "Mewtwo"
         },
         "id": "49",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It taunts its prey and lures them into narrow,\nrocky areas where it then sprays them with toxic\ngas to make them dizzy and take them down.",
         "info": {
             "national_pokedex": "0757",
@@ -1838,7 +1985,10 @@
             "pack": "Mewtwo"
         },
         "id": "50",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Salazzle makes its opponents light-headed with\npoisonous gas, then captivates them with alluring\nmovements to turn them into loyal servants.",
         "info": {
             "national_pokedex": "0758",
@@ -1874,7 +2024,10 @@
             "pack": ""
         },
         "id": "51",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It stores flammable gas in its body and uses it to\ngenerate heat. The yellow sections on its belly\nget particularly hot.",
         "info": {
             "national_pokedex": "0850",
@@ -1913,7 +2066,10 @@
             "pack": ""
         },
         "id": "52",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "When it heats up, its body temperature reaches\nabout 1,500 degrees Fahrenheit. It lashes its\nbody like a whip and launches itself at enemies.",
         "info": {
             "national_pokedex": "0851",
@@ -1949,7 +2105,10 @@
             "pack": "Pikachu"
         },
         "id": "53",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "When it retracts its long neck into its shell, it\nsquirts out water with vigorous force.",
         "info": {
             "national_pokedex": "0007",
@@ -1986,7 +2145,10 @@
             "pack": "Pikachu"
         },
         "id": "54",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It is recognized as a symbol of longevity. If its\nshell has algae on it, that Wartortle is very old.",
         "info": {
             "national_pokedex": "0008",
@@ -2024,7 +2186,10 @@
             "pack": "Pikachu"
         },
         "id": "55",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It crushes its foe under its heavy body to cause\nfainting. In a pinch, it will withdraw inside its shell.",
         "info": {
             "national_pokedex": "0009",
@@ -2071,7 +2236,10 @@
             "pack": "Pikachu"
         },
         "id": "56",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_057_EN.webp",
@@ -2100,7 +2268,10 @@
             "pack": ""
         },
         "id": "57",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It is constantly wracked by a headache. When the\nheadache turns intense, it begins using mysterious\npowers.",
         "info": {
             "national_pokedex": "0054",
@@ -2137,7 +2308,10 @@
             "pack": ""
         },
         "id": "58",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "When it swims at full speed using its long,\nwebbed limbs, its forehead somehow begins\nto glow.",
         "info": {
             "national_pokedex": "0055",
@@ -2173,7 +2347,10 @@
             "pack": "Charizard"
         },
         "id": "59",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "For Poliwag, swimming is easier than walking.\nThe swirl pattern on its belly is actually part of\nthe Pokémon’s innards showing through the skin.",
         "info": {
             "national_pokedex": "0060",
@@ -2210,7 +2387,10 @@
             "pack": "Charizard"
         },
         "id": "60",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Staring at the swirl on its belly causes drowsiness.\nThis trait of Poliwhirl’s has been used in place of\nlullabies to get children to go to sleep.",
         "info": {
             "national_pokedex": "0061",
@@ -2252,7 +2432,10 @@
             "pack": "Charizard"
         },
         "id": "61",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "Its body is solid muscle. When swimming through\ncold seas, Poliwrath uses its impressive arms to\nsmash through drift ice and plow forward.",
         "info": {
             "national_pokedex": "0062",
@@ -2288,7 +2471,10 @@
             "pack": "Mewtwo"
         },
         "id": "62",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Tentacool is not a particularly strong swimmer.\nIt drifts across the surface of shallow seas as it\nsearches for prey.",
         "info": {
             "national_pokedex": "0072",
@@ -2325,7 +2511,10 @@
             "pack": "Mewtwo"
         },
         "id": "63",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "When the red orbs on Tentacruel’s head glow\nbrightly, watch out. The Pokémon is about to\nfire off a burst of ultrasonic waves.",
         "info": {
             "national_pokedex": "0073",
@@ -2362,7 +2551,10 @@
             "pack": "Pikachu"
         },
         "id": "64",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Thanks to its thick fat, cold seas don’t bother it\nat all, but it gets tired pretty easily in\nwarm waters.",
         "info": {
             "national_pokedex": "0086",
@@ -2400,7 +2592,10 @@
             "pack": "Pikachu"
         },
         "id": "65",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It sunbathes on the beach after meals. The rise\nin its body temperature helps its digestion.",
         "info": {
             "national_pokedex": "0087",
@@ -2436,7 +2631,10 @@
             "pack": "Mewtwo"
         },
         "id": "66",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It is encased in a shell that is harder than diamond.\nInside, however, it is surprisingly tender.",
         "info": {
             "national_pokedex": "0090",
@@ -2478,7 +2676,10 @@
             "pack": "Mewtwo"
         },
         "id": "67",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Cloyster that live in seas with harsh tidal currents\ngrow large, sharp spikes on their shells.",
         "info": {
             "national_pokedex": "0091",
@@ -2515,7 +2716,10 @@
             "pack": "Mewtwo"
         },
         "id": "68",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It can be found near the sea. The large pincers\ngrow back if they are torn out of their sockets.",
         "info": {
             "national_pokedex": "0098",
@@ -2553,7 +2757,10 @@
             "pack": "Mewtwo"
         },
         "id": "69",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Its large and hard pincer has 10,000-horsepower\nstrength. However, being so big, it is unwieldy\nto move.",
         "info": {
             "national_pokedex": "0099",
@@ -2589,7 +2796,10 @@
             "pack": "Pikachu"
         },
         "id": "70",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Horsea makes its home in oceans with gentle\ncurrents. If this Pokémon is under attack, it spits\nout pitch-black ink and escapes.",
         "info": {
             "national_pokedex": "0116",
@@ -2627,7 +2837,10 @@
             "pack": "Pikachu"
         },
         "id": "71",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It’s the males that raise the offspring. While\nSeadra are raising young, the spines on their\nbacks secrete thicker and stronger poison.",
         "info": {
             "national_pokedex": "0117",
@@ -2663,7 +2876,10 @@
             "pack": "Pikachu"
         },
         "id": "72",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Its dorsal, pectoral, and tail fins wave elegantly\nin water. That is why it is known as the Water Dancer.",
         "info": {
             "national_pokedex": "0118",
@@ -2699,7 +2915,10 @@
             "pack": "Pikachu"
         },
         "id": "73",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "In autumn, its body becomes more fatty in\npreparing to propose to a mate. It takes on\nbeautiful colors.",
         "info": {
             "national_pokedex": "0119",
@@ -2735,7 +2954,10 @@
             "pack": "Charizard"
         },
         "id": "74",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "If you visit a beach at the end of summer, you’ll\nbe able to see groups of Staryu lighting up in a\nsteady rhythm.",
         "info": {
             "national_pokedex": "0120",
@@ -2771,7 +2993,10 @@
             "pack": "Charizard"
         },
         "id": "75",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "This Pokémon has an organ known as its core.\nThe organ glows in seven colors when Starmie is\nunleashing its potent psychic powers.",
         "info": {
             "national_pokedex": "0121",
@@ -2808,7 +3033,10 @@
             "pack": "Charizard"
         },
         "id": "76",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_077_EN.webp",
@@ -2837,7 +3065,10 @@
             "pack": "Pikachu"
         },
         "id": "77",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "An underpowered, pathetic Pokémon. It may\njump high on rare occasions but never more\nthan seven feet.",
         "info": {
             "national_pokedex": "0129",
@@ -2876,7 +3107,10 @@
             "pack": "Pikachu"
         },
         "id": "78",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "Once it appears, it goes on a rampage.\nIt remains enraged until it demolishes\neverything around it.",
         "info": {
             "national_pokedex": "0130",
@@ -2912,7 +3146,10 @@
             "pack": "Charizard"
         },
         "id": "79",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "A smart and kindhearted Pokémon,\nit glides across the surface of the sea while\nits beautiful song echoes around it.",
         "info": {
             "national_pokedex": "0131",
@@ -2950,7 +3187,10 @@
             "pack": "Mewtwo"
         },
         "id": "80",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It lives close to water. Its long tail is ridged with\na fin, which is often mistaken for a mermaid’s.",
         "info": {
             "national_pokedex": "0134",
@@ -2986,7 +3226,10 @@
             "pack": "Pikachu"
         },
         "id": "81",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Because some Omanyte manage to escape after\nbeing restored or are released into the wild by\npeople, this species is becoming a problem.",
         "info": {
             "national_pokedex": "0138",
@@ -3024,7 +3267,10 @@
             "pack": "Pikachu"
         },
         "id": "82",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "Weighed down by a large and heavy shell,\nOmastar couldn’t move very fast. Some say it\nwent extinct because it was unable to catch food.",
         "info": {
             "national_pokedex": "0139",
@@ -3062,7 +3308,10 @@
             "pack": "Mewtwo"
         },
         "id": "83",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It’s said that this Pokémon’s beautiful blue wings\nare made of ice. Articuno flies over snowy\nmountains, its long tail fluttering along behind it.",
         "info": {
             "national_pokedex": "0144",
@@ -3109,7 +3358,10 @@
             "pack": "Mewtwo"
         },
         "id": "84",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_085_EN.webp",
@@ -3139,7 +3391,10 @@
             "pack": "Charizard"
         },
         "id": "85",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "When attacked, it uses its feathers to splash water,\nescaping under cover of the spray.",
         "info": {
             "national_pokedex": "0580",
@@ -3177,7 +3432,10 @@
             "pack": "Charizard"
         },
         "id": "86",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Despite their elegant appearance, they can flap\ntheir wings strongly and fly for thousands of miles.",
         "info": {
             "national_pokedex": "0581",
@@ -3213,7 +3471,10 @@
             "pack": "Charizard"
         },
         "id": "87",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It secretes flexible bubbles from its chest and back.\nThe bubbles reduce the damage it would otherwise\ntake when attacked.",
         "info": {
             "national_pokedex": "0656",
@@ -3249,7 +3510,10 @@
             "pack": "Charizard"
         },
         "id": "88",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It can throw bubble-covered pebbles with precise \ncontrol, hitting empty cans up to a hundred feet away.",
         "info": {
             "national_pokedex": "0657",
@@ -3290,7 +3554,10 @@
             "pack": "Charizard"
         },
         "id": "89",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It creates throwing stars out of compressed water. \nWhen it spins them and throws them at high speed, \nthese stars can split metal in two.",
         "info": {
             "national_pokedex": "0658",
@@ -3326,7 +3593,10 @@
             "pack": "Charizard"
         },
         "id": "90",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It lives in warm, shallow waters. If it encounters a\nfoe, it will spit out its internal organs as a means\nto punch them.",
         "info": {
             "national_pokedex": "0771",
@@ -3363,7 +3633,10 @@
             "pack": ""
         },
         "id": "91",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It grinds its teeth with great force to stimulate\nits brain. It fires the psychic energy created by\nthis process from the protuberance on its head.",
         "info": {
             "national_pokedex": "0779",
@@ -3399,7 +3672,10 @@
             "pack": ""
         },
         "id": "92",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It eats snow that has accumulated on the ground.\nIt prefers soft, freshly fallen snow, so it will eat its\nway up a mountain, aiming for the peak.",
         "info": {
             "national_pokedex": "0872",
@@ -3436,7 +3712,10 @@
             "pack": ""
         },
         "id": "93",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Frosmoth senses air currents with its antennae.\nIt sends its scales drifting on frigid air, making\nthem fall like snow.",
         "info": {
             "national_pokedex": "0873",
@@ -3472,7 +3751,10 @@
             "pack": "Pikachu"
         },
         "id": "94",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "When it is angered, it immediately discharges the\nenergy stored in the pouches in its cheeks.",
         "info": {
             "national_pokedex": "0025",
@@ -3510,7 +3792,10 @@
             "pack": "Pikachu"
         },
         "id": "95",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "Its tail discharges electricity into the ground,\nprotecting it from getting shocked.",
         "info": {
             "national_pokedex": "0026",
@@ -3547,7 +3832,10 @@
             "pack": "Pikachu"
         },
         "id": "96",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_097_EN.webp",
@@ -3576,7 +3864,10 @@
             "pack": "Pikachu"
         },
         "id": "97",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "The electromagnetic waves emitted by the units\nat the sides of its head expel antigravity, which\nallows it to float.",
         "info": {
             "national_pokedex": "0081",
@@ -3619,7 +3910,10 @@
             "pack": "Pikachu"
         },
         "id": "98",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "Three Magnemite are linked by a strong magnetic\nforce. Earaches will occur if you get too close.",
         "info": {
             "national_pokedex": "0082",
@@ -3655,7 +3949,10 @@
             "pack": "Pikachu"
         },
         "id": "99",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It rolls to move. If the ground is uneven, a sudden\njolt from hitting a bump can cause it to explode.",
         "info": {
             "national_pokedex": "0100",
@@ -3692,7 +3989,10 @@
             "pack": "Pikachu"
         },
         "id": "100",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "The more energy it charges up, the faster\nit gets. But this also makes it more likely\nto explode.",
         "info": {
             "national_pokedex": "0101",
@@ -3729,7 +4029,10 @@
             "pack": "Pikachu"
         },
         "id": "101",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Many power plants keep Ground-type Pokémon\naround as a defense against Electabuzz that\ncome seeking electricity.",
         "info": {
             "national_pokedex": "0125",
@@ -3766,7 +4069,10 @@
             "pack": "Pikachu"
         },
         "id": "102",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It concentrates the weak electric charges emitted\nby its cells and launches wicked lightning bolts.",
         "info": {
             "national_pokedex": "0135",
@@ -3804,7 +4110,10 @@
             "pack": "Pikachu"
         },
         "id": "103",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "This Pokémon has complete control over\nelectricity. There are tales of Zapdos nesting in\nthe dark depths of pitch-black thunderclouds.",
         "info": {
             "national_pokedex": "0145",
@@ -3850,7 +4159,10 @@
             "pack": "Pikachu"
         },
         "id": "104",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_105_EN.webp",
@@ -3879,7 +4191,10 @@
             "pack": ""
         },
         "id": "105",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "When thunderclouds cover the sky, it will appear.\nIt can catch lightning with its mane and store\nthe electricity.",
         "info": {
             "national_pokedex": "0522",
@@ -3915,7 +4230,10 @@
             "pack": ""
         },
         "id": "106",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "When this ill-tempered Pokémon runs wild, it\nshoots lightning from its mane in all directions.",
         "info": {
             "national_pokedex": "0523",
@@ -3951,7 +4269,10 @@
             "pack": "Mewtwo"
         },
         "id": "107",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "While one alone doesn’t have much power,\na chain of many Tynamo can be as powerful\nas lightning.",
         "info": {
             "national_pokedex": "0602",
@@ -3987,7 +4308,10 @@
             "pack": "Mewtwo"
         },
         "id": "108",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "They coil around foes and shock them with\nelectricity-generating organs that seem simply\nto be circular patterns.",
         "info": {
             "national_pokedex": "0603",
@@ -4025,7 +4349,10 @@
             "pack": "Mewtwo"
         },
         "id": "109",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "They crawl out of the ocean using their arms.\nThey will attack prey on shore and immediately\ndrag it into the ocean.",
         "info": {
             "national_pokedex": "0604",
@@ -4061,7 +4388,10 @@
             "pack": ""
         },
         "id": "110",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "When spread, the frills on its head act like solar\npanels, generating the power behind this\nPokémon’s electric moves.",
         "info": {
             "national_pokedex": "0694",
@@ -4098,7 +4428,10 @@
             "pack": ""
         },
         "id": "111",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "One Heliolisk basking in the sun with its frill\noutspread is all it would take to produce enough\nelectricity to power a city.",
         "info": {
             "national_pokedex": "0695",
@@ -4135,7 +4468,10 @@
             "pack": ""
         },
         "id": "112",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "This Pokémon generates electricity when it\ndigests food. It uses its five hard teeth to scrape\nseaweed off surfaces and eat it.",
         "info": {
             "national_pokedex": "0871",
@@ -4171,7 +4507,10 @@
             "pack": "Pikachu"
         },
         "id": "113",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It is said that happiness will come to those who\nsee a gathering of Clefairy dancing under a\nfull moon.",
         "info": {
             "national_pokedex": "0035",
@@ -4207,7 +4546,10 @@
             "pack": "Pikachu"
         },
         "id": "114",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "A timid fairy Pokémon that is rarely seen, it will\nrun and hide the moment it senses people.",
         "info": {
             "national_pokedex": "0036",
@@ -4243,7 +4585,10 @@
             "pack": "Charizard"
         },
         "id": "115",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "This Pokémon uses its psychic powers while it\nsleeps. The contents of Abra’s dreams affect the\npowers that the Pokémon wields.",
         "info": {
             "national_pokedex": "0063",
@@ -4281,7 +4626,10 @@
             "pack": "Charizard"
         },
         "id": "116",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Using its psychic power, Kadabra levitates as it\nsleeps. It uses its springy tail as a pillow.",
         "info": {
             "national_pokedex": "0064",
@@ -4319,7 +4667,10 @@
             "pack": "Charizard"
         },
         "id": "117",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It has an incredibly high level of intelligence.\nSome say that Alakazam remembers everything\nthat ever happens to it, from birth till death.",
         "info": {
             "national_pokedex": "0065",
@@ -4356,7 +4707,10 @@
             "pack": ""
         },
         "id": "118",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It is incredibly slow and dopey. It takes five\nseconds for it to feel pain when under attack.",
         "info": {
             "national_pokedex": "0079",
@@ -4394,7 +4748,10 @@
             "pack": ""
         },
         "id": "119",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "When a Slowpoke went hunting in the sea, its tail\nwas bitten by a Shellder. That made it evolve\ninto Slowbro.",
         "info": {
             "national_pokedex": "0080",
@@ -4430,7 +4787,10 @@
             "pack": "Mewtwo"
         },
         "id": "120",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It wraps its opponent in its gas-like body,\nslowly weakening its prey by poisoning it\nthrough the skin.",
         "info": {
             "national_pokedex": "0092",
@@ -4466,7 +4826,10 @@
             "pack": "Mewtwo"
         },
         "id": "121",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It likes to lurk in the dark and tap shoulders\nwith a gaseous hand. Its touch causes endless\nshuddering.",
         "info": {
             "national_pokedex": "0093",
@@ -4502,7 +4865,10 @@
             "pack": "Mewtwo"
         },
         "id": "122",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "To steal the life of its target, it slips into\nthe prey’s shadow and silently waits for\nan opportunity.",
         "info": {
             "national_pokedex": "0094",
@@ -4544,7 +4910,10 @@
             "pack": "Mewtwo"
         },
         "id": "123",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_124_EN.webp",
@@ -4574,7 +4943,10 @@
             "pack": "Pikachu"
         },
         "id": "124",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It remembers every dream it eats. It rarely eats\nthe dreams of adults because children’s are much\ntastier.",
         "info": {
             "national_pokedex": "0096",
@@ -4616,7 +4988,10 @@
             "pack": "Pikachu"
         },
         "id": "125",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "When it locks eyes with an enemy, it will use\na mix of psi moves, such as Hypnosis and\nConfusion.",
         "info": {
             "national_pokedex": "0097",
@@ -4653,7 +5028,10 @@
             "pack": "Mewtwo"
         },
         "id": "126",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "The broadness of its hands may be no\ncoincidence—many scientists believe its palms\nbecame enlarged specifically for pantomiming.",
         "info": {
             "national_pokedex": "0122",
@@ -4690,7 +5068,10 @@
             "pack": "Mewtwo"
         },
         "id": "127",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Its strange cries sound like human language.\nThere are some musicians who compose songs\nfor Jynx to sing.",
         "info": {
             "national_pokedex": "0124",
@@ -4729,7 +5110,10 @@
             "pack": "Mewtwo"
         },
         "id": "128",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It was created by a scientist after years of horrific\ngene-splicing and DNA-engineering experiments.",
         "info": {
             "national_pokedex": "0150",
@@ -4777,7 +5161,10 @@
             "pack": "Mewtwo"
         },
         "id": "129",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_130_EN.webp",
@@ -4806,7 +5193,10 @@
             "pack": "Mewtwo"
         },
         "id": "130",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "The horns on its head provide a strong power\nthat enables it to sense people’s emotions.",
         "info": {
             "national_pokedex": "0280",
@@ -4843,7 +5233,10 @@
             "pack": "Mewtwo"
         },
         "id": "131",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It has a psychic power that enables it to distort\nthe space around it and see into the future.",
         "info": {
             "national_pokedex": "0281",
@@ -4885,7 +5278,10 @@
             "pack": "Mewtwo"
         },
         "id": "132",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "To protect its Trainer, it will expend all its psychic\npower to create a small black hole.",
         "info": {
             "national_pokedex": "0282",
@@ -4921,7 +5317,10 @@
             "pack": ""
         },
         "id": "133",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "While inside a cave, if you look up and see lots\nof heart-shaped marks lining the walls, it’s\nevidence that Woobat live there.",
         "info": {
             "national_pokedex": "0527",
@@ -4958,7 +5357,10 @@
             "pack": ""
         },
         "id": "134",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Emitting powerful sound waves tires it out.\nAfterward, it won’t be able to fly for a\nlittle while.",
         "info": {
             "national_pokedex": "0528",
@@ -4996,7 +5398,10 @@
             "pack": ""
         },
         "id": "135",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "They were sculpted from clay in ancient times.\nNo one knows why, but some of them are driven\nto continually line up boulders.",
         "info": {
             "national_pokedex": "0622",
@@ -5035,7 +5440,10 @@
             "pack": ""
         },
         "id": "136",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Artillery platforms built into the walls of ancient\ncastles served as perches from which Golurk\ncould fire energy beams.",
         "info": {
             "national_pokedex": "0623",
@@ -5071,7 +5479,10 @@
             "pack": ""
         },
         "id": "137",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It loves to bathe in the grit of dry, sandy areas.\nBy sand bathing, the Pokémon rids itself of dirt\nand moisture clinging to its body.",
         "info": {
             "national_pokedex": "0027",
@@ -5108,7 +5519,10 @@
             "pack": ""
         },
         "id": "138",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "The drier the area Sandslash lives in, the harder\nand smoother the Pokémon’s spikes will feel\nwhen touched.",
         "info": {
             "national_pokedex": "0028",
@@ -5144,7 +5558,10 @@
             "pack": "Pikachu"
         },
         "id": "139",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It lives about one yard underground, where it\nfeeds on plant roots. It sometimes appears\naboveground.",
         "info": {
             "national_pokedex": "0050",
@@ -5180,7 +5597,10 @@
             "pack": "Pikachu"
         },
         "id": "140",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Its three heads bob separately up and down to\nloosen the soil nearby, making it easier for it\nto burrow.",
         "info": {
             "national_pokedex": "0051",
@@ -5216,7 +5636,10 @@
             "pack": "Charizard"
         },
         "id": "141",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It lives in groups in the treetops. If it loses sight of\nits group, it becomes infuriated by its loneliness.",
         "info": {
             "national_pokedex": "0056",
@@ -5253,7 +5676,10 @@
             "pack": "Charizard"
         },
         "id": "142",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It becomes wildly furious if it even senses\nsomeone looking at it. It chases anyone\nthat meets its glare.",
         "info": {
             "national_pokedex": "0057",
@@ -5289,7 +5715,10 @@
             "pack": "Charizard"
         },
         "id": "143",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Its whole body is composed of muscles.\nEven though it’s the size of a human child, it can\nhurl 100 grown-ups.",
         "info": {
             "national_pokedex": "0066",
@@ -5326,7 +5755,10 @@
             "pack": "Charizard"
         },
         "id": "144",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Its muscular body is so powerful, it must wear a\npower-save belt to be able to regulate\nits motions.",
         "info": {
             "national_pokedex": "0067",
@@ -5364,7 +5796,10 @@
             "pack": "Charizard"
         },
         "id": "145",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It quickly swings its four arms to rock its\nopponents with ceaseless punches and chops\nfrom all angles.",
         "info": {
             "national_pokedex": "0068",
@@ -5402,7 +5837,10 @@
             "pack": "Charizard"
         },
         "id": "146",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_147_EN.webp",
@@ -5431,7 +5869,10 @@
             "pack": "Pikachu"
         },
         "id": "147",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Geodude that have lived a long life have had all\ntheir edges smoothed out until they’re totally\nround. They also have a calm, quiet disposition.",
         "info": {
             "national_pokedex": "0074",
@@ -5469,7 +5910,10 @@
             "pack": "Pikachu"
         },
         "id": "148",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It climbs up cliffs as it heads toward the peak\nof a mountain. As soon as it reaches the summit,\nit rolls back down the way it came.",
         "info": {
             "national_pokedex": "0075",
@@ -5508,7 +5952,10 @@
             "pack": "Pikachu"
         },
         "id": "149",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "When Golem grow old, they stop shedding their\nshells. Those that have lived a long, long time\nhave shells green with moss.",
         "info": {
             "national_pokedex": "0076",
@@ -5546,7 +5993,10 @@
             "pack": "Pikachu"
         },
         "id": "150",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "As it digs through the ground, it absorbs many\nhard objects. This is what makes its body so solid.",
         "info": {
             "national_pokedex": "0095",
@@ -5582,7 +6032,10 @@
             "pack": "Mewtwo"
         },
         "id": "151",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "When the memory of its departed mother brings\nit to tears, its cries echo mournfully within the\nskull it wears on its head.",
         "info": {
             "national_pokedex": "0104",
@@ -5618,7 +6071,10 @@
             "pack": "Mewtwo"
         },
         "id": "152",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "This Pokémon overcame its sorrow to evolve a\nsturdy new body. Marowak faces its opponents\nbravely, using a bone as a weapon.",
         "info": {
             "national_pokedex": "0105",
@@ -5655,7 +6111,10 @@
             "pack": "Mewtwo"
         },
         "id": "153",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_154_EN.webp",
@@ -5684,7 +6143,10 @@
             "pack": "Mewtwo"
         },
         "id": "154",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "This amazing Pokémon has an awesome sense of\nbalance. It can kick in succession from any position.",
         "info": {
             "national_pokedex": "0106",
@@ -5720,7 +6182,10 @@
             "pack": "Charizard"
         },
         "id": "155",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Its punches slice the air. They are launched at\nsuch high speed, even a slight graze could cause\na burn.",
         "info": {
             "national_pokedex": "0107",
@@ -5758,7 +6223,10 @@
             "pack": "Mewtwo"
         },
         "id": "156",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Strong, but not too bright, this Pokémon can\nshatter even a skyscraper with its charging tackles.",
         "info": {
             "national_pokedex": "0111",
@@ -5797,7 +6265,10 @@
             "pack": "Mewtwo"
         },
         "id": "157",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It begins walking on its hind legs after evolution.\nIt can punch holes through boulders with its horn.",
         "info": {
             "national_pokedex": "0112",
@@ -5833,7 +6304,10 @@
             "pack": "Charizard"
         },
         "id": "158",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "This species is almost entirely extinct. Kabuto\nmolt every three days, making their shells harder\nand harder.",
         "info": {
             "national_pokedex": "0140",
@@ -5869,7 +6343,10 @@
             "pack": "Charizard"
         },
         "id": "159",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "Kabutops slices its prey apart and sucks out\nthe fluids. The discarded body parts become\nfood for other Pokémon.",
         "info": {
             "national_pokedex": "0141",
@@ -5905,7 +6382,10 @@
             "pack": "Pikachu"
         },
         "id": "160",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "In one minute, a well-trained Mienfoo can chop\nwith its arms more than 100 times.",
         "info": {
             "national_pokedex": "0619",
@@ -5941,7 +6421,10 @@
             "pack": "Pikachu"
         },
         "id": "161",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "When Mienshao comes across a truly challenging\nopponent, it will lighten itself by biting off the\nfur on its arms.",
         "info": {
             "national_pokedex": "0620",
@@ -5978,7 +6461,10 @@
             "pack": ""
         },
         "id": "162",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It’s very curious, but its means of investigating\nthings is to try to punch them with its tentacles.\nThe search for food is what brings it onto land.",
         "info": {
             "national_pokedex": "0852",
@@ -6016,7 +6502,10 @@
             "pack": ""
         },
         "id": "163",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "A body made up of nothing but muscle makes\nthe grappling moves this Pokémon performs with\nits tentacles tremendously powerful.",
         "info": {
             "national_pokedex": "0853",
@@ -6052,7 +6541,10 @@
             "pack": ""
         },
         "id": "164",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "By dislocating its jaw, it can swallow prey larger\nthan itself. After a meal, it curls up and rests.",
         "info": {
             "national_pokedex": "0023",
@@ -6089,7 +6581,10 @@
             "pack": ""
         },
         "id": "165",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "The latest research has determined that there\nare over 20 possible arrangements of the\npatterns on its stomach.",
         "info": {
             "national_pokedex": "0024",
@@ -6125,7 +6620,10 @@
             "pack": "Pikachu"
         },
         "id": "166",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Females are more sensitive to smells than males.\nWhile foraging, they’ll use their whiskers to check\nwind direction and stay downwind of predators.",
         "info": {
             "national_pokedex": "0029",
@@ -6161,7 +6659,10 @@
             "pack": "Pikachu"
         },
         "id": "167",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "The horn on its head has atrophied. It’s thought\nthat this happens so Nidorina’s children won’t get\npoked while their mother is feeding them.",
         "info": {
             "national_pokedex": "0030",
@@ -6199,7 +6700,10 @@
             "pack": "Pikachu"
         },
         "id": "168",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "Nidoqueen is better at defense than offense.\nWith scales like armor, this Pokémon will shield\nits children from any kind of attack.",
         "info": {
             "national_pokedex": "0031",
@@ -6235,7 +6739,10 @@
             "pack": "Pikachu"
         },
         "id": "169",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "The horn on a male Nidoran’s forehead contains\na powerful poison. This is a very cautious\nPokémon, always straining its large ears.",
         "info": {
             "national_pokedex": "0032",
@@ -6272,7 +6779,10 @@
             "pack": "Pikachu"
         },
         "id": "170",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "With a horn that’s harder than diamond, this\nPokémon goes around shattering boulders as it\nsearches for a moon stone.",
         "info": {
             "national_pokedex": "0033",
@@ -6310,7 +6820,10 @@
             "pack": "Pikachu"
         },
         "id": "171",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "When it goes on a rampage, it’s impossible to\ncontrol. But in the presence of a Nidoqueen it’s\nlived with for a long time, Nidoking calms down.",
         "info": {
             "national_pokedex": "0034",
@@ -6346,7 +6859,10 @@
             "pack": "Mewtwo"
         },
         "id": "172",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It emits ultrasonic waves from its mouth to check\nits surroundings. Even in tight caves, Zubat flies\naround with skill.",
         "info": {
             "national_pokedex": "0041",
@@ -6382,7 +6898,10 @@
             "pack": "Mewtwo"
         },
         "id": "173",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "It loves to drink other creatures’ blood. It’s said\nthat if it finds others of its kind going hungry,\nit sometimes shares the blood it’s gathered.",
         "info": {
             "national_pokedex": "0042",
@@ -6418,7 +6937,10 @@
             "pack": "Mewtwo"
         },
         "id": "174",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Born from sludge, these Pokémon now gather\nin polluted places and increase the bacteria in\ntheir bodies.",
         "info": {
             "national_pokedex": "0088",
@@ -6456,7 +6978,10 @@
             "pack": "Mewtwo"
         },
         "id": "175",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It’s thickly covered with a filthy, vile\nsludge. It is so toxic, even its footprints\ncontain poison.",
         "info": {
             "national_pokedex": "0089",
@@ -6492,7 +7017,10 @@
             "pack": "Mewtwo"
         },
         "id": "176",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Its body is full of poisonous gas. It floats into\ngarbage dumps, seeking out the fumes of raw,\nrotting trash.",
         "info": {
             "national_pokedex": "0109",
@@ -6532,7 +7060,10 @@
             "pack": "Mewtwo"
         },
         "id": "177",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "If one of the twin Koffing inflates, the other one\ndeflates. It constantly mixes its poisonous gases.",
         "info": {
             "national_pokedex": "0110",
@@ -6568,7 +7099,10 @@
             "pack": "Charizard"
         },
         "id": "178",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It uses its docile-looking face to lull foes into\ncomplacency, then bites with its huge,\nrelentless jaws.",
         "info": {
             "national_pokedex": "0303",
@@ -6604,7 +7138,10 @@
             "pack": ""
         },
         "id": "179",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Pawniard will fearlessly challenge even powerful\nfoes. In a pinch, it will cling to opponents and\npierce them with the blades all over its body.",
         "info": {
             "national_pokedex": "0624",
@@ -6641,7 +7178,10 @@
             "pack": ""
         },
         "id": "180",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "This Pokémon commands a group of several\nPawniard. Groups that are defeated in territorial\ndisputes are absorbed by the winning side.",
         "info": {
             "national_pokedex": "0625",
@@ -6677,7 +7217,10 @@
             "pack": "Charizard"
         },
         "id": "181",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It dissolves and eats metal. Circulating liquid\nmetal within its body is how it generates energy.",
         "info": {
             "national_pokedex": "0808",
@@ -6720,7 +7263,10 @@
             "pack": "Charizard"
         },
         "id": "182",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "At the end of its life-span, Melmetal will rust and\nfall apart. The small shards left behind will\neventually be reborn as Meltan.",
         "info": {
             "national_pokedex": "0809",
@@ -6757,7 +7303,10 @@
             "pack": "Mewtwo"
         },
         "id": "183",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It sheds many layers of skin as it grows larger.\nDuring this process, it is protected by a rapid\nwaterfall.",
         "info": {
             "national_pokedex": "0147",
@@ -6795,7 +7344,10 @@
             "pack": "Mewtwo"
         },
         "id": "184",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "They say that if it emits an aura from its whole\nbody, the weather will begin to change instantly.",
         "info": {
             "national_pokedex": "0148",
@@ -6834,7 +7386,10 @@
             "pack": "Mewtwo"
         },
         "id": "185",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It is said that somewhere in the ocean lies an\nisland where these gather. Only they live there.",
         "info": {
             "national_pokedex": "0149",
@@ -6870,7 +7425,10 @@
             "pack": "Mewtwo"
         },
         "id": "186",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "A common sight in forests and woods. It flaps\nits wings at ground level to kick up blinding sand.",
         "info": {
             "national_pokedex": "0016",
@@ -6906,7 +7464,10 @@
             "pack": "Mewtwo"
         },
         "id": "187",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "The claws on its feet are well developed.\nIt can carry prey such as an Exeggcute\nto its nest over 60 miles away.",
         "info": {
             "national_pokedex": "0017",
@@ -6947,7 +7508,10 @@
             "pack": "Mewtwo"
         },
         "id": "188",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "When hunting, it skims the surface of water\nat high speed to pick off unwary prey such\nas Magikarp.",
         "info": {
             "national_pokedex": "0018",
@@ -6983,7 +7547,10 @@
             "pack": ""
         },
         "id": "189",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Its incisors grow continuously throughout its life.\nIf its incisors get too long, this Pokémon\nbecomes unable to eat, and it starves to death.",
         "info": {
             "national_pokedex": "0019",
@@ -7019,7 +7586,10 @@
             "pack": ""
         },
         "id": "190",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "People say that it fled from its enemies by\nusing its small webbed hind feet to swim\nfrom island to island in Alola.",
         "info": {
             "national_pokedex": "0020",
@@ -7055,7 +7625,10 @@
             "pack": "Charizard"
         },
         "id": "191",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Its reckless nature leads it to stand up to\nothers—even large Pokémon—if it has to protect\nits territory.",
         "info": {
             "national_pokedex": "0021",
@@ -7092,7 +7665,10 @@
             "pack": "Charizard"
         },
         "id": "192",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Carrying food through Fearow’s territory is\ndangerous. It will snatch the food away from\nyou in a flash!",
         "info": {
             "national_pokedex": "0022",
@@ -7129,7 +7705,10 @@
             "pack": "Pikachu"
         },
         "id": "193",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "When its huge eyes waver, it sings a mysteriously\nsoothing melody that lulls its enemies to sleep.",
         "info": {
             "national_pokedex": "0039",
@@ -7166,7 +7745,10 @@
             "pack": "Pikachu"
         },
         "id": "194",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "It has a very fine fur. Take care not to make it\nangry, or it may inflate steadily and hit with a\nbody slam.",
         "info": {
             "national_pokedex": "0040",
@@ -7204,7 +7786,10 @@
             "pack": "Pikachu"
         },
         "id": "195",
-        "rarity": "◊◊◊◊"
+        "rarity": {
+            "symbol": "◊◊◊◊",
+            "text": "Double Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_196_EN.webp",
@@ -7233,7 +7818,10 @@
             "pack": "Charizard"
         },
         "id": "196",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "All it does is sleep during the daytime. At night,\nit patrols its territory with its eyes aglow.",
         "info": {
             "national_pokedex": "0052",
@@ -7270,7 +7858,10 @@
             "pack": "Charizard"
         },
         "id": "197",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Although its fur has many admirers, it is tough to\nraise as a pet because of its fickle meanness.",
         "info": {
             "national_pokedex": "0053",
@@ -7306,7 +7897,10 @@
             "pack": ""
         },
         "id": "198",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "The stalk this Pokémon carries in its wings serves\nas a sword to cut down opponents. In a dire\nsituation, the stalk can also serve as food.",
         "info": {
             "national_pokedex": "0083",
@@ -7342,7 +7936,10 @@
             "pack": ""
         },
         "id": "199",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "A two-headed Pokémon that was discovered as a \nsudden mutation. It runs at a pace of over 60 miles\nper hour.",
         "info": {
             "national_pokedex": "0084",
@@ -7378,7 +7975,10 @@
             "pack": ""
         },
         "id": "200",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "An enemy that takes its eyes off any of the\nthree heads—even for a second—will get\npecked severely.",
         "info": {
             "national_pokedex": "0085",
@@ -7416,7 +8016,10 @@
             "pack": "Mewtwo"
         },
         "id": "201",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "If this Pokémon’s sticky saliva gets on you and\nyou don’t clean it off, an intense itch will set in.\nThe itch won’t go away, either.",
         "info": {
             "national_pokedex": "0108",
@@ -7454,7 +8057,10 @@
             "pack": "Pikachu"
         },
         "id": "202",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "This kindly Pokémon lays highly nutritious eggs\nand shares them with injured Pokémon or people.",
         "info": {
             "national_pokedex": "0113",
@@ -7490,7 +8096,10 @@
             "pack": "Charizard"
         },
         "id": "203",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "Although it’s carrying its baby in a pouch on\nits belly, Kangaskhan is swift on its feet. It\nintimidates its opponents with quick jabs.",
         "info": {
             "national_pokedex": "0115",
@@ -7527,7 +8136,10 @@
             "pack": "Charizard"
         },
         "id": "204",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "When Tauros begins whipping itself with its tails,\nit’s a warning that the Pokémon is about to\ncharge with astounding speed.",
         "info": {
             "national_pokedex": "0128",
@@ -7563,7 +8175,10 @@
             "pack": "Mewtwo"
         },
         "id": "205",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "Its transformation ability is perfect. However,\nif made to laugh, it can’t maintain its disguise.",
         "info": {
             "national_pokedex": "0132",
@@ -7599,7 +8214,10 @@
             "pack": "Charizard"
         },
         "id": "206",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment.",
         "info": {
             "national_pokedex": "0133",
@@ -7635,7 +8253,10 @@
             "pack": "Mewtwo"
         },
         "id": "207",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment.",
         "info": {
             "national_pokedex": "0133",
@@ -7671,7 +8292,10 @@
             "pack": "Pikachu"
         },
         "id": "208",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment.",
         "info": {
             "national_pokedex": "0133",
@@ -7711,7 +8335,10 @@
             "pack": "Mewtwo"
         },
         "id": "209",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "State-of-the-art technology was used to create\nPorygon. It was the first artificial Pokémon to be\ncreated via computer programming.",
         "info": {
             "national_pokedex": "0137",
@@ -7748,7 +8375,10 @@
             "pack": "Mewtwo"
         },
         "id": "210",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "This is a ferocious Pokémon from ancient times.\nApparently even modern technology is incapable\nof producing a perfectly restored specimen.",
         "info": {
             "national_pokedex": "0142",
@@ -7787,7 +8417,10 @@
             "pack": "Pikachu"
         },
         "id": "211",
-        "rarity": "◊◊◊",
+        "rarity": {
+            "symbol": "◊◊◊",
+            "text": "Rare"
+        },
         "description": "It is not satisfied unless it eats over 880 pounds\nof food every day. When it is done eating, it\ngoes promptly to sleep.",
         "info": {
             "national_pokedex": "0143",
@@ -7823,7 +8456,10 @@
             "pack": ""
         },
         "id": "212",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "The way it brushes away grime with its tail\ncan be helpful when cleaning. But its focus on\nspotlessness can make cleaning more of a hassle.",
         "info": {
             "national_pokedex": "0572",
@@ -7861,7 +8497,10 @@
             "pack": ""
         },
         "id": "213",
-        "rarity": "◊◊",
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        },
         "description": "Its body secretes oil that this Pokémon spreads\nover its nest as a coating to protect it from dust.\nCinccino won’t tolerate even a speck of the stuff.",
         "info": {
             "national_pokedex": "0573",
@@ -7898,7 +8537,10 @@
             "pack": ""
         },
         "id": "214",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Its curly fleece is such an effective cushion that\nthis Pokémon could fall off a cliff and stand right\nback up at the bottom, unharmed.",
         "info": {
             "national_pokedex": "0831",
@@ -7936,7 +8578,10 @@
             "pack": ""
         },
         "id": "215",
-        "rarity": "◊",
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        },
         "description": "Weave a carpet from its springy wool, and you end\nup with something closer to a trampoline. You’ll\nstart to bounce the moment you set foot on it.",
         "info": {
             "national_pokedex": "0832",
@@ -7958,7 +8603,10 @@
             "pack": "Pikachu"
         },
         "id": "216",
-        "rarity": "◊"
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_217_EN.webp",
@@ -7973,7 +8621,10 @@
             "pack": "Charizard"
         },
         "id": "217",
-        "rarity": "◊"
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_218_EN.webp",
@@ -7988,7 +8639,10 @@
             "pack": "Mewtwo"
         },
         "id": "218",
-        "rarity": "◊"
+        "rarity": {
+            "symbol": "◊",
+            "text": "Common"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_219_EN.webp",
@@ -8003,7 +8657,10 @@
             "pack": "Charizard"
         },
         "id": "219",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_220_EN.webp",
@@ -8018,7 +8675,10 @@
             "pack": "Pikachu"
         },
         "id": "220",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_221_EN.webp",
@@ -8033,7 +8693,10 @@
             "pack": "Charizard"
         },
         "id": "221",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_222_EN.webp",
@@ -8048,7 +8711,10 @@
             "pack": "Mewtwo"
         },
         "id": "222",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_223_EN.webp",
@@ -8063,7 +8729,10 @@
             "pack": "Mewtwo"
         },
         "id": "223",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_224_EN.webp",
@@ -8078,7 +8747,10 @@
             "pack": "Pikachu"
         },
         "id": "224",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_225_EN.webp",
@@ -8093,7 +8765,10 @@
             "pack": "Charizard"
         },
         "id": "225",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_226_EN.webp",
@@ -8108,7 +8783,10 @@
             "pack": "Pikachu"
         },
         "id": "226",
-        "rarity": "◊◊"
+        "rarity": {
+            "symbol": "◊◊",
+            "text": "Uncommon"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_227_EN.webp",
@@ -8138,7 +8816,10 @@
             "pack": "Mewtwo"
         },
         "id": "227",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "There is a plant seed on its back right from the\nday this Pokémon is born. The seed slowly\ngrows larger.",
         "info": {
             "national_pokedex": "0001",
@@ -8175,7 +8856,10 @@
             "pack": "Charizard"
         },
         "id": "228",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "Its pistils exude an incredibly foul odor.\nThe horrid stench can cause fainting at a distance\nof 1.25 miles.",
         "info": {
             "national_pokedex": "0044",
@@ -8212,7 +8896,10 @@
             "pack": "Charizard"
         },
         "id": "229",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "These Pokémon judge one another based on\npincers. Thicker, more impressive pincers make\nfor more popularity with the opposite gender.",
         "info": {
             "national_pokedex": "0127",
@@ -8248,7 +8935,10 @@
             "pack": "Charizard"
         },
         "id": "230",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "It has a preference for hot things. When it rains,\nsteam is said to spout from the tip of its tail.",
         "info": {
             "national_pokedex": "0004",
@@ -8284,7 +8974,10 @@
             "pack": "Charizard"
         },
         "id": "231",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "This Pokémon can be seen galloping through\nfields at speeds of up to 150 mph, its fiery mane\nfluttering in the wind.",
         "info": {
             "national_pokedex": "0078",
@@ -8320,7 +9013,10 @@
             "pack": "Pikachu"
         },
         "id": "232",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "When it retracts its long neck into its shell, it\nsquirts out water with vigorous force.",
         "info": {
             "national_pokedex": "0007",
@@ -8359,7 +9055,10 @@
             "pack": "Pikachu"
         },
         "id": "233",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "Once it appears, it goes on a rampage.\nIt remains enraged until it demolishes\neverything around it.",
         "info": {
             "national_pokedex": "0130",
@@ -8395,7 +9094,10 @@
             "pack": "Charizard"
         },
         "id": "234",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "A smart and kindhearted Pokémon,\nit glides across the surface of the sea while\nits beautiful song echoes around it.",
         "info": {
             "national_pokedex": "0131",
@@ -8432,7 +9134,10 @@
             "pack": "Pikachu"
         },
         "id": "235",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "The more energy it charges up, the faster\nit gets. But this also makes it more likely\nto explode.",
         "info": {
             "national_pokedex": "0101",
@@ -8470,7 +9175,10 @@
             "pack": "Charizard"
         },
         "id": "236",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "It has an incredibly high level of intelligence.\nSome say that Alakazam remembers everything\nthat ever happens to it, from birth till death.",
         "info": {
             "national_pokedex": "0065",
@@ -8507,7 +9215,10 @@
             "pack": "Charizard"
         },
         "id": "237",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "It is incredibly slow and dopey. It takes five\nseconds for it to feel pain when under attack.",
         "info": {
             "national_pokedex": "0079",
@@ -8543,7 +9254,10 @@
             "pack": "Pikachu"
         },
         "id": "238",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "It lives about one yard underground, where it\nfeeds on plant roots. It sometimes appears\naboveground.",
         "info": {
             "national_pokedex": "0050",
@@ -8579,7 +9293,10 @@
             "pack": "Mewtwo"
         },
         "id": "239",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "When the memory of its departed mother brings\nit to tears, its cries echo mournfully within the\nskull it wears on its head.",
         "info": {
             "national_pokedex": "0104",
@@ -8617,7 +9334,10 @@
             "pack": "Pikachu"
         },
         "id": "240",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "Nidoqueen is better at defense than offense.\nWith scales like armor, this Pokémon will shield\nits children from any kind of attack.",
         "info": {
             "national_pokedex": "0031",
@@ -8655,7 +9375,10 @@
             "pack": "Pikachu"
         },
         "id": "241",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "When it goes on a rampage, it’s impossible to\ncontrol. But in the presence of a Nidoqueen it’s\nlived with for a long time, Nidoking calms down.",
         "info": {
             "national_pokedex": "0034",
@@ -8691,7 +9414,10 @@
             "pack": "Mewtwo"
         },
         "id": "242",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "It loves to drink other creatures’ blood. It’s said\nthat if it finds others of its kind going hungry,\nit sometimes shares the blood it’s gathered.",
         "info": {
             "national_pokedex": "0042",
@@ -8731,7 +9457,10 @@
             "pack": "Mewtwo"
         },
         "id": "243",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "If one of the twin Koffing inflates, the other one\ndeflates. It constantly mixes its poisonous gases.",
         "info": {
             "national_pokedex": "0110",
@@ -8770,7 +9499,10 @@
             "pack": "Mewtwo"
         },
         "id": "244",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "It is said that somewhere in the ocean lies an\nisland where these gather. Only they live there.",
         "info": {
             "national_pokedex": "0149",
@@ -8811,7 +9543,10 @@
             "pack": "Mewtwo"
         },
         "id": "245",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "When hunting, it skims the surface of water\nat high speed to pick off unwary prey such\nas Magikarp.",
         "info": {
             "national_pokedex": "0018",
@@ -8847,7 +9582,10 @@
             "pack": "Charizard"
         },
         "id": "246",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "All it does is sleep during the daytime. At night,\nit patrols its territory with its eyes aglow.",
         "info": {
             "national_pokedex": "0052",
@@ -8883,7 +9621,10 @@
             "pack": "Mewtwo"
         },
         "id": "247",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "Its transformation ability is perfect. However,\nif made to laugh, it can’t maintain its disguise.",
         "info": {
             "national_pokedex": "0132",
@@ -8919,7 +9660,10 @@
             "pack": "Pikachu"
         },
         "id": "248",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment.",
         "info": {
             "national_pokedex": "0133",
@@ -8959,7 +9703,10 @@
             "pack": "Mewtwo"
         },
         "id": "249",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "State-of-the-art technology was used to create\nPorygon. It was the first artificial Pokémon to be\ncreated via computer programming.",
         "info": {
             "national_pokedex": "0137",
@@ -8998,7 +9745,10 @@
             "pack": "Pikachu"
         },
         "id": "250",
-        "rarity": "☆",
+        "rarity": {
+            "symbol": "☆",
+            "text": "Art Rare"
+        },
         "description": "It is not satisfied unless it eats over 880 pounds\nof food every day. When it is done eating, it\ngoes promptly to sleep.",
         "info": {
             "national_pokedex": "0143",
@@ -9046,7 +9796,10 @@
             "pack": "Mewtwo"
         },
         "id": "251",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_252_EN.webp",
@@ -9075,7 +9828,10 @@
             "pack": "Charizard"
         },
         "id": "252",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_253_EN.webp",
@@ -9117,7 +9873,10 @@
             "pack": "Charizard"
         },
         "id": "253",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_254_EN.webp",
@@ -9148,7 +9907,10 @@
             "pack": "Pikachu"
         },
         "id": "254",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_255_EN.webp",
@@ -9187,7 +9949,10 @@
             "pack": "Charizard"
         },
         "id": "255",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_256_EN.webp",
@@ -9227,7 +9992,10 @@
             "pack": "Pikachu"
         },
         "id": "256",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_257_EN.webp",
@@ -9257,7 +10025,10 @@
             "pack": "Charizard"
         },
         "id": "257",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_258_EN.webp",
@@ -9297,7 +10068,10 @@
             "pack": "Mewtwo"
         },
         "id": "258",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_259_EN.webp",
@@ -9327,7 +10101,10 @@
             "pack": "Pikachu"
         },
         "id": "259",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_260_EN.webp",
@@ -9366,7 +10143,10 @@
             "pack": "Pikachu"
         },
         "id": "260",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_261_EN.webp",
@@ -9401,7 +10181,10 @@
             "pack": "Mewtwo"
         },
         "id": "261",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_262_EN.webp",
@@ -9442,7 +10225,10 @@
             "pack": "Mewtwo"
         },
         "id": "262",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_263_EN.webp",
@@ -9473,7 +10259,10 @@
             "pack": "Charizard"
         },
         "id": "263",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_264_EN.webp",
@@ -9503,7 +10292,10 @@
             "pack": "Mewtwo"
         },
         "id": "264",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_265_EN.webp",
@@ -9534,7 +10326,10 @@
             "pack": "Pikachu"
         },
         "id": "265",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_266_EN.webp",
@@ -9549,7 +10344,10 @@
             "pack": "Charizard"
         },
         "id": "266",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_267_EN.webp",
@@ -9564,7 +10362,10 @@
             "pack": "Pikachu"
         },
         "id": "267",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_268_EN.webp",
@@ -9579,7 +10380,10 @@
             "pack": "Charizard"
         },
         "id": "268",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_269_EN.webp",
@@ -9594,7 +10398,10 @@
             "pack": "Mewtwo"
         },
         "id": "269",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_270_EN.webp",
@@ -9609,7 +10416,10 @@
             "pack": "Mewtwo"
         },
         "id": "270",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_271_EN.webp",
@@ -9624,7 +10434,10 @@
             "pack": "Pikachu"
         },
         "id": "271",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_272_EN.webp",
@@ -9639,7 +10452,10 @@
             "pack": "Charizard"
         },
         "id": "272",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_273_EN.webp",
@@ -9654,7 +10470,10 @@
             "pack": "Pikachu"
         },
         "id": "273",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Super Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_274_EN.webp",
@@ -9693,7 +10512,10 @@
             "pack": "Charizard"
         },
         "id": "274",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Special Art Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_275_EN.webp",
@@ -9733,7 +10555,10 @@
             "pack": "Mewtwo"
         },
         "id": "275",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Special Art Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_276_EN.webp",
@@ -9772,7 +10597,10 @@
             "pack": "Pikachu"
         },
         "id": "276",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Special Art Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_277_EN.webp",
@@ -9807,7 +10635,10 @@
             "pack": "Mewtwo"
         },
         "id": "277",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Special Art Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_278_EN.webp",
@@ -9838,7 +10669,10 @@
             "pack": "Charizard"
         },
         "id": "278",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Special Art Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_279_EN.webp",
@@ -9869,7 +10703,10 @@
             "pack": "Pikachu"
         },
         "id": "279",
-        "rarity": "☆☆"
+        "rarity": {
+            "symbol": "☆☆",
+            "text": "Special Art Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_280_EN.webp",
@@ -9911,7 +10748,10 @@
             "pack": "Charizard"
         },
         "id": "280",
-        "rarity": "☆☆☆"
+        "rarity": {
+            "symbol": "☆☆☆",
+            "text": "Immersive Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_281_EN.webp",
@@ -9941,7 +10781,10 @@
             "pack": "Pikachu"
         },
         "id": "281",
-        "rarity": "☆☆☆"
+        "rarity": {
+            "symbol": "☆☆☆",
+            "text": "Immersive Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_282_EN.webp",
@@ -9982,7 +10825,10 @@
             "pack": "Mewtwo"
         },
         "id": "282",
-        "rarity": "☆☆☆"
+        "rarity": {
+            "symbol": "☆☆☆",
+            "text": "Immersive Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_283_EN.webp",
@@ -10011,7 +10857,10 @@
             "pack": ""
         },
         "id": "283",
-        "rarity": "☆☆☆",
+        "rarity": {
+            "symbol": "☆☆☆",
+            "text": "Immersive Rare"
+        },
         "description": "Because it can use all kinds of moves, many\nscientists believe Mew to be the ancestor\nof Pokémon.",
         "info": {
             "national_pokedex": "0151",
@@ -10060,7 +10909,10 @@
             "pack": ""
         },
         "id": "284",
-        "rarity": "Crown Rare"
+        "rarity": {
+            "symbol": "♔",
+            "text": "Crown Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_285_EN.webp",
@@ -10090,7 +10942,10 @@
             "pack": ""
         },
         "id": "285",
-        "rarity": "Crown Rare"
+        "rarity": {
+            "symbol": "♔",
+            "text": "Crown Rare"
+        }
     },
     {
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_286_EN.webp",
@@ -10131,6 +10986,9 @@
             "pack": ""
         },
         "id": "286",
-        "rarity": "Crown Rare"
+        "rarity": {
+            "symbol": "♔",
+            "text": "Crown Rare"
+        }
     }
 ]
