@@ -179,4 +179,5 @@ def translate_energy_symbols(symbols):
 # A3: 239
 # A3a: 103
 # A3b: 107
-scrape_set("A3b", init_card=1, max_cards=107)
+# A4: 241
+scrape_set("A4", init_card=1, max_cards=241)
