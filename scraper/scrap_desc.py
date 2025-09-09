@@ -260,34 +260,36 @@ def scrape_pokemon_details(set, pokemon_id, name, session=None):
     return result
 
 
-#set_code = "P-A"
-#set_name= "Promo-A"
+def enrich_descriptions(input_path, output_path, set_code, set_name):
+    with open(input_path, "r", encoding="utf-8") as file:
+        card_list = json.load(file)
 
-set_code = "A4"
-set_name = "a4"
+    session = _create_session()
+    _warm_up_session(session, set_name)
 
-with open(f"../backend/data/{set_code}_cards.json", "r", encoding="utf-8") as file:
-    card_list = json.load(file)
+    for card in card_list:
+        details = scrape_pokemon_details(set_name, card["id"], card["name"], session=session)
+        if details:
+            if isinstance(details, dict):
+                if details.get("ultra_beast"):
+                    card["ultra_beast"] = True
+                if details.get("rarity"):
+                    card["rarity"] = details["rarity"]
+                if details.get("description"):
+                    card["description"] = details["description"]
+        time.sleep(random.uniform(1.5, 3.0))
 
-session = _create_session()
-_warm_up_session(session, set_name)
-
-# Iterate through the JSON array and update with descriptions
-for card in card_list:
-    details = scrape_pokemon_details(set_name, card["id"], card["name"], session=session)
-    if details:
-        if isinstance(details, dict):
-            # Ultra Beast found - add both ultra_beast status and description
-            if details.get("ultra_beast"):
-                card["ultra_beast"] = True
-            if details.get("rarity"):
-                card["rarity"] = details["rarity"]
-            if details.get("description"):
-                card["description"] = details["description"]
-
-    # Polite delay with slight jitter to reduce risk of being blocked
-    time.sleep(random.uniform(1.5, 3.0))
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(card_list, f, indent=4, ensure_ascii=False)
 
 
-with open(f"../{set_code}_cards.json", "w", encoding="utf-8") as f:
-    json.dump(card_list, f, indent=4, ensure_ascii=False)
+if __name__ == "__main__":
+    import argparse
+    parser = argparse.ArgumentParser(description="Enrich cards with descriptions/rarity from pokemon-zone")
+    parser.add_argument("set_code", help="Set code, e.g., A4a")
+    parser.add_argument("set_name", help="Set name slug on pokemon-zone, e.g., a4a")
+    parser.add_argument("input", help="Input JSON file path (from step 1)")
+    parser.add_argument("output", help="Output JSON file path")
+    args = parser.parse_args()
+
+    enrich_descriptions(args.input, args.output, args.set_code, args.set_name)

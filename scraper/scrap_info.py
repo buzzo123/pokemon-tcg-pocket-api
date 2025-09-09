@@ -37,18 +37,24 @@ def scrape_pokemon_fandom(name):
         "weight": htwt[1].text.strip()
     }
 
-#set_code = "P-A"
-set_code = "A4"
+def enrich_infos(input_path, output_path):
+    with open(input_path, "r", encoding="utf-8") as file:
+        card_list = json.load(file)
 
-with open(f"../backend/data/{set_code}_cards.json", "r", encoding="utf-8") as file:
-    card_list = json.load(file)
+    for card in card_list:
+        infos = scrape_pokemon_fandom(card["name"])
+        if infos:
+            card["info"] = infos
 
-# Iterate through the JSON array and update with scraped data
-for card in card_list:
-    infos = scrape_pokemon_fandom(card["name"])
-    if infos:
-        card["info"] = infos
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(card_list, f, indent=4, ensure_ascii=False)
 
-# Save updated JSON back to file
-with open(f"{set_code}_cards.json", "w", encoding="utf-8") as f:
-    json.dump(card_list, f, indent=4, ensure_ascii=False)
+
+if __name__ == "__main__":
+    import argparse
+    parser = argparse.ArgumentParser(description="Enrich cards with fandom infos")
+    parser.add_argument("input", help="Input JSON file path (from step 2)")
+    parser.add_argument("output", help="Output JSON file path")
+    args = parser.parse_args()
+
+    enrich_infos(args.input, args.output)

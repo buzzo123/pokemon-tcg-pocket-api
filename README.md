@@ -5,7 +5,7 @@ This is an Express.js-based API that serves Pokémon Pocket card data from JSON 
 ## Features
 - Retrieve all Pokémon Pocket cards
 - Filter cards by type (Pokémon or Trainer)
-- Retrieve cards by set (A1, A1A, A2, A2a, A2b, A3, A3a, A3b, A4, P-A)
+- Retrieve cards by set (A1, A1A, A2, A2a, A2b, A3, A3a, A3b, A4, A4a, P-A)
 - Retrieve a specific card by its number
 
 ## Installation
@@ -23,6 +23,37 @@ This is an Express.js-based API that serves Pokémon Pocket card data from JSON 
    ```sh
    npm start
    ```
+
+### Scraping pipeline
+
+You can generate or refresh the JSON data using the Python scrapers provided in `scraper/`.
+
+- Run the full pipeline (recommended):
+```sh
+python scraper/run_pipeline.py <set_code> <set_slug> --init <start> --max <end>
+# Example:
+python scraper/run_pipeline.py A4a a4a --init 1 --max 105
+```
+- Outputs:
+  - Step 1: `backend/data/<set_code>_cards.json`
+  - Step 2: `backend/data/<set_code>_cards_desc.json`
+  - Final: `backend/data/<set_code>_cards_full.json` (also copied to `backend/data/<set_code>_cards.json`)
+
+- Run individual steps if needed:
+```sh
+# Step 1: Base list from limitlesstcg
+python scraper/1_scraper.py <set_code> <init_card> <max_cards> --output backend/data/<set_code>_cards.json
+
+# Step 2: Descriptions, rarity and flags from pokemon-zone
+python scraper/2_scrap_desc.py <set_code> <set_slug> backend/data/<set_code>_cards.json backend/data/<set_code>_cards_desc.json
+
+# Step 3: Species/height/weight from fandom
+python scraper/3_scrap_info.py backend/data/<set_code>_cards_desc.json backend/data/<set_code>_cards_full.json
+```
+
+Notes:
+- `set_code` is the short set code (e.g., `A4a`).
+- `set_slug` is the slug used on pokemon-zone (e.g., `a4a`).
 
 ## API Endpoints
 

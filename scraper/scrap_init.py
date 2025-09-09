@@ -138,7 +138,7 @@ def scrape_card(set_code, card_number):
     
     return card_data
 
-def scrape_set(set_code, init_card = 1, max_cards=100):
+def scrape_set(set_code, init_card = 1, max_cards=100, output_path=None):
     all_cards = []
     for card_number in range(init_card, max_cards + 1):
         card_data = scrape_card(set_code, card_number)
@@ -146,11 +146,14 @@ def scrape_set(set_code, init_card = 1, max_cards=100):
             break
         all_cards.append(card_data)
         time.sleep(1)  # To avoid getting blocked by the server
-    
-    with open(f"{set_code}_cards.json", "w", encoding="utf-8") as f:
+
+    if output_path is None:
+        output_path = f"{set_code}_cards.json"
+
+    with open(output_path, "w", encoding="utf-8") as f:
         json.dump(all_cards, f, indent=4, ensure_ascii=False)
-    
-    print(f"Scraped {len(all_cards)} cards from set {set_code}.")
+
+    print(f"Scraped {len(all_cards)} cards from set {set_code}. Wrote to {output_path}")
 
 
 def translate_energy_symbols(symbols):
@@ -170,14 +173,38 @@ def translate_energy_symbols(symbols):
 
 
 # Example usage
-# A1: 286
-# A2: 207
-# A1a: 86
-# P-A: 92 (14/07/2025)
-# A2a: 96
-# A2b: 111
-# A3: 239
-# A3a: 103
-# A3b: 107
-# A4: 241
-scrape_set("A4", init_card=1, max_cards=241)
+"""
+A1: 286
+A2: 207
+A1a: 86
+P-A: 108 (09/09/2025)
+A2a: 96
+A2b: 111
+A3: 239
+A3a: 103
+A3b: 107
+A4: 241
+A4a: 105
+"""
+
+if __name__ == "__main__":
+    import argparse
+    import os
+
+    parser = argparse.ArgumentParser(description="Scrape cards list for a set")
+    parser.add_argument("set_code", help="Set code, e.g., A4a")
+    parser.add_argument("init_card", type=int, nargs="?", default=1, help="Starting card number")
+    parser.add_argument("max_cards", type=int, nargs="?", default=100, help="Max card number to attempt")
+    parser.add_argument("--output", dest="output", default=None, help="Output JSON file path")
+
+    args = parser.parse_args()
+
+    output_path = args.output
+    if output_path is None:
+        # Default to writing under backend/data relative to this file
+        repo_root = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+        output_dir = os.path.join(repo_root, "backend", "data")
+        os.makedirs(output_dir, exist_ok=True)
+        output_path = os.path.join(output_dir, f"{args.set_code}_cards.json")
+
+    scrape_set(args.set_code, init_card=args.init_card, max_cards=args.max_cards, output_path=output_path)
